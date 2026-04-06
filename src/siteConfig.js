@@ -207,7 +207,7 @@ const siteConfig = {
       slug: "podgorica-airport",
       tag: "Capital Hub",
       desc: "Montenegro's main international airport, 65 km away.",
-      image: "/img/montenegro-driving.webp",
+      image: "/img/podgorica-airport.webp",
     },
     {
       name: "Tivat",

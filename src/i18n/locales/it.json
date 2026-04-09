@@ -1,6 +1,7 @@
 {
   "nav": {
     "book": "Prenota",
+    "blog": "Blog",
     "destinations": "Destinazioni",
     "about": "Chi Siamo"
   },
@@ -549,5 +550,451 @@
     "route3": "Budva → Shkodër (Albania): 2,5 ore via l'attraversamento costiero di Ulcinj",
     "route4": "Podgorica → Belgrado (Serbia): 5-6 ore via la E65 nord",
     "ctaText": "Avete bisogno di un'auto con documentazione transfrontaliera pronta? Cercate nella nostra flotta — selezionate semplicemente i paesi di destinazione alla prenotazione e organizzeremo la Carta Verde."
+  },
+
+  "blogIndex": {
+    "heroTitle": "Guide di viaggio alla Riviera di Budva",
+    "heroSubtitle": "Conoscenze locali, percorsi in auto e segreti costieri da persone che vivono davvero su questo tratto dell'Adriatico.",
+    "breadcrumbBlog": "Blog",
+    "readGuide": "Leggi la guida",
+    "card_oldtown_title": "Passeggiata nel centro storico di Budva: strati di pietra e mare",
+    "card_oldtown_excerpt": "Un percorso autonomo attraverso la fortezza peninsulare di 2.500 anni, dal portone principale alla terrazza della cittadella e ogni cortile nascosto.",
+    "card_stefan_title": "Punti panoramici di Sveti Stefan: dove fermarsi e ammirare",
+    "card_stefan_excerpt": "Quattro punti panoramici elevati lungo la strada costiera che incorniciano l'isola piu fotografata del Montenegro in luci completamente diverse.",
+    "card_beaches_title": "Tour delle spiagge della Riviera di Budva in auto",
+    "card_beaches_excerpt": "Un percorso da nord a sud che copre cinque spiagge diverse in un solo giorno, con informazioni sui parcheggi e consigli per ogni tappa.",
+    "card_skadar_title": "Da Budva al Lago di Scutari: un'intera giornata in auto",
+    "card_skadar_excerpt": "Scambiate i lettini con pellicani, vigneti e il lago piu grande dei Balcani in un suggestivo giro nell'entroterra dalla costa.",
+    "card_nightlife_title": "Budva dopo il tramonto: guida alla vita notturna",
+    "card_nightlife_excerpt": "Dai cocktail sui tetti sopra le mura del centro storico al superclub sulla scogliera Top Hill — ecco dove la riviera va quando tramonta il sole.",
+    "card_gastro_title": "Mangiare a Budva: guida alla scena gastronomica",
+    "card_gastro_excerpt": "Konobe sul lungomare, terrazze collinari e le bancarelle del mercato verde dove fanno la spesa gli chef — un tour gastronomico della scena culinaria in evoluzione della riviera.",
+    "card_petrovac_title": "Petrovac e Buljarica: la costa tranquilla del sud",
+    "card_petrovac_excerpt": "Lasciatevi alle spalle la folla di Budva e guidate 25 minuti verso sud verso un tratto di costa piu calmo con calette nascoste, uliveti e una spiaggia deserta lunga un chilometro.",
+    "card_rainy_title": "Giornata di pioggia a Budva: cosa fare quando il sole si nasconde",
+    "card_rainy_excerpt": "Musei dietro le mura della fortezza, rituali del caffe nei bar delle viuzze in pietra e percorsi panoramici che sotto il cielo grigio sono ancora piu belli.",
+    "card_sunrides_title": "Alba e tramonto nei dintorni di Budva",
+    "card_sunrides_excerpt": "Le migliori spiagge rivolte a est per l'alba e i promontori rivolti a ovest per il tramonto, con tabelle orarie e consigli sull'attrezzatura per i cacciatori dell'ora d'oro."
+  },
+
+  "blogHome": {
+    "sectionLabel": "Guide di viaggio",
+    "sectionTitle": "Dal nostro blog",
+    "sectionSubtitle": "Percorsi costieri, spiagge nascoste e consigli locali per esplorare la Riviera di Budva in auto.",
+    "viewAll": "Vedi tutte le guide"
+  },
+
+  "blogOldtown": {
+    "title": "Passeggiata nel centro storico di Budva: strati di pietra e mare",
+    "subtitle": "Un percorso autonomo attraverso la fortezza peninsulare di 2.500 anni, dal portone principale alla terrazza della cittadella.",
+    "description": "Il centro storico murato di Budva si trova su una penisola compatta larga appena 200 metri, e la maggior parte dei visitatori lo attraversa in venti minuti. Un errore. Sotto la superficie dei negozi di souvenir si nascondono mosaici romani, campanili veneziani e una cittadella che ha visto imperi andare e venire per due millenni e mezzo. Questa guida vi accompagna nel modo giusto.",
+
+    "h2Layers": "Venticinque secoli in duecento metri",
+    "layersP1": "La penisola del centro storico sporge nell'Adriatico come un pugno chiuso. I greci si insediarono qui intorno al 500 a.C., e ogni secolo da allora ha lasciato la sua impronta nella pietra. Si possono rintracciare sapendo dove guardare: un pezzo di muro ciclopico vicino alla porta orientale, un pavimento romano nascosto sotto una gioielleria, leoni veneziani scolpiti sopra le porte e facciate dell'epoca austriaca in terracotta e ocra. Il terremoto del 1979 ha raso al suolo molto, ma la ricostruzione ha usato pietra originale ed e rimasta fedele alla pianta stradale medievale.",
+    "layersP2": "Una visita completa del centro storico richiede circa novanta minuti, inclusa la cittadella e le chiese. Partite presto — verso le dieci d'estate arrivano i gruppi delle crociere e i vicoli stretti si congestionano. La luce del primo mattino colpisce perfettamente anche le mura orientali, il che conta se portate una fotocamera.",
+
+    "h2Gates": "Entrare dal portone principale",
+    "gatesP": "Il portone principale si affaccia sulla citta moderna attraverso un piccolo ponte in pietra. Sopra l'arco, un rilievo scolpito dello stemma di Budva vi accoglie — un pesce stilizzato sopra le onde, con una corona. Attraversatelo e camminerete su un pavimento in calcare levigato, reso liscio da generazioni di passi. Subito alla vostra sinistra, una scala stretta sale al camminamento delle mura. Prendetela. Il sentiero elevato corre lungo la parete nord e vi offre una mappa a volo d'uccello del centro storico prima di scendere nei suoi vicoli. Da quassu potete vedere tutte e quattro le chiese, la torre della cittadella e il porto dove i pescherecci attraccano ancora ogni mattina.",
+
+    "altInline": "Stretti vicoli in pietra nel centro storico di Budva",
+
+    "h2Churches": "Tre chiese, tre storie",
+    "h3Trinity": "Chiesa della Santissima Trinita",
+    "trinityP": "Questa compatta chiesa ortodossa si trova nella piazza appena dentro il portone principale, sminuita dai vicini ma impossibile da perdere grazie alla caratteristica muratura a strisce — bande alternate di grigio e rosa. Costruita nel 1804 durante un breve periodo di protezione russa, il suo interno custodisce icone dorate e un soffitto dipinto che cattura la luce pomeridiana attraverso un'unica finestra alta. Cercate la tomba di Stjepan Mitrov Ljubisa, scrittore e statista del XIX secolo, incastrata nella parete esterna.",
+    "h3John": "Chiesa di San Giovanni",
+    "johnP": "Il campanile piu alto della penisola appartiene a questa chiesa cattolica, ricostruita dopo il terremoto del 1667 e di nuovo dopo il 1979. All'interno, un'icona della Madonna col Bambino attira un flusso costante di pellegrini. La biblioteca della chiesa custodiva un tempo una delle piu belle collezioni di manoscritti sulla costa adriatica, anche se la maggior parte dei pezzi fu trasferita a Cetinje secoli fa per sicurezza. Il campanile non e aperto ai visitatori, ma incornicia le migliori foto del centro storico dal lato del porto.",
+    "h3Mary": "Santa Maria in Punta",
+    "maryP": "Addossata alle mura della cittadella sulla punta meridionale della penisola, questa chiesa del nono secolo e la struttura piu antica sopravvissuta a Budva. E piccola — piu cappella che chiesa — e le funzioni sono cessate da tempo, ma la struttura in pietra resiste. La leggenda locale racconta che l'edificio fu assemblato con pezzi di una chiesa ancora piu antica sullo stesso sito. L'acustica interna e notevole, e occasionalmente ospita piccoli concerti durante il festival teatrale estivo.",
+
+    "h2Citadel": "La terrazza della cittadella",
+    "citadelP": "La Cittadella ancora l'estremita meridionale della penisola. L'ingresso costa qualche euro e concede l'accesso alle mura, a una piccola biblioteca e alla terrazza del ristorante all'aperto in cima. La vista dalla terrazza e il motivo per venire: l'Adriatico si estende verso ovest in direzione dell'Italia, l'isola di Sveti Nikola si trova direttamente al largo, e nelle giornate limpide le montagne albanesi appaiono come una tenue linea grigia a sud. Il tramonto da quassu, con un bicchiere di vino Vranac, e il momento piu bello che Budva possa offrire. La cittadella ospita anche un modesto museo con reperti romani e medievali — frammenti di ceramica, monete e un modello in rilievo della citta prima del terremoto.",
+
+    "h2Walk": "Dove porta la passeggiata",
+    "walkP": "Uscite dalla cittadella e tornate lungo la muraglia meridionale sul mare. Una passerella in legno costeggia il bordo della scogliera e porta a Ricardova Glava, la minuscola spiaggia del centro storico incastrata tra le mura della fortezza e le rocce. Si riempie in fretta, ma un tuffo nel tardo pomeriggio qui — guardando in su verso i bastioni in pietra — e difficile da battere. Dalla passerella, gradini risalgono verso i vicoli vicino al porto. Se le gambe e l'appetito reggono ancora, proseguite verso i ristoranti sul lungomare appena fuori dalle mura per",
+    "walkLink": "il meglio della scena gastronomica",
+
+    "h2Tips": "Consigli pratici",
+    "tipTimeLabel": "Orario migliore:",
+    "tipTimeVal": "Prima delle 9 d'estate, o dopo le 18 quando i gruppi turistici se ne vanno e la luce diventa dorata.",
+    "tipShoesLabel": "Calzature:",
+    "tipShoesVal": "Il pavimento in calcare levigato e scivoloso quando bagnato. Scarpe basse con suola antiscivolo sono indispensabili dopo la pioggia.",
+    "tipPhotoLabel": "Fotografia:",
+    "tipPhotoVal": "La luce mattutina colpisce le mura orientali e il porto. Il tramonto premia dalla terrazza della cittadella rivolta a ovest.",
+    "tipSeasonLabel": "Bassa stagione:",
+    "tipSeasonVal": "Da ottobre ad aprile il centro storico e quasi vuoto. I caffe restano aperti, la cittadella e piu tranquilla, e potete fotografare i vicoli senza nessuno nell'inquadratura.",
+
+    "glanceTitle": "In breve",
+    "glanceArea": "Area",
+    "glanceAreaVal": "Penisola del centro storico di Budva",
+    "glanceDuration": "Tempo di percorrenza",
+    "glanceDurationVal": "60–90 minuti",
+    "glanceCitadel": "Ingresso cittadella",
+    "glanceCitadelVal": "~3,50 €",
+    "glanceBest": "Orario migliore",
+    "glanceBestVal": "Prima mattina o ora dorata"
+  },
+
+  "blogStefan": {
+    "title": "Punti panoramici di Sveti Stefan: dove fermarsi e ammirare",
+    "subtitle": "Quattro punti panoramici elevati lungo la strada costiera che incorniciano l'isola piu fotografata del Montenegro.",
+    "description": "Sveti Stefan e l'immagine che vende il Montenegro al mondo — un grappolo di case in pietra dai tetti in terracotta su un isolotto roccioso, collegato alla terraferma da uno stretto istmo. L'isola stessa e ora un resort Aman, chiuso ai non ospiti, ma le viste dalle colline e dalle spiagge circostanti sono gratuite, spettacolari e diverse a seconda di dove vi trovate. Questa guida copre i quattro punti migliori.",
+
+    "h2Island": "Perche tutti si fermano qui",
+    "islandP1": "La fortificazione dell'isola risale al XV secolo, costruita dal clan dei Pastrovici come rifugio dalle incursioni ottomane. Le casette dei pescatori divennero residenze estive aristocratiche, poi un complesso alberghiero dell'era socialista che ospito da Sophia Loren alla Regina Elisabetta. Il gruppo Aman subentra nel 2011 e lo trasforma in uno dei resort piu esclusivi del Mediterraneo.",
+    "islandP2": "Nulla di questa storia interessa alla vostra fotocamera. Cio che conta e la geometria: una cupola quasi perfetta di tetti rossi su roccia grigia, collegata a una collina verde da un filo di sabbia. La scena cambia radicalmente a seconda dell'ora, del meteo e della vostra altitudine. La nebbia mattutina la rende eterea. Il sole di mezzogiorno la appiattisce. La luce laterale del tardo pomeriggio le dona profondita e calore. Volete essere qui al momento giusto, nel posto giusto.",
+
+    "h2Drive": "Come arrivarci da Budva",
+    "driveP": "Sveti Stefan si trova 8 km a sud di Budva lungo la costiera Jadranski Put. Il tragitto dura circa 12 minuti senza traffico, di piu nei pomeriggi estivi quando la strada si intasa vicino a Becici. Non c'e un autobus diretto dal centro storico di Budva — la fermata piu vicina e sulla strada principale sopra, con una ripida discesa fino all'istmo. Guidare vi da la flessibilita di visitare piu punti panoramici in una sola uscita.",
+
+    "altInline": "Vista dell'isola di Sveti Stefan dalla strada costiera dall'alto",
+
+    "h2Spots": "I quattro punti panoramici",
+    "h3Panorama": "1. Il panorama dalla strada",
+    "panoramaP": "Questo e lo scatto classico da cartolina. Guidando verso sud da Budva, la strada curva a sinistra sopra Sveti Stefan e appare una piazzola sul lato mare. Parcheggiate con attenzione — lo spazio contiene circa sei auto. Da qui guardate giu sull'isola da circa 80 metri sul livello del mare. L'intero isolotto, l'istmo, entrambe le spiagge e la collina boscosa dietro entrano in un'unica inquadratura grandangolare. L'ora dorata e il momento migliore, ma la vista funziona con qualsiasi luce. Un piccolo recinto e un muretto in pietra segnano il bordo, quindi e abbastanza sicuro per i bambini, anche se il dislivello e notevole.",
+    "h3Beach": "2. A livello della spiaggia sulla terraferma",
+    "beachP": "Scendete dalla strada principale (o guidate fino al piccolo parcheggio in basso) e raggiungete la spiaggia pubblica sul lato terraferma dell'istmo. Da qui, Sveti Stefan svetta sopra di voi — una prospettiva completamente diversa dalla vista aerea dall'alto. Le mura in pietra e i balconi sono visibili in dettaglio, e l'istmo si estende davanti a voi. Nuotare qui significa avere l'isola come sfondo. Il sole della tarda mattinata illumina magnificamente la facciata orientale dell'isola da questa angolazione.",
+    "h3Milocer": "3. Sentiero del parco di Milocer",
+    "milocerP": "A nord dell'istmo, un sentiero pedonale attraversa i terreni dell'ex tenuta reale di Milocer. Il parco botanico contiene pini imponenti, cipressi italiani e rare piante mediterranee. Aperture nella chioma rivelano scorci angolati di Sveti Stefan tra gli alberi — una composizione piu intima e pittorica rispetto al vasto panorama dalla strada. Il sentiero e ombreggiato e piacevole anche nella calura estiva. La piccola spiaggia di Milocer (ex Spiaggia della Regina) si trova in fondo, anche se l'accesso e a volte riservato agli ospiti Aman.",
+    "h3Przno": "4. Porto di Przno",
+    "prznoP": "Proseguite 2 km a sud oltre Sveti Stefan fino al villaggio di pescatori di Przno. Dal minuscolo porto, potete guardare a nord e vedere l'isola in pieno profilo sullo sfondo delle montagne dietro la costa. E il punto panoramico meno affollato e una buona scusa per fermarsi a mangiare pesce alla griglia in una delle konobe sul porto. Il villaggio stesso e affascinante — vicoli stretti, gatti su ogni muro e un ritmo di vita che sembra decenni indietro rispetto a Budva.",
+
+    "h2Light": "A caccia della luce",
+    "lightP": "Sveti Stefan e orientato circa verso ovest-sudovest, il che significa che il tramonto illumina direttamente la facciata sul mare. Per l'alba, conviene essere al panorama dalla strada o in spiaggia — il sole del mattino sorge dietro le montagne e colpisce l'isola con una luce laterale calda e bassa. Le giornate nuvolose producono gli scatti piu suggestivi, con il mare grigio e i tetti rossi che creano un contrasto naturale. Per altri luoghi dell'ora dorata sulla riviera, consultate la nostra guida a",
+    "lightLink": "alba e tramonto",
+
+    "h2Parking": "Dove parcheggiare",
+    "parkingP": "La piazzola al punto panoramico uno contiene circa sei auto ed e gratuita. Il piccolo parcheggio vicino alla spiaggia costa circa 2–4 € l'ora in estate e si riempie entro meta mattina. Il villaggio di Przno ha qualche posto lungo la strada del porto, di solito gratuito fuori da luglio e agosto. Se tutto e pieno, parcheggiate a Becici (3 km a nord) e prendete il sentiero costiero verso sud — una piacevole passeggiata di 35 minuti con vista mare per tutto il tragitto.",
+
+    "glanceTitle": "In breve",
+    "glanceDistance": "Distanza da Budva",
+    "glanceDistanceVal": "8 km a sud",
+    "glanceDrive": "Tempo di percorrenza",
+    "glanceDriveVal": "12 minuti",
+    "glanceBestLight": "Luce migliore",
+    "glanceBestLightVal": "Ora dorata / mattinate nuvolose",
+    "glanceParking": "Parcheggio",
+    "glanceParkingVal": "Piazzola gratuita o 2–4 €/ora in spiaggia"
+  },
+
+  "blogBeaches": {
+    "title": "Tour delle spiagge della Riviera di Budva in auto",
+    "subtitle": "Un percorso da nord a sud che copre cinque spiagge diverse in un solo giorno.",
+    "description": "Ventuno chilometri di costa si curvano a sud di Budva, e ogni spiaggia ha un carattere diverso. Jaz e ampia e sabbiosa con energia da festival. Mogren si nasconde dietro un tunnel nella scogliera. Slovenska brulica di imperi di lettini. Becici si distende per un pigro chilometro di sabbia per famiglie. Kamenovo premia lo sforzo di trovarla. Un'auto a noleggio e una partenza mattiniera vi permetteranno di visitarle tutte e cinque prima che arrivino le folle del pomeriggio.",
+
+    "h2Why": "Perche guidare invece di camminare",
+    "whyP1": "Si potrebbe camminare tra alcune di queste spiagge — Mogren e un breve sentiero sulla scogliera dal centro storico, e Slovenska e proprio nel centro di Budva. Ma Jaz e a 3 km a nordovest, Becici a 3 km a sudest, e Kamenovo sta in mezzo su una strada senza marciapiede. Senza auto, dipendete da taxi e orari estivi degli autobus che cambiano ogni anno.",
+    "whyP2": "Con un'auto, decidete voi: Jaz alle 8 quando la sabbia e vuota e il parcheggio gratuito. Mogren entro le 10 prima che il sentiero del tunnel si affoli. Slovenska per un caffe veloce sul lungomare. Becici per pranzo in un ristorante sulla spiaggia. Kamenovo nel tardo pomeriggio quando le scogliere proiettano ombra sulla parte occidentale. Coprite tutta la riviera in un giorno e tornate in tempo per cena.",
+
+    "h2Jaz": "Tappa 1: Spiaggia di Jaz",
+    "jazP": "Tre chilometri a nordovest del centro storico, Jaz e la spiaggia aperta piu grande della riviera — un arco di 1,2 km di sabbia mista e ghiaia fine circondato da colline verdi. Il festival musicale Sea Dance allestisce i palchi qui d'estate, e l'atmosfera resta energica anche nei giorni senza festival. Il parcheggio e a livelli: quello superiore e gratuito ma richiede cinque minuti a piedi. Quello vicino alla spiaggia costa 3–5 € a seconda della vicinanza. Arrivate prima delle 9 nei weekend o parcheggerete sul ciglio della strada. La parte occidentale e piu tranquilla e ha una piccola area per nudisti. Quella orientale ha bar e noleggio lettini.",
+
+    "h2Mogren": "Tappa 2: Spiaggia di Mogren",
+    "mogrenP": "Due calette collegate nascoste dietro un tunnel nella scogliera, a soli 500 metri dalle mura del centro storico. Si raggiungono tramite un sentiero costiero pavimentato che parte vicino all'Hotel Avala. Il tunnel e corto e suggestivo — scavato nella roccia solida con il mare che si infrange sotto. Mogren I e la prima caletta, con noleggio lettini e bar. Proseguite attraverso un arco naturale in pietra fino a Mogren II, piu tranquilla e con la famosa statua in bronzo della ballerina sulle rocce. Il fondale ciottoloso scende ripidamente, rendendo l'acqua profonda e limpida vicino alla riva. Nessun parcheggio nelle vicinanze — andate a piedi dal centro storico o usate i posti lungo la strada.",
+
+    "altInline": "Vista aerea della spiaggia di Becici lungo la costa della Riviera di Budva",
+
+    "h2Slovenska": "Tappa 3: Slovenska Plaza",
+    "slovenskaP": "La spiaggia principale di Budva si estende per 1,6 km attraverso il centro, direttamente sotto il lungomare. Non e la piu bella — la sabbia e grossa, gli addetti ai lettini sono insistenti, e non siete mai a piu di trenta metri da un bar con musica a tutto volume. Ma e comoda, ha bagnini per tutta l'estate, e l'ingresso basso la rende popolare tra le famiglie. La parte orientale vicino al complesso Lido e piu organizzata. Quella occidentale verso il centro storico e piu stretta e meno commerciale. Prendete un caffe sul lungomare e guardate la spiaggia riempirsi — poi partite per sabbie piu tranquille.",
+
+    "h2Becici": "Tappa 4: Spiaggia di Becici",
+    "beciciP": "Una dolce mezzaluna di 2 km di sabbia fine che ha vinto un premio turistico parigino nel 1936 e lo merita ancora. L'acqua e bassa per un lungo tratto, i bagnini sono in servizio in stagione, e una fila di ristoranti sulla spiaggia permette di mangiare calamari alla griglia senza lasciare la sabbia. Operatori di sport acquatici offrono noleggio moto d'acqua, parasailing e banana boat nella sezione centrale. Il parcheggio e nei lotti a pagamento lungo la strada principale sopra — circa 3 €/ora in alta stagione. Per il tratto piu tranquillo, proseguite oltre l'ingresso principale verso Rafailovici dove la spiaggia si restringe e la folla si dirada. E anche il punto di partenza per esplorare",
+    "beciciLink": "la costa verso sud fino a Petrovac",
+
+    "h2Kamenovo": "Tappa 5: Spiaggia di Kamenovo",
+    "kamenovoP": "Tra Becici e Przno, una strada secondaria scende ripidamente fino a questa caletta riparata. E la spiaggia che i locali scelgono quando vogliono evitare la scena di Budva. Un unico bar sulla spiaggia opera in estate, noleggiando lettini e servendo drink, ma l'atmosfera e rilassata e l'acqua e tra le piu limpide della riviera. La riva di ciottoli e fiancheggiata da scogli ottimi per lo snorkeling. Il parcheggio e limitato a un piccolo piazzale in ghiaia in cima alla strada di accesso — circa quindici posti. Arrivate entro meta mattina o resterete a bocca asciutta.",
+
+    "h2Packing": "Cosa mettere in valigia per una giornata al mare",
+    "packShoesLabel": "Scarpette da scoglio:",
+    "packShoesVal": "Indispensabili per Mogren e Kamenovo dove i ciottoli sono duri sotto i piedi nudi.",
+    "packSunLabel": "Protezione solare:",
+    "packSunVal": "Fattore 50 e un cappello. Il sole della riviera colpisce forte da giugno a settembre, e l'ombra sulle spiagge aperte e scarsa.",
+    "packCashLabel": "Contanti:",
+    "packCashVal": "Molti bar sulla spiaggia e addetti ai parcheggi preferiscono ancora i contanti. Tenete 20 € in banconote piccole.",
+    "packSnorkelLabel": "Attrezzatura da snorkeling:",
+    "packSnorkelVal": "Kamenovo e Mogren II hanno bordi rocciosi con visibilita sorprendentemente buona per lo snorkeling.",
+
+    "glanceTitle": "In breve",
+    "glanceCoast": "Costa coperta",
+    "glanceCoastVal": "~12 km da nord a sud",
+    "glanceBeaches": "Spiagge",
+    "glanceBeachesVal": "5 tappe diverse",
+    "glanceBest": "Ora di partenza migliore",
+    "glanceBestVal": "8:00 per il parcheggio di Jaz",
+    "glanceParking": "Costo parcheggio",
+    "glanceParkingVal": "Gratuito fino a 5 € a seconda della spiaggia"
+  },
+
+  "blogSkadar": {
+    "title": "Da Budva al Lago di Scutari: un'intera giornata in auto",
+    "subtitle": "Scambiate i lettini con pellicani, vigneti e il lago piu grande dei Balcani.",
+    "description": "A un'ora di macchina nell'entroterra da Budva, la costa scompare del tutto e il paesaggio si apre in zone umide, colline coperte di vigneti e la vasta quiete del Lago di Scutari. Qui nidificano 270 specie di uccelli, i viticoltori montenegrini curano alcune delle vigne piu antiche d'Europa, e si puo trascorrere un intero pomeriggio su una barca di legno senza vedere un altro turista. E la migliore gita di un giorno dalla riviera di cui nessuno in spiaggia parla.",
+
+    "h2Why": "Perche lasciare la spiaggia",
+    "whyP1": "Dopo tre giorni sulla Riviera di Budva, anche il piu devoto amante del sole inizia a chiedersi cos'altro ci sia. Il Lago di Scutari risponde in modo inequivocabile. A cavallo del confine Montenegro-Albania, e il lago piu grande dell'Europa meridionale — 48 km di lunghezza e fino a 14 km di larghezza nella stagione delle piogge. Il parco nazionale protegge 40.000 ettari di paludi, acqua aperta e isole boscose.",
+    "whyP2": "I pellicani dalmati nidificano qui — una delle pochissime colonie in Europa. Cormorani, aironi e marangoni minori sono avvistamenti comuni. In autunno, le paludi diventano dorate e inizia la vendemmia sulle colline circostanti. Anche in piena estate, il lago e tranquillo. La maggior parte dei turisti della riviera non arriva mai fin qui, il che significa che le gite in barca e le degustazioni di vino hanno un'aria privata.",
+
+    "h2Route": "Il tragitto da Budva",
+    "routeP": "Dirigetevi a nord verso Podgorica sulla E65 e svoltate a Virpazar — il principale villaggio d'accesso sulla sponda settentrionale del lago. La distanza totale e di circa 65 km, e il tragitto dura poco piu di un'ora a seconda del traffico nella galleria di Sozina. Il pedaggio della galleria e di un paio d'euro. Oltre, il paesaggio cambia velocemente: le colline verdi lasciano il posto a paludi pianeggianti mentre il lago si rivela dietro una curva. Virpazar si trova alla confluenza del fiume Crmnica e del lago, ed e il punto di partenza per le gite in barca e il posto migliore dove parcheggiare.",
+
+    "altInline": "Il Lago di Scutari all'alba con le montagne sullo sfondo",
+
+    "h2Rijeka": "Sosta a Rijeka Crnojevica",
+    "rijekaP": "Prima di dirigervi al lago, prendete la strada laterale verso est dalla statale fino a Rijeka Crnojevica — un tranquillo villaggio fluviale che un tempo era l'emporio commerciale dell'antica capitale montenegrina. Il ponte in pietra sul fiume e uno dei luoghi piu fotografati del paese. L'ansa a ferro di cavallo del fiume sotto il belvedere e davvero spettacolare. Qualche ristorante serve pesce d'acqua dolce — carpa affumicata e anguilla sono le specialita locali. Il villaggio riceve una manciata di visitatori al giorno rispetto alle migliaia di Budva, e l'atmosfera e meravigliosamente tranquilla.",
+
+    "h2Lake": "Sull'acqua",
+    "lakeP": "Le gite in barca partono da Virpazar durante tutta la giornata, della durata da una a tre ore a seconda del percorso. I tour standard costano 15–25 € a persona e attraversano canali di ninfee dove l'acqua e cosi ferma da riflettere il cielo. Il barcaiolo spegnera il motore nelle zone dei pellicani e vi lascera alla deriva. Vale la pena portare un binocolo — i pellicani possono essere a 200 metri tra i canneti. I tour piu lunghi raggiungono i monasteri insulari: Kom e Beska si trovano su isolotti accessibili solo via acqua, con chiese medievali che resistono da 600 anni. Portate cappello e acqua — sulle barche non c'e ombra.",
+
+    "h2Boat": "Oltre la barca",
+    "boatP": "Se preferite la terraferma, la zona di Virpazar offre diversi sentieri segnalati attraverso le paludi e su per le colline circostanti. L'escursione alla fortezza di Besac dura circa 40 minuti e offre viste panoramiche sul lago e le montagne. E possibile anche andare in bicicletta sui sentieri pianeggianti vicino alla riva — il noleggio bici e disponibile a Virpazar per circa 10 €/giorno. Per una gita alternativa nell'entroterra che funziona particolarmente bene con il brutto tempo, consultate la nostra guida alle",
+    "boatLink": "attivita per i giorni di pioggia a Budva",
+
+    "h2Wine": "La strada del vino di Crmnica",
+    "wineP": "Le colline a sud del lago producono Vranac — il vitigno rosso simbolo del Montenegro. La regione vinicola di Crmnica e compatta e facile da esplorare in auto. Diverse cantine a conduzione familiare offrono degustazioni su appuntamento, e alcune hanno allestito sale per accogliere visitatori senza prenotazione. Plantaze, il maggiore produttore, ha un centro visite fuori Podgorica, ma le tenute piu piccole intorno al lago sono piu interessanti. Aspettatevi rossi robusti con frutta scura e un leggero finale terroso. Una degustazione con pane e formaggio costa 5–10 € nella maggior parte dei posti. Comprate una o due bottiglie — non troverete questi vini a produzione limitata fuori dal Montenegro.",
+
+    "h2Itinerary": "Itinerario consigliato",
+    "itinMorningLabel": "Mattina:",
+    "itinMorningVal": "Partenza da Budva alle 8:30. Guida fino a Rijeka Crnojevica per il belvedere e un caffe sul fiume. Prevedete 1,5 ore.",
+    "itinMiddayLabel": "Mezzogiorno:",
+    "itinMiddayVal": "Proseguite fino a Virpazar. Gita in barca di 2 ore sul lago. Cercate i pellicani nei canali di ninfee.",
+    "itinAfternoonLabel": "Pomeriggio:",
+    "itinAfternoonVal": "Pranzo in un ristorante di Virpazar — provate la carpa affumicata. Poi visita a una cantina di Crmnica per una degustazione.",
+    "itinReturnLabel": "Ritorno:",
+    "itinReturnVal": "Rientro attraverso la galleria fino a Budva in tempo per un bagno al tramonto. Giornata totale: circa 9 ore.",
+
+    "glanceTitle": "In breve",
+    "glanceDistance": "Distanza da Budva",
+    "glanceDistanceVal": "65 km fino a Virpazar",
+    "glanceDrive": "Tempo di percorrenza",
+    "glanceDriveVal": "~1 ora per tratta",
+    "glanceBest": "Mesi migliori",
+    "glanceBestVal": "Aprile–ottobre",
+    "glanceBoat": "Costo gita in barca",
+    "glanceBoatVal": "15–25 € a persona"
+  },
+
+  "blogNightlife": {
+    "title": "Budva dopo il tramonto: guida alla vita notturna",
+    "subtitle": "Dai cocktail sui tetti sopra le mura del centro storico al superclub sulla scogliera Top Hill.",
+    "description": "Budva si trasforma dopo il tramonto. Le folle dalla spiaggia evaporano, i vicoli del centro storico si riempiono di tavoli e luce calda, e a mezzanotte la strada principale vibra di musica da una dozzina di club e bar. Questa e l'indiscussa capitale della vita notturna montenegrina — una citta compatta dove potete iniziare con cocktail su una terrazza della fortezza, camminare fino a tre bar diversi e finire in un superclub all'aperto da 3.000 posti senza mai chiamare un taxi.",
+
+    "h2Scene": "La scena in breve",
+    "sceneP1": "La vita notturna di Budva segue un orologio stagionale. Da meta giugno a inizio settembre, tutto funziona a pieno ritmo — i bar aprono al tramonto, i club vanno avanti fino alle 5, e l'intero lungomare Slovenska Obala diventa una lenta sfilata di gente che sceglie la prossima tappa. Fuori da quei mesi, la citta e piu tranquilla ma non morta. I bar del centro storico restano aperti tutto l'anno, e alcuni club continuano nei weekend fino a ottobre.",
+    "sceneP2": "L'atmosfera e rilassata per gli standard europei del clubbing. I codici di abbigliamento esistono nei locali piu esclusivi ma vengono applicati con leggerezza — scarpe pulite e una camicia con il colletto vi fanno entrare nella maggior parte dei posti. I prezzi sono decisamente piu bassi rispetto a Croazia o Grecia: un cocktail costa 6–9 € in un bar di fascia media, una birra 3–4 €, e la maggior parte dei club non ha copertura prima di mezzanotte. La clientela e un mix di montenegrini, vacanzieri serbi e una crescente folla internazionale attratta dalla reputazione della riviera.",
+
+    "h2Strip": "Slovenska Obala: la linea di partenza",
+    "stripP": "Il lungomare lungo la spiaggia Slovenska e dove iniziano la maggior parte delle serate. Bar e caffe fiancheggiano il lato mare, ognuno con tavoli all'aperto e musica per attirare i passanti. L'atmosfera passa dalla cultura del caffe al tramonto alla piena energia da bar verso le 22. Iniziate dalla parte orientale vicino all'ingresso del centro storico per cocktail bar con vista sul porto, oppure andate verso ovest verso l'Hotel Avala per musica piu forte e un pubblico piu giovane. L'intero tratto e di circa 800 metri — lo percorrerete diverse volte in una sola serata.",
+
+    "altInline": "Vita notturna di Budva lungo il lungomare di notte",
+
+    "h2TopHill": "Top Hill: l'evento principale",
+    "topHillP": "Scavato nelle scogliere sopra Budva, Top Hill e il club piu famoso del Montenegro e uno dei piu grandi locali all'aperto dell'Europa sudorientale. La capienza raggiunge 3.000 nelle serate di punta, e il lineup include DJ internazionali accanto ad artisti regionali. Il club occupa una serie di terrazze a cascata lungo il pendio, con la pista da ballo principale circondata da aree VIP e un bar panoramico sull'Adriatico. Apre intorno a mezzanotte e va avanti fino alle 5 nei weekend. L'ingresso e di solito gratuito prima dell'1, 10–20 € dopo. Aspettatevi lunghe code in luglio e agosto — arrivate presto o prenotate un tavolo. Parcheggio disponibile al club o in citta (breve corsa in taxi dal lungomare).",
+
+    "h2OldTown": "Bar del centro storico",
+    "oldTownP": "All'interno delle mura del centro storico, alcuni bar occupano terrazze in pietra con vista sui bastioni e il mare. Il Citadela bar sulla terrazza della fortezza e l'attrazione principale — i cocktail costano di piu che altrove (10–14 €), ma state bevendo su una fortezza medievale con vista sull'Adriatico, il che giustifica il sovrapprezzo. Bar piu piccoli lungo la via principale del centro storico sono piu economici e piu suggestivi, con candele sui tavoli in pietra e musica a volume di conversazione. Questi sono i posti dove iniziare la serata prima che le cose si facciano piu movimentate.",
+
+    "h2Slovenska": "Ristoranti a tarda notte",
+    "slovenskaP": "La riviera vive di cene tardive. Molti ristoranti prendono le ultime ordinazioni a mezzanotte in estate, e i locali sul lungomare tra il centro storico e Becici restano pieni ben oltre le 23. Se uscite da un club alle 3 di notte e avete fame, alcune pizzerie vicino al lungomare servono fino a chiusura. Per una cena vera e propria prima di uscire, le opzioni migliori sono sul lungomare — consultate la nostra",
+    "slovenskaLink": "guida gastronomica",
+
+    "h2Tips": "Consigli pratici",
+    "tipParkLabel": "Parcheggio:",
+    "tipParkVal": "Lasciate l'auto in hotel o in appartamento. La zona della vita notturna di Budva e percorribile a piedi da un capo all'altro, e i taxi per Top Hill sono economici.",
+    "tipDressLabel": "Abbigliamento:",
+    "tipDressVal": "Smart casual per Top Hill e i bar del centro storico. Con vestiti da spiaggia non vi faranno entrare dopo mezzanotte.",
+    "tipCashLabel": "Pagamento:",
+    "tipCashVal": "La maggior parte dei locali accetta carte, ma tenete 20 € in contanti per copertura, guardaroba e taxi.",
+    "tipPeakLabel": "Serate di punta:",
+    "tipPeakVal": "Venerdi e sabato in luglio e agosto. Infrasettimanale e piu gestibile e le code sono piu corte.",
+
+    "glanceTitle": "In breve",
+    "glancePeak": "Alta stagione",
+    "glancePeakVal": "Meta giugno — inizio settembre",
+    "glanceVenue": "Locale di punta",
+    "glanceVenueVal": "Top Hill (3.000 capienza)",
+    "glanceSeason": "Bassa stagione",
+    "glanceSeasonVal": "Bar del centro storico aperti tutto l'anno",
+    "glanceDrink": "Prezzo cocktail",
+    "glanceDrinkVal": "6–9 € in media"
+  },
+
+  "blogGastro": {
+    "title": "Mangiare a Budva: guida alla scena gastronomica",
+    "subtitle": "Konobe sul lungomare, terrazze collinari e le bancarelle del mercato verde dove fanno la spesa gli chef.",
+    "description": "La scena gastronomica di Budva si e evoluta oltre il generico menu turistico di carne alla griglia e insalata Caesar. Accanto alle konobe sul lungomare che servono pesce fresco da decenni, una nuova generazione di ristoranti sta utilizzando prodotti stagionali dalle colline sopra la costa e vino dalla valle di Crmnica. Il risultato e una citta gastronomica che supera ampiamente il suo peso di localita balneare. Ecco dove mangiare, cosa ordinare e quando andare.",
+
+    "h2Scene": "Una citta gastronomica trova il suo passo",
+    "sceneP1": "Per anni, la scena ristorativa di Budva era prevedibile: pesce alla griglia, piatti misti di carne e insalata shopska a ogni tavolo sul lungomare. Quella base esiste ancora — e onestamente, un brancino ben grigliato in una konoba sul porto per 10 € e difficile da criticare. Ma gli ultimi cinque anni hanno portato cambiamento. Giovani chef montenegrini formatisi in Italia, Serbia e Francia stanno tornando sulla costa e aprendo locali che si preoccupano di approvvigionamento, tecnica e carte dei vini.",
+    "sceneP2": "Gli ingredienti c'erano gia. Le colline sopra Budva producono olive, fichi ed erbe aromatiche che si sentono dalla strada. Il njeguski prsut — prosciutto crudo stagionato dal villaggio di Njeguski sopra Kotor — e uno dei migliori prodotti di salumeria dei Balcani. Il formaggio di Kolasin arriva sulla costa entro poche ore dalla produzione. Il mare fornisce quotidianamente calamari, orate, cozze e polpi. Cio che e cambiato e che gli chef hanno iniziato a trattare questi ingredienti con rispetto invece di affogarli nell'olio e servirli su un anonimo piatto bianco.",
+
+    "h2Waterfront": "Lungo il lungomare",
+    "waterfrontP": "La striscia tra le mura del centro storico e la spiaggia Slovenska ospita una fitta fila di ristoranti, la maggior parte con terrazze fronte mare. La qualita varia notevolmente — alcuni sono trappole per turisti che vivono del passaggio, altri sono genuinamente eccellenti. I segnali rivelatori: un menu corto che cambia regolarmente, pesce al prezzo al chilo invece che a tariffa fissa, e una carta dei vini che va oltre i tre marchi nazionali. Cercate i posti dove mangiano i locali. Se a ogni tavolo si parla inglese o tedesco, proseguite. I migliori locali sul lungomare servono pesce intero alla griglia, insalata di polpo con capperi e brodetto — uno stufato di pesce lento con polenta che e il comfort food della costa.",
+
+    "altInline": "Piatto di pesce fresco servito in una konoba sul lungomare di Budva",
+
+    "h2OldTown": "Dentro il centro storico",
+    "oldTownP": "Mangiare dentro le mura e piu questione di atmosfera che di innovazione. I vicoli sono stretti, i tavoli stipati in cortili in pietra, e i menu tendono al tradizionale. Il ristorante Citadela, appollaiato sulla terrazza della fortezza all'estremita della penisola, pratica prezzi premium per le viste sul tramonto e piatti di ispirazione mediterranea — vale la pena per una serata speciale. Sotto le mura, konobe piu piccole servono carne e pesce alla griglia a prezzi piu equi. La piazza del centro storico ospita un paio di wine bar che servono etichette montenegrine al calice, un buon modo per assaggiare Vranac e Krstac senza impegnarsi in una bottiglia intera.",
+
+    "h2Hilltop": "Cenare sulle colline sopra la costa",
+    "hilltopP": "Alcuni dei migliori pasti della riviera si consumano sopra di essa. Alcuni ristoranti si trovano sui pendii tra Budva e Sveti Stefan, offrendo viste panoramiche sulla costa da terrazze tra ulivi e fichi. La cucina di questi posti tende alla cottura lenta montenegrina: agnello sotto il sac (una cupola di metallo sui carboni), peperoni ripieni di kajmak e zuppe di fagioli che sono piu buone di quanto sembrino. La salita e breve ma ripida — un altro motivo per avere un'auto. Combinate un pranzo in collina con i",
+    "hilltopLink": "punti panoramici di Sveti Stefan",
+
+    "h2Seafood": "Il pesce da ordinare",
+    "seafoodP": "Il pesce montenegrino e semplice e va tenuto tale. Il brancino grigliato e l'orata sono i piatti di punta — ordinateli interi, alla griglia con olio d'oliva e limone, e giudicate un ristorante da come li prepara. Il polpo si serve alla griglia o in insalata fredda con cipolle, capperi e prezzemolo — entrambe le versioni devono essere tenere, non gommose. Il risotto nero (crni rizot) fatto con inchiostro di seppia e un classico costiero. E gli scampi alla buzara — gamberi cotti in aglio, vino bianco e pangrattato — e il piatto che vi fa ordinare un secondo cestino di pane. Per i piu avventurosi, chiedete le lignje punjene — calamari ripieni di formaggio e prosciutto.",
+
+    "h2Market": "Il mercato verde",
+    "marketP": "Ogni mattina, il mercato verde di Budva apre dietro la stazione degli autobus. E piccolo ma pieno: contadini locali vendono pomodori che sanno di pomodoro, mazzi di erbe fresche, fichi di stagione, miele dalle colline e kajmak — la crema di formaggio densa e leggermente acidula che si abbina a tutto. In autunno compaiono melograni e cachi. Le visite al mattino presto (prima delle 9) offrono la migliore selezione. Anche se non cucinate, vale la pena una visita per vedere cosa cresce sulle colline dietro gli hotel a molti piani.",
+
+    "h2Tips": "Consigli gastronomici",
+    "tipReserveLabel": "Prenotazioni:",
+    "tipReserveVal": "Indispensabili nei posti migliori in luglio e agosto, specialmente per tavoli sul lungomare. Prenotate per telefono — la maggior parte non usa piattaforme online.",
+    "tipLunchLabel": "Menu del giorno:",
+    "tipLunchVal": "Diversi ristoranti offrono un dnevni meni (menu del giorno) a pranzo — zuppa, piatto principale e bevanda per 8–12 €. Miglior rapporto qualita-prezzo rispetto alla cena alla carta.",
+    "tipWineLabel": "Vino:",
+    "tipWineVal": "Ordinate montenegrino. Vranac (rosso) e Krstac (bianco) sono i vitigni nazionali. Plantaze e il grande produttore ma le etichette piu piccole di Crmnica sono piu interessanti.",
+    "tipCashLabel": "Contanti o carta:",
+    "tipCashVal": "La maggior parte dei ristoranti accetta carte ma le konobe piu piccole e il mercato verde sono solo contanti. Tenete 20 € in banconote piccole.",
+
+    "glanceTitle": "In breve",
+    "glanceMeal": "Costo medio del pasto",
+    "glanceMealVal": "10–18 € a persona",
+    "glanceDish": "Piatto imperdibile",
+    "glanceDishVal": "Brancino alla griglia, intero",
+    "glanceWine": "Vino locale",
+    "glanceWineVal": "Vranac (rosso), Krstac (bianco)",
+    "glanceBest": "Ora migliore per cenare",
+    "glanceBestVal": "Dalle 20 in poi (i locali cenano tardi)"
+  },
+
+  "blogPetrovac": {
+    "title": "Petrovac e Buljarica: la costa tranquilla del sud",
+    "subtitle": "Lasciatevi alle spalle la folla di Budva e guidate verso sud verso un tratto di costa piu calmo.",
+    "description": "Venticinque minuti a sud di Budva, la strada costiera scende a Petrovac — un piccolo paese con una spiaggia di ciottoli rossi, le rovine di una fortezza veneziana su un promontorio roccioso e un ritmo di vita che fa sembrare la riviera festaiola un altro paese. Proseguite altri cinque minuti e trovate Buljarica — una mezzaluna lunga un chilometro di spiaggia selvaggia e incontaminata con dietro paludi e uliveti. E la parte della Riviera di Budva dove gli imperi dei lettini non sono ancora arrivati.",
+
+    "h2Secret": "La costa di cui nessuno parla",
+    "secretP1": "Petrovac appartiene tecnicamente al comune di Budva, ma non assomiglia per nulla a Budva. Il paese ha circa 1.500 residenti permanenti, un'unica via principale e una spiaggia abbastanza grande da sembrare spaziosa anche in agosto. Non ci sono hotel grattacielo, beach club con musica a tutto volume e nessuna coda per il gelato. Ci sono invece appartamenti a conduzione familiare sopra gli uliveti, una fortezza su una roccia nella baia e due isolotti al largo — Sveta Nedjelja e Katic — che brillano nella luce serale.",
+    "secretP2": "Oltre Petrovac, la costa diventa veramente selvaggia. La spiaggia di Lucice si trova in una caletta riparata a dieci minuti a piedi a sud del paese. Buljarica e un ampio arco di sabbia scura e ciottoli che si estende per un chilometro lungo una costa piatta e paludosa. Non ci sono noleggi lettini, nessun bagnino, e nei giorni feriali di giugno potreste condividere l'intera spiaggia con una dozzina di altre persone. E il tipo di costa mediterranea che un tempo esisteva ovunque e ora sopravvive solo in pochi posti.",
+
+    "h2Town": "Petrovac citta",
+    "townP": "Il pezzo forte del paese e la spiaggia di ciottoli rossi, riparata da promontori su entrambi i lati e sorvegliata dalla fortezza Castello — una piccola fortificazione veneziana su una roccia appena al largo, collegata alla terraferma da un breve passaggio. Il lungomare principale corre lungo la spiaggia, fiancheggiato da ristoranti, caffe e negozi di souvenir che sono discreti per gli standard di Budva. Dietro il lungomare, alcune strade salgono nella collina tra edifici residenziali e ulivi. I mosaici romani — un pavimento del III secolo ben conservato scoperto negli anni '70 — si trovano in un edificio protettivo ai margini del paese e meritano una breve visita. Il paese si chiude notevolmente dopo ottobre, con molti ristoranti che chiudono fino ad aprile.",
+
+    "altInline": "Spiaggia di Petrovac con la fortezza Castello sul suo promontorio roccioso",
+
+    "h2Lucice": "Spiaggia di Lucice",
+    "luciceP": "Dieci minuti a piedi a sud della spiaggia principale di Petrovac, lungo un sentiero costiero pavimentato, vi portano a Lucice — una piccola caletta di ciottoli lisci fiancheggiata da promontori coperti di pini. L'acqua e limpida e calma, riparata dal mare aperto dalle rocce circostanti. Un unico bar sulla spiaggia opera in estate, noleggiando lettini e servendo bevande fresche. Fuori da luglio e agosto, avrete la caletta quasi tutta per voi. Il sentiero da Petrovac e pianeggiante e ombreggiato dai pini — piacevole anche nella calura di mezzogiorno.",
+
+    "h2Buljarica": "Spiaggia di Buljarica",
+    "buljaricaP": "Cinque minuti a sud di Petrovac in auto (o 25 minuti a piedi lungo la strada costiera), Buljarica si estende per un chilometro lungo una costa piatta e paludosa. La spiaggia e un mix di sabbia scura e piccoli ciottoli, dietro canneti, tamerici e una zona umida che ospita uccelli e rane. Non ci sono noleggi lettini, nessun bar sulla spiaggia (anche se un paio di bar essenziali operano sulla strada dietro in estate) e nessun piano di sviluppo all'orizzonte — l'area ha lo status di protezione ambientale. Il bagno e buono nella sezione centrale dove il fondale e sabbioso, anche se l'acqua puo essere piu fresca delle calette riparate piu a nord. Portate tutto il necessario: ombra, acqua e cibo.",
+
+    "h2Drive": "Il tragitto verso sud",
+    "driveP": "Da Budva, prendete la strada costiera principale verso sud attraverso Becici e Rafailovici. Dopo il breve tunnel oltre Przno, la strada sale su un promontorio e scende nella valle di Petrovac. L'intero tragitto e di circa 17 km e richiede 25 minuti, anche se il traffico estivo intorno a Becici puo allungare i tempi. La strada e in buone condizioni per tutto il percorso con vista mare sul lato sinistro per la maggior parte del tragitto. Per il ritorno, o per proseguire verso sud, consultate la nostra guida al",
+    "driveLink": "tour delle spiagge della Riviera di Budva",
+
+    "h2Eat": "Dove mangiare",
+    "eatP": "Il lungomare di Petrovac ha una dozzina di ristoranti e konobe. La qualita e generalmente buona — il paese non riceve abbastanza turisti per sostenere locali veramente scadenti. Pesce alla griglia, insalata di polpo e njeguski prsut sono ordini affidabili. Un paio di posti si specializzano in risotto di pesce con il pescato del giorno. I prezzi sono circa il 15–20% piu bassi rispetto a ristoranti equivalenti a Budva. Per il miglior rapporto qualita-prezzo, cercate i posti una via dietro il lungomare — stesso cibo, nessun sovrapprezzo per la vista mare. A Buljarica le opzioni gastronomiche sono minime, quindi mangiate prima a Petrovac o portate un picnic.",
+
+    "h2Tips": "Consigli pratici",
+    "tipRoadLabel": "Strada:",
+    "tipRoadVal": "Strada costiera a due corsie ben asfaltata per tutto il tragitto. Due brevi gallerie. Attenzione al traffico lento in estate.",
+    "tipSwimLabel": "Bagno:",
+    "tipSwimVal": "Petrovac e Lucice hanno ingressi dolci. Buljarica e piu profonda con fondo sabbioso ma senza bagnini.",
+    "tipSupplyLabel": "Rifornimenti:",
+    "tipSupplyVal": "Fate scorta a Petrovac. C'e un piccolo supermercato sulla via principale e una panetteria. Buljarica non ha nulla.",
+    "tipTimeLabel": "Periodo migliore:",
+    "tipTimeVal": "Giugno e settembre. Luglio e agosto vanno bene ma sono piu affollati. In ottobre molti ristoranti chiudono.",
+
+    "glanceTitle": "In breve",
+    "glanceDistance": "Distanza da Budva",
+    "glanceDistanceVal": "17 km fino a Petrovac",
+    "glanceDrive": "Tempo di percorrenza",
+    "glanceDriveVal": "~25 minuti",
+    "glanceBest": "Mesi migliori",
+    "glanceBestVal": "Giugno e settembre",
+    "glanceBeach": "Spiaggia piu tranquilla",
+    "glanceBeachVal": "Buljarica (giorni feriali)"
+  },
+
+  "blogRainy": {
+    "title": "Giornata di pioggia a Budva: cosa fare quando il sole si nasconde",
+    "subtitle": "Musei, rituali del caffe, percorsi panoramici e ritiri spa per i giorni grigi sulla riviera.",
+    "description": "Anche la Riviera di Budva ha la pioggia. Quando l'Adriatico diventa grigio e la spiaggia e fuori discussione, la tentazione e restare in appartamento e aspettare. Non fatelo. Un giorno di pioggia a Budva rivela una citta diversa — con musei nella fortezza, cultura del caffe nelle viuzze in pietra, piscine spa e percorsi costieri spettacolari dove i riflessi sulla strada bagnata sono meta dello spettacolo. Ecco come riempire una giornata grigia senza sprecarla.",
+
+    "h2Rain": "Pioggia sulla riviera",
+    "rainP1": "Budva riceve la maggior parte della pioggia tra novembre e marzo, ma gli acquazzoni estivi capitano — rovesci improvvisi che arrivano dalle montagne, inzuppano tutto per un'ora e lasciano l'aria profumata di pietra bagnata e pini. Raramente durano tutto il giorno. Se vi svegliate con il cielo grigio in luglio o agosto, e probabile che il sole ricompaia nel primo pomeriggio.",
+    "rainP2": "La pioggia autunnale e primaverile e diversa: puo insediarsi per un giorno o due, trasformando i vicoli del centro storico in fiumi riflettenti e svuotando completamente le spiagge. Sono i giorni in cui Budva mostra un lato piu tranquillo e suggestivo che la maggior parte dei visitatori estivi non vede mai. La citta non e progettata per la pioggia — e una localita balneare — ma la gestisce meglio di quanto ci si aspetterebbe.",
+
+    "h2Museums": "I musei del centro storico",
+    "museumsP": "La Cittadella all'estremita meridionale della penisola del centro storico ospita un piccolo museo con monete romane, ceramiche medievali e un modello in rilievo di Budva prima del terremoto del 1979. L'ingresso costa un paio d'euro e i bastioni coperti vi tengono all'asciutto. Il Museo Marittimo sulla via principale espone modelli di navi, antichi strumenti di navigazione e fotografie della storia marinara della citta. Nessuno dei due e abbastanza grande da riempire un pomeriggio, ma insieme con una pausa caffe in mezzo offrono due piacevoli ore al coperto. Se siete disposti a guidare 25 km fino a Kotor, il Museo Marittimo di la e il migliore della regione e riempie facilmente una mattinata piovosa.",
+
+    "altInline": "Vicoli in pietra bagnati nel centro storico di Budva in un pomeriggio di pioggia",
+
+    "h2Coffee": "Il rituale del caffe",
+    "coffeeP": "I montenegrini trattano il caffe come un evento, non come una dose rapida. Una mattinata piovosa e la scusa perfetta per adottare il ritmo locale. I caffe del centro storico restano aperti tutto l'anno e sono al massimo della loro atmosfera nei giorni grigi — pareti in pietra, interni illuminati a candela e il suono della pioggia nel vicolo fuori. Ordinate un domaca kafa (caffe montenegrino/turco) e lasciatelo depositare prima di sorseggiare. La maggior parte dei locali serve anche succhi freschi, rakija e dolci leggeri. Prendetevi tempo. Nessuno ha fretta. Il caffe sulla piccola piazza vicino al portone principale serve caffe nella stessa sala in pietra da decenni e sembra costruito apposta per questo tipo di giornata.",
+
+    "h2Drives": "Percorsi panoramici sotto la pioggia",
+    "drivesP": "Alcuni dei migliori percorsi della riviera migliorano con la pioggia. La strada costiera verso sud fino a Petrovac brilla di riflessi della strada bagnata e il mare assume un grigio ardesia drammatico. La strada di montagna verso nord in direzione Lovcen scompare nella nebbia alle quote piu alte, creando un percorso suggestivo attraverso la pineta. Il percorso del Lago di Scutari e particolarmente bello nelle giornate nuvolose quando l'acqua riflette il cielo argenteo. Guidate con prudenza — le strade di montagna possono essere scivolose e la visibilita cala nei tornanti. Per un itinerario completo al Lago di Scutari, consultate la nostra",
+    "drivesLink": "guida alla gita al Lago di Scutari",
+
+    "h2Spa": "Spa e benessere",
+    "spaP": "Diversi grandi hotel lungo i tratti di Becici e Slovenska gestiscono centri spa aperti anche ai non ospiti. Piscine coperte, bagni turchi, saune e menu massaggi riempiono piacevolmente un pomeriggio piovoso. La spa del Splendid Conference resort a Becici e una delle opzioni meglio attrezzate, con piscina coperta vista mare. I trattamenti partono da circa 30 € per un massaggio base. Prenotate in anticipo in alta stagione — i giorni di pioggia riempiono la spa piu velocemente del previsto.",
+
+    "h2Shopping": "Shopping e mercati",
+    "shoppingP": "Budva non e una destinazione per lo shopping nel senso tradizionale, ma i giorni di pioggia rivelano alcune tappe interessanti. Il centro commerciale TQ Plaza vicino alla strada principale ha marchi di moda mainstream, un supermercato e un cinema con film doppiati e sottotitolati. Nel centro storico, alcuni negozi vendono olio d'oliva locale, prodotti alla lavanda e souvenir montenegrini un taglio sopra i soliti magneti da frigo. Il mercato verde dietro la stazione degli autobus e coperto e funziona con qualsiasi tempo — comprate miele locale, erbe essiccate e formaggio fatto in casa anche se non cucinate.",
+
+    "h2Tips": "Consigli per i giorni di pioggia",
+    "tipJacketLabel": "Giacca:",
+    "tipJacketVal": "Un impermeabile leggero basta per gli acquazzoni estivi. Autunno e primavera richiedono una vera giacca antipioggia.",
+    "tipDriveLabel": "Guida:",
+    "tipDriveVal": "Le strade bagnate sono scivolose, specialmente nei tornanti di montagna. Fari accesi, velocita ridotta, distanza di sicurezza extra.",
+    "tipTimingLabel": "Tempistiche:",
+    "tipTimingVal": "La pioggia estiva si schiarisce di solito in poche ore. Controllate le previsioni del pomeriggio prima di rinunciare alla spiaggia.",
+    "tipMoodLabel": "Godetevela:",
+    "tipMoodVal": "Il centro storico sotto la pioggia, con vicoli vuoti e pietra bagnata che riflette la luce dei lampioni, e piu fotogenico di quanto pensiate."
+  },
+
+  "blogSunrides": {
+    "title": "Alba e tramonto nei dintorni di Budva",
+    "subtitle": "Le migliori spiagge rivolte a est per l'alba e i promontori rivolti a ovest per il tramonto.",
+    "description": "La Riviera di Budva e orientata circa verso ovest, il che significa che i tramonti sull'Adriatico aperto sono l'attrazione principale. Ma la linea costiera curva abbastanza perche diverse spiagge catturino anche l'alba, con le montagne dietro come sfondo orientale drammatico. Questa guida copre i cinque posti migliori — due per l'alba, tre per il tramonto — con note sugli orari e consigli pratici per l'ora dorata su questo tratto di costa.",
+
+    "h2Why": "Perche l'ora dorata conta qui",
+    "whyP1": "La luce adriatica lungo la costa montenegrina ha una qualita che fotografi e pittori hanno cercato di descrivere per secoli. Qualcosa nell'angolo della costa, nella limpidezza dell'acqua e nel contenuto minerale delle scogliere calcaree crea un bagliore caldo e saturo nell'ultima ora prima del tramonto che e genuinamente diverso da altre coste mediterranee. I tetti rossi di Sveti Stefan, le mura in pietra del centro storico, le pareti rocciose a Mogren — tutti catturano questa luce e si trasformano.",
+    "whyP2": "L'alba e piu silenziosa e sottile. Il sole sorge dietro le montagne costiere, il che significa che non emerge come una sfera nitida sopra l'orizzonte ma piuttosto si riversa oltre il crinale in un'onda di arancione caldo che spazza il mare. Le spiagge sono vuote, l'aria e fresca e l'unico suono e l'acqua. Se siete mattinieri, questa e l'ora piu tranquilla che la riviera possa offrire.",
+
+    "h2Sunrise": "Punti per l'alba",
+    "h3Mogren": "Spiaggia di Mogren (rivolta a est-nordest)",
+    "mogrenP": "Le calette gemelle di Mogren sono protette da alte scogliere che bloccano il sole per i primi venti minuti dopo che spunta dalle montagne. Poi la luce si riversa attraverso la fessura e colpisce le pareti rocciose sul lato ovest, dorandole. L'effetto e teatrale — improvviso, caldo e svanito entro mezz'ora mentre il sole sale. Andate dal centro storico alle prime luci (il sentiero e sicuro ma non illuminato, portate la torcia del telefono). La spiaggia e deserta, il mare e piatto e la statua di bronzo della ballerina cattura i primi raggi sul braccio teso. L'alba di giugno e intorno alle 5:30; in agosto si sposta alle 6:15.",
+    "h3Becici": "Spiaggia di Becici (rivolta a est)",
+    "beciciP": "La lunga distesa piatta di Becici punta quasi direttamente a est, il che significa che l'alba colpisce l'intera lunghezza della spiaggia simultaneamente. Parcheggiate sulla strada vuota sopra e scendete sulla sabbia. Le montagne dietro Budva formano una sagoma frastagliata contro il cielo che si schiarisce. Quando il sole supera il crinale, la sabbia bagnata vicino alla linea dell'acqua si trasforma in uno specchio. E il miglior punto per l'alba se volete spazio aperto e una vista grandangolare. I bar sulla spiaggia non saranno ancora aperti, quindi portatevi il caffe in un thermos.",
+
+    "altInline": "Tramonto sull'Adriatico dalla costa di Budva",
+
+    "h2Sunset": "Punti per il tramonto",
+    "h3Jaz": "Spiaggia di Jaz (rivolta a ovest-nordovest)",
+    "jazP": "Jaz si apre direttamente verso il sole che tramonta con nulla tra voi e l'Italia se non mare aperto. L'ampia baia offre un lungo orizzonte, e il sole scende pulito nel mare nelle sere limpide. I bar sulla spiaggia all'estremita orientale servono cocktail che si abbinano bene alla vista. Nei weekend estivi, la folla del tramonto si riunisce spontaneamente e si crea un'atmosfera da festival improvvisato. Il parcheggio diventa piu facile nel tardo pomeriggio quando la folla da spiaggia se ne va. La collina dietro l'estremita occidentale offre un punto di vista leggermente elevato se volete la spiaggia nell'inquadratura.",
+    "h3Fort": "Belvedere di Fort Mogren (rivolto a ovest)",
+    "fortP": "Il sentiero dal centro storico alla spiaggia di Mogren passa davanti a una piccola piattaforma rialzata sopra il bordo della scogliera. Non e un punto panoramico ufficiale, ma i locali lo conoscono come il belvedere di Fort Mogren — i resti di una vecchia postazione difensiva con un muretto in pietra contro cui appoggiarsi. Da qui, guardate a ovest attraverso il mare aperto con la penisola di Budva alla vostra destra e le scogliere di Mogren sotto. Il tramonto cala direttamente davanti a voi. E meno affollato della cittadella del centro storico, piu tranquillo di Jaz, e richiede solo cinque minuti a piedi dall'Hotel Avala. Portate una giacca — la brezza sul bordo della scogliera si alza quando il sole scende.",
+    "h3Stefan": "Panorama di Sveti Stefan (rivolto a ovest-sudovest)",
+    "stefanP": "Il punto panoramico sulla strada sopra Sveti Stefan cattura l'ultima luce che dipinge la facciata occidentale dell'isola in arancione intenso e oro. I tetti in terracotta brillano, il mare diventa scuro come inchiostro ai bordi e le montagne dietro la costa diventano viola. E probabilmente la piu bella vista al tramonto di tutta la costa montenegrina. La piazzola si riempie all'ora dorata, quindi arrivate 45 minuti prima del tramonto per assicurarvi un posto. Combinate con una visita al centro storico al mattino — consultate la nostra guida alla",
+    "stefanLink": "passeggiata nel centro storico di Budva",
+
+    "h2Gear": "Attrezzatura e preparazione",
+    "gearCameraLabel": "Fotocamera:",
+    "gearCameraVal": "Qualsiasi fotocamera funziona, ma un grandangolare cattura l'intera ampiezza di queste viste costiere. Le fotocamere dei telefoni vanno bene se evitate lo zoom digitale.",
+    "gearTripodLabel": "Treppiede:",
+    "gearTripodVal": "Utile per l'alba quando la luce e bassa. Un mini treppiede su un muretto in pietra funziona perfettamente al belvedere di Fort Mogren.",
+    "gearLayerLabel": "Strato:",
+    "gearLayerVal": "Le sere si raffreddano velocemente sulla costa dopo il tramonto. Un pile leggero o una felpa in auto vi risparmiano i brividi durante le foto dell'ora blu.",
+    "gearCoffeeLabel": "Scorte:",
+    "gearCoffeeVal": "I punti dell'alba non hanno caffe aperti. Portate un thermos e un dolce dalla panetteria la sera prima.",
+
+    "glanceTitle": "In breve",
+    "glanceSunrise": "Miglior punto per l'alba",
+    "glanceSunriseVal": "Spiaggia di Becici (vista grandangolare)",
+    "glanceSunset": "Miglior punto per il tramonto",
+    "glanceSunsetVal": "Panorama stradale di Sveti Stefan",
+    "glanceBestMonth": "Mesi migliori",
+    "glanceBestMonthVal": "Maggio–settembre (cieli piu limpidi)",
+    "glanceGear": "Attrezzatura essenziale",
+    "glanceGearVal": "Thermos, giacca, grandangolare"
   }
 }

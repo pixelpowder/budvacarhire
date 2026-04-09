@@ -66,6 +66,7 @@ export default function Footer() {
         </FooterColumn>
 
         <FooterColumn title={t('footer.guides')}>
+          <a href={localePath('/blog')} className="footer__link"><ChevronRight size={12} /> {t('nav.blog')}</a>
           <a href={localePath('/montenegro')} className="footer__link"><ChevronRight size={12} /> {t('footer.montenegroGuide')}</a>
           <a href={localePath('/border-crossing-guide')} className="footer__link"><ChevronRight size={12} /> {t('footer.borderGuide')}</a>
           <a href={localePath('/#destinations')} className="footer__link"><ChevronRight size={12} /> {t('footer.destinations')}</a>
@@ -87,7 +88,7 @@ export default function Footer() {
 
       <div className="footer__bottom">
         <span className="footer__copy">
-          &copy; 2007–{new Date().getFullYear()} {config.name}. All rights reserved.
+          &copy; {new Date().getFullYear()} {config.name}. All rights reserved.
         </span>
         <div className="footer__bottom-links">
           <a href={localePath('/privacy')} className="footer__bottom-link">{t('footer.privacyPolicy')}</a>

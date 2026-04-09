@@ -187,8 +187,145 @@
   <!-- Contact -->
   <url><loc>https://www.budvacarhire.com/contact</loc><changefreq>monthly</changefreq><priority>0.5</priority></url>
 
-  <!-- Blog -->
-  <url><loc>https://www.budvacarhire.com/blog</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <!-- Blog Listing -->
+  <url>
+    <loc>https://www.budvacarhire.com/blog</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/blog" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.budvacarhire.com/de/blog" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.budvacarhire.com/ru/blog" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.budvacarhire.com/it/blog" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/blog" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/blog" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/blog" />
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Blog: Budva Old Town Walking -->
+  <url>
+    <loc>https://www.budvacarhire.com/blog/budva-old-town-walking</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/blog/budva-old-town-walking" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.budvacarhire.com/de/blog/budva-old-town-walking" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.budvacarhire.com/ru/blog/budva-old-town-walking" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.budvacarhire.com/it/blog/budva-old-town-walking" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/blog/budva-old-town-walking" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/blog/budva-old-town-walking" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/blog/budva-old-town-walking" />
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Blog: Sveti Stefan Viewpoints -->
+  <url>
+    <loc>https://www.budvacarhire.com/blog/sveti-stefan-viewpoints</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/blog/sveti-stefan-viewpoints" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.budvacarhire.com/de/blog/sveti-stefan-viewpoints" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.budvacarhire.com/ru/blog/sveti-stefan-viewpoints" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.budvacarhire.com/it/blog/sveti-stefan-viewpoints" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/blog/sveti-stefan-viewpoints" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/blog/sveti-stefan-viewpoints" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/blog/sveti-stefan-viewpoints" />
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Blog: Budva Riviera Beach Hop -->
+  <url>
+    <loc>https://www.budvacarhire.com/blog/budva-riviera-beach-hop</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/blog/budva-riviera-beach-hop" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.budvacarhire.com/de/blog/budva-riviera-beach-hop" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.budvacarhire.com/ru/blog/budva-riviera-beach-hop" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.budvacarhire.com/it/blog/budva-riviera-beach-hop" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/blog/budva-riviera-beach-hop" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/blog/budva-riviera-beach-hop" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/blog/budva-riviera-beach-hop" />
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Blog: Budva to Skadar Day -->
+  <url>
+    <loc>https://www.budvacarhire.com/blog/budva-to-skadar-day</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/blog/budva-to-skadar-day" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.budvacarhire.com/de/blog/budva-to-skadar-day" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.budvacarhire.com/ru/blog/budva-to-skadar-day" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.budvacarhire.com/it/blog/budva-to-skadar-day" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/blog/budva-to-skadar-day" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/blog/budva-to-skadar-day" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/blog/budva-to-skadar-day" />
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Blog: Budva Nightlife Guide -->
+  <url>
+    <loc>https://www.budvacarhire.com/blog/budva-nightlife-guide</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/blog/budva-nightlife-guide" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.budvacarhire.com/de/blog/budva-nightlife-guide" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.budvacarhire.com/ru/blog/budva-nightlife-guide" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.budvacarhire.com/it/blog/budva-nightlife-guide" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/blog/budva-nightlife-guide" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/blog/budva-nightlife-guide" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/blog/budva-nightlife-guide" />
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Blog: Budva Gastro Scene -->
+  <url>
+    <loc>https://www.budvacarhire.com/blog/budva-gastro-scene</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/blog/budva-gastro-scene" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.budvacarhire.com/de/blog/budva-gastro-scene" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.budvacarhire.com/ru/blog/budva-gastro-scene" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.budvacarhire.com/it/blog/budva-gastro-scene" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/blog/budva-gastro-scene" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/blog/budva-gastro-scene" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/blog/budva-gastro-scene" />
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Blog: Petrovac to Buljarica -->
+  <url>
+    <loc>https://www.budvacarhire.com/blog/petrovac-to-buljarica</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/blog/petrovac-to-buljarica" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.budvacarhire.com/de/blog/petrovac-to-buljarica" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.budvacarhire.com/ru/blog/petrovac-to-buljarica" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.budvacarhire.com/it/blog/petrovac-to-buljarica" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/blog/petrovac-to-buljarica" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/blog/petrovac-to-buljarica" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/blog/petrovac-to-buljarica" />
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Blog: Budva Rainy Day -->
+  <url>
+    <loc>https://www.budvacarhire.com/blog/budva-rainy-day</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/blog/budva-rainy-day" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.budvacarhire.com/de/blog/budva-rainy-day" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.budvacarhire.com/ru/blog/budva-rainy-day" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.budvacarhire.com/it/blog/budva-rainy-day" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/blog/budva-rainy-day" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/blog/budva-rainy-day" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/blog/budva-rainy-day" />
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Blog: Budva Sunrise Sunset -->
+  <url>
+    <loc>https://www.budvacarhire.com/blog/budva-sunrise-sunset</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/blog/budva-sunrise-sunset" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.budvacarhire.com/de/blog/budva-sunrise-sunset" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.budvacarhire.com/ru/blog/budva-sunrise-sunset" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.budvacarhire.com/it/blog/budva-sunrise-sunset" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/blog/budva-sunrise-sunset" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/blog/budva-sunrise-sunset" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/blog/budva-sunrise-sunset" />
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
 
   <!-- Privacy Policy -->
   <url>

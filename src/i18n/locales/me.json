@@ -1,6 +1,7 @@
 {
   "nav": {
     "book": "Rezerviši",
+    "blog": "Blog",
     "destinations": "Destinacije",
     "about": "O Nama"
   },
@@ -549,5 +550,451 @@
     "route3": "Budva → Skadar (Albanija): 2,5 sata preko obalnog prelaza kod Ulcinja",
     "route4": "Podgorica → Beograd (Srbija): 5-6 sati putem E65 na sjever",
     "ctaText": "Trebate automobil sa prekograničnom dokumentacijom? Pretražite našu flotu — samo odaberite odredišne zemlje pri rezervaciji i mi ćemo urediti Zelenu kartu."
+  },
+
+  "blogIndex": {
+    "heroTitle": "Vodiči za putovanja po Budvanskoj rivijeri",
+    "heroSubtitle": "Lokalno znanje, vozačke rute i obalne tajne od ljudi koji zaista žive na ovom dijelu Jadrana.",
+    "breadcrumbBlog": "Blog",
+    "readGuide": "Pročitaj vodič",
+    "card_oldtown_title": "Šetnja starim gradom Budve: slojevi kamena i mora",
+    "card_oldtown_excerpt": "Samostalna ruta kroz 2.500 godina staru tvrđavu na poluostrvu, od glavne kapije do terase citadele i svakog skrivenog dvorišta.",
+    "card_stefan_title": "Vidikovci Svetog Stefana: đe stati i diviti se",
+    "card_stefan_excerpt": "Četiri uzvišene tačke duž obalne ceste koje uokviruju najfotografisaniji crnogorski ostrov u potpuno različitom svjetlu.",
+    "card_beaches_title": "Obilazak plaža Budvanske rivijere automobilom",
+    "card_beaches_excerpt": "Vožnja od śevera do juga koja pokriva pet različitih plaža u jednom danu, sa informacijama o parkingu i savjetima za svaku stanicu.",
+    "card_skadar_title": "Od Budve do Skadarskog jezera: cjelodnevna vožnja",
+    "card_skadar_excerpt": "Zamijenite ležaljke pelikanima, vinogradima i najvećim jezerom Balkana na slikovitoj vožnji u unutrašnjost sa obale.",
+    "card_nightlife_title": "Budva poslije zalaska sunca: vodič za noćni život",
+    "card_nightlife_excerpt": "Od koktela na krovnim terasama iznad zidina starog grada do kluba na litici Top Hill — ovđe rivijera odlazi kad sunce zađe.",
+    "card_gastro_title": "Kulinarstvom kroz Budvu: gastro vodič",
+    "card_gastro_excerpt": "Konobe na obali, terase na brdu i tezge zelene pijace đe kuvari kupuju — gastronomska tura po rastućoj kulinarskoj sceni rivijere.",
+    "card_petrovac_title": "Petrovac do Buljarice: tiha obala na jugu",
+    "card_petrovac_excerpt": "Ostavite budvansku gužvu iza sebe i vozite 25 minuta na jug do mirnijeg dijela obale sa skrivenim uvalama, maslinicima i praznom plažom od kilometar.",
+    "card_rainy_title": "Kišni dan u Budvi: šta raditi kad se sunce sakrije",
+    "card_rainy_excerpt": "Muzeji iza tvrđavskih zidina, rituali s kafom u kafićima kamenih uličica i panoramske vožnje koje pod sivim nebom izgledaju još ljepše.",
+    "card_sunrides_title": "Izlasci i zalasci sunca oko Budve",
+    "card_sunrides_excerpt": "Najbolje plaže okrenute istoku za zoru i rtovi okrenuti zapadu za suton, sa tabelama vremena i savjetima o opremi za lovce na zlatni čas."
+  },
+
+  "blogHome": {
+    "sectionLabel": "Vodiči za putovanja",
+    "sectionTitle": "Sa našeg bloga",
+    "sectionSubtitle": "Obalne rute, skrivene plaže i lokalni savjeti za istraživanje Budvanske rivijere automobilom.",
+    "viewAll": "Pogledaj sve vodiče"
+  },
+
+  "blogOldtown": {
+    "title": "Šetnja starim gradom Budve: slojevi kamena i mora",
+    "subtitle": "Samostalna ruta kroz 2.500 godina staru tvrđavu na poluostrvu, od glavne kapije do terase citadele.",
+    "description": "Zidinama opasani stari grad Budve smješten je na kompaktnom poluostrvu širokom jedva 200 metara, a većina posjetilaca ga prođe za dvadeset minuta. To je greška. Ispod površine suvenirnica kriju se rimski mozaici, mletački zvonici i citadela koja je gledala carstva kako dolaze i odlaze tokom dva i po milenijuma. Ovaj vodič vas vodi kako treba.",
+
+    "h2Layers": "Dvadeset pet vjekova na dvjesta metara",
+    "layersP1": "Poluostrvo starog grada strši u Jadran poput stisnutog šaka. Grci su se ovđe nastanili oko 500. godine prije nove ere, i svaki vijek od tada ostavio je otisak u kamenu. Mogu se pratiti ako znate đe gledati: komad kiklopskog zida blizu istočne kapije, rimski pod sakriven ispod zlatare, mletački lavovi urezani iznad vrata i fasade iz austrijskog perioda u terakoti i okeru. Zemljotres 1979. sravnio je mnogo toga, ali obnova je koristila originalni kamen i ostala vjerna srednjovjekovnom planu ulica.",
+    "layersP2": "Za potpun obilazak starog grada treba oko devedeset minuta, uključujući citadelu i crkve. Krenite rano — do deset sati ljeti stižu grupe s kruzera i uske uličice postaju prenatrpane. Rano jutarnje svjetlo takođe savršeno pada na istočne zidine, što je važno ako nosite fotoaparat.",
+
+    "h2Gates": "Ulazak kroz glavnu kapiju",
+    "gatesP": "Glavna kopnena kapija gleda na moderni grad preko malog kamenog mosta. Iznad luka, isklesani reljef grba Budve vas dočekuje — stilizovana riba iznad talasa, sa krunom. Prođite i stupate na polirani krečnjački pod koji su generacije stopala ugladile. Odmah lijevo, uske stepenice vode gore na šetnicu po zidinama. Popnite se. Uzdignuta staza ide duž śevernog zida i daje vam pogled iz ptičje perspektive na stari grad prije nego što siđete u njegove sokake. Odavde vidite sve četiri crkve, kulu citadele i luku đe se ribarski čamci i dalje privezuju svakog jutra.",
+
+    "altInline": "Uske kamene uličice u starom gradu Budve",
+
+    "h2Churches": "Tri crkve, tri priče",
+    "h3Trinity": "Crkva Svete Trojice",
+    "trinityP": "Ova kompaktna pravoslavna crkva stoji na trgu odmah iza glavne kapije, zaśenjena susjedima, ali nemoguća za propustiti zahvaljujući prepoznatljivom prugastom zidanju — naizmjenične trake sivog i ružičastog kamena. Podignuta 1804. tokom kratkog perioda ruske zaštite, njen interijer čuva pozlaćene ikone i oslikan plafon koji hvata popodnevno svjetlo kroz jedan visoki prozor. Potražite grob Stjepana Mitrova Ljubiše, pisca i državnika iz 19. vijeka, ugrađen u spoljašnji zid.",
+    "h3John": "Crkva Svetog Jovana",
+    "johnP": "Najviši zvonik na poluostrvu pripada ovoj katoličkoj crkvi, obnovljenoj nakon zemljotresa 1667. i ponovo nakon 1979. Unutra, ikona Bogorodice sa Djetetom privlači stalan tok hodočasnika. Crkvena biblioteka nekad je čuvala jednu od najfinijih kolekcija rukopisa na jadranskoj obali, mada su većina komada preneseni u Cetinje radi čuvanja prije vjekova. Zvonik nije otvoren za penjanje, ali uokviruje najbolje fotografije starog grada sa strane luke.",
+    "h3Mary": "Santa Marija in Punta",
+    "maryP": "Priljubljena uz zidine citadele na južnom vrhu poluostrva, ova crkva iz devetog vijeka najstarija je preživjela građevina u Budvi. Mala je — više kapela nego crkva — a službe su odavno prestale, ali kamena ljuštura opstaje. Lokalna legenda kaže da je zgrada sastavljena od djelova još starije crkve na istom mjestu. Akustika unutra je izvanredna, i povremeno ugošćuje male koncerte tokom ljetnjeg pozorišnog festivala.",
+
+    "h2Citadel": "Terasa citadele",
+    "citadelP": "Citadela usidruje južni kraj poluostrva. Ulaz košta nekoliko eura i omogućava pristup zidinama, maloj biblioteci i restoranu na otvorenoj terasi na vrhu. Pogled s terase je razlog dolaska: Jadran se pruža na zapad prema Italiji, ostrvo Sveti Nikola leži direktno ispred obale, a po vedrim danima albanske planine se naziru kao blijeda siva linija na jugu. Zalazak sunca odavde, s čašom vina Vranac, najljepši je trenutak koji Budva može ponuditi. Citadela takođe sadrži skroman muzej s rimskim i srednjovjekovnim nalazima — ulomci keramike, kovanice i reljefni model grada prije zemljotresa.",
+
+    "h2Walk": "Kuda šetnja vodi dalje",
+    "walkP": "Izađite iz citadele i vratite se duž južnog pomorskog zida. Drvena šetnica prati ivicu litice i vodi do Ričardove Glave, malog starogradskog kupališta između tvrđavskih zidina i stijena. Brzo se napuni, ali kasno popodnevno kupanje ovđe — gledajući gore prema kamenim bastionima — teško je nadmašiti. Sa šetnice, stepenice se penju nazad u sokake blizu luke. Ako vam noge i apetit još služe, nastavite do restorana na obali odmah izvan zidina za",
+    "walkLink": "najbolje iz gastro scene",
+
+    "h2Tips": "Praktični savjeti",
+    "tipTimeLabel": "Najbolje vrijeme:",
+    "tipTimeVal": "Prije 9 ujutro ljeti, ili poslije 18h kad turistički grupe odu i svjetlo postane zlatno.",
+    "tipShoesLabel": "Obuća:",
+    "tipShoesVal": "Polirani krečnjački pod je klizav kad je mokar. Ravne cipele s dobrim đonom neophodne su poslije kiše.",
+    "tipPhotoLabel": "Fotografija:",
+    "tipPhotoVal": "Jutarnje svjetlo pada na istočne zidine i luku. Zalazak nagrađuje s terase citadele okrenute zapadu.",
+    "tipSeasonLabel": "Vansezona:",
+    "tipSeasonVal": "Od oktobra do aprila stari grad je skoro prazan. Kafići ostaju otvoreni, citadela je mirnija, i možete fotografisati uličice bez ijedne osobe u kadru.",
+
+    "glanceTitle": "Ukratko",
+    "glanceArea": "Područje",
+    "glanceAreaVal": "Poluostrvo starog grada Budve",
+    "glanceDuration": "Vrijeme šetnje",
+    "glanceDurationVal": "60–90 minuta",
+    "glanceCitadel": "Ulaz u citadelu",
+    "glanceCitadelVal": "~3,50 €",
+    "glanceBest": "Najbolje vrijeme",
+    "glanceBestVal": "Rano jutro ili zlatni čas"
+  },
+
+  "blogStefan": {
+    "title": "Vidikovci Svetog Stefana: đe stati i diviti se",
+    "subtitle": "Četiri uzvišene tačke duž obalne ceste koje uokviruju najfotografisaniji crnogorski ostrov.",
+    "description": "Sveti Stefan je slika koja prodaje Crnu Goru svijetu — grupu kamenih kuća s terakotnim krovovima na stjenovitom ostrvu, povezanom s kopnom uskim nasipom. Samo ostrvo je sada Aman resort i zatvoreno za ne-goste, ali pogledi s okolnih brda i plaža su besplatni, spektakularni i različiti zavisno od toga đe stojite. Ovaj vodič pokriva četiri najbolje tačke.",
+
+    "h2Island": "Zašto se svi zaustavljaju ovđe",
+    "islandP1": "Ostrvska utvrda datira iz 15. vijeka, podignuta od strane klana Paštrovića kao utočište od osmanskih napada. Ribarske kolibe postale su aristokratske ljetnje kuće, zatim socijalistički hotelski kompleks koji je ugostio sve od Sofije Loren do kraljice Elizabete. Aman grupa preuzela je 2011. i pretvorila ga u jedan od najekskluzivnijih resorta na Mediteranu.",
+    "islandP2": "Ništa od te istorije ne zanima vaš fotoaparat. Važna je geometrija: gotovo savršena kupola crvenih krovova na sivom kamenu, povezana sa zelenim brdom nitju pijeska. Prizor se dramatično mijenja zavisno od doba dana, vremena i vaše nadmorske visine. Jutarnja magla ga čini eteričnim. Oštro podnevno sunce ga spljoštava. Kasno popodnevno bočno svjetlo mu daje dubinu i toplinu. Želite biti ovđe u pravo vrijeme, na pravom mjestu.",
+
+    "h2Drive": "Kako stići iz Budve",
+    "driveP": "Sveti Stefan leži 8 km južno od Budve duž obalne ceste Jadranski put. Vožnja traje oko 12 minuta bez saobraćaja, duže ljetnjim popodnevima kad se cesta zaguši kod Bečića. Nema direktnog autobusa iz starog grada Budve — najbliže stajalište je na glavnoj cesti iznad, sa strmim spuštanjem do nasipa. Vožnja automobilom daje vam fleksibilnost da posjetite više vidikovaca u jednom obilasku.",
+
+    "altInline": "Pogled na ostrvo Sveti Stefan s obalne ceste odozgo",
+
+    "h2Spots": "Četiri vidikovca",
+    "h3Panorama": "1. Panorama s ceste",
+    "panoramaP": "Ovo je klasičan razglednički snimak. Vozeći se na jug iz Budve, cesta skreće lijevo iznad Svetog Stefana i proširenje se pojavljuje na morskoj strani. Uđite pažljivo — prostor prima oko šest automobila. Odavde gledate na ostrvo sa oko 80 metara nadmorske visine. Cijelo ostrvce, nasip, obje plaže i pošumljeno brdo iza staju u jedan širokokutni kadar. Zlatni čas je idealno vrijeme, ali pogled funkcioniše u svakom svjetlu. Mala ograda i kameni zid označavaju ivicu, dovoljno sigurno za djecu, mada je pad značajan.",
+    "h3Beach": "2. Nivo plaže na kopnu",
+    "beachP": "Siđite s glavne ceste (ili se dovezite do malog parkinga dole) i stižete na javnu plažu na kopnenoj strani nasipa. Odavde se Sveti Stefan uzdiže iznad vas — potpuno drugačija perspektiva od pogleda odozgo. Kameni zidovi i balkoni vidljivi su u detalju, a nasip se pruža ispred vas. Kupanje ovđe znači imati ostrvo za pozadinu. Kasno jutarnje sunce lijepo osvjetljava istočnu stranu ostrova iz ovog ugla.",
+    "h3Milocer": "3. Staza parka Miločer",
+    "milocerP": "Śeverno od nasipa, pješačka staza prolazi kroz kompleks nekadašnjeg kraljevskog imanja Miločer. Botanički park sadrži visoke borove, italijanske čemprese i rijetke mediteranske biljke. Otvori u krošnji otkrivaju kose poglede na Sveti Stefan kroz drveće — intimnija, slikovitija kompozicija od širokog panoramskog pogleda s ceste. Staza je zaśenjena i ugodna čak i u ljetnjoj vrućini. Mala plaža Miločer (nekad Kraljičina plaža) nalazi se na kraju, mada je pristup ponekad ograničen za goste Amana.",
+    "h3Przno": "4. Luka Pržno",
+    "prznoP": "Nastavite 2 km južno od Svetog Stefana do ribarskog sela Pržno. Iz male luke možete pogledati na śever i vidjeti ostrvo u punom profilu na pozadini planina iza obale. Ovo je najslabije posjećen vidikovac i dobar izgovor da stanete na ribu na žaru u jednoj od lučkih konoba. Samo selo je šarmantno — uski sokaci, mačke na svakom zidu i tempo života koji izgleda decenijama iza Budve.",
+
+    "h2Light": "U potjeri za svjetlom",
+    "lightP": "Sveti Stefan gleda otprilike prema zapadu-jugozapadu, što znači da zalazak sunca direktno osvjetljava pomorsku stranu. Za izlazak sunca, trebate biti na panorami s ceste ili na plaži — jutarnje sunce izlazi iza planina i pogađa ostrvo toplim, niskim bočnim svjetlom. Oblačni dani daju najatmosferskije snimke, kad sivo more i crveni krovovi stvaraju prirodni kontrast. Za više lokacija zlatnog časa na rivijeri, pogledajte naš vodič o",
+    "lightLink": "izlascima i zalascima sunca",
+
+    "h2Parking": "Đe se parkirati",
+    "parkingP": "Proširenje na vidikovcu broj jedan prima oko šest automobila i besplatno je. Mali parking kod plaže košta oko 2–4 € po satu ljeti i puni se do kasnog jutra. Selo Pržno ima nekoliko mjesta duž lučke ceste, obično besplatnih van jula i avgusta. Ako je sve puno, parkirajte u Bečićima (3 km śeverno) i krenite obalnom stazom na jug — ugodna 35-minutna šetnja s pogledom na more cijelim putem.",
+
+    "glanceTitle": "Ukratko",
+    "glanceDistance": "Udaljenost od Budve",
+    "glanceDistanceVal": "8 km na jug",
+    "glanceDrive": "Vrijeme vožnje",
+    "glanceDriveVal": "12 minuta",
+    "glanceBestLight": "Najbolje svjetlo",
+    "glanceBestLightVal": "Zlatni čas / oblačna jutra",
+    "glanceParking": "Parking",
+    "glanceParkingVal": "Besplatno proširenje ili 2–4 €/sat na plaži"
+  },
+
+  "blogBeaches": {
+    "title": "Obilazak plaža Budvanske rivijere automobilom",
+    "subtitle": "Vožnja od śevera do juga sa pet različitih plaža u jednom danu.",
+    "description": "Dvadeset jedan kilometar obale vijuga južno od Budve, i svaka plaža ima drugačiji karakter. Jaz je širok i pješčan s festivalskom energijom. Mogren se krije iza tunela u litici. Slovenska bruja od carstva ležaljki. Bečići se protežu na lijen kilometar porodičnog pijeska. Kamenovo nagrađuje trud pronalaženja. Rentakar i rani start omogućavaju vam da posjetite svih pet prije popodnevnih gužvi.",
+
+    "h2Why": "Zašto voziti umjesto hodati",
+    "whyP1": "Mogli biste hodati između nekih od ovih plaža — Mogren je kratka staza sa litice od starog grada, a Slovenska je baš u centru Budve. Ali Jaz je 3 km śeverozapadno, Bečići 3 km jugoistočno, a Kamenovo između na cesti bez trotoara. Bez automobila, zavisite od taksija i ljetnjeg reda vožnje autobusa koji se mijenja svake godine.",
+    "whyP2": "S automobilom, vi postavljate raspored: Jaz u 8 kad je pijesak prazan i parking besplatan. Mogren do 10 prije nego se staza kroz tunel napuni. Slovenska za brzu kafu na obali. Bečići za ručak u restoranu na plaži. Kamenovo kasno popodne kad litice bacaju śenku na zapadni dio. Pokrijete cijelu rivijeru za jedan dan i stignete na večeru.",
+
+    "h2Jaz": "Stanica 1: Plaža Jaz",
+    "jazP": "Tri kilometra śeverozapadno od starog grada, Jaz je najveća otvorena plaža rivijere — luk od 1,2 km mješavine pijeska i sitnog šljunka okružen zelenim brdima. Muzički festival Sea Dance postavlja pozornice ovđe ljeti, i atmosfera ostaje energična i van festivalskih dana. Parking je stepenast: gornji je besplatan ali zahtijeva pet minuta hoda. Onaj bliže plaži košta 3–5 € zavisno od blizine. Stignite vikendom prije 9 ili ćete parkirati na bankini. Zapadni dio je mirniji i ima mali dio popularan među nudistima. Istočni dio ima barove i iznajmljivanje ležaljki.",
+
+    "h2Mogren": "Stanica 2: Plaža Mogren",
+    "mogrenP": "Dvije povezane uvale sakrivene iza tunela u litici, na samo 500 metara od zidina starog grada. Pristupa im se popločanom obalnom stazom koja počinje kod hotela Avala. Tunel je kratak i dramatičan — probijen kroz tvrdi kamen dok more udara ispod. Mogren I je prva uvala, s iznajmljivanjem ležaljki i barom na plaži. Nastavite kroz prirodni kameni luk do Mogren II, koji je mirniji i ima poznatu bronzanu statuu balerine na stijenama. Obala od šljunka strmo pada, čineći vodu dubokom i bistrom blizu obale. Nema parkinga u blizini — hodajte iz starog grada ili koristite ulične parkinge duž staze.",
+
+    "altInline": "Pogled iz vazduha na plažu Bečići duž obale Budvanske rivijere",
+
+    "h2Slovenska": "Stanica 3: Slovenska plaža",
+    "slovenskaP": "Glavna gradska plaža Budve proteže se 1,6 km pravo kroz centar, ispod šetališta. Nije najljepša — pijesak je grub, iznajmljivači ležaljki su naporni, i nikad nijeste više od trideset metara od bara s glasnom muzikom. Ali je praktična, ima spasilce cijelo ljeto, i plitak ulaz je čini popularnom među porodicama. Istočni dio kod kompleksa Lido je bolje organizovan. Zapadni dio bliži starom gradu je uži i manje komercijalan. Popijte kafu na šetalištu i gledajte kako se plaža puni — pa krenite na mirniji pijesak.",
+
+    "h2Becici": "Stanica 4: Plaža Bečići",
+    "beciciP": "Blag polumjesec od 2 km finog pijeska koji je 1936. osvojio parisku turističku nagradu i još uvijek je zaslužuje. Voda je plitka na dugu udaljenost, spasioci su na dužnosti u sezoni, i niz restorana na plaži znači da možete jesti grilovane lignje a da ne napustite pijesak. Operateri vodenih sportova nude jet-ski, parasailing i banana čamce u centralnom dijelu. Parking je na plaćenim lokacijama uz glavnu cestu iznad — oko 3 €/sat u špicu sezone. Za mirniji dio, nastavite pored glavnog ulaza prema Rafailovićima đe se plaža sužava i gužva rijetje. To je i polazna tačka za istraživanje",
+    "beciciLink": "obale južno prema Petrovcu",
+
+    "h2Kamenovo": "Stanica 5: Plaža Kamenovo",
+    "kamenovoP": "Između Bečića i Pržna, sporedna cesta strmo silazi do ove zaštićene uvale. To je plaža koju lokalni biraju kad žele izbjeći budvansku scenu. Jedan bar na plaži radi ljeti, iznajmljuje ležaljke i služi piće, ali atmosfera je opuštena i voda je među najbistrijom na rivijeri. Obala od šljunka okružena je stjenovitim grebenom dobrim za ronjenje s maskom. Parking je ograničen na mali šljunkoviti plato na vrhu pristupne ceste — petnaestak mjesta. Stignite do kasnog jutra ili nemate sreće.",
+
+    "h2Packing": "Šta ponijeti za dan na plaži",
+    "packShoesLabel": "Cipele za vodu:",
+    "packShoesVal": "Neophodne za Mogren i Kamenovo đe šljunak boli gola stopala.",
+    "packSunLabel": "Zaštita od sunca:",
+    "packSunVal": "Faktor 50 i šešir. Sunce na rivijeri prži od juna do septembra, a śenke na otvorenim plažama je malo.",
+    "packCashLabel": "Gotovina:",
+    "packCashVal": "Mnogi barovi na plaži i parking čuvari i dalje preferiraju gotovinu. Držite 20 € u sitnim novčanicama.",
+    "packSnorkelLabel": "Oprema za ronjenje:",
+    "packSnorkelVal": "Kamenovo i Mogren II imaju stjenovite rubove s iznenađujuće dobrom vidljivošću za ronjenje s maskom.",
+
+    "glanceTitle": "Ukratko",
+    "glanceCoast": "Pokrivena obala",
+    "glanceCoastVal": "~12 km od śevera do juga",
+    "glanceBeaches": "Plaže",
+    "glanceBeachesVal": "5 različitih stanica",
+    "glanceBest": "Najbolje vrijeme polaska",
+    "glanceBestVal": "8 ujutro za parking na Jazu",
+    "glanceParking": "Cijena parkinga",
+    "glanceParkingVal": "Besplatno do 5 € zavisno od plaže"
+  },
+
+  "blogSkadar": {
+    "title": "Od Budve do Skadarskog jezera: cjelodnevna vožnja",
+    "subtitle": "Zamijenite ležaljke pelikanima, vinogradima i najvećim jezerom Balkana.",
+    "description": "Sat vožnje u unutrašnjost od Budve, obala potpuno nestaje i pejzaž se otvara u močvare, vinorodne brežuljke i prostranstvo tišine Skadarskog jezera. Ovđe se gnijezdi 270 vrsta ptica, ovđe crnogorski vinari njeguju neke od najstarijih loza Evrope, i ovđe možete provesti cijelo popodne na drvenom čamcu a da ne vidite drugog turistu. To je najbolji jednodnevni izlet s rivijere o kojem na plaži niko ne priča.",
+
+    "h2Why": "Zašto napustiti plažu",
+    "whyP1": "Poslije tri dana na Budvanskoj rivijeri, čak i najposvećeniji ljubitelj sunčanja počinje da se pita šta još ima. Skadarsko jezero odgovara na to pitanje uvjerljivo. Rasprostrto na granici Crne Gore i Albanije, najveće je jezero u južnoj Evropi — 48 km dugačko i do 14 km široko u kišnoj sezoni. Nacionalni park štiti 40.000 hektara močvara, otvorene vode i pošumljenih ostrva.",
+    "whyP2": "Kudravi pelikani se ovđe gnijezde — jedna od svega nekoliko kolonija u Evropi. Kormorani, čaplje i mali kormorani su česti prizori. U jesen, močvare požute i počinje berba grožđa na okolnim brežuljcima. Čak i u špicu ljeta, jezero je tiho. Većina turista s rivijere nikad ne stigne dovde, što znači da vožnje čamcem i degustacije vina djeluju kao privatni događaji.",
+
+    "h2Route": "Vožnja iz Budve",
+    "routeP": "Krenite śeverom prema Podgorici na E65 i skrenite kod Virpazara — glavnog pristupnog mjesta na śevernoj obali jezera. Ukupna udaljenost je oko 65 km, a vožnja traje nešto više od sat zavisno od saobraćaja kroz tunel Sozina. Putarina za tunel je par eura. Iza njega, pejzaž se brzo mijenja: zelena brda ustupaju mjesto ravnim močvarama dok se jezero pojavljuje iza okuke. Virpazar se nalazi na ušću rijeke Crmnice u jezero i polazna je tačka za vožnje čamcem i najbolje mjesto za parkiranje.",
+
+    "altInline": "Skadarsko jezero u izlasku sunca s planinama u pozadini",
+
+    "h2Rijeka": "Zaustavljanje u Rijeci Crnojevića",
+    "rijekaP": "Prije nego što krenete na jezero, skrenite sporednom cestom na istok do Rijeke Crnojevića — tihog riječnog sela koje je nekad bilo trgovačko mjesto stare crnogorske prijestolnice. Kameni most preko rijeke jedno je od najfotografisanijih mjesta u zemlji. Potkovičasti zaokret rijeke ispod vidikovca zaista je spektakularan. Nekoliko restorana služi slatkovodnu ribu — dimljeni šaran i jegulja su lokalne specijalnosti. Selo dnevno primi šaku posjetilaca u poređenju s budvanskim hiljadama, i atmosfera je čudesno mirna.",
+
+    "h2Lake": "Na vodi",
+    "lakeP": "Vožnje čamcem polaze iz Virpazara tokom cijelog dana i traju od jednog do tri sata zavisno od rute. Standardne ture koštaju 15–25 € po osobi i prolaze kroz kanale lokvanja đe je voda toliko mirna da odražava nebo. Vaš čamđija će ugasiti motor u zonama pelikana i pustiti vas da plutate. Dvogled vrijedi ponijeti — pelikani mogu biti 200 metara daleko u trski. Duže ture stižu do ostrvskih manastira: Kom i Beška leže na malim ostrvima pristupačnim samo s vode, sa srednjovjekovnim crkvama koje stoje ovđe 600 godina. Ponesite šešir i vodu — na čamcima nema śenke.",
+
+    "h2Boat": "Izvan čamca",
+    "boatP": "Ako preferirate čvrsto tlo, kraj Virpazara na jezeru ima nekoliko označenih pješačkih staza kroz močvare i uzbrdo u okolna brda. Pješačenje do tvrđave Besac traje oko 40 minuta i pruža panoramske poglede na jezero i planine. Biciklizam je takođe moguć na ravnim stazama blizu obale — iznajmljivanje bicikala dostupno je u Virpazaru za oko 10 €/dan. Za alternativni jednodnevni izlet u unutrašnjost koji posebno dobro funkcioniše po hladnijem vremenu, pogledajte naš vodič o",
+    "boatLink": "aktivnostima za kišne dane u Budvi",
+
+    "h2Wine": "Vinski put Crmnice",
+    "wineP": "Brda južno od jezera proizvode Vranac — crnogorsku prepoznatljivu crnu sortu. Vinska regija Crmnica je kompaktna i lako se istražuje automobilom. Nekoliko porodičnih vinarija nudi degustacije po dogovoru, a neke su uredile degustacione salone koji primaju spontane posjetioce. Plantaže, najveći proizvođač, ima centar za posjetioce kod Podgorice, ali manja imanja oko jezera su zanimljivija. Očekujte robusna crvena vina s tamnim voćem i lagano zemaljskim završetkom. Degustacija s hljebom i sirom košta 5–10 € na većini mjesta. Kupite bocu-dvije — ova maloserijska vina nećete naći van Crne Gore.",
+
+    "h2Itinerary": "Predloženi itinerer",
+    "itinMorningLabel": "Jutro:",
+    "itinMorningVal": "Polazak iz Budve u 8:30. Vožnja do Rijeke Crnojevića za vidikovac i kafu na rijeci. Računajte 1,5 sat.",
+    "itinMiddayLabel": "Podne:",
+    "itinMiddayVal": "Nastavak do Virpazara. Dvočasovna vožnja čamcem po jezeru. Tražite pelikane u kanalima lokvanja.",
+    "itinAfternoonLabel": "Popodne:",
+    "itinAfternoonVal": "Ručak u restoranu u Virpazaru — probajte dimljenog šarana. Zatim posjetite vinariju u Crmnici za degustaciju.",
+    "itinReturnLabel": "Povratak:",
+    "itinReturnVal": "Nazad kroz tunel do Budve na vrijeme za kupanje na zalasku. Ukupan dan: oko 9 sati.",
+
+    "glanceTitle": "Ukratko",
+    "glanceDistance": "Udaljenost od Budve",
+    "glanceDistanceVal": "65 km do Virpazara",
+    "glanceDrive": "Vrijeme vožnje",
+    "glanceDriveVal": "~1 sat u svakom smjeru",
+    "glanceBest": "Najbolji mjeseci",
+    "glanceBestVal": "April–oktobar",
+    "glanceBoat": "Cijena vožnje čamcem",
+    "glanceBoatVal": "15–25 € po osobi"
+  },
+
+  "blogNightlife": {
+    "title": "Budva poslije zalaska sunca: vodič za noćni život",
+    "subtitle": "Od koktela na krovnim terasama iznad zidina starog grada do kluba na litici Top Hill.",
+    "description": "Budva se preobražava poslije zalaska sunca. Plažne gužve isparavaju, starogradski sokaci pune se restoranskim stolovima i toplim svjetlom, a do ponoći glavna ulica pulsira muzikom iz desetak klubova i barova. Ovo je nesporna prijestolnica noćnog života Crne Gore — kompaktan grad đe možete početi s koktelima na tvrđavskoj terasi, prošetati do tri različita bara i završiti u superklub na otvorenom za 3.000 osoba a da nijednom ne pozovete taksi.",
+
+    "h2Scene": "Scena ukratko",
+    "sceneP1": "Noćni život Budve radi po sezonskom satu. Od sredine juna do početka septembra, sve radi punom parom — barovi otvaraju na zalasku, klubovi rade do 5 ujutru, i cijelo šetalište Slovenska obala postaje spora povorka ljudi koji biraju sljedeću stanicu. Van tih mjeseci, grad je tiši ali ne mrtav. Barovi u starom gradu otvoreni su cijele godine, a par klubova nastavljaju vikendom do oktobra.",
+    "sceneP2": "Atmosfera je opuštena po evropskim klupskim standardima. Odjevni kodovi postoje u skupljim lokacijama ali se labavo primjenjuju — čiste cipele i košulja s kragnom dovode vas u većinu mjesta. Cijene su značajno niže nego u Hrvatskoj ili Grčkoj: koktel košta 6–9 € u baru srednje klase, pivo 3–4 €, i većina klubova nema ulaz prije ponoći. Publika je mješavina crnogorskih lokalaca, srpskih ljetnjih gostiju i rastućeg međunarodnog kontingenta privučenog reputacijom rivijere.",
+
+    "h2Strip": "Slovenska obala: startna linija",
+    "stripP": "Šetalište duž Slovenska plaže je đe većina večeri počinje. Barovi i kafići nižu se na morskoj strani, svaki s terasom i muzikom usmjerenom da privuče prolaznike. Atmosfera prelazi iz kafanske kulture na zalasku u punu barsku energiju oko 22h. Počnite na istočnom kraju kod ulaza u stari grad za koktejl barove s pogledom na luku, ili krenite zapadno prema hotelu Avala za glasniju muziku i mlađu publiku. Cijela traka je oko 800 metara — prošetaćete je više puta u jednoj večeri.",
+
+    "altInline": "Noćni život Budve duž obale noću",
+
+    "h2TopHill": "Top Hill: glavni događaj",
+    "topHillP": "Uklesan u litice iznad Budve, Top Hill je najpoznatiji noćni klub Crne Gore i jedan od najvećih lokacija na otvorenom u jugoistočnoj Evropi. Kapacitet doseže 3.000 u vrhunskim noćima, a lajnap uključuje međunarodne DJ-eve uz regionalne izvođače. Klub zauzima niz terasa koje se kaskadno spuštaju niz padinu, s glavnim plesom okruženim VIP zonama i panoramskim barom s pogledom na Jadran. Otvara se oko ponoći i radi do 5 ujutru vikendom. Ulaz je obično besplatan prije 1, 10–20 € poslije. Očekujte duge redove u julu i avgustu — dođite rano ili rezervišite sto. Parking je dostupan kod kluba ili u gradu (kratka vožnja taksijem od glavne trake).",
+
+    "h2OldTown": "Barovi starog grada",
+    "oldTownP": "Unutar zidina starog grada, nekoliko barova zauzima kamene terase s pogledom na zidine i more. Bar Citadela na tvrđavskoj terasi je glavna atrakcija — kokteli su skuplji nego drugđe (10–14 €), ali pijete na srednjovjekovnoj tvrđavi gledajući Jadran, što opravdava doplatu. Manji barovi duž glavnog sokaka starog grada su jeftiniji i atmosferičniji, s svijećama na kamenim stolovima i muzikom na nivou razgovora. To su mjesta za početak večeri prije nego stvari postanu glasnije.",
+
+    "h2Slovenska": "Kasnonoćni restorani",
+    "slovenskaP": "Rivijera živi od kasnih večera. Mnogi restorani primaju posljednje narudžbe u ponoć ljeti, a lokali na obali između starog grada i Bečića puni su do daleko iza 23h. Ako izlazite iz kluba u 3 noću i trebate jelo, nekoliko picerija blizu glavne trake služi do zatvaranja. Za pravi obrok prije izlaska, najbolje opcije su na obali — pogledajte naš",
+    "slovenskaLink": "gastro vodič",
+
+    "h2Tips": "Praktični savjeti",
+    "tipParkLabel": "Parking:",
+    "tipParkVal": "Ostavite auto u hotelu ili apartmanu. Zona noćnog života Budve prelazi se pješice od kraja do kraja, a taksiji su jeftini za vožnju do Top Hilla.",
+    "tipDressLabel": "Odjevni kod:",
+    "tipDressVal": "Smart casual za Top Hill i barove starog grada. U plažnoj odjeći vas neće pustiti unutra poslije ponoći.",
+    "tipCashLabel": "Plaćanje:",
+    "tipCashVal": "Većina lokala sada prima kartice, ali držite 20 € u gotovini za ulaz, garderobu i taksi.",
+    "tipPeakLabel": "Vrhunske noći:",
+    "tipPeakVal": "Petak i subota u julu i avgustu. Usred sedmice je mirnije i redovi su kraći.",
+
+    "glanceTitle": "Ukratko",
+    "glancePeak": "Vrh sezone",
+    "glancePeakVal": "Sredina juna do početka septembra",
+    "glanceVenue": "Glavni lokal",
+    "glanceVenueVal": "Top Hill (kapacitet 3.000)",
+    "glanceSeason": "Vansezona",
+    "glanceSeasonVal": "Barovi starog grada otvoreni cijele godine",
+    "glanceDrink": "Cijena koktela",
+    "glanceDrinkVal": "6–9 € u prosjeku"
+  },
+
+  "blogGastro": {
+    "title": "Kulinarstvom kroz Budvu: gastro vodič",
+    "subtitle": "Konobe na obali, terase na brdu i tezge zelene pijace đe kuvari kupuju.",
+    "description": "Kulinarska scena Budve evoluirala je izvan generičkog turističkog menija s roštiljem i Cezar salatama. Pored konoba na obali koje služe svjež ulov decenijama, nova generacija restorana koristi sezonske proizvode s brda iznad obale i vino iz doline Crmnice. Rezultat je gastronomski grad koji daleko premašuje svoj status ljetovališta. Evo đe jesti, šta naručiti i kad otići.",
+
+    "h2Scene": "Gastronomski grad pronalazi svoj ritam",
+    "sceneP1": "Godinama je restoranska scena Budve bila predvidiva: riba na žaru, miješano meso i šopska salata za svakim stolom na obali. Taj osnov i dalje postoji — i iskreno, dobro ispečen brancin u kontobi na luci za 10 € teško je kritikovati. Ali poslijednjih pet godina donijelo je promjenu. Mladi crnogorski kuvari školovani u Italiji, Srbiji i Francuskoj vraćaju se na obalu i otvaraju lokale koji brinu o porijeklu namirnica, tehnici i vinskim kartama.",
+    "sceneP2": "Namirnice su uvijek bile ovđe. Brda iznad Budve proizvode masline, smokve i začinsko bilje koje osjetite s ceste. Njeguški pršut — suvo sušena šunka iz sela Njeguši iznad Kotora — jedan je od najfinijih mesnih delikatesa Balkana. Sir iz Kolašina stiže na obalu unutar par sati od izrade. More svakodnevno isporučuje lignje, orade, dagnje i hobotnice. Ono što se promijenilo je da su kuvari počeli tretirati ove namirnice s poštovanjem umjesto da ih utope u ulju i serviraju na generičnom bijelom tanjiru.",
+
+    "h2Waterfront": "Duž obale",
+    "waterfrontP": "Traka između zidina starog grada i Slovenska plaže ima gust red restorana, većina s terasama okrenutim moru. Kvalitet drastično varira — neki su turističke zamke koje žive od prolaznika, drugi su zaista odlični. Znakovi: kratka jelovnik koji se redovno mijenja, riba po kilogramu umjesto paušalne cijene, i vinska karta koja ide dalje od tri nacionalna brenda. Tražite mjesta đe jedu lokalni. Ako se za svakim stolom priča engleski ili njemački, nastavite dalje. Najbolji lokali na obali služe cijelu ribu na žaru, salatu od hobotnice s kaparima i brudet — polako kuvanu riblju čorbu s palentom koja je dušen hrana obale.",
+
+    "altInline": "Tanjir svježih morskih plodova serviran u konobi na obali u Budvi",
+
+    "h2OldTown": "Unutar starog grada",
+    "oldTownP": "Jelo unutar zidina je više pitanje atmosfere nego inovacije. Sokaci su uski, stolovi stisnuti u kamena dvorišta, a jelovnici naginju tradicionalnom. Restoran Citadela, smješten na tvrđavskoj terasi na vrhu poluostrva, ima premijum cijene za pogled na zalazak i mediteranski inspirisana jela — vrijedi za posebnu večer. Ispod zidina, manje konobe služe roštilj i morske plodove po fer cijenama. Trg starog grada ima par vinskih barova koji toče crnogorska vina na čašu, što je dobar način da probate Vranac i Krstač bez kupovine cijele boce.",
+
+    "h2Hilltop": "Jelo na brdima iznad obale",
+    "hilltopP": "Neki od najboljih obroka na rivijeri dešavaju se iznad nje. Nekoliko restorana smješteno je na padinama između Budve i Svetog Stefana, nudeći panoramske poglede s terasa među maslinama i smokvama. Kuhinja na ovim mjestima naginje crnogorskom sporom kuvanju: jagnjetina ispod sača (metalne kupole nad ugljem), paprike punjene kajmakom i pasulj koji je ukusniji nego što zvuči. Uspon je kratak ali strm — još jedan razlog da imate automobil. Kombinujte ručak na brdu s",
+    "hilltopLink": "vidikovcima Svetog Stefana",
+
+    "h2Seafood": "Morski plodovi koje treba naručiti",
+    "seafoodP": "Crnogorski morski plodovi su jednostavni i najbolje tako ostaju. Brancin (lubin) i orada na žaru su vodeća jela — naručite ih cijele, s maslinovim uljem i limunom, i ocijenite restoran po tome kako ih priprema. Hobotnica se služi na žaru ili kao hladna salata s lukom, kaparima i peršunom — obje verzije trebaju biti meke, ne gumene. Crni rižot od sipe je obalni klasik. A škampi na buzaru — škampi kuvani u bijelom luku, bijelom vinu i prezlama — jelo je koje vas tjera da naručite drugu korpu hljeba. Za avanturiste: pitajte za lignje punjene — lignje punjene sirom i šunkom.",
+
+    "h2Market": "Zelena pijaca",
+    "marketP": "Svakog jutra, budvanska zelena pijaca se otvara iza glavne autobuske stanice. Mala je ali krcata: lokalni farmeri prodaju paradajz koji ima ukus paradajza, vezove svježeg začinskog bilja, smokve u sezoni, med s brda i kajmak — gusti, blago kiseli kremasti sir koji ide uz sve. U jesen se pojavljuju narovi i japanske jabuke. Rani jutarnji dolasci (prije 9) imaju najbolji izbor. Čak i ako ne kuvate, vrijedi svratiti da vidite šta raste na brdima iza visokih hotela.",
+
+    "h2Tips": "Savjeti za jelo",
+    "tipReserveLabel": "Rezervacije:",
+    "tipReserveVal": "Neophodne u boljim lokalima u julu i avgustu, posebno za stolove na obali. Rezervišite telefonom — većina ne koristi onlajn platforme.",
+    "tipLunchLabel": "Dnevni meni:",
+    "tipLunchVal": "Više restorana nudi dnevni meni za ručak — čorba, glavno jelo i piće za 8–12 €. Bolja vrijednost od večernjeg a la karta.",
+    "tipWineLabel": "Vino:",
+    "tipWineVal": "Naručite crnogorsko. Vranac (crno) i Krstač (bijelo) su nacionalne sorte. Plantaže je veliki proizvođač, ali manje crmničke etikete su zanimljivije.",
+    "tipCashLabel": "Gotovina ili kartica:",
+    "tipCashVal": "Većina restorana prima kartice ali manje konobe i zelena pijaca rade samo s gotovinom. Držite 20 € u sitnim novčanicama.",
+
+    "glanceTitle": "Ukratko",
+    "glanceMeal": "Prosječna cijena obroka",
+    "glanceMealVal": "10–18 € po osobi",
+    "glanceDish": "Obavezno jelo",
+    "glanceDishVal": "Brancin na žaru, cijeli",
+    "glanceWine": "Lokalno vino",
+    "glanceWineVal": "Vranac (crno), Krstač (bijelo)",
+    "glanceBest": "Najbolje vrijeme za večeru",
+    "glanceBestVal": "Od 20h (lokalni jedu kasno)"
+  },
+
+  "blogPetrovac": {
+    "title": "Petrovac do Buljarice: tiha obala na jugu",
+    "subtitle": "Ostavite budvansku gužvu iza sebe i vozite na jug ka mirnijem dijelu obale.",
+    "description": "Dvadeset pet minuta južno od Budve, obalna cesta silazi u Petrovac — mali grad s plažom od crvenog šljunka, ruševinom mletačke tvrđave na stjenovitom rtu i tempom života koji budvansku zabavu čini kao drugu državu. Nastavite još pet minuta i stižete na Buljaricu — polumjesec od kilometra divlje, nerazvijene plaže s močvarom i maslinicima iza. To je dio Budvanske rivijere do kojeg carstva ležaljki još nijesu stigla.",
+
+    "h2Secret": "Obala o kojoj niko ne priča",
+    "secretP1": "Petrovac tehnički pripada opštini Budva, ali se uopšte ne osjeća kao Budva. Grad ima oko 1.500 stalnih stanovnika, jednu glavnu ulicu i plažu koja je dovoljno prostrana čak i u avgustu. Nema visokih hotela, teškog basa iz plažnih klubova ni reda za sladoled. Umjesto toga, porodični apartmani iznad maslinika, tvrđava na stijeni u zalivu i dva ostrva — Sveta Nedjelja i Katič — koja sjaje u večernjem svjetlu.",
+    "secretP2": "Iza Petrovca, obala postaje zaista divlja. Plaža Lučice leži u zaštićenoj uvali deset minuta hoda južno od grada. Buljarica je široki luk tamnog pijeska i šljunka koji se proteže punih kilometar duž ravne, močvarne obale. Nema iznajmljivanja ležaljki, nema spasilaca, a radnim danima u junu možete dijeliti cijelu plažu s desetak drugih ljudi. To je vrsta mediteranske obale koja je nekad postojala svugđe a sada preživljava na samo nekoliko mjesta.",
+
+    "h2Town": "Grad Petrovac",
+    "townP": "Srce grada je plaža od crvenog šljunka, zaštićena rtovima s obje strane i čuvana tvrđavom Kastelo — malom mletačkom utvrdom na stijeni nedaleko od obale, povezanom s kopnom kratkim prolazom. Glavno šetalište ide duž plaže, obrubljeno restoranima, kafićima i suvenirnicama koje su skromne po budvanskim standardima. Iza šetališta, par ulica penje se na brdo pokraj stambenih zgrada i maslina. Rimski mozaici — dobro očuvan pod iz 3. vijeka otkriven 1970-ih — nalaze se u zaštitnoj zgradi na obodu grada i zaslužuju kratak posjet. Grad se primjetno smiruje poslije oktobra, kad mnogi restorani zatvaraju do aprila.",
+
+    "altInline": "Plaža Petrovac s tvrđavom Kastelo na stjenovitom rtu",
+
+    "h2Lucice": "Plaža Lučice",
+    "luciceP": "Deset minuta hoda južno od glavne plaže Petrovca, popločanom obalnom stazom, donosi vas do Lučice — male uvale od glatkog šljunka okružene borovim rtovima. Voda je bistra i mirna, zaštićena od otvorenog mora okolnim stijenama. Jedan bar na plaži radi ljeti, iznajmljuje ležaljke i služi hladna pića. Van jula i avgusta, uvalu ćete imati gotovo za sebe. Staza iz Petrovca je ravna i zaśenjena borovima — ugodna čak i u podnevnoj vrućini.",
+
+    "h2Buljarica": "Plaža Buljarica",
+    "buljaricaP": "Pet minuta južno od Petrovca automobilom (ili 25 minuta hoda obalnom cestom), Buljarica se proteže punih kilometar duž ravne, močvarne obale. Plaža je mješavina tamnog pijeska i sitnog šljunka, iza trske, tamariska i močvarnog područja đe žive ptice i žabe. Nema iznajmljivanja ležaljki, nema barova na plaži (mada par osnovnih kafića radi ljeti na cesti iza) i nema planova za razvoj — područje ima status zaštićene zone. Kupanje je dobro u centralnom dijelu đe je dno pješčano, mada voda može biti hladnija od zaštićenih uvala śevernije. Ponesite sve što vam treba: śenku, vodu i hranu.",
+
+    "h2Drive": "Vožnja na dole",
+    "driveP": "Iz Budve, krenite glavnom obalnom cestom na jug kroz Bečiće i Rafailoviće. Poslije kratkog tunela iza Pržna, cesta se penje preko rta i spušta u dolinu Petrovca. Cijela vožnja je oko 17 km i traje 25 minuta, mada ljetnji saobraćaj kod Bečića može produžiti. Cesta je dobrog kvaliteta cijelim putem s pogledom na more s lijeve strane za veći dio rute. Za povratak, ili da nastavite dalje na jug, pogledajte naš vodič o",
+    "driveLink": "obilasku plaža Budvanske rivijere",
+
+    "h2Eat": "Đe jesti",
+    "eatP": "Obala Petrovca ima desetak restorana i konoba. Kvalitet je generalno dobar — grad ne dobija dovoljno turista da održi zaista loše lokale. Riba na žaru, salata od hobotnice i njeguški pršut su pouzdane narudžbe. Par mjesta se specijalizuje za rižoto od morskih plodova iz dnevnog ulova. Cijene su oko 15–20 % niže od uporedivih restorana u Budvi. Za najbolju vrijednost, tražite mjesta jednu ulicu iza šetališta — ista hrana, bez doplata za pogled na more. Na Buljarici su opcije za jelo minimalne, pa ili jedite prvo u Petrovcu ili ponesite piknik.",
+
+    "h2Tips": "Praktični savjeti",
+    "tipRoadLabel": "Cesta:",
+    "tipRoadVal": "Dobro asfaltirana dvotračna obalna cesta cijelim putem. Dva kratka tunela. Pazite na spori saobraćaj ljeti.",
+    "tipSwimLabel": "Kupanje:",
+    "tipSwimVal": "Petrovac i Lučice imaju blage ulaze. Buljarica je dublja s pješčanim dnom ali bez spasilaca.",
+    "tipSupplyLabel": "Snabdijevanje:",
+    "tipSupplyVal": "Napunite zalihe u Petrovcu. Na glavnoj ulici postoji mali supermarket i pekara. Buljarica nema ništa.",
+    "tipTimeLabel": "Najbolje vrijeme:",
+    "tipTimeVal": "Jun i septembar. Jul i avgust su u redu ali gužviji. U oktobru se mnogi restorani zatvaraju.",
+
+    "glanceTitle": "Ukratko",
+    "glanceDistance": "Udaljenost od Budve",
+    "glanceDistanceVal": "17 km do Petrovca",
+    "glanceDrive": "Vrijeme vožnje",
+    "glanceDriveVal": "~25 minuta",
+    "glanceBest": "Najbolji mjeseci",
+    "glanceBestVal": "Jun i septembar",
+    "glanceBeach": "Najmirnija plaža",
+    "glanceBeachVal": "Buljarica (radnim danima)"
+  },
+
+  "blogRainy": {
+    "title": "Kišni dan u Budvi: šta raditi kad se sunce sakrije",
+    "subtitle": "Muzeji, rituali s kafom, panoramske vožnje i spa za sive dane na rivijeri.",
+    "description": "Čak i na Budvanskoj rivijeri pada kiša. Kad Jadran posivi i plaža ne dolazi u obzir, iskušenje je sjediti u apartmanu i čekati. Nemojte. Kišni dan u Budvi otvara drugačiji grad — s muzejima u tvrđavi, kafanskom kulturom kamenih uličica, spa bazenima i dramatičnim obalnim vožnjama đe su refleksije na mokrom asfaltu pola spektakla. Evo kako ispuniti sivi dan a da ga ne protraćite.",
+
+    "h2Rain": "Kiša na rivijeri",
+    "rainP1": "Budva dobija većinu kiše između novembra i marta, ali i ljeti padaju pljuskovi — iznenadne kiše koje nalete s planina, pokvasne sve na sat i ostave vazduh s mirisom mokrog kamena i bora. Rijetko traju cijeli dan. Ako se u julu ili avgustu probudite pod sivim nebom, vjerovatno će se sunce vratiti do ranog popodneva.",
+    "rainP2": "Jesenja i proljetnja kiša je drugačija: može se ustaliti na dan-dva, pretvarajući starogradske sokake u reflektujuće rijeke i potpuno prazeći plaže. To su dani kad Budva pokazuje tihu, atmosferičniju stranu koju većina ljetnih posjetilaca nikad ne vidi. Grad nije dizajniran za kišu — ljetovalište je — ali se s njom nosi bolje nego što biste očekivali.",
+
+    "h2Museums": "Muzeji starog grada",
+    "museumsP": "Citadela na južnom vrhu poluostrva starog grada čuva mali muzej s rimskim kovanicama, srednjovjekovnom keramikom i reljefnim modelom Budve prije zemljotresa 1979. Ulaz je par eura, a pokriveni bastioni vas drže na suvom. Pomorski muzej na glavnom sokaku izlaže makete brodova, stare navigacione instrumente i fotografije pomorske istorije grada. Nijedan nije dovoljno velik da ispuni popodne, ali zajedno s pauzom za kafu između, obezbijeduju ugodna dva sata pod krovom. Ako ste spremni da vozite 25 km do Kotora, tamošnji Pomorski muzej je najbolji u regionu i lako ispuni kišno jutro.",
+
+    "altInline": "Mokre kamene uličice u starom gradu Budve kišnog popodneva",
+
+    "h2Coffee": "Ritual s kafom",
+    "coffeeP": "Crnogorci tretiraju kafu kao događaj, ne kao brzi šut kofeina. Kišno jutro je savršen izgovor da usvojite lokalni tempo. Kafići starog grada otvoreni su cijele godine i najatmosferičniji su sivih dana — kameni zidovi, svijeće i zvuk kiše u sokaku napolju. Naručite domaću kafu i pustite je da se slegne prije ispijanja. Većina lokala služi i svjež sok, rakiju i laganu peciva. Uzmite vremena. Niko se ne žuri. Kafić na malom trgu kod glavne kapije služi kafu u istoj kamenoj prostoriji decenijama i djeluje kao da je napravljen upravo za ovakav dan.",
+
+    "h2Drives": "Panoramske vožnje po kiši",
+    "drivesP": "Neke od najboljih vožnji rivijere zapravo su ljepše po kiši. Obalna cesta na jug do Petrovca blista refleksijama mokrog asfalta a more poprima dramatično škriljastosivo. Planinska cesta na śever prema Lovćenu nestaje u magli na višim visinama, stvarajući atmosfersku vožnju kroz šumu borova. Ruta do Skadarskog jezera je posebno lijepa oblačnih dana kad voda odražava srebrno nebo. Samo vozite oprezno — planinske ceste mogu biti klizave, a vidljivost pada na serpentinama. Za kompletan dnevni izlet na Skadarsko jezero, pogledajte naš",
+    "drivesLink": "vodič za Skadarsko jezero",
+
+    "h2Spa": "Spa i velnes",
+    "spaP": "Nekoliko većih hotela duž traka Bečića i Slovenska imaju spa centre otvorene za ne-goste. Zatvoreni bazeni, parni kupke, saune i masažni meniji lijepo popunjavaju kišno popodne. Spa u Splendid Conference resortu u Bečićima je jedan od bolje opremljenih, s zatvorenim bazenom s pogledom na more. Tretmani počinju od oko 30 € za osnovnu masažu. Rezervišite unaprijed u špicu sezone — kišni dani pune spa brže nego što biste očekivali.",
+
+    "h2Shopping": "Kupovina i pijace",
+    "shoppingP": "Budva nije šoping destinacija u tradicionalnom smislu, ali kišni dani otkrivaju nekoliko vrijednih stanica. Tržni centar TQ Plaza kod glavne ceste ima brending odjeće, supermarket i bioskop sa sinhronizovanim i titlovanim filmovima. U starom gradu, par radnji prodaje lokalno maslinovo ulje, proizvode od lavande i crnogorske suvenire koji su nivo iznad uobičajenih magneta za frižider. Zelena pijaca iza autobuske stanice je natkrivena i radi po svakom vremenu — kupite lokalni med, sušeno bilje i domaći sir čak i ako ne kuvate.",
+
+    "h2Tips": "Savjeti za kišne dane",
+    "tipJacketLabel": "Jakna:",
+    "tipJacketVal": "Lagana vodootporna jakna dovoljna je za ljetnje pljuskove. Jesen i proljeće traže pravu kišnu jaknu.",
+    "tipDriveLabel": "Vožnja:",
+    "tipDriveVal": "Mokre ceste su klizave, posebno na planinskim serpentinama. Upalite svjetla, smanjite brzinu, povećajte razmak.",
+    "tipTimingLabel": "Tajming:",
+    "tipTimingVal": "Ljetnja kiša se obično razbistri za par sati. Provjerite popodnevnu prognozu prije nego otpišete plažu.",
+    "tipMoodLabel": "Uživajte u tome:",
+    "tipMoodVal": "Stari grad po kiši, s praznim sokacima i mokrim kamenom koji reflektuje svjetlo fenjera, fotogeničniji je nego što mislite."
+  },
+
+  "blogSunrides": {
+    "title": "Izlasci i zalasci sunca oko Budve",
+    "subtitle": "Najbolje plaže okrenute istoku za zoru i rtovi okrenuti zapadu za suton.",
+    "description": "Budvanska rivijera gleda otprilike prema zapadu, što znači da su zalasci sunca nad otvorenim Jadranom glavna atrakcija. Ali obala se dovoljno savija da više plaža hvata i izlazak sunca, s planinama iza kao dramatičnom istočnom pozadinom. Ovaj vodič pokriva pet najboljih tačaka — dvije za izlazak, tri za zalazak — s napomenama o vremenu i praktičnim savjetima za zlatni čas na ovom dijelu obale.",
+
+    "h2Why": "Zašto je zlatni čas bitan ovđe",
+    "whyP1": "Jadransko svjetlo duž crnogorske obale ima kvalitet koji fotografi i slikari vjekovima pokušavaju opisati. Nešto u uglu obale, bistrini vode i mineralnom sastavu krečnjačkih litica stvara topli, zasićeni sjaj u poslijednjem satu prije zalaska koji je zaista drugačiji od drugih mediteranskih obala. Crveni krovovi Svetog Stefana, kameni zidovi starog grada, litice kod Mogrena — svi hvataju ovo svjetlo i preobražavaju se.",
+    "whyP2": "Izlazak sunca je tiši i suptilniji. Sunce izlazi iza obalnih planina, što znači da se ne pojavljuje kao čista sfera iznad horizonta nego se preliva preko grebena u poplavi toplog narandžastog koje pere more. Plaže su prazne, vazduh je svjež, i jedini zvuk je voda. Ako ste jutarnji tip, ovo je najmirniji čas koji rivijera može ponuditi.",
+
+    "h2Sunrise": "Tačke za izlazak sunca",
+    "h3Mogren": "Plaža Mogren (okrenuta istoku-śeveroistoku)",
+    "mogrenP": "Dvostruke uvale Mogrena zaštićene su visokim liticama koje blokiraju sunce prvih dvadeset minuta nakon što se pojavi iza planina. Zatim svjetlo provire kroz procijep i pogodi litice na zapadnoj strani, zlatneći ih. Efekat je teatralan — iznenadan, topao i nestao za pola sata dok sunce raste. Hodajte odatle iz starog grada u zoru (staza je sigurna ali neosvijetljena, ponesite lampu telefona). Plaža je pusta, more je mirno, a bronzana balerina hvata prve zrake na ispruženoj ruci. Izlazak sunca u junu je oko 5:30; u avgustu se pomjera na 6:15.",
+    "h3Becici": "Plaža Bečići (okrenuta istoku)",
+    "beciciP": "Dugi, ravni prostor Bečića usmjeren je gotovo pravo na istok, što znači da izlazak sunca pogađa cijelu dužinu plaže istovremeno. Parkirajte na praznoj cesti iznad i siđite na pijesak. Planine iza Budve formiraju nazubljenu siluetu prema svijetlećem nebu. Kad sunce prevaže greben, mokri pijesak blizu linije vode se pretvara u ogledalo. Ovo je najbolja tačka za izlazak sunca ako želite otvoren prostor i širokokutni pogled. Kafići na plaži još neće biti otvoreni, pa ponesite sopstvenu kafu u termosu.",
+
+    "altInline": "Zalazak sunca nad Jadranom s budvanske obale",
+
+    "h2Sunset": "Tačke za zalazak sunca",
+    "h3Jaz": "Plaža Jaz (okrenuta zapadu-śeverozapadu)",
+    "jazP": "Jaz se otvara direktno prema suncu koje zalazi, s ničim između vas i Italije osim otvorene vode. Široki zaliv daje dug horizont, a sunce čisto tone u more vedrih večeri. Barovi na plaži na istočnom kraju služe koktele koji idu uz pogled. Ljetnjim vikendima, publika za zalazak se spontano okuplja i nastaje improvizovana festivalska atmosfera. Parking postaje lakši kasno popodne kad plažni gosti odlaze. Brdo iza zapadnog kraja nudi malo povišenu tačku ako želite plažu u kadru.",
+    "h3Fort": "Vidikovac Fort Mogren (okrenut zapadu)",
+    "fortP": "Staza iz starog grada do plaže Mogren prolazi pored male uzvišene platforme iznad ivice litice. Ovo nije zvanični vidikovac, ali lokalni ga znaju kao Fort Mogren — ostaci stare odbrambene pozicije s kamenim zidom na koji se možete nasloniti. Odavde gledate zapadno preko otvorenog mora, s poluostrvom Budve desno i liticama Mogrena ispod. Zalazak pada direktno ispred vas. Manje je gužvno od starogradske citadele, mirnije od Jaza, i zahtijeva samo pet minuta hoda od hotela Avala. Ponesite jaknu — vjetar na ivici litice se pojačava kako sunce silazi.",
+    "h3Stefan": "Panorama Svetog Stefana (okrenuta zapadu-jugozapadu)",
+    "stefanP": "Vidikovac na cesti iznad Svetog Stefana hvata poslijednje svjetlo koje boji zapadnu stranu ostrva u duboko narandžasto i zlato. Terakotni krovovi blistaju, more tamni na rubovima do boje mastila, a planine iza obale postaju ljubičaste. Ovo je vjerovatno najljepši pogled na zalazak na cijeloj crnogorskoj obali. Proširenje se puni u zlatni čas, pa stignite 45 minuta prije zalaska da obezbijedite mjesto. Kombinujte s posjetom starom gradu ujutro — pogledajte naš vodič o",
+    "stefanLink": "šetnji starim gradom Budve",
+
+    "h2Gear": "Oprema i priprema",
+    "gearCameraLabel": "Fotoaparat:",
+    "gearCameraVal": "Svaki fotoaparat radi, ali širokokutni objektiv hvata pun raspon ovih obalnih pogleda. Kamere na telefonu rade dobro ako izbjegavate digitalni zum.",
+    "gearTripodLabel": "Stativ:",
+    "gearTripodVal": "Koristan za izlazak sunca kad je svjetlo slabo. Mini stativ na kamenom zidu savršeno funkcioniše na vidikovcu Fort Mogren.",
+    "gearLayerLabel": "Sloj odjeće:",
+    "gearLayerVal": "Večeri se brzo hlade na obali nakon što sunce zađe. Lagan flis ili duks u autu spašavaju od drhtanja tokom fotografisanja u plavi čas.",
+    "gearCoffeeLabel": "Zalihe:",
+    "gearCoffeeVal": "Na tačkama za izlazak sunca nema otvorenih kafića. Ponesite termos i pecivo iz pekare od prethodne večeri.",
+
+    "glanceTitle": "Ukratko",
+    "glanceSunrise": "Najbolja tačka za izlazak sunca",
+    "glanceSunriseVal": "Plaža Bečići (širokokutni pogled)",
+    "glanceSunset": "Najbolja tačka za zalazak sunca",
+    "glanceSunsetVal": "Panorama s ceste Sveti Stefan",
+    "glanceBestMonth": "Najbolji mjeseci",
+    "glanceBestMonthVal": "Maj–septembar (najvedije nebo)",
+    "glanceGear": "Neophodna oprema",
+    "glanceGearVal": "Termos, jakna, širokokutni objektiv"
   }
 }

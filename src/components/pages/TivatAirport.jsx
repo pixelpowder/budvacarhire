@@ -13,7 +13,7 @@ export default function TivatAirport() {
       <img src="/img/tivat-airport.webp" alt="Tivat Airport terminal" loading="lazy" />
 
       <h2>{t('tivatAirportBody.whyTitle')}</h2>
-      <p>{t('tivatAirportBody.whyText')} The drive to <a href={localePath('/budva')}>Budva's Old Town and beaches</a> takes around 25 minutes.</p>
+      <p>{t('tivatAirportBody.whyText')}{t('tivatAirportBody.whyLinkPre')}<a href={localePath('/budva')}>{t('tivatAirportBody.whyLinkText')}</a>{t('tivatAirportBody.whyLinkPost')}</p>
       <p>{t('tivatAirportBody.meetText')}</p>
 
       <h2>{t('tivatAirportBody.distancesTitle')}</h2>

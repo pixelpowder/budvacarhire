@@ -341,7 +341,10 @@
     "dayTripsTitle": "Keep Driving from Kotor",
     "perastTrip": "Continue 15 minutes along the bay to Perast \u2014 a one-street baroque village with two islands offshore. A boat to Our Lady of the Rocks costs about \u20ac5 return. The tradition of dropping rocks into the bay to grow the island dates to 1452 and still happens every July.",
     "cetinjeTrip": "Take the legendary 25-hairpin-bend road up from Kotor to Cetinje, the old royal capital. Stop at each hairpin for increasingly dramatic bay views. The royal monastery houses relics including what is claimed to be the hand of John the Baptist.",
-    "royalCourtText": "Cetinje's royal palace from 1871 displays art, photographs, and artefacts from Montenegro's short-lived kingdom. Budget \u20ac3 for entry. It sits next to the monastery in a quiet town that feels frozen in the 19th century."
+    "royalCourtText": "Cetinje's royal palace from 1871 displays art, photographs, and artefacts from Montenegro's short-lived kingdom. Budget \u20ac3 for entry. It sits next to the monastery in a quiet town that feels frozen in the 19th century.",
+    "tivatLinkPre": " Most visitors ",
+    "tivatLinkText": "collect their car at Tivat Airport",
+    "tivatLinkPost": ", just 20 minutes from Kotor."
   },
   "budvaBody": {
     "h1": "Budva \u2014 Where the Riviera Comes Alive",
@@ -374,7 +377,10 @@
     "historicTitle": "On Shore",
     "historicText": "Sixteen churches and several baroque palaces line the waterfront. The Perast Museum occupies Palata Buiovich \u2014 widely considered the most elegant building on the Montenegrin coast. Entry is around \u20ac5. Model ships, old maps, and portraits of sea captains fill the rooms. Budget 45 minutes if you enjoy maritime history.",
     "monasteryTitle": "Banja Monastery",
-    "monasteryText": "A short drive north toward Risan brings you to this peaceful monastery. Its collection spans Greek, Russian, and Boka religious art. No entrance fee. Keep driving another 10 minutes to Risan for well-preserved Roman floor mosaics \u2014 an unexpectedly impressive stop."
+    "monasteryText": "A short drive north toward Risan brings you to this peaceful monastery. Its collection spans Greek, Russian, and Boka religious art. No entrance fee. Keep driving another 10 minutes to Risan for well-preserved Roman floor mosaics \u2014 an unexpectedly impressive stop.",
+    "monasteryLinkPre": " Continue your ",
+    "monasteryLinkText": "Montenegro road trip",
+    "monasteryLinkPost": " along the bay road."
   },
   "tivatBody": {
     "h1": "Tivat \u2014 Superyachts and Seafood, 22 km Away",
@@ -406,6 +412,9 @@
     "facilitiesText": "Compact but functional: a cafe, duty-free shop, souvenir stands, and a bureau de change. Buses run to Herceg Novi and Budva, and taxis wait outside. But with your own car, none of that matters \u2014 you walk straight through to the car park.",
     "whyTitle": "Why Pick Up at Tivat?",
     "whyText": "Tivat is the closest airport to the riviera. Period. Within 30 minutes of wheels down, you can be on Budva's main drag looking for a parking spot near the old town. No transfer bus. No taxi negotiation. No wasted first afternoon. Your holiday starts at the terminal door.",
+    "whyLinkPre": " The drive to ",
+    "whyLinkText": "Budva's Old Town and beaches",
+    "whyLinkPost": " takes around 25 minutes.",
     "meetText": "Our agent meets you in the arrivals hall with a name board. Your car is parked steps away. Average time from baggage belt to driving: about 10 minutes."
   },
   "podgoricaBody": {
@@ -447,6 +456,9 @@
     "p3": "Plenty of travellers combine a day in Dubrovnik with the drive south. Stop in the old city if you have time \u2014 then enjoy the Adriatic views all the way to Budva.",
     "borderTitle": "Crossing into Montenegro",
     "borderText": "The border checkpoint at Debeli Brijeg sits between Herceg Novi and Dubrovnik. In summer, queues build fast \u2014 peak waits hit 1\u20132 hours on weekend afternoons. Cross before 8am or after 8pm and you will breeze through. Have your passport, rental contract, and Green Card accessible, not buried in a suitcase.",
+    "borderLinkPre": " Check our ",
+    "borderLinkText": "rental car border crossing checklist",
+    "borderLinkPost": " before you go.",
     "facilitiesTitle": "Dubrovnik Airport Terminal",
     "facilitiesText1": "A modern terminal less than 30 minutes from Dubrovnik's old city walls on the E65. Parking fills quickly in peak summer \u2014 pre-booking saves stress.",
     "facilitiesText2": "Inside: bureau de change, ATMs, post office, restaurants, duty-free, and a newsstand. Everything you need before hitting the road south.",
@@ -460,6 +472,9 @@
     "p2": "Fair warning: distances on the map lie. Mountain switchbacks, single-lane coast roads, and the occasional goat crossing mean real driving times run 30\u201350% longer than Google suggests. Lean into it. The slow bits are usually the most scenic bits.",
     "startTitle": "Starting from Budva",
     "startText": "Most visitors pick up at Tivat Airport (22 km, 30 min) or Podgorica Airport (65 km, 1 hr). Dubrovnik Airport in Croatia works too \u2014 2.5 hours via the coast road. Once in Budva, you are centre-stage on the riviera with fast access north to the bay and south toward Bar and Albania.",
+    "startLinkPre": " Pick up your car at ",
+    "startLinkText": "Tivat Airport",
+    "startLinkPost": " for the quickest coastal access.",
     "timesTitle": "Real Driving Times from Budva",
     "timesText1": "These times assume summer traffic and no major stops. Add 15\u201320 minutes on weekend afternoons for the Budva\u2013Kotor tunnel queue.",
     "timesText2": "Sveti Stefan: 15 min. Kotor: 30 min. Tivat: 30 min. Petrovac: 20 min. Herceg Novi: 1 hr. Podgorica: 1 hr. Dubrovnik: 2.5 hrs. \u017dabljak: 3 hrs.",
@@ -506,6 +521,9 @@
     "croatiaText": "The coast road crossing at Debeli Brijeg between Herceg Novi and Dubrovnik is the most popular and the most congested. Summer weekend queues hit 1\u20132 hours at peak times. This is the one that catches people out.",
     "croatiaTip": "From Budva: allow 1 hour to reach the border. Best windows: before 8am or after 8pm. Weekdays are dramatically faster than weekends.",
     "croatiaFerry": "Time-saver: the Kamenari\u2013Lepetane car ferry cuts across the Bay of Kotor in 10 minutes, shaving 45 minutes off the drive around the bay. Runs every 15 minutes, costs around \u20ac4.50 per car.",
+    "croatiaLinkPre": " ",
+    "croatiaLinkText": "Dubrovnik Airport",
+    "croatiaLinkPost": " is the most popular starting point for this route.",
     "albaniaTitle": "Montenegro \u2192 Albania",
     "albaniaText": "Two main crossings: Sukobin/Muriqan on the coast near Ulcinj, or Hani i Hotit inland near Lake Skadar. The coastal route is easier and more scenic. Budget 2\u20133 hours from Budva to Shkod\u00ebr.",
     "albaniaNote": "Heads up: Albanian roads are rougher. Livestock on the road is common outside cities. Drive cautiously, especially at dusk. Fuel up before crossing \u2014 petrol stations are spaced further apart.",

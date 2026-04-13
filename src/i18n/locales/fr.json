@@ -356,7 +356,10 @@
     "dayTripsTitle": "Excursions d'une journée depuis Kotor",
     "perastTrip": "Située dans la ville voisine de Perast, cette église se dresse sur une île artificielle dans la baie de Kotor. Les pêcheurs y déposent des rochers chaque année depuis 1452, agrandissant progressivement l'île. L'accès en ferry coûte environ 1 euro ; les bateaux privés coûtent environ 5 euros. Le trajet en voiture depuis Kotor prend moins de 30 minutes via la E65/E80 Nord.",
     "cetinjeTrip": "Construit en 1701, le monastère abrite la main de Jean-Baptiste. Il présente une décoration ornée et de l'art orthodoxe. Le trajet en voiture depuis Kotor prend environ une heure à travers des routes de montagne pittoresques.",
-    "royalCourtText": "Le palais royal du Monténégro datant de 1871, exposant des œuvres d'art, des objets et des photographies de l'histoire royale du pays. Situé à côté du monastère dans l'ancienne capitale royale."
+    "royalCourtText": "Le palais royal du Monténégro datant de 1871, exposant des œuvres d'art, des objets et des photographies de l'histoire royale du pays. Situé à côté du monastère dans l'ancienne capitale royale.",
+    "tivatLinkPre": " La plupart des visiteurs ",
+    "tivatLinkText": "récupèrent leur voiture à l'aéroport de Tivat",
+    "tivatLinkPost": ", à seulement 20 minutes de Kotor."
   },
   "budvaBody": {
     "h1": "Budva — Le cœur de la Riviera monténégrine",
@@ -389,7 +392,10 @@
     "historicTitle": "Sites historiques",
     "historicText": "La ville compte de nombreux palais, cathédrales et plusieurs tours de guet qui protégeaient autrefois la cité. Pour ceux qui souhaitent découvrir l'histoire de Perast en détail, le musée de Perast contient de nombreux objets, archives, peintures, sculptures et documents municipaux. Le musée est installé dans l'ancien Palata Buiovich, que beaucoup considèrent comme le plus beau bâtiment de la côte monténégrine.",
     "monasteryTitle": "Monastère de Banja",
-    "monasteryText": "Situé juste au nord de Perast sur la route de Risan, le monastère de Banja abrite de nombreuses pièces religieuses anciennes provenant des dynasties russes, grecques et de Boka. Pour atteindre le monastère, continuez vers le nord sur la E65/E80 sur quelques kilomètres seulement."
+    "monasteryText": "Situé juste au nord de Perast sur la route de Risan, le monastère de Banja abrite de nombreuses pièces religieuses anciennes provenant des dynasties russes, grecques et de Boka. Pour atteindre le monastère, continuez vers le nord sur la E65/E80 sur quelques kilomètres seulement.",
+    "monasteryLinkPre": " Poursuivez votre ",
+    "monasteryLinkText": "road trip au Monténégro",
+    "monasteryLinkPost": " le long de la route de la baie."
   },
   "tivatBody": {
     "h1": "Tivat — Ville de la marina",
@@ -421,6 +427,9 @@
     "facilitiesText": "L'aéroport propose des cafés, des téléphones publics, des boutiques de souvenirs et un magasin hors taxes. Des services de bus desservent Herceg Novi et Budva, et un service de taxi est également disponible devant le terminal.",
     "whyTitle": "Pourquoi louer à l'aéroport de Tivat ?",
     "whyText": "L'aéroport de Tivat est l'aéroport le plus proche des destinations côtières les plus populaires du Monténégro. Quelques minutes seulement après l'atterrissage, vous pouvez rouler le long de la baie de Kotor en direction de la ville fortifiée médiévale, ou vous diriger vers le sud en direction des plages de Budva. Récupérer votre voiture à Tivat signifie pas de transferts, pas d'attente de bus — juste un trajet direct du terminal à la route.",
+    "whyLinkPre": " Le trajet jusqu'à la ",
+    "whyLinkText": "vieille ville et aux plages de Budva",
+    "whyLinkPost": " prend environ 25 minutes.",
     "meetText": "Nous vous accueillons dans le hall des arrivées avec votre nom sur un panneau. Votre voiture est garée juste devant. Temps total entre l'atterrissage et la prise de la route : environ 10 minutes."
   },
   "podgoricaBody": {
@@ -462,6 +471,9 @@
     "p3": "Louer une voiture pour un voyage au Monténégro est une excellente idée. Cela permet aux visiteurs de découvrir cette partie du monde selon leurs propres conditions, à leur propre rythme. La circulation entre les pays de cette région est fréquente, de sorte que les passages de frontière se déroulent généralement sans difficulté.",
     "borderTitle": "Conseils pour le passage de la frontière",
     "borderText": "Pendant la saison touristique, le Monténégro est envahi de visiteurs et de longues attentes pour traverser la frontière ne sont pas rares. Traverser tôt le matin ou tard le soir est un moyen d'éviter la foule. Assurez-vous que votre société de location vous a fourni une Carte Verte pour l'assurance transfrontalière.",
+    "borderLinkPre": " Consultez notre ",
+    "borderLinkText": "checklist pour le passage de frontière en voiture de location",
+    "borderLinkPost": " avant de partir.",
     "facilitiesTitle": "Équipements de l'aéroport",
     "facilitiesText1": "L'aéroport de Dubrovnik dispose d'un terminal moderne situé à moins d'une demi-heure de route de la ville de Dubrovnik sur la E65. L'aéroport dispose d'un parking limité, avec des automates acceptant les paiements en espèces et par carte bancaire. Le parking étant limité — surtout en haute saison — les visiteurs devraient réserver leurs places à l'avance si possible. Une réduction est disponible pour les réservations anticipées.",
     "facilitiesText2": "À l'intérieur de l'aéroport, on trouve un bureau de change, une banque et un bureau de poste. De petits restaurants, des cafés, une boutique hors taxes et un kiosque à journaux sont également disponibles.",
@@ -475,6 +487,9 @@
     "p2": "Bien que compact par sa taille, le Monténégro nécessite des temps de conduite plus longs que ce que les cartes suggèrent. Les virages en lacet des montagnes, les routes côtières étroites et les itinéraires panoramiques encouragent les arrêts fréquents. Les voyageurs gagnent la liberté de vivre à la fois le trajet et la destination — naviguant entre des baies aux allures de fjords, des villes historiques et des belvédères d'altitude à leur propre rythme.",
     "startTitle": "Par où commencer",
     "startText": "De nombreux visiteurs récupèrent leur voiture de location dans l'un des aéroports du Monténégro ou à l'aéroport de Dubrovnik en Croatie, selon la disponibilité des vols. L'aéroport de Tivat est le plus proche de la côte — à seulement 10 minutes de Kotor et 20 minutes de Budva. L'aéroport de Podgorica dessert la capitale et l'intérieur du pays. L'aéroport de Dubrovnik reste populaire car il dispose souvent de davantage de vols internationaux.",
+    "startLinkPre": " Récupérez votre voiture à l'",
+    "startLinkText": "aéroport de Tivat",
+    "startLinkPost": " pour l'accès le plus rapide à la côte.",
     "timesTitle": "Temps de conduite",
     "timesText1": "Les temps de conduite réels dépassent régulièrement ce qu'indiquent les cartes. Les virages en lacet des montagnes, les routes côtières découpées, les obstacles ruraux (y compris le bétail) et la neige hivernale en montagne contribuent tous à allonger les trajets. L'expérience panoramique des côtes et de la campagne justifie amplement le temps de voyage supplémentaire.",
     "timesText2": "Les trajets entre les villes côtières varient généralement de trente minutes à une heure. Le trajet de Herceg-Novi à Podgorica via la E65/E80 prend environ deux heures.",
@@ -521,6 +536,9 @@
     "croatiaText": "Le passage frontalier le plus populaire pour les touristes. Le principal point de contrôle se trouve à Debeli Brijeg sur la route côtière (E65) entre Herceg Novi et Dubrovnik. Ce passage est extrêmement fréquenté en été — prévoyez des files d'attente de 1 à 2 heures en haute saison (juillet-août).",
     "croatiaTip": "Meilleurs moments pour traverser : tôt le matin (avant 8h) ou tard le soir (après 20h). Les matinées en semaine sont nettement plus calmes que les week-ends.",
     "croatiaFerry": "Il existe également le raccourci par le ferry Kamenari-Lepetane à travers la baie de Kotor, qui évite de contourner toute la baie — économisant environ 45 minutes.",
+    "croatiaLinkPre": " L'",
+    "croatiaLinkText": "aéroport de Dubrovnik",
+    "croatiaLinkPost": " est le point de départ le plus populaire pour cet itinéraire.",
     "albaniaTitle": "Monténégro → Albanie",
     "albaniaText": "Deux passages principaux : Sukobin/Muriqan (côtier, près d'Ulcinj) et Hani i Hotit (intérieur, près du lac Skadar). Le passage côtier est plus adapté aux voyageurs et présente généralement des temps d'attente plus courts.",
     "albaniaNote": "Remarque : les routes albanaises diffèrent considérablement de celles du Monténégro. Conduisez prudemment, surtout sur les routes rurales.",

@@ -27,7 +27,8 @@
     "pickupDate": "Abholdatum",
     "pickupTime": "Uhrzeit",
     "dropoffDate": "Rückgabedatum",
-    "dropoffTime": "Uhrzeit"
+    "dropoffTime": "Uhrzeit",
+    "selectDates": "Daten auswählen"
   },
   "trust": {
     "noHiddenFees": "Keine versteckten Kosten",

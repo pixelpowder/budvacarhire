@@ -27,7 +27,8 @@
     "pickupDate": "Data di ritiro",
     "pickupTime": "Ora",
     "dropoffDate": "Data di riconsegna",
-    "dropoffTime": "Ora"
+    "dropoffTime": "Ora",
+    "selectDates": "Seleziona le date"
   },
   "trust": {
     "noHiddenFees": "Nessun Costo Nascosto",

@@ -266,6 +266,22 @@
     "7": {
       "q": "Where can I park near Budva Old Town?",
       "a": "The underground car park by the Old Town walls is closest but fills by mid-morning in summer. The open lot behind the bus station is larger and cheaper. Free street parking exists along the Becici road but requires a 10-minute walk. In peak season, arrive before 9 am for the best spots near the walls."
+    },
+    "8": {
+      "q": "What happens if I exceed the mileage limit?",
+      "a": "Vehicles with a set mileage limit charge a per-kilometre fee above the limit. The exact overage rate is shown in the vehicle details before you confirm your booking — no surprises."
+    },
+    "9": {
+      "q": "Is the displayed price the actual price?",
+      "a": "Yes. All taxes and standard fees are included in the booking price. There is no fuel surcharge, no airport fee, and no counter charge when you collect the car."
+    },
+    "10": {
+      "q": "How much do I pay at booking?",
+      "a": "A deposit of roughly 15% to 20% of the total secures the reservation. The balance is paid directly to the rental provider when you collect the car in Budva or at Tivat."
+    },
+    "11": {
+      "q": "Can I rent without a credit card?",
+      "a": "Certain vehicles in the fleet can be rented with a debit card or no card at all. These are marked in the search results so you can filter accordingly."
     }
   },
   "destCards": {

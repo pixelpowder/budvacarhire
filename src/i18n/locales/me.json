@@ -27,7 +27,8 @@
     "pickupDate": "Datum preuzimanja",
     "pickupTime": "Vrijeme",
     "dropoffDate": "Datum vraćanja",
-    "dropoffTime": "Vrijeme"
+    "dropoffTime": "Vrijeme",
+    "selectDates": "Izaberite datume"
   },
   "trust": {
     "noHiddenFees": "Bez Skrivenih Troškova",

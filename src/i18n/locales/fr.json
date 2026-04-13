@@ -27,7 +27,8 @@
     "pickupDate": "Date de prise en charge",
     "pickupTime": "Heure",
     "dropoffDate": "Date de restitution",
-    "dropoffTime": "Heure"
+    "dropoffTime": "Heure",
+    "selectDates": "Sélectionner les dates"
   },
   "trust": {
     "noHiddenFees": "Aucun Frais Caché",

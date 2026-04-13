@@ -27,7 +27,8 @@
     "pickupDate": "Дата получения",
     "pickupTime": "Время",
     "dropoffDate": "Дата возврата",
-    "dropoffTime": "Время"
+    "dropoffTime": "Время",
+    "selectDates": "Выберите даты"
   },
   "trust": {
     "noHiddenFees": "Без скрытых платежей",

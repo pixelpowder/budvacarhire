@@ -788,7 +788,7 @@ export default function App() {
         </div>
         <Destinations />
         <Fleet />
-        <Reviews />
+        {/* <Reviews /> */}
         <BrandLogos />
         <BeachGuide />
         <Features />

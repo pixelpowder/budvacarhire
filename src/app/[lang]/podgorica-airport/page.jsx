@@ -6,7 +6,7 @@ export async function generateMetadata({ params }) {
   return {
     title: t(lang, 'podgorica-airport.title') + ' | Budva Car Hire',
     description: t(lang, 'podgorica-airport.seoDesc'),
-    alternates: buildAlternates('podgorica-airport'),
+    alternates: buildAlternates('podgorica-airport', lang),
   };
 }
 

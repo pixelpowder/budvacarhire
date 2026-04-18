@@ -1,0 +1,1019 @@
+{
+  "nav": {
+    "book": "Book",
+    "blog": "Blog",
+    "destinations": "Destinations",
+    "about": "About"
+  },
+  "common": {
+    "home": "Home",
+    "searchCars": "Search Cars",
+    "callUs": "Call Us",
+    "bookNow": "Book Now",
+    "perDay": "per day",
+    "emailUs": "Email Us"
+  },
+  "hero": {
+    "headline": "Budva Car Hire",
+    "badges": {
+      "freeCancellation": "Free Cancellation",
+      "fullInsurance": "Full Insurance Included",
+      "airportPickup": "10-Min Airport Pickup",
+      "trustpilot": "4.8/5 on Trustpilot"
+    },
+    "search": "Search",
+    "pickupLocation": "Pick-up location",
+    "searchLocation": "Search location\u2026",
+    "pickupDate": "Pick-up date",
+    "pickupTime": "Time",
+    "dropoffDate": "Drop-off date",
+    "dropoffTime": "Time",
+    "selectDates": "Select dates"
+  },
+  "trust": {
+    "noHiddenFees": "No Hidden Fees",
+    "noHiddenFeesDesc": "Checkout price includes everything — taxes, airport surcharges, the lot",
+    "fullInsurance": "Full Insurance",
+    "fullInsuranceDesc": "CDW included, plus a zero-excess upgrade for complete cover on riviera roads",
+    "fastPickup": "Budva Pickup",
+    "fastPickupDesc": "Delivered to your Budva hotel, apartment, or anywhere on the riviera"
+  },
+  "stats": {
+    "years": "Years Experience",
+    "rentals": "Happy Rentals",
+    "rating": "Customer Rating",
+    "locations": "Pickup Locations"
+  },
+  "howItWorks": {
+    "label": "How It Works",
+    "title": "On the Road in 3 Steps",
+    "subtitle": "Choose your car, confirm your dates, and collect on arrival.",
+    "step1Title": "Pick Your Spot",
+    "step1Desc": "Budva centre, Tivat Airport, Be\u010di\u0107i, Sveti Stefan \u2014 28+ pickup points dot the riviera and beyond.",
+    "step2Title": "Choose Your Wheels",
+    "step2Desc": "City runabouts for old-town parking. SUVs for mountain day trips. Filter by gearbox, size, or daily budget.",
+    "step3Title": "Chase the Coastline",
+    "step3Desc": "Keys in hand, you decide: Jaz Beach sunset or Kotor bay by moonlight. The whole riviera is yours."
+  },
+  "fleet": {
+    "label": "Our Fleet",
+    "title": "Find Your Ride",
+    "subtitle": "Live prices, instant booking \u2014 tap and go."
+  },
+  "brands": {
+    "label": "Trusted brands in our fleet"
+  },
+  "destinations": {
+    "label": "Top Destinations",
+    "title": "Where the Road Takes You",
+    "subtitle": "Seventeen beaches, one UNESCO bay, and a national park \u2014 all under an hour from Budva."
+  },
+  "features": {
+    "label": "Why Choose Us",
+    "title": "Made for Beach Chasers",
+    "subtitle": "Riviera-ready cars, honest pricing, and locals who actually know which beach car park fills first."
+  },
+  "reviews": {
+    "label": "Reviews",
+    "title": "What Our Guests Say",
+    "subtitle": "Honest reviews from travellers who hired with us on the Budva Riviera."
+  },
+  "faq": {
+    "label": "FAQ",
+    "title": "Quick Answers",
+    "subtitle": "The stuff everyone asks before booking."
+  },
+  "cta": {
+    "title": "Your Riviera Road Trip Starts Here",
+    "subtitle": "Grab the keys at Tivat Airport or right in Budva. Drive from Jaz to Sveti Stefan before lunch.",
+    "browseFleet": "Browse Fleet"
+  },
+  "sidebar": {
+    "bookTitle": "Book Your Car",
+    "bookText": "Live prices for Budva, Be\u010di\u0107i, Sveti Stefan, and 25 more spots.",
+    "helpTitle": "Need Help?",
+    "helpText": "WhatsApp, Viber, or old-fashioned phone \u2014 we pick up fast.",
+    "popularDest": "Popular Destinations"
+  },
+  "book": {
+    "title": "Find Your Car",
+    "seoTitle": "Book a Riviera Rental",
+    "seoDesc": "Compare riviera-ready cars at live prices. Lock in your beach wheels with instant confirmation and free cancellation across 17 beaches."
+  },
+  "footer": {
+    "brandDesc": "Budva car hire with Tivat Airport pickup, full insurance, and transparent pricing. Seventeen beaches and the entire Montenegrin Riviera at your pace.",
+    "quickLinks": "Quick Links",
+    "guides": "Guides",
+    "locations": "Locations",
+    "carHireBooking": "Car Hire Booking",
+    "ourFleet": "Our Fleet",
+    "destinations": "Destinations",
+    "aboutUs": "About Us",
+    "faqLink": "FAQ",
+    "montenegroGuide": "Montenegro Travel Guide",
+    "borderGuide": "Border Crossing Guide",
+    "searchCars": "Search Cars",
+    "privacyPolicy": "Privacy Policy",
+    "terms": "Terms & Conditions",
+    "cookiePolicy": "Cookie Policy"
+  },
+  "notFound": {
+    "code": "404",
+    "title": "Dead End",
+    "text": "This page doesn't exist \u2014 but 17 beaches do. Let's get you back on the coast road.",
+    "backHome": "Back to Home",
+    "searchCars": "Search Cars"
+  },
+  "home": {
+    "seoDesc": "Budva draws a third of Montenegro's tourists to its 17 beaches, rooftop clubs, and 2,500-year-old walled town. Cars from \u20ac13/day, Tivat Airport pickup 22 km away."
+  },
+  "about": {
+    "title": "About Us",
+    "subtitle": "Helping travellers rent cars in Budva — from beach runs to mountain drives and border crossings.",
+    "seoDesc": "An independent affiliate connecting Budva visitors to reliable rental cars. We work with trusted local car hire partners and share route tips for beaches, mountains, and Tivat Airport pickups."
+  },
+  "kotor": {
+    "title": "Kotor from Budva",
+    "subtitle": "Swap beach sand for fortress walls \u2014 25 km through the mountain tunnel.",
+    "seoDesc": "Thirty minutes separates Budva's sunbeds from Kotor's medieval ramparts. Drive the tunnel north to a UNESCO bay town of cat-filled lanes and 1,200 steps."
+  },
+  "tivat-airport": {
+    "title": "Tivat Airport Car Hire",
+    "subtitle": "Your car waits at arrivals \u2014 Budva's beaches are 22 km south.",
+    "seoDesc": "Land at TIV, walk to your car, and reach Budva's coast in half an hour. No shuttle. No queue. Just riviera road from the terminal door."
+  },
+  "budva": {
+    "title": "Car Hire in Budva",
+    "subtitle": "Beaches by day, rooftop clubs by night, and a 2,500-year-old walled town in between.",
+    "seoDesc": "Mogren cave beach, Jaz festival sand, Top Hill superclub, and the Citadela fortress \u2014 everything within 5 km of your Budva pickup. Cars from \u20ac13/day."
+  },
+  "perast": {
+    "title": "Perast from Budva",
+    "subtitle": "Forty minutes along the bay to a village with more churches than traffic lights.",
+    "seoDesc": "Drive 35 km from the riviera party strip into baroque silence. Perast's 16 churches, two islands, and waterfront konoba restaurants reward the detour."
+  },
+  "podgorica": {
+    "title": "Podgorica from Budva",
+    "subtitle": "One hour inland to the capital \u2014 Lake Skadar and pelicans along the way.",
+    "seoDesc": "Swap the beach for the capital in 65 km. The Lake Skadar route passes 270 bird species, riverside restaurants, and Montenegrin wine country."
+  },
+  "podgorica-airport": {
+    "title": "Podgorica Airport Car Hire",
+    "subtitle": "Budget flights land here \u2014 the beach is an hour south.",
+    "seoDesc": "Collect at TGD arrivals, take the scenic Lake Skadar road, and park on Budva's coast inside 60 minutes. More flight routes than Tivat year-round."
+  },
+  "dubrovnik-airport": {
+    "title": "Dubrovnik Airport Car Hire",
+    "subtitle": "Land in Croatia, cruise the Adriatic coast, arrive in Budva.",
+    "seoDesc": "Two and a half hours of jaw-dropping coast road connect Dubrovnik Airport to Budva. One border stop, green card sorted, Adriatic views the whole way."
+  },
+  "tivat": {
+    "title": "Tivat from Budva",
+    "subtitle": "Superyachts and waterfront espresso \u2014 22 km from the party strip.",
+    "seoDesc": "Porto Montenegro's luxury marina sits 30 minutes from Budva's beach bars. Superyacht spotting, waterfront seafood, and a completely different coastal vibe."
+  },
+  "montenegro": {
+    "title": "Montenegro Driving Guide",
+    "subtitle": "Beach parking fees, mountain switchbacks, and everything a Budva-based driver needs to know.",
+    "seoDesc": "The riviera road rules nobody tells you: Budva Old Town one-ways, summer beach parking charges, and how to handle the tight switchbacks south of Petrovac."
+  },
+  "border-crossing": {
+    "title": "Cross-Border Driving from Budva",
+    "subtitle": "Paperwork, wait times, and the quietest crossings \u2014 from a Budva starting point.",
+    "seoDesc": "Dubrovnik day trip or Albanian coast run? Which documents each border demands, real wait times in summer, and the crossings where locals never queue."
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "subtitle": "How we handle your information.",
+    "seoDesc": "What Budva Car Hire collects during riviera rental searches, how bookings are processed, and your GDPR rights."
+  },
+  "terms": {
+    "title": "Terms & Conditions",
+    "subtitle": "Terms of use for our website.",
+    "seoDesc": "Budva Car Hire terms: riviera pickup rules, cancellation windows, damage liability, and delayed-flight policy for Tivat arrivals."
+  },
+  "cookie-policy": {
+    "title": "Cookie Policy",
+    "subtitle": "How we use cookies on this website.",
+    "seoDesc": "How budvacarhire.com uses cookies: booking widget data, analytics, and your one-toggle preference control."
+  },
+  "featureCards": {
+    "airportPickup": {
+      "title": "Tivat Airport Pickup",
+      "desc": "Tivat Airport is 22 km up the coast. Your agent meets you at arrivals \u2014 one coast road drive and you're parking on the riviera."
+    },
+    "fullInsurance": {
+      "title": "Full Insurance",
+      "desc": "CDW and theft cover included as standard. Upgrade to zero excess for total peace of mind on narrow coastal lanes and beach car parks."
+    },
+    "support": {
+      "title": "24/7 Support",
+      "desc": "Left your lights on at Jaz Beach car park? Locked your keys in at Mogren? Call us any hour \u2014 we know every car park on this riviera."
+    },
+    "noHiddenFees": {
+      "title": "No Hidden Fees",
+      "desc": "One number at booking. That same number at pickup. VAT, mileage, and beach-town fuel policy are all baked in \u2014 nothing added at the counter."
+    },
+    "freeCancellation": {
+      "title": "Free Cancellation",
+      "desc": "Summer weather on the riviera shifts fast and festival dates change. Cancel free up to 24 hours before pickup and get every cent refunded."
+    },
+    "crossBorder": {
+      "title": "Cross-Border Ready",
+      "desc": "Dubrovnik is 2.5 hours north via Debeli Brijeg. The Albanian border is closer from Budva than anywhere else on the riviera. Green card sorted at booking."
+    }
+  },
+  "testimonials": {
+    "0": {
+      "text": "We drove from Jaz Beach to Sveti Stefan on our first morning and couldn't believe the views. Stopped at Be\u010di\u0107i for lunch, made it to the Sveti Stefan viewpoint before sunset. The car meant we could dodge the buses and go at our own pace. Would absolutely book again."
+    },
+    "1": {
+      "text": "Three of us rented for five nights \u2014 Top Hill one evening, Trocadero the next, then a road trip south to Petrovac for a slower afternoon. Having a car meant no waiting for taxis at 2am. The agent at Tivat was quick and the car was spotless. Exactly what we needed."
+    },
+    "2": {
+      "text": "We prefer quieter roads and olive groves to beach clubs. The car took us south to Petrovac, through the old village lanes above Budva, and along the coast at our own gentle pace. The old town in the evenings was magical. A very well organised rental from start to finish."
+    }
+  },
+  "faqItems": {
+    "0": {
+      "q": "What documents do I need to rent?",
+      "a": "You'll need a full driving licence with Latin-script details, your passport, and a physical credit card issued in the main driver's name. If your licence is from a country that uses a non-Latin script, bring an International Driving Permit too. Photocopies and digital-only licences are not accepted at pickup."
+    },
+    "1": {
+      "q": "Can I drive to Croatia or Albania?",
+      "a": "Yes. Cross-border travel is permitted to Croatia, Bosnia, Albania, Kosovo, and Serbia. The Dubrovnik day trip via Debeli Brijeg is one of the most popular runs from Budva \u2014 about 2.5 hours each way. Flag the countries at booking and the Green Card is prepared for you."
+    },
+    "2": {
+      "q": "What's actually included in the price?",
+      "a": "Third-party liability insurance and CDW come standard on most cars. VAT, a roadside safety kit, and a transparent fuel policy are included too. Mileage terms differ per vehicle \u2014 check the car listing. Zero-excess cover and extras like child seats can be added at booking."
+    },
+    "3": {
+      "q": "How does pickup work at Tivat Airport?",
+      "a": "Your agent meets you at Tivat Airport arrivals hall. The 22 km coast road to Budva takes around 25 minutes depending on summer traffic. No shuttle, no waiting around \u2014 the car is parked right outside the terminal."
+    },
+    "4": {
+      "q": "Can I return the car somewhere different?",
+      "a": "One-way rentals are available across 28+ towns and cities in Montenegro. Pick up at Tivat, drop off in Budva, or vice versa \u2014 just select different locations when you book."
+    },
+    "5": {
+      "q": "What is the cancellation policy?",
+      "a": "Standard vehicles: free cancellation up to 7 days before pickup. Luxury cars and convertibles: free cancellation up to 30 days in advance. A 6% processing fee applies on all cancellations regardless of timing."
+    },
+    "6": {
+      "q": "Do I need to pay a deposit?",
+      "a": "It depends on the vehicle. Deposits typically fall between \u20ac100 and \u20ac500 for most riviera rentals. Some cars require no deposit at all. Where one applies, it sits on the main driver\u2019s physical credit card and is released when the car is returned undamaged."
+    },
+    "7": {
+      "q": "Where can I park near Budva Old Town?",
+      "a": "The underground car park by the Old Town walls is closest but fills by mid-morning in summer. The open lot behind the bus station is larger and cheaper. Free street parking exists along the Becici road but requires a 10-minute walk. In peak season, arrive before 9 am for the best spots near the walls."
+    },
+    "8": {
+      "q": "What happens if I exceed the mileage limit?",
+      "a": "Vehicles with a set mileage limit charge a per-kilometre fee above the limit. The exact overage rate is shown in the vehicle details before you confirm your booking — no surprises."
+    },
+    "9": {
+      "q": "Is the displayed price the actual price?",
+      "a": "Yes. All taxes and standard fees are included in the booking price. There is no fuel surcharge, no airport fee, and no counter charge when you collect the car."
+    },
+    "10": {
+      "q": "How much do I pay at booking?",
+      "a": "A deposit of roughly 15% to 20% of the total secures the reservation. The balance is paid directly to the rental provider when you collect the car in Budva or at Tivat."
+    },
+    "11": {
+      "q": "Can I rent without a credit card?",
+      "a": "Certain vehicles in the fleet can be rented with a debit card or no card at all. These are marked in the search results so you can filter accordingly."
+    }
+  },
+  "destCards": {
+    "tivat-airport": {
+      "name": "Tivat Airport",
+      "tag": "22 km Away",
+      "desc": "Your gateway to the riviera. We meet you at arrivals."
+    },
+    "kotor": {
+      "name": "Kotor",
+      "tag": "UNESCO Bay",
+      "desc": "Fortress town tucked inside a fjord-like bay, 25 km north."
+    },
+    "podgorica-airport": {
+      "name": "Podgorica Airport",
+      "tag": "Capital Hub",
+      "desc": "More routes year-round, one hour from the coast."
+    },
+    "perast": {
+      "name": "Perast",
+      "tag": "Baroque Quiet",
+      "desc": "Sixteen churches and two islands on a glassy bay."
+    },
+    "budva": {
+      "name": "Budva",
+      "tag": "Home Base",
+      "desc": "Beaches, clubs, and a walled old town on a peninsula."
+    },
+    "dubrovnik-airport": {
+      "name": "Dubrovnik Airport",
+      "tag": "Cross-Border",
+      "desc": "Fly into Croatia, coast-road it to Budva."
+    },
+    "tivat": {
+      "name": "Tivat",
+      "tag": "Marina Town",
+      "desc": "Superyachts at Porto Montenegro, 30 minutes away."
+    },
+    "podgorica": {
+      "name": "Podgorica",
+      "tag": "Capital City",
+      "desc": "Lake Skadar, wine bars, and the Millennium Bridge."
+    }
+  },
+  "aboutBody": {
+    "h1": "About Budva Car Hire",
+    "p1": "Budva Car Hire is an independent affiliate that connects visitors to reliable rental cars along the riviera. Too many travellers land at Tivat, squeeze onto a transfer bus, and spend their whole holiday within walking distance of one hotel. Budva deserves more than that. Seventeen beaches stretch along this coast, rooftop bars overlook a 2,500-year-old walled town, and an hour inland the mountains start. All of it is reachable \u2014 but only if you have wheels.",
+    "h2": "The Budva Effect",
+    "p2": "Over 800,000 visitors flood this strip of coast every summer. They come for Mogren's cliff-sheltered pebbles (0.5 km from the old town), Jaz's festival-ready sand (2.5 km west), and Be\u010di\u0107i's kilometre-long shore (3 km south). They stay for the food \u2014 grilled brancin at a waterfront konoba for under \u20ac12. They come back for Top Hill, the 3,000-capacity superclub carved into the cliffs above Budva. A rental car turns a beach holiday into an adventure.",
+    "h3": "How We Work",
+    "p3": "Search our fleet, pick a car, and book online with instant confirmation. We cover the entire riviera plus Tivat Airport (22 km), Podgorica Airport (65 km), and 26 more pickup spots. Fleet runs from budget city cars that slot into old-town parking spaces to SUVs built for Lov\u0107en's switchbacks. Every vehicle carries full insurance with no hidden fees.",
+    "promiseTitle": "What You Get",
+    "promise1": "Full insurance \u2014 zero-excess upgrade available",
+    "promise2": "Tivat Airport meet-and-greet at the arrivals door",
+    "promise3": "Transparent pricing: the number at booking is the number you pay",
+    "promise4": "Cross-border driving to Croatia, Bosnia, Albania, Serbia, and Kosovo",
+    "promise5": "Free cancellation on most cars",
+    "promise6": "24/7 roadside backup wherever you end up",
+    "h4": "We Live Here",
+    "p4": "Our team lives on the Budva Riviera. We know that Mogren car park fills by 10am in July, that the coast road south to Petrovac gets jammed after 4pm on Saturdays, and that the best cevapi on the strip is at a place most tourists walk straight past. We share this stuff freely \u2014 because a better road trip means a better review, and better reviews keep us going.",
+    "h5": "Talk to Us",
+    "p5": "Question about parking at Jaz? Wondering whether to take the tunnel or the coast road to Kotor? Drop us a message on WhatsApp, Viber, or plain old phone. Or just search the fleet and book \u2014 confirmation is instant."
+  },
+  "kotorBody": {
+    "h1": "Kotor \u2014 25 km North Through the Tunnel",
+    "p1": "Leave the beach buzz behind and drive 25 km north through the Sozina-style mountain tunnel. On the other side, the Bay of Kotor opens up \u2014 a fjord-like inlet surrounded by limestone peaks. Kotor's walled old town sits at the water's edge, packed with cat-filled lanes, stone churches, and restaurants tucked into medieval arches. This is a different Montenegro entirely.",
+    "p2": "Budget tip: street parking outside the walls fills fast in summer. The large public lot near the main gate charges around \u20ac1 per hour. Arrive before 10am or after 5pm and you'll save time and patience.",
+    "landmarksTitle": "Worth the Climb",
+    "stJohnTitle": "St. John Fortress (1,200 Steps)",
+    "stJohnText": "The ramparts zig-zag 1,200 steps up the mountain behind old town. At the top, the fortress gives you a sweeping view of the bay, the orange rooftops, and the cruise ships far below. Bring water and good shoes \u2014 the stone steps get slippery. Free if you enter from the back trail; \u20ac8 from the official gate.",
+    "cathedralTitle": "St. Tryphon Cathedral",
+    "cathedralText": "Kotor's most recognised building dates to 809 AD, rebuilt in 1124 after an earthquake. Twin bell towers frame a Romanesque facade. Inside, Byzantine frescoes and a silver-gold altar piece make this one of the most significant churches on the Adriatic.",
+    "dayTripsTitle": "Keep Driving from Kotor",
+    "perastTrip": "Continue 15 minutes along the bay to Perast \u2014 a one-street baroque village with two islands offshore. A boat to Our Lady of the Rocks costs about \u20ac5 return. The tradition of dropping rocks into the bay to grow the island dates to 1452 and still happens every July.",
+    "cetinjeTrip": "Take the legendary 25-hairpin-bend road up from Kotor to Cetinje, the old royal capital. Stop at each hairpin for increasingly dramatic bay views. The royal monastery houses relics including what is claimed to be the hand of John the Baptist.",
+    "royalCourtText": "Cetinje's royal palace from 1871 displays art, photographs, and artefacts from Montenegro's short-lived kingdom. Budget \u20ac3 for entry. It sits next to the monastery in a quiet town that feels frozen in the 19th century.",
+    "tivatLinkPre": " Most visitors ",
+    "tivatLinkText": "collect their car at Tivat Airport",
+    "tivatLinkPost": ", just 20 minutes from Kotor."
+  },
+  "budvaBody": {
+    "h1": "Budva \u2014 Where the Riviera Comes Alive",
+    "p1": "Picture this: a peninsula old town ringed by stone walls, cocktail bars on the ramparts, and a beach within sight of every restaurant table. That's Budva. Montenegro's undisputed summer capital pulls over 800,000 visitors a year. A third of all tourism in the country happens right here, on this stretch of coast between Jaz and Sveti Stefan.",
+    "p2": "The town sits 22 km south of Tivat Airport \u2014 a breezy 30-minute drive. Ancient walls by day, Top Hill's 3,000-person dancefloor by night. Budget travellers eat grilled squid at harbour konobas for \u20ac8. Big spenders reserve a table at Citadela restaurant inside the fortress. Everyone ends up on the same beaches.",
+    "beachesTitle": "The Beaches (and Where to Park)",
+    "beachesIntro": "Twenty-one kilometres of coastline run south from Budva. Every beach has its own character:",
+    "mogren": "Two connected coves hidden behind a cliff tunnel, 0.5 km from the old town. Pebble shore, dramatic rock walls. Sunbed hire around \u20ac15/pair in peak season. Parking at the nearby lot fills by mid-morning \u2014 walk from town instead",
+    "jaz": "A wide sandy bay 2.5 km west. Festival stages go up here in summer. Free entry but parking costs \u20ac3\u20135 depending on how close you get. Arrive early on weekends or you'll park on the road",
+    "svetiStefan": "The photogenic fortified island turned luxury hotel, 8 km south. The public beach on the mainland side is gorgeous and free. Views from the road above cost nothing",
+    "becici": "Fine sand stretching 2 km, 3 km south of Budva. Water sports central: jet ski hire from \u20ac40/15min, parasailing \u20ac35, banana boat rides for the kids. Several beachfront restaurants serve lunch without leaving the sand",
+    "oldTownTitle": "Inside the Walls",
+    "oldTownText": "Budva's Stari Grad sits on a compact peninsula barely 200 metres across. Narrow lanes twist between Venetian-era buildings, opening into tiny squares with church facades and cafe tables. The Citadela fortress anchors the southern tip \u2014 the terrace restaurant up top has sunset views that justify the prices. Below the walls, a wooden boardwalk wraps around to Ricardova Glava beach, the town's smallest and most popular strip of sand.",
+    "dayTripsTitle": "Day Trips with a Car",
+    "svetiStefanTrip": "Drive 8 km south along the coast road and Sveti Stefan appears on a bend \u2014 a cluster of terracotta rooftops on a rocky islet connected by a narrow causeway. Pull over at the viewpoint above for the photo. The mainland beach beside the causeway is open to everyone.",
+    "kotorTrip": "Head north through the mountain tunnel and you're in Kotor in 30 minutes. UNESCO old town, 1,200 fortress steps, and bay-side restaurants. Continue to Perast for the island churches \u2014 add an extra 15 minutes.",
+    "lovcenTrip": "Turn inland toward Lov\u0107en National Park and climb to the Njego\u0161 Mausoleum at 1,657 metres. On a clear day you can see across four countries from the top. The switchback road from the coast is part of the experience \u2014 budget 90 minutes each way.",
+    "gettingAroundTitle": "Parking and Getting Around",
+    "gettingAroundText": "The old town is pedestrian-only \u2014 explore it on foot. For the car, use the paid lots near the main gate (\u20ac1\u20132/hour) or the larger car parks along the Jadranski Put main road. In July and August, beach parking fills early. Mogren lot is gone by 10am. Jaz by 11am on weekends. Be\u010di\u0107i has more capacity but the access road crawls after noon. Pro tip: hit the further beaches first thing, then come back to town when the afternoon crowd thins out."
+  },
+  "perastBody": {
+    "h1": "Perast \u2014 Forty Minutes Along the Bay",
+    "p1": "From Budva, drive 35 km north through Kotor and along the bay's edge. The road hugs the waterline, passing stone villages and small harbours until Perast appears \u2014 a single row of baroque palaces reflected in still water. Traffic noise drops to almost nothing. This is the Adriatic coast at its most serene.",
+    "p2": "Fewer than 850 people live here year-round. Between 1420 and 1797 the town belonged to Venice, and the Venetian influence shows in every facade, bell tower, and waterfront palazzo. Perast's sailors were legendary \u2014 the town produced sea captains who trained the Russian navy under Peter the Great. Today, waterfront konoba restaurants serve fresh-caught fish and local wine while you watch the bay.",
+    "islandsTitle": "Two Islands, Two Stories",
+    "stGeorgeTitle": "Sveti \u0110or\u0111e (St. George)",
+    "stGeorgeText": "A natural cypress-covered island just offshore. The 12th-century Benedictine monastery is closed to visitors, but the island's dark silhouette against the bay is one of Montenegro's most photographed scenes. Boat captains along the harbour will circle the island for a few euros.",
+    "ladyOfRocksTitle": "Our Lady of the Rocks",
+    "ladyOfRocksText": "A man-made island built by fishermen dropping rocks and sinking old ships over centuries. The tradition continues every 22 July \u2014 locals fill boats with stones and dump them around the island. Inside the church, a tapestry took one woman 25 years to complete using her own hair. Boat rides from the Perast harbour cost around \u20ac5 return.",
+    "historicTitle": "On Shore",
+    "historicText": "Sixteen churches and several baroque palaces line the waterfront. The Perast Museum occupies Palata Buiovich \u2014 widely considered the most elegant building on the Montenegrin coast. Entry is around \u20ac5. Model ships, old maps, and portraits of sea captains fill the rooms. Budget 45 minutes if you enjoy maritime history.",
+    "monasteryTitle": "Banja Monastery",
+    "monasteryText": "A short drive north toward Risan brings you to this peaceful monastery. Its collection spans Greek, Russian, and Boka religious art. No entrance fee. Keep driving another 10 minutes to Risan for well-preserved Roman floor mosaics \u2014 an unexpectedly impressive stop.",
+    "monasteryLinkPre": " Continue your ",
+    "monasteryLinkText": "Montenegro road trip",
+    "monasteryLinkPost": " along the bay road."
+  },
+  "tivatBody": {
+    "h1": "Tivat \u2014 Superyachts and Seafood, 22 km Away",
+    "p1": "Most visitors see Tivat only through the airport window. That's a mistake. The town's waterfront has been transformed by Porto Montenegro \u2014 a luxury marina complex where superyachts dock next to cocktail terraces. It is a different planet from Budva's beach-party energy, and it is only 30 minutes up the coast.",
+    "p2": "The permanent population hovers around 13,000, but summer doubles that. A palm-lined promenade connects the old town to the marina district. Side streets hide family-run restaurants where grilled fish and a carafe of Vranac wine costs half what you'd pay at a marina table. Worth knowing.",
+    "beachesTitle": "Tivat's Beaches",
+    "beachesText": "Seventeen beaches stretch across 3 km of Tivat's coastline. The two standouts:",
+    "beach1": "Plavi Horizanti (Blue Horizons): white sand, shallow entry, perfect for small kids. Sunbed hire around \u20ac10/pair",
+    "beach2": "Przno on Sveti Marko Island: a former resort island now quietly returning to nature. The water is some of the clearest on the bay",
+    "portoTitle": "Porto Montenegro",
+    "portoText": "The marina complex turned Tivat from a quiet naval town into a Mediterranean hotspot. Berths hold superyachts up to 250 metres. On shore: designer boutiques, waterfront restaurants, a pool club, and a naval heritage museum housed in the old submarine repair facility. Summer weekends bring live music and yacht parties. Entry to the marina promenade is free \u2014 window shopping is the main sport.",
+    "culturalTitle": "Beyond the Marina",
+    "monasteryTitle": "Prevlaka Peninsula",
+    "monasteryText": "The ruins of St. Michael Archangel Monastery sit on the Prevlaka tip, dating to the 10th century. Ongoing archaeological digs keep uncovering older layers. The peninsula trail takes about 30 minutes and offers bay views that rival anything on the coast.",
+    "churchTitle": "Church of Sveti Antun Padovanski",
+    "churchText": "Built in 1734, this hilltop church holds religious paintings and local artefacts. The real draw is the view \u2014 the bay stretches out below with Perast and the islands in the distance. Free entry.",
+    "museumText": "If maritime history appeals, Kotor's Maritime Museum is just 10 minutes further along the bay. Centuries of Adriatic seafaring packed into one beautiful building."
+  },
+  "tivatAirportBody": {
+    "h1": "Grab Your Car at Tivat Airport (TIV)",
+    "p1": "Tivat Airport sits 22 km from Budva \u2014 that is about 30 minutes on a straight coast road. The recently modernised terminal handles summer charters alongside year-round Belgrade flights. It is small, efficient, and built for getting you out fast.",
+    "p2": "Summer is peak season with direct flights from across Europe. Winter slows to a trickle, but daily Belgrade connections keep the airport ticking year-round. The code is TIV.",
+    "distancesTitle": "How Far Is Everything?",
+    "dist1": "Budva: 22 km \u2014 about 30 minutes on the coast road",
+    "dist2": "Kotor: 8 km \u2014 roughly 10 minutes through the bay",
+    "dist3": "Podgorica: 80 km \u2014 just over an hour inland",
+    "dist4": "Sveti Stefan: 30 km \u2014 35 minutes heading south",
+    "facilitiesTitle": "Inside the Terminal",
+    "facilitiesText": "Compact but functional: a cafe, duty-free shop, souvenir stands, and a bureau de change. Buses run to Herceg Novi and Budva, and taxis wait outside. But with your own car, none of that matters \u2014 you walk straight through to the car park.",
+    "whyTitle": "Why Pick Up at Tivat?",
+    "whyText": "Tivat is the closest airport to the riviera. Period. Within 30 minutes of wheels down, you can be on Budva's main drag looking for a parking spot near the old town. No transfer bus. No taxi negotiation. No wasted first afternoon. Your holiday starts at the terminal door.",
+    "whyLinkPre": " The drive to ",
+    "whyLinkText": "Budva's Old Town and beaches",
+    "whyLinkPost": " takes around 25 minutes.",
+    "meetText": "Our agent meets you in the arrivals hall with a name board. Your car is parked steps away. Average time from baggage belt to driving: about 10 minutes."
+  },
+  "podgoricaBody": {
+    "h1": "Podgorica \u2014 65 km from the Sand",
+    "p1": "Montenegro's capital sits an hour inland from the riviera. Most tourists skip it entirely, heading straight for the coast. That is understandable \u2014 but it means missing a genuinely interesting city that shows you a completely different side of the country.",
+    "p2": "The architecture tells the story: Ottoman-era bridges, socialist apartment blocks, glass-fronted shopping centres, and the cable-stayed Millennium Bridge all share the skyline. It is messy and real. The cafe culture is excellent. Locals drink espresso for hours along Hercegova\u010dka street, and nobody is in a rush.",
+    "p3": "Budget tip: restaurant prices in Podgorica run about 30-40% less than Budva's tourist strip. A full grilled meat platter with sides and local beer costs around \u20ac8\u201310 at a neighbourhood konoba.",
+    "seeTitle": "What to See",
+    "seeText": "Sat-Kula, the Ottoman clock tower, still stands in the old Stara Varo\u0161 quarter. The Duklja archaeological site dates back roughly 2,000 years. For shopping, the Delta City mall covers mainstream brands while the Stara Varo\u0161 neighbourhood hides independent galleries and craft shops. Wine lovers should try Podgorica's tasting rooms \u2014 Montenegro's Crmnica wine region starts just south of the city.",
+    "dayTripsTitle": "Side Trips from Podgorica",
+    "skadarTitle": "Skadar Lake",
+    "skadarText": "The largest lake in the Balkans straddles the Montenegro-Albania border, 30 minutes south of the city. National Park status protects its wetlands, where Dalmatian pelicans, herons, and 270 other bird species breed. Boat tours from Virpazar cost around \u20ac15\u201320 per person. Pack a picnic \u2014 lakeside restaurants are limited and overpriced.",
+    "danilovgradTitle": "Danilovgrad",
+    "danilovgradText": "A river town 30 minutes west with a mellow vibe. The Zeta River beaches draw locals on hot days. Nearby Zdrebaonik Monastery sits in quiet forest. If you are driving to Nik\u0161i\u0107 or the mountains, it makes a natural lunch stop.",
+    "zabljak": "\u017dabljak sits at 1,500 metres in the Durmitor mountain range, about 170 km north of Podgorica. Winter skiing, summer hiking, and the Tara River Canyon \u2014 the deepest in Europe \u2014 make it a year-round draw. The drive up is spectacular but allow three hours."
+  },
+  "podgoricaAirportBody": {
+    "h1": "Pick Up Your Car at Podgorica Airport (TGD)",
+    "p1": "Podgorica Airport handles more international routes than Tivat and stays busier year-round. It sits 65 km from Budva \u2014 about an hour's drive, mostly on good dual carriageway. The airport code TGD nods to the city's former name, Titograd.",
+    "p2": "A new terminal opened in 2006, and the original building now serves as an aviation history display. The airport punches above its weight \u2014 it once won ACI Europe's award for best airport under 1 million passengers.",
+    "distancesTitle": "Distances from TGD",
+    "distIntro": "The airport is 12 km south of Podgorica city centre.",
+    "dist1": "Podgorica centre: 12 km (taxi around \u20ac10)",
+    "dist2": "Budva: 65 km (approximately 1 hour via Lake Skadar road)",
+    "dist3": "Kotor: 80 km (1 hour 15 minutes via the bay)",
+    "dist4": "Sveti Stefan: 75 km (just over 1 hour heading south-west)",
+    "flightsTitle": "Routes and Airlines",
+    "flightsText": "Daily Belgrade service runs year-round. Seasonal direct flights connect to London, Paris, Rome, Frankfurt, Vienna, Budapest, and more. Budget carriers make TGD the cheaper entry point for many riviera holidays.",
+    "facilitiesTitle": "The Terminal",
+    "facilitiesText": "Eight departure gates, two arrival gates, a cafe, duty-free, and car hire desks in the arrivals hall. It is small enough that you will not get lost.",
+    "awardText": "Despite its size, Podgorica Airport has taken home the ACI Europe award for the best airport in its category. Efficient processing and friendly staff get consistent praise.",
+    "rentalTitle": "Collecting Your Car",
+    "rentalText": "We meet you at the arrivals hall. No shuttle bus, no queue at a counter. Your car is in the car park right outside. Clear customs, sign the paperwork, and you are on the road. The drive to Budva passes Lake Skadar \u2014 keep an eye out for pelicans and pull over at one of the viewpoints."
+  },
+  "dubrovnikAirportBody": {
+    "h1": "Fly into Dubrovnik, Drive to the Riviera",
+    "p1": "Dubrovnik Airport (DBV) often has wider international connections and cheaper flights than Tivat or Podgorica. The trade-off is distance: roughly 2.5 hours of driving to reach Budva. The upside? That drive follows one of Europe's most spectacular coastal roads.",
+    "p2": "Cross-border rental is straightforward as long as your paperwork is sorted. Tell us at booking that you are starting in Croatia and we make sure the Green Card insurance covers every kilometre.",
+    "p3": "Plenty of travellers combine a day in Dubrovnik with the drive south. Stop in the old city if you have time \u2014 then enjoy the Adriatic views all the way to Budva.",
+    "borderTitle": "Crossing into Montenegro",
+    "borderText": "The border checkpoint at Debeli Brijeg sits between Herceg Novi and Dubrovnik. In summer, queues build fast \u2014 peak waits hit 1\u20132 hours on weekend afternoons. Cross before 8am or after 8pm and you will breeze through. Have your passport, rental contract, and Green Card accessible, not buried in a suitcase.",
+    "borderLinkPre": " Check our ",
+    "borderLinkText": "rental car border crossing checklist",
+    "borderLinkPost": " before you go.",
+    "facilitiesTitle": "Dubrovnik Airport Terminal",
+    "facilitiesText1": "A modern terminal less than 30 minutes from Dubrovnik's old city walls on the E65. Parking fills quickly in peak summer \u2014 pre-booking saves stress.",
+    "facilitiesText2": "Inside: bureau de change, ATMs, post office, restaurants, duty-free, and a newsstand. Everything you need before hitting the road south.",
+    "gettingTitle": "The Drive to Budva",
+    "gettingText1": "Leave the airport and join the coastal E65 heading south. You will cross the Montenegro border at Debeli Brijeg, then follow the bay road through Herceg Novi and along the Boka Kotorska.",
+    "gettingText2": "Two and a half hours of Adriatic coastline, one border stop, and you pull into Budva. On a clear day this ranks among the best drives in southern Europe. Keep the camera charged."
+  },
+  "montenegroBody": {
+    "h1": "Driving Montenegro from a Budva Base",
+    "p1": "Montenegro packs dramatic variety into a tiny footprint. Twenty-one kilometres of riviera beach. A fjord-like bay ringed by medieval towns. A lake with 270 bird species. Mountain canyons deeper than anything in the Alps. And you can reach all of it from Budva in under three hours. A rental car turns a beach week into a proper adventure.",
+    "p2": "Fair warning: distances on the map lie. Mountain switchbacks, single-lane coast roads, and the occasional goat crossing mean real driving times run 30\u201350% longer than Google suggests. Lean into it. The slow bits are usually the most scenic bits.",
+    "startTitle": "Starting from Budva",
+    "startText": "Most visitors pick up at Tivat Airport (22 km, 30 min) or Podgorica Airport (65 km, 1 hr). Dubrovnik Airport in Croatia works too \u2014 2.5 hours via the coast road. Once in Budva, you are centre-stage on the riviera with fast access north to the bay and south toward Bar and Albania.",
+    "startLinkPre": " Pick up your car at ",
+    "startLinkText": "Tivat Airport",
+    "startLinkPost": " for the quickest coastal access.",
+    "timesTitle": "Real Driving Times from Budva",
+    "timesText1": "These times assume summer traffic and no major stops. Add 15\u201320 minutes on weekend afternoons for the Budva\u2013Kotor tunnel queue.",
+    "timesText2": "Sveti Stefan: 15 min. Kotor: 30 min. Tivat: 30 min. Petrovac: 20 min. Herceg Novi: 1 hr. Podgorica: 1 hr. Dubrovnik: 2.5 hrs. \u017dabljak: 3 hrs.",
+    "rulesTitle": "Road Rules That Matter",
+    "rulesIntro": "Police stops are common but painless if your documents are in order. Keep these in the car:",
+    "rule1": "Valid driving licence (international permit accepted alongside your home licence)",
+    "rule2": "Rental contract \u2014 the original, not a screenshot",
+    "rule3": "Insurance documents",
+    "rule4": "Green Card if you plan to cross any border (around \u20ac15 for 15 days)",
+    "keyRulesTitle": "Rules of the Road",
+    "keyRule1": "Seatbelts mandatory, front and back, every trip",
+    "keyRule2": "Phone use while driving is banned \u2014 hands-free only",
+    "keyRule3": "Alcohol limit is zero. Not 'one glass'. Zero.",
+    "keyRule4": "Speed cameras are real and fines arrive in the post",
+    "conditionsTitle": "What the Roads Are Like",
+    "conditionsText": "Main routes are well-surfaced. The E65 coast road and the Budva\u2013Podgorica dual carriageway are smooth. Mountain roads get narrower, steeper, and occasionally lack barriers. Some local drivers treat centre lines as suggestions. Stay alert on blind corners, especially between Budva and Petrovac where the road hugs the cliffs.",
+    "routesTitle": "Best Drives from Budva",
+    "e65Title": "North: The Bay of Kotor Road",
+    "e65Text": "Through the tunnel to Kotor, then along the water's edge past Perast, Risan, and on to Herceg Novi. This is the scenic route that ends up on everyone's Instagram. Stop at a waterfront konoba in Perast for lunch. Total loop back to Budva: about 3 hours with stops.",
+    "e762Title": "South and Inland",
+    "e762Text": "Coast south through Petrovac and Bar to Ulcinj, near the Albanian border. Or peel inland at Podgorica for the mountains \u2014 Durmitor National Park, \u017dabljak, and the Tara Canyon (deepest in Europe at 1,300m). The inland route is longer but completely transforms what you think Montenegro looks like.",
+    "borderTitle": "Crossing Borders",
+    "borderText": "Montenegro borders five countries, and you can drive to all of them with the right paperwork. The Green Card covers insurance. The rental contract needs to list every country you plan to visit. Summer weekends bring long queues at the Croatian coastal crossing \u2014 weekday mornings or late evenings are the way to go.",
+    "nationTitle": "A Tiny Country, Full Sized Scenery",
+    "nationText": "Independent only since 2006, Montenegro is one of Europe's youngest nations. Tourism has boomed in the years since. Budva leads the way, attracting a third of all visitors, but the rest of the country is catching up fast. There has never been a better time to rent a car and see what the whole place offers."
+  },
+  "borderCrossingBody": {
+    "h1": "Taking Your Rental Car Across Borders",
+    "p1": "Yes, you can drive your rental car out of Montenegro. Cross-border travel is permitted to Croatia, Bosnia & Herzegovina, Albania, Kosovo, and Serbia. The key: tell your rental company which countries you plan to visit when you book. They prepare the paperwork so you are covered at every checkpoint.",
+    "greenCardTitle": "The Green Card Explained",
+    "greenCardText": "A Green Card is an international motor insurance certificate. Border guards check it to confirm your vehicle is insured in the country you are entering. No card, no crossing. Simple as that.",
+    "greenCard1": "Cost: around \u20ac15 for 15 days of cover",
+    "greenCard2": "Your rental company arranges it \u2014 just confirm the countries at booking",
+    "greenCard3": "Covers: Croatia, Bosnia, Albania, Kosovo, and Serbia",
+    "greenCardWarn": "Check your Green Card covers every country on your route before you leave. A card valid for Croatia will not get you into Albania. Border guards check carefully.",
+    "docsTitle": "What You Need at the Border",
+    "doc1": "Passport or EU ID card",
+    "doc2": "Driving licence (international licence accepted alongside your national one)",
+    "doc3": "Original rental contract \u2014 not a photocopy, not a phone screenshot",
+    "doc4": "Green Card insurance certificate",
+    "doc5": "Vehicle registration document (stays in the car)",
+    "crossingsTitle": "Border Crossings by Country",
+    "croatiaTitle": "Montenegro \u2192 Croatia",
+    "croatiaText": "The coast road crossing at Debeli Brijeg between Herceg Novi and Dubrovnik is the most popular and the most congested. Summer weekend queues hit 1\u20132 hours at peak times. This is the one that catches people out.",
+    "croatiaTip": "From Budva: allow 1 hour to reach the border. Best windows: before 8am or after 8pm. Weekdays are dramatically faster than weekends.",
+    "croatiaFerry": "Time-saver: the Kamenari\u2013Lepetane car ferry cuts across the Bay of Kotor in 10 minutes, shaving 45 minutes off the drive around the bay. Runs every 15 minutes, costs around \u20ac4.50 per car.",
+    "croatiaLinkPre": " ",
+    "croatiaLinkText": "Dubrovnik Airport",
+    "croatiaLinkPost": " is the most popular starting point for this route.",
+    "albaniaTitle": "Montenegro \u2192 Albania",
+    "albaniaText": "Two main crossings: Sukobin/Muriqan on the coast near Ulcinj, or Hani i Hotit inland near Lake Skadar. The coastal route is easier and more scenic. Budget 2\u20133 hours from Budva to Shkod\u00ebr.",
+    "albaniaNote": "Heads up: Albanian roads are rougher. Livestock on the road is common outside cities. Drive cautiously, especially at dusk. Fuel up before crossing \u2014 petrol stations are spaced further apart.",
+    "bosniaTitle": "Montenegro \u2192 Bosnia & Herzegovina",
+    "bosniaText": "The main crossing at \u0160\u0107epan Polje (near Fo\u010da) connects to the Drina valley and Mostar beyond. Alternatively, cross at Vilusi from Nik\u0161i\u0107. Both crossings are quiet with minimal waits year-round.",
+    "serbiaTitle": "Montenegro \u2192 Serbia",
+    "serbiaText": "Cross at Dobrakovo on the E65 north of Bijelo Polje. This connects to the Serbian motorway network and Belgrade. Allow 6 hours from Budva with stops.",
+    "kosovoTitle": "Montenegro \u2192 Kosovo",
+    "kosovoText": "The Kula crossing near Ro\u017eaje connects to Peja/Pe\u0107 in Kosovo. Double-check that Kosovo is listed on your Green Card \u2014 some policies exclude it.",
+    "tipsTitle": "How to Make Border Crossings Painless",
+    "tip1": "Stack all documents on the dashboard before you reach the queue. Fumbling at the window slows everyone down",
+    "tip2": "Kill the engine while waiting \u2014 border guards notice and appreciate it",
+    "tip3": "Avoid summer weekends at the Croatian coast crossing. Weekdays cut your wait by 80%",
+    "tip4": "Inland crossings to Bosnia and Serbia are almost always faster than the coastal Croatia route",
+    "tip5": "Carry cash in euros. Useful for tolls, snacks, and the occasional roadside watermelon seller on the other side",
+    "tip6": "Check your mobile roaming plan covers the next country. Data charges at borders are a common surprise",
+    "lawsTitle": "Traffic Laws Change at the Border",
+    "lawsIntro": "Every Balkan country has slightly different road rules. The differences that catch drivers out:",
+    "law1": "Croatia: headlights on at all times, even in broad daylight. Motorway tolls apply \u2014 card or cash at booths",
+    "law2": "Albania: lower speed limits on rural roads. Road quality drops sharply outside main cities",
+    "law3": "Bosnia: winter tyres mandatory November through April. First-aid kit and warning triangle must be in the car",
+    "law4": "Serbia: zero alcohol tolerance for all drivers. Motorway tolls are charged at booth gates \u2014 collect a ticket when you join, settle the fare when you leave",
+    "law5": "Kosovo: drive on the right. International driving permit recommended. Road signage is improving but still patchy in rural areas",
+    "popularTitle": "Popular Road Trips from Budva",
+    "route1": "Budva \u2192 Dubrovnik: 2.5 hrs on the coastal E65. One border crossing, spectacular scenery the entire way",
+    "route2": "Budva \u2192 Mostar: 4 hrs via Trebinje. The Stari Most bridge alone makes this drive worthwhile",
+    "route3": "Budva \u2192 Shkod\u00ebr: 3 hrs via the Ulcinj coastal crossing. Albania's lakeside city with a hilltop fortress",
+    "route4": "Budva \u2192 Belgrade: 6 hrs via the E65 north through Podgorica. Motorway most of the way once you cross into Serbia",
+    "ctaText": "Need a car that is ready for borders? Search our fleet, tick the countries you plan to visit, and we handle the Green Card. It will be waiting in the glovebox at pickup."
+  },
+
+  "blogIndex": {
+    "heroTitle": "Budva Riviera Travel Guides",
+    "heroSubtitle": "Local knowledge, driving routes, and coastal secrets from people who actually live on this stretch of the Adriatic.",
+    "breadcrumbBlog": "Blog",
+    "readGuide": "Read guide",
+    "card_oldtown_title": "Walking Budva Old Town: Layers of Stone and Sea",
+    "card_oldtown_excerpt": "A self-guided route through the 2,500-year-old peninsula fortress, from the main gate to the citadel terrace and every hidden courtyard in between.",
+    "card_stefan_title": "Sveti Stefan Viewpoints: Where to Stop and Stare",
+    "card_stefan_excerpt": "Four elevated vantage points along the coastal road that frame Montenegro's most photographed island in completely different light.",
+    "card_beaches_title": "Beach-Hopping the Budva Riviera by Car",
+    "card_beaches_excerpt": "A north-to-south drive covering five distinct beaches in a single day, with parking intel and packing advice for each stop.",
+    "card_skadar_title": "Budva to Skadar Lake: A Full-Day Drive",
+    "card_skadar_excerpt": "Swap the sunbeds for pelicans, vineyards, and the largest lake in the Balkans on a scenic inland loop from the coast.",
+    "card_nightlife_title": "Budva After Dark: A Nightlife Guide",
+    "card_nightlife_excerpt": "From rooftop cocktails above the old town walls to the cliffside superclub at Top Hill, this is where the riviera goes when the sun sets.",
+    "card_gastro_title": "Eating Through Budva: A Gastro Scene Guide",
+    "card_gastro_excerpt": "Waterfront konobas, hilltop terraces, and the green market stalls where chefs shop — a taste tour of the riviera's evolving food scene.",
+    "card_petrovac_title": "Petrovac to Buljarica: The Quiet Coast South",
+    "card_petrovac_excerpt": "Leave the Budva crowds behind and drive 25 minutes south to a slower stretch of coast with hidden coves, olive groves, and an empty kilometre-long beach.",
+    "card_rainy_title": "Rainy Day in Budva: What to Do When the Sun Hides",
+    "card_rainy_excerpt": "Museums behind fortress walls, espresso rituals in stone-lane cafes, and scenic drives that look even better under grey skies.",
+    "card_sunrides_title": "Sunrise and Sunset Spots Around Budva",
+    "card_sunrides_excerpt": "The best east-facing beaches for dawn and west-facing headlands for dusk, with timing tables and gear tips for golden-hour chasers."
+  },
+
+  "blogHome": {
+    "sectionLabel": "Travel Guides",
+    "sectionTitle": "From Our Blog",
+    "sectionSubtitle": "Coastal drives, hidden beaches, and local tips for exploring the Budva Riviera by car.",
+    "viewAll": "View all guides"
+  },
+
+  "blogOldtown": {
+    "title": "Walking Budva Old Town: Layers of Stone and Sea",
+    "subtitle": "A self-guided route through the 2,500-year-old peninsula fortress, from the main gate to the citadel terrace.",
+    "description": "Budva's walled old town sits on a compact peninsula barely 200 metres across, and most visitors breeze through it in twenty minutes. That is a mistake. Beneath the souvenir-shop surface lie Roman mosaics, Venetian bell towers, and a citadel that has watched empires come and go for two and a half millennia. This guide walks you through it properly.",
+
+    "h2Layers": "Twenty-Five Centuries in Two Hundred Metres",
+    "layersP1": "The old town peninsula juts into the Adriatic like a clenched fist. Greeks settled here around 500 BC, and every century since has left its fingerprint in the stone. You can trace them if you know where to look: a chunk of Cyclopean wall near the eastern gate, a Roman floor hidden beneath a jewellery shop, Venetian lions carved above doorways, and Austrian-era facades painted in terracotta and ochre. The 1979 earthquake flattened much of it, but the rebuild used original stone and stayed faithful to the medieval street plan.",
+    "layersP2": "Walking the old town properly takes about ninety minutes if you include the citadel and the churches. Start early — by ten o'clock in summer the cruise-ship groups arrive and the narrow lanes get congested. Early morning light also hits the eastern walls perfectly, which matters if you are carrying a camera.",
+
+    "h2Gates": "Enter Through the Main Gate",
+    "gatesP": "The main land gate faces the modern town across a small stone bridge. Above the archway, a carved relief of the Budva coat of arms greets you — a stylised fish above waves, with a crown. Pass through and you step onto polished limestone paving that generations of feet have worn smooth. Immediately to your left, a narrow staircase leads up to the rampart walk. Take it. The elevated path runs along the northern wall and gives you a bird's-eye map of the old town before you descend into its lanes. From up here you can see all four churches, the citadel tower, and the harbour where fishing boats still tie up each morning.",
+
+    "altInline": "Narrow stone lanes inside Budva Old Town",
+
+    "h2Churches": "Three Churches, Three Stories",
+    "h3Trinity": "Holy Trinity Church",
+    "trinityP": "This compact Orthodox church sits in the square just inside the main gate, dwarfed by its neighbours but impossible to miss thanks to the distinctive striped stonework — alternating bands of grey and pink. Built in 1804 during a brief period of Russian protection, its interior holds gilded icons and a painted ceiling that catches afternoon light through a single high window. Look for the tomb of Stjepan Mitrov Ljubiša, a 19th-century writer and statesman, set into the outer wall.",
+    "h3John": "St. John's Church",
+    "johnP": "The tallest bell tower on the peninsula belongs to this Catholic church, rebuilt after the 1667 earthquake and again after 1979. Inside, a Madonna and Child icon draws steady pilgrimage traffic. The church library once held one of the finest manuscript collections on the Adriatic coast, though most pieces moved to Cetinje for safekeeping centuries ago. The bell tower is not open to climbers, but it frames the best photos of the old town from the harbour side.",
+    "h3Mary": "Santa Maria in Punta",
+    "maryP": "Tucked against the citadel walls at the peninsula's southern tip, this ninth-century church is the oldest surviving structure in Budva. It is small — more chapel than church — and services stopped long ago, but the stone shell endures. Local legend says the building was assembled from pieces of an even older church that stood on the same spot. The acoustics inside are remarkable, and it occasionally hosts small concerts during the summer theatre festival.",
+
+    "h2Citadel": "The Citadel Terrace",
+    "citadelP": "The Citadela anchors the southern end of the peninsula. Entry costs a few euros and grants access to the rampart walls, a small library, and the open-air restaurant terrace on top. The terrace view is the reason to come: the Adriatic stretches west toward Italy, Sveti Nikola island sits directly offshore, and on clear days the Albanian mountains show as a faint grey line to the south. Sunset from up here, with a glass of Vranac wine, is the single best moment Budva offers. The citadel also houses a modest museum with Roman and medieval finds — pottery shards, coins, and a relief map showing the town before the earthquake.",
+
+    "h2Walk": "Where the Walk Leads Next",
+    "walkP": "Exit the citadel and loop back along the southern sea wall. A wooden boardwalk hugs the cliff edge and leads to Ricardova Glava, the old town's tiny beach wedged between the fortress walls and the rocks. It fills fast, but a late-afternoon swim here — looking up at the stone ramparts — is hard to beat. From the boardwalk, steps climb back into the lanes near the harbour. If your legs and appetite are both still going, continue to the waterfront restaurants just outside the walls for",
+    "walkLink": "the best of the gastro scene",
+
+    "h2Tips": "Practical Tips",
+    "tipTimeLabel": "Best time:",
+    "tipTimeVal": "Before 9am in summer, or after 6pm when the tour groups leave and the light turns golden.",
+    "tipShoesLabel": "Footwear:",
+    "tipShoesVal": "The polished limestone paving is slippery when wet. Flat shoes with grip are essential after rain.",
+    "tipPhotoLabel": "Photography:",
+    "tipPhotoVal": "Morning light hits the eastern walls and harbour. Sunset rewards from the citadel terrace facing west.",
+    "tipSeasonLabel": "Off-season:",
+    "tipSeasonVal": "October through April the old town is almost empty. Cafes stay open, the citadel is quieter, and you can photograph the lanes without a single person in frame.",
+
+    "glanceTitle": "At a Glance",
+    "glanceArea": "Area",
+    "glanceAreaVal": "Budva Old Town peninsula",
+    "glanceDuration": "Walking time",
+    "glanceDurationVal": "60–90 minutes",
+    "glanceCitadel": "Citadel entry",
+    "glanceCitadelVal": "~€3.50",
+    "glanceBest": "Best time",
+    "glanceBestVal": "Early morning or golden hour"
+  },
+
+  "blogStefan": {
+    "title": "Sveti Stefan Viewpoints: Where to Stop and Stare",
+    "subtitle": "Four elevated vantage points along the coastal road that frame Montenegro's most photographed island.",
+    "description": "Sveti Stefan is the image that sells Montenegro to the world — a cluster of terracotta-roofed stone houses perched on a rocky islet, connected to the mainland by a narrow causeway. The island itself is an Aman resort now and closed to non-guests, but the views from the surrounding hills and beaches are free, spectacular, and different depending on where you stand. This guide covers the four best spots.",
+
+    "h2Island": "Why Everyone Stops Here",
+    "islandP1": "The island fortification dates to the 15th century, built by the Paštrovići clan as a refuge from Ottoman raids. Fishermen's cottages became aristocratic summer houses, then a socialist-era hotel complex that hosted everyone from Sophia Loren to Queen Elizabeth. The Aman group took over in 2011 and turned it into one of the most exclusive resorts on the Mediterranean.",
+    "islandP2": "None of that history matters to your camera. What matters is the geometry: a near-perfect dome of red rooftops sitting on grey rock, connected to a green hillside by a thread of sand. The scene changes dramatically depending on time of day, weather, and your elevation. Morning fog makes it ethereal. Harsh midday sun flattens it. Late afternoon side-light gives it depth and warmth. You want to be here at the right time, in the right spot.",
+
+    "h2Drive": "Getting There from Budva",
+    "driveP": "Sveti Stefan sits 8 km south of Budva along the coastal Jadranski Put road. The drive takes about 12 minutes without traffic, longer on summer afternoons when the road backs up near Bečići. There is no direct bus from Budva old town — the nearest bus stop is on the main road above, a steep walk down to the causeway. Driving gives you the flexibility to hit multiple viewpoints in a single visit.",
+
+    "altInline": "View of Sveti Stefan island from the coastal road above",
+
+    "h2Spots": "The Four Viewpoints",
+    "h3Panorama": "1. The Road Panorama",
+    "panoramaP": "This is the classic postcard shot. Driving south from Budva, the road curves left above Sveti Stefan and a lay-by appears on the seaward side. Pull in carefully — space fits about six cars. From here you look down at the island from roughly 80 metres above sea level. The entire islet, the causeway, both beaches, and the forested hillside behind all fit in a single wide-angle frame. Golden hour is prime time, but the view works in any light. A small fence and stone wall mark the edge, so it is safe enough for kids, though the drop is significant.",
+    "h3Beach": "2. The Mainland Beach Level",
+    "beachP": "Walk down from the main road (or drive to the small car park near the bottom) and you reach the public beach on the mainland side of the causeway. From here, Sveti Stefan towers above you — a completely different perspective from the aerial view up top. The stone walls and balconies are visible in detail, and the causeway stretches out in front of you. Swimming here means the island is your backdrop. Late morning sun lights the eastern face of the island beautifully from this angle.",
+    "h3Milocer": "3. Miločer Park Path",
+    "milocerP": "North of the causeway, a walking path runs through the grounds of the former Miločer royal estate. The botanical park contains towering pines, Italian cypresses, and rare Mediterranean plants. Gaps in the canopy reveal angled views of Sveti Stefan through the trees — a more intimate, painterly composition than the wide panorama from the road. The path is shaded and pleasant even in midsummer heat. The small Miločer beach (formerly the Queen's Beach) sits at the far end, though access is sometimes restricted to Aman guests.",
+    "h3Przno": "4. Pržno Harbour",
+    "prznoP": "Continue 2 km south past Sveti Stefan to the fishing village of Pržno. From the tiny harbour, you can look back north and see the island in full profile against the backdrop of the mountains rising behind the coast. This is the least crowded viewpoint and a good excuse to stop for grilled fish at one of the harbourside konobas. The village itself is charming — narrow lanes, cats on every wall, and a pace of life that feels decades behind Budva.",
+
+    "h2Light": "Chasing the Light",
+    "lightP": "Sveti Stefan faces roughly west-southwest, which means sunset lights the seaward face directly. For sunrise, you want to be at the road panorama or the beach — the morning sun rises behind the mountains and hits the island with warm, low-angle side-light. Overcast days produce the moodiest shots, with the grey sea and the red rooftops creating a natural contrast. For more golden-hour locations around the riviera, see our guide to",
+    "lightLink": "sunrise and sunset spots",
+
+    "h2Parking": "Where to Park",
+    "parkingP": "The road lay-by at viewpoint one holds roughly six cars and has no fee. The small parking area near the beach costs around €2–4 per hour in summer and fills by mid-morning. Pržno village has a handful of spots along the harbour road, usually free outside July and August. If everything is full, park in Bečići (3 km north) and take the coastal path south — it is a pleasant 35-minute walk with sea views the whole way.",
+
+    "glanceTitle": "At a Glance",
+    "glanceDistance": "Distance from Budva",
+    "glanceDistanceVal": "8 km south",
+    "glanceDrive": "Drive time",
+    "glanceDriveVal": "12 minutes",
+    "glanceBestLight": "Best light",
+    "glanceBestLightVal": "Golden hour / overcast mornings",
+    "glanceParking": "Parking",
+    "glanceParkingVal": "Free lay-by or €2–4/hr at beach"
+  },
+
+  "blogBeaches": {
+    "title": "Beach-Hopping the Budva Riviera by Car",
+    "subtitle": "A north-to-south drive covering five distinct beaches in a single day.",
+    "description": "Twenty-one kilometres of coastline curve south from Budva, and every beach along the way has a different character. Jaz is wide and sandy with festival energy. Mogren hides behind a cliff tunnel. Slovenska buzzes with sunbed empires. Bečići stretches for a lazy kilometre of family-friendly sand. Kamenovo rewards the effort of finding it. A rental car and an early start let you hit all five before the afternoon crowds arrive.",
+
+    "h2Why": "Why Drive Instead of Walk",
+    "whyP1": "You could walk between some of these beaches — Mogren is a short cliff path from the old town, and Slovenska is right in central Budva. But Jaz is 3 km northwest, Bečići is 3 km southeast, and Kamenovo sits between them on a road with no pavement. Without a car, you are dependent on taxis and summer bus schedules that change every year.",
+    "whyP2": "With a car, you set your own timetable: Jaz at 8am when the sand is empty and the parking is free. Mogren by 10 before the tunnel path gets crowded. Slovenska for a quick waterfront coffee. Bečići for lunch at a beach restaurant. Kamenovo in the late afternoon when the cliffs throw shade over the western end. You cover the whole riviera in one day and still make it back for dinner.",
+
+    "h2Jaz": "Stop 1: Jaz Beach",
+    "jazP": "Three kilometres northwest of the old town, Jaz is the riviera's biggest open beach — a 1.2 km arc of mixed sand and fine gravel backed by green hills. The Sea Dance music festival sets up stages here in summer, and the vibe stays energetic even on non-festival days. Parking is tiered: the upper lot is free but means a five-minute walk. The beachside lot costs €3–5 depending on how close you get. Arrive before 9am on weekends or you will park on the road shoulder. The western end is quieter and has a small section popular with nudists. The eastern end has beach bars and sunbed hire.",
+
+    "h2Mogren": "Stop 2: Mogren Beach",
+    "mogrenP": "Two connected coves hidden behind a cliff tunnel, just 500 metres from the old town walls. You reach them via a paved coastal path that starts near the Hotel Avala. The tunnel is short and dramatic — hewn through solid rock with the sea crashing below. Mogren I is the first cove, with sunbed hire and a beach bar. Continue through a natural stone arch to Mogren II, which is quieter and has a famous bronze ballerina statue on the rocks. The pebble shore drops off steeply, making the water deep and clear close to shore. No car parking nearby — walk from the old town or use the street spots along the path.",
+
+    "altInline": "Aerial view of Bečići beach stretching along the Budva Riviera coastline",
+
+    "h2Slovenska": "Stop 3: Slovenska Plaza",
+    "slovenskaP": "Budva's main town beach runs for 1.6 km right through the centre, directly below the promenade. It is not the prettiest — the sand is coarse, the sunbed operators are aggressive, and you are never more than thirty metres from a bar blasting music. But it is convenient, has lifeguards all summer, and the shallow entry makes it popular with families. The eastern end near the Lido complex is more organised. The western end closer to the old town is narrower and less commercial. Grab a coffee on the promenade and watch the beach fill up — then leave for quieter sand.",
+
+    "h2Becici": "Stop 4: Bečići Beach",
+    "beciciP": "A gentle 2 km crescent of fine sand that won a Parisian tourism award in 1936 and still deserves it. The water is shallow for a long way out, lifeguards are on duty in season, and a string of beachside restaurants means you can eat grilled squid without leaving the sand. Water sports operators run jet ski hire, parasailing, and banana boats from the central section. Parking is in the paid lots along the main road above — about €3/hour in peak season. For the quieter stretch, continue past the main entrance toward Rafailovići where the beach narrows and the crowds thin. This is also the starting point for exploring",
+    "beciciLink": "the coast south toward Petrovac",
+
+    "h2Kamenovo": "Stop 5: Kamenovo Beach",
+    "kamenovoP": "Between Bečići and Pržno, a side road drops steeply down to this sheltered cove. It is the beach that locals choose when they want to avoid the Budva scene. A single beach bar operates in summer, renting sunbeds and serving drinks, but the atmosphere is relaxed and the water is some of the clearest on the riviera. The pebble shore is flanked by rocky outcrops that are good for snorkelling. Parking is limited to a small gravel lot at the top of the access road — about fifteen spaces. Get there by mid-morning or you are out of luck.",
+
+    "h2Packing": "What to Pack for a Beach Day",
+    "packShoesLabel": "Water shoes:",
+    "packShoesVal": "Essential for Mogren and Kamenovo where the pebbles are rough on bare feet.",
+    "packSunLabel": "Sun protection:",
+    "packSunVal": "Factor 50 and a hat. The riviera sun hits hard from June through September, and shade is scarce on open beaches.",
+    "packCashLabel": "Cash:",
+    "packCashVal": "Many beach bars and parking attendants still prefer cash. Keep €20 in small notes.",
+    "packSnorkelLabel": "Snorkel gear:",
+    "packSnorkelVal": "Kamenovo and Mogren II have rocky edges with surprisingly good visibility for snorkelling.",
+
+    "glanceTitle": "At a Glance",
+    "glanceCoast": "Coastline covered",
+    "glanceCoastVal": "~12 km north to south",
+    "glanceBeaches": "Beaches",
+    "glanceBeachesVal": "5 distinct stops",
+    "glanceBest": "Best start time",
+    "glanceBestVal": "8am for Jaz parking",
+    "glanceParking": "Parking cost",
+    "glanceParkingVal": "Free to €5 depending on beach"
+  },
+
+  "blogSkadar": {
+    "title": "Budva to Skadar Lake: A Full-Day Drive",
+    "subtitle": "Swap the sunbeds for pelicans, vineyards, and the Balkans' largest lake.",
+    "description": "An hour's drive inland from Budva, the coast disappears entirely and the landscape opens up into wetlands, wine-covered hillsides, and the vast stillness of Skadar Lake. This is where 270 bird species breed, where Montenegrin winemakers tend some of Europe's oldest vines, and where you can spend an entire afternoon on a wooden boat without seeing another tourist. It is the best day trip from the riviera that nobody at the beach is talking about.",
+
+    "h2Why": "Why Leave the Beach",
+    "whyP1": "After three days on the Budva Riviera, even the most dedicated sunbather starts to wonder what else is out there. Skadar Lake answers that question emphatically. Straddling the Montenegro-Albania border, it is the largest lake in southern Europe — 48 km long and up to 14 km wide in the wet season. The national park protects 40,000 hectares of marsh, open water, and forested islands.",
+    "whyP2": "Dalmatian pelicans nest here — one of only a handful of colonies in Europe. Cormorants, herons, and pygmy cormorants are common sightings. In autumn, the marshes turn gold and the grape harvest begins on the surrounding hillsides. Even in peak summer, the lake is quiet. Most riviera tourists never make it this far, which means the boat trips and wine tastings feel like private affairs.",
+
+    "h2Route": "The Drive from Budva",
+    "routeP": "Head north toward Podgorica on the E65 and turn off at Virpazar — the main gateway village on the lake's northern shore. Total distance is about 65 km, and the drive takes just over an hour depending on traffic through the Sozina tunnel. The tunnel toll is a couple of euros. Beyond it, the landscape changes fast: green hills give way to flat marshland as the lake reveals itself around a bend. Virpazar sits at the junction where the Crmnica river meets the lake, and it is the starting point for boat trips and the best place to park.",
+
+    "altInline": "Skadar Lake at sunrise with mountains in the background",
+
+    "h2Rijeka": "Stop at Rijeka Crnojevića",
+    "rijekaP": "Before heading to the lake, take the side road east from the main highway to Rijeka Crnojevića — a quiet riverside village that was once the old Montenegrin capital's trading post. The stone bridge over the river is one of the most photographed spots in the country. The horseshoe bend in the river below the viewpoint is genuinely spectacular. A few restaurants serve freshwater fish — smoked carp and eel are the local specialities. The village gets a handful of visitors each day compared to Budva's thousands, and the atmosphere is wonderfully peaceful.",
+
+    "h2Lake": "On the Water",
+    "lakeP": "Boat tours depart from Virpazar throughout the day, running one to three hours depending on the route. Standard trips cost €15–25 per person and loop through lily-pad channels where the water is so still it mirrors the sky. Your boatman will cut the engine in the pelican zones and let you drift. Binoculars are worth bringing — the pelicans can be 200 metres away in the reeds. Longer tours reach the island monasteries: Kom and Beška sit on tiny islets accessible only by water, with medieval churches that have stood here for 600 years. Pack a hat and water — there is no shade on the boats.",
+
+    "h2Boat": "Beyond the Boat",
+    "boatP": "If you prefer dry land, the Virpazar end of the lake has several marked walking trails through the marshes and up into the surrounding hills. The hike to Besac fortress takes about 40 minutes and gives panoramic views over the lake and the mountains. Cycling is also possible on flat trails near the water's edge — bike hire is available in Virpazar for around €10/day. For an alternative inland day trip that works especially well in cooler weather, see our guide to",
+    "boatLink": "rainy-day activities in Budva",
+
+    "h2Wine": "The Crmnica Wine Road",
+    "wineP": "The hills south of the lake produce Vranac — Montenegro's signature red grape. The Crmnica wine region is compact and easy to explore by car. Several family-run cellars offer tastings by appointment, and a few have set up tasting rooms that welcome drop-ins. Plantaže, the largest producer, has a visitor centre outside Podgorica, but the smaller estates around the lake are more interesting. Expect robust reds with dark fruit and a slight earthy finish. A tasting with bread and cheese costs €5–10 at most places. Buy a bottle or two — you will not find these small-batch wines outside Montenegro.",
+
+    "h2Itinerary": "Suggested Itinerary",
+    "itinMorningLabel": "Morning:",
+    "itinMorningVal": "Leave Budva by 8:30. Drive to Rijeka Crnojevića for the viewpoint and a riverside coffee. Allow 1.5 hours.",
+    "itinMiddayLabel": "Midday:",
+    "itinMiddayVal": "Continue to Virpazar. Board a 2-hour boat trip on the lake. Look for pelicans in the lily channels.",
+    "itinAfternoonLabel": "Afternoon:",
+    "itinAfternoonVal": "Lunch at a Virpazar restaurant — try the smoked carp. Then visit a Crmnica winery for a tasting.",
+    "itinReturnLabel": "Return:",
+    "itinReturnVal": "Drive back through the tunnel to Budva in time for a sunset swim. Total day: about 9 hours.",
+
+    "glanceTitle": "At a Glance",
+    "glanceDistance": "Distance from Budva",
+    "glanceDistanceVal": "65 km to Virpazar",
+    "glanceDrive": "Drive time",
+    "glanceDriveVal": "~1 hour each way",
+    "glanceBest": "Best months",
+    "glanceBestVal": "April–October",
+    "glanceBoat": "Boat trip cost",
+    "glanceBoatVal": "€15–25 per person"
+  },
+
+  "blogNightlife": {
+    "title": "Budva After Dark: A Nightlife Guide",
+    "subtitle": "From rooftop cocktails above the old town walls to the cliffside superclub at Top Hill.",
+    "description": "Budva transforms after sunset. The beach crowds evaporate, the old town lanes fill with restaurant tables and warm light, and by midnight the main strip throbs with music from a dozen clubs and bars. This is the undisputed nightlife capital of Montenegro — a compact town where you can start with cocktails on a fortress terrace, walk to three different bars, and finish at a 3,000-capacity open-air superclub without ever calling a taxi.",
+
+    "h2Scene": "The Scene at a Glance",
+    "sceneP1": "Budva's nightlife runs on a seasonal clock. From mid-June through early September, everything fires on all cylinders — bars open at sunset, clubs run until 5am, and the entire Slovenska Obala promenade becomes a slow-moving parade of people choosing their next stop. Outside those months, the town is quieter but not dead. The old-town bars stay open year-round, and a few clubs keep going on weekends into October.",
+    "sceneP2": "The atmosphere is relaxed by European clubbing standards. Dress codes exist at the higher-end venues but are loosely enforced — clean shoes and a collared shirt get you into most places. Prices are significantly lower than Croatia or Greece: a cocktail runs €6–9 at a mid-range bar, a beer €3–4, and most clubs have no cover charge before midnight. The clientele is a mix of Montenegrin locals, Serbian holidaymakers, and a growing international crowd drawn by the riviera's reputation.",
+
+    "h2Strip": "Slovenska Obala: The Starting Line",
+    "stripP": "The promenade that runs along Slovenska beach is where most evenings begin. Bars and cafes line the sea-facing side, each with outdoor tables and music pitched to attract passing foot traffic. The vibe shifts from cafe culture at sunset to full-on bar energy by 10pm. Start at the eastern end near the old-town entrance for cocktail bars with harbour views, or head west toward the Hotel Avala end for louder music and a younger crowd. The whole strip is about 800 metres — you will walk it several times in a single evening.",
+
+    "altInline": "Budva nightlife along the waterfront promenade at night",
+
+    "h2TopHill": "Top Hill: The Main Event",
+    "topHillP": "Carved into the cliffs above Budva, Top Hill is Montenegro's most famous nightclub and one of the largest open-air venues in southeastern Europe. Capacity hits 3,000 on peak nights, and the lineup includes international DJs alongside regional acts. The club occupies a series of terraces cascading down the hillside, with the main dance floor surrounded by VIP areas and a panoramic bar overlooking the Adriatic. It opens around midnight and runs until 5am on weekends. Entry is usually free before 1am, €10–20 after. Expect long queues in July and August — arrive early or book a table. Parking is available at the club or in town (it is a short taxi ride from the main strip).",
+
+    "h2OldTown": "Old Town Bars",
+    "oldTownP": "Inside the old town walls, a handful of bars occupy stone terraces with views over the ramparts and the sea. The Citadela bar on the fortress terrace is the headline act — cocktails are pricier than elsewhere (€10–14), but you are drinking on top of a medieval fortress looking out over the Adriatic, which justifies the markup. Smaller bars along the main lane through the old town are cheaper and more atmospheric, with candles on stone tables and music that stays at conversation level. These are the places to start an evening before things get louder.",
+
+    "h2Slovenska": "Late-Night Restaurants",
+    "slovenskaP": "The riviera runs on late dining. Many restaurants take final orders at midnight in summer, and the waterfront spots between the old town and Bečići stay busy well past 11pm. If you are coming out of a club at 3am and need food, a few pizzerias near the main strip serve until close. For a proper sit-down meal before going out, the best options are along the waterfront — see our",
+    "slovenskaLink": "gastro scene guide",
+
+    "h2Tips": "Practical Tips",
+    "tipParkLabel": "Parking:",
+    "tipParkVal": "Leave the car at your hotel or apartment. Budva's nightlife strip is walkable end to end, and taxis are cheap for the Top Hill run.",
+    "tipDressLabel": "Dress code:",
+    "tipDressVal": "Smart casual for Top Hill and the old-town bars. Beach clothes will not get you in after midnight.",
+    "tipCashLabel": "Payment:",
+    "tipCashVal": "Most venues accept cards now, but keep €20 in cash for cover charges, coat check, and taxi rides.",
+    "tipPeakLabel": "Peak nights:",
+    "tipPeakVal": "Friday and Saturday in July and August. Mid-week is more manageable and the queues are shorter.",
+
+    "glanceTitle": "At a Glance",
+    "glancePeak": "Peak season",
+    "glancePeakVal": "Mid-June to early September",
+    "glanceVenue": "Top venue",
+    "glanceVenueVal": "Top Hill (3,000 capacity)",
+    "glanceSeason": "Off-season",
+    "glanceSeasonVal": "Old-town bars open year-round",
+    "glanceDrink": "Cocktail price",
+    "glanceDrinkVal": "€6–9 average"
+  },
+
+  "blogGastro": {
+    "title": "Eating Through Budva: A Gastro Scene Guide",
+    "subtitle": "Waterfront konobas, hilltop terraces, and the green market stalls where chefs shop.",
+    "description": "Budva's food scene has evolved beyond the generic tourist-menu strip of grilled meats and Caesar salads. Alongside the waterfront konobas that have served fresh-caught fish for decades, a new generation of restaurants is pulling in seasonal produce from the hills above the coast and wine from the Crmnica valley. The result is a food town that punches well above its resort-town weight class. Here is where to eat, what to order, and when to go.",
+
+    "h2Scene": "A Food Town Finds Its Stride",
+    "sceneP1": "For years, Budva's restaurant scene was predictable: grilled fish, mixed-meat platters, and shopska salad at every waterfront table. That baseline still exists — and honestly, a well-grilled brancin at a harbour konoba for €10 is hard to fault. But the last five years have brought change. Young Montenegrin chefs who trained in Italy, Serbia, and France are returning to the coast and opening places that care about sourcing, technique, and wine lists.",
+    "sceneP2": "The ingredients were always here. The hills above Budva grow olives, figs, and herbs that you can smell from the road. Njeguški pršut — dry-cured ham from the village of Njeguši above Kotor — is one of the finest charcuterie products in the Balkans. Cheese from Kolašin arrives on the coast within hours of being made. The sea delivers squid, bream, mussels, and octopus daily. What changed is that chefs started treating these ingredients with respect rather than drowning them in oil and serving them on a generic white plate.",
+
+    "h2Waterfront": "Along the Waterfront",
+    "waterfrontP": "The strip between the old-town walls and Slovenska beach hosts a dense row of restaurants, most with sea-facing terraces. Quality varies sharply — some are tourist traps running on foot traffic, others are genuinely excellent. The telling signs: a short menu that changes regularly, fish priced by the kilo rather than a flat rate, and a wine list that goes beyond the three national brands. Look for places where locals are eating. If every table is speaking English or German, move on. The best waterfront spots serve whole grilled fish, octopus salad with capers, and brudet — a slow-cooked fish stew with polenta that is the coast's comfort food.",
+
+    "altInline": "Fresh seafood platter served at a waterfront konoba in Budva",
+
+    "h2OldTown": "Inside the Old Town",
+    "oldTownP": "Dining inside the walls is about atmosphere more than innovation. The lanes are narrow, the tables are squeezed into stone courtyards, and the menus lean traditional. The Citadela restaurant, perched on the fortress terrace at the peninsula's tip, charges premium prices for sunset views and Mediterranean-influenced dishes — worth it for a special evening. Below the walls, smaller konobas serve grilled meat and seafood at fairer prices. The old-town square hosts a couple of wine bars that pour Montenegrin labels by the glass, which is a good way to sample Vranac and Krstač without committing to a full bottle.",
+
+    "h2Hilltop": "Hilltop Dining Above the Coast",
+    "hilltopP": "Some of the best meals on the riviera happen above it. A few restaurants sit on the hillsides between Budva and Sveti Stefan, offering panoramic coast views from terraces set among olive and fig trees. The food at these places tends toward Montenegrin slow-cooking: lamb under the sač (a metal dome over charcoal), peppers stuffed with kajmak cheese, and bean stews that taste better than they sound. The drive up is short but steep — another reason to have a car. Combine a hilltop lunch with the",
+    "hilltopLink": "Sveti Stefan viewpoints drive",
+
+    "h2Seafood": "The Seafood to Order",
+    "seafoodP": "Montenegrin seafood is simple and best kept that way. Grilled brancin (sea bass) and orada (bream) are the flagship dishes — ask for them whole, grilled with olive oil and lemon, and judge a restaurant by how well they handle these two. Octopus is served either grilled or in a cold salad with onions, capers, and parsley — both versions should be tender, not chewy. Black risotto (crni rižot) made with cuttlefish ink is a coastal staple. And škampi na buzaru — prawns cooked in garlic, white wine, and breadcrumbs — is the dish that makes you order a second basket of bread. If you are feeling adventurous, ask for lignje punjene — squid stuffed with cheese and ham.",
+
+    "h2Market": "The Green Market",
+    "marketP": "Every morning, Budva's green market opens behind the main bus station. It is small but packed: local farmers sell tomatoes that taste like tomatoes, bundles of fresh herbs, figs in season, honey from the hills, and kajmak — the thick, slightly tangy cream cheese that goes with everything. In autumn, pomegranates and persimmons appear. Early-morning visits (before 9am) get the best selection. Even if you are not cooking, it is worth a visit to see what grows on the hills behind the high-rise hotels.",
+
+    "h2Tips": "Eating Tips",
+    "tipReserveLabel": "Reservations:",
+    "tipReserveVal": "Essential at the better places in July and August, especially for waterfront tables. Book by phone — most do not use online platforms.",
+    "tipLunchLabel": "Lunch deals:",
+    "tipLunchVal": "Several restaurants offer a dnevni meni (daily menu) at lunch — soup, main, and drink for €8–12. Better value than the evening à la carte.",
+    "tipWineLabel": "Wine:",
+    "tipWineVal": "Order Montenegrin. Vranac (red) and Krstač (white) are the national grapes. Plantaže is the big producer but smaller Crmnica labels are more interesting.",
+    "tipCashLabel": "Cash or card:",
+    "tipCashVal": "Most restaurants accept cards now but smaller konobas and the green market are cash-only. Keep €20 in small notes.",
+
+    "glanceTitle": "At a Glance",
+    "glanceMeal": "Average meal cost",
+    "glanceMealVal": "€10–18 per person",
+    "glanceDish": "Must-try dish",
+    "glanceDishVal": "Grilled brancin, whole",
+    "glanceWine": "Local wine",
+    "glanceWineVal": "Vranac (red), Krstač (white)",
+    "glanceBest": "Best dining time",
+    "glanceBestVal": "8pm onwards (locals eat late)"
+  },
+
+  "blogPetrovac": {
+    "title": "Petrovac to Buljarica: The Quiet Coast South",
+    "subtitle": "Leave the Budva crowds behind and drive south to a slower stretch of coast.",
+    "description": "Twenty-five minutes south of Budva, the coast road drops into Petrovac — a small town with a red-pebble beach, a ruined Venetian fortress on a rocky outcrop, and a pace of life that makes the riviera party strip feel like another country. Continue another five minutes and you hit Buljarica — a kilometre-long crescent of wild, undeveloped beach backed by marshland and olive groves. This is the part of the Budva Riviera that the sunbed empires have not reached yet.",
+
+    "h2Secret": "The Coast Nobody Talks About",
+    "secretP1": "Petrovac technically belongs to the Budva municipality, but it feels nothing like Budva. The town has about 1,500 permanent residents, a single main street, and a beach that is just big enough to feel spacious even in August. There are no high-rise hotels, no thumping beach clubs, and no queue for ice cream. Instead, there are family-run apartments above the olive groves, a fortress on a rock in the bay, and two offshore islets — Sveta Nedjelja and Katič — that glow in the evening light.",
+    "secretP2": "Beyond Petrovac, the coast turns truly wild. Lučice beach sits in a sheltered cove a ten-minute walk south of town. Buljarica is a broad sweep of dark sand and pebble that runs for a full kilometre along a flat, marshy coastline. There are no sunbed operations here, no lifeguards, and on weekdays in June you might share the entire beach with a dozen other people. It is the kind of Mediterranean coast that used to exist everywhere and now survives in only a few places.",
+
+    "h2Town": "Petrovac Town",
+    "townP": "The town's centrepiece is its red-pebble beach, sheltered by headlands on both sides and watched over by the Castello fortress — a small Venetian-era fortification sitting on a rock just offshore, connected to the mainland by a short walkway. The main promenade runs along the beach, lined with restaurants, cafes, and souvenir shops that are low-key by Budva standards. Behind the promenade, a few streets climb into the hillside past apartment buildings and olive trees. The Romani mosaics — a well-preserved 3rd-century floor discovered in the 1970s — sit behind a protective building on the edge of town and are worth a brief visit. The town shuts down noticeably after October, with many restaurants closing until April.",
+
+    "altInline": "Petrovac beach with the Castello fortress on its rocky outcrop",
+
+    "h2Lucice": "Lučice Beach",
+    "luciceP": "A ten-minute walk south from Petrovac's main beach, along a paved coastal path, brings you to Lučice — a small cove of smooth pebbles flanked by pine-covered headlands. The water is clear and calm, sheltered from the open sea by the surrounding rocks. A single beach bar operates in summer, renting sunbeds and serving cold drinks. Outside July and August, you will have the cove mostly to yourself. The path from Petrovac is flat and shaded by pines — pleasant even in midday heat.",
+
+    "h2Buljarica": "Buljarica Beach",
+    "buljaricaP": "Five minutes south of Petrovac by car (or a 25-minute walk along the coast road), Buljarica stretches for one full kilometre along a flat, marshy coastline. The beach is a mix of dark sand and small pebbles, backed by reeds, tamarisk trees, and an area of wetland that is home to birds and frogs. There are no sunbed operations, no beach bars (though a couple of basic cafes operate on the road behind in summer), and no development plans on the horizon — the area has environmental protection status. The swimming is good along the central section where the seabed is sandy, though the water can be cooler than the sheltered coves further north. Bring everything you need: shade, water, and food.",
+
+    "h2Drive": "The Drive Down",
+    "driveP": "From Budva, take the main coastal road south through Bečići and Rafailovići. After passing through the short tunnel beyond Pržno, the road rises over a headland and drops into the Petrovac valley. The entire drive is about 17 km and takes 25 minutes, though summer traffic around Bečići can add time. The road is good quality throughout with sea views on the left-hand side for most of the route. For the return trip, or to continue further south, see our guide to",
+    "driveLink": "beach-hopping the Budva Riviera",
+
+    "h2Eat": "Where to Eat",
+    "eatP": "Petrovac's waterfront has a dozen restaurants and konobas. Quality is generally good — the town does not get enough tourist volume to sustain genuinely bad places. Grilled fish, octopus salad, and Njeguški pršut are reliable orders. A couple of places specialise in seafood risotto made with local catch. Prices run about 15–20% lower than equivalent restaurants in Budva. For the best value, look for the places set one street back from the promenade — same food, no sea-view markup. In Buljarica, eating options are minimal, so either eat in Petrovac first or pack a picnic.",
+
+    "h2Tips": "Practical Tips",
+    "tipRoadLabel": "Road:",
+    "tipRoadVal": "Well-surfaced two-lane coast road the whole way. Two short tunnels. Watch for slow-moving traffic in summer.",
+    "tipSwimLabel": "Swimming:",
+    "tipSwimVal": "Petrovac and Lučice have gentle entries. Buljarica is deeper with a sandy bottom but no lifeguards.",
+    "tipSupplyLabel": "Supplies:",
+    "tipSupplyVal": "Stock up in Petrovac. There is a small supermarket on the main street and a bakery. Buljarica has nothing.",
+    "tipTimeLabel": "Best time:",
+    "tipTimeVal": "June and September. July and August are fine but busier. October sees many restaurants close.",
+
+    "glanceTitle": "At a Glance",
+    "glanceDistance": "Distance from Budva",
+    "glanceDistanceVal": "17 km to Petrovac",
+    "glanceDrive": "Drive time",
+    "glanceDriveVal": "~25 minutes",
+    "glanceBest": "Best months",
+    "glanceBestVal": "June and September",
+    "glanceBeach": "Quietest beach",
+    "glanceBeachVal": "Buljarica (weekdays)"
+  },
+
+  "blogRainy": {
+    "title": "Rainy Day in Budva: What to Do When the Sun Hides",
+    "subtitle": "Museums, coffee rituals, scenic drives, and spa retreats for grey-sky days on the riviera.",
+    "description": "Even the Budva Riviera gets rain. When the Adriatic turns grey and the beach is out of the question, the temptation is to sit in your apartment and wait it out. Do not. A rainy day in Budva opens up a different town — one of fortress museums, stone-lane cafe culture, spa pools, and dramatic coastal drives where the wet-road reflections are half the spectacle. Here is how to fill a grey day without wasting it.",
+
+    "h2Rain": "Rain on the Riviera",
+    "rainP1": "Budva gets most of its rain between November and March, but summer showers happen too — sudden downpours that blow in from the mountains, drench everything for an hour, and leave the air smelling of wet stone and pine. These rarely last all day. If you wake to grey skies in July or August, chances are the sun will reappear by mid-afternoon.",
+    "rainP2": "Autumn and spring rain is different: it can settle in for a full day or two, turning the old town lanes into reflective rivers and emptying the beaches entirely. These are the days when Budva shows a quieter, moodier side that most summer visitors never see. The town is not designed for rain — it is a beach resort — but it handles it better than you might expect.",
+
+    "h2Museums": "The Old Town Museums",
+    "museumsP": "The Citadela fortress at the southern tip of the old-town peninsula houses a small museum with Roman coins, medieval pottery, and a relief model showing Budva before the 1979 earthquake. Entry is a couple of euros and the covered ramparts keep you dry. The Maritime Museum on the main lane displays model ships, old navigation instruments, and photographs of the town's seafaring history. Neither is large enough to fill an afternoon, but together with a coffee stop in between, they account for a pleasant two hours under cover. If you are willing to drive 25 km to Kotor, the Maritime Museum there is the finest in the region and easily fills a rainy morning.",
+
+    "altInline": "Wet stone lanes inside Budva Old Town on a rainy afternoon",
+
+    "h2Coffee": "The Coffee Ritual",
+    "coffeeP": "Montenegrins treat coffee as an event, not a quick hit. A rainy morning is the perfect excuse to adopt the local pace. The old-town cafes stay open year-round and are at their most atmospheric on grey days — stone walls, candle-lit interiors, and the sound of rain on the lane outside. Order a domaća kafa (Montenegrin/Turkish-style coffee) and let it settle before sipping. Most places also serve fresh juice, rakija, and light pastries. Take your time. Nobody is rushing. The cafe on the small square near the main gate has been serving coffee in the same stone room for decades and feels like it was built for exactly this kind of day.",
+
+    "h2Drives": "Scenic Drives in the Rain",
+    "drivesP": "Some of the riviera's best drives actually improve in the rain. The coast road south to Petrovac gleams with wet-road reflections and the sea turns a dramatic slate grey. The mountain road north toward Lovćen disappears into mist at the higher elevations, creating a moody, atmospheric drive through pine forest. The Skadar Lake route is particularly beautiful on overcast days when the water mirrors the silver sky. Just drive carefully — mountain roads can be slippery, and visibility drops on switchbacks. For a full Skadar Lake day trip itinerary, see our",
+    "drivesLink": "Skadar day-drive guide",
+
+    "h2Spa": "Spa and Wellness",
+    "spaP": "Several of the larger hotels along the Bečići and Slovenska strips operate spa centres open to non-guests. Indoor pools, steam rooms, saunas, and massage menus fill a rainy afternoon nicely. The spa at the Splendid Conference resort in Bečići is one of the better-equipped options, with an indoor pool overlooking the sea. Treatments start from around €30 for a basic massage. Book in advance during peak season — rainy days fill up the spa faster than you would expect.",
+
+    "h2Shopping": "Shopping and Markets",
+    "shoppingP": "Budva is not a shopping destination in the traditional sense, but rainy days reveal a few worthwhile stops. The TQ Plaza mall near the main road has mainstream fashion brands, a supermarket, and a cinema showing dubbed and subtitled films. Inside the old town, a scattering of shops sell locally made olive oil, lavender products, and Montenegrin souvenirs that are a cut above the usual fridge magnets. The green market behind the bus station is covered and operates rain or shine — pick up local honey, dried herbs, and homemade cheese even if you are not cooking.",
+
+    "h2Tips": "Rainy-Day Tips",
+    "tipJacketLabel": "Jacket:",
+    "tipJacketVal": "A light waterproof is enough for summer showers. Autumn and spring need a proper rain jacket.",
+    "tipDriveLabel": "Driving:",
+    "tipDriveVal": "Wet roads are slippery, especially on mountain switchbacks. Headlights on, speed down, extra following distance.",
+    "tipTimingLabel": "Timing:",
+    "tipTimingVal": "Summer rain usually clears within a few hours. Check the afternoon forecast before writing off the beach entirely.",
+    "tipMoodLabel": "Embrace it:",
+    "tipMoodVal": "The old town in the rain, with empty lanes and wet stone reflecting lamplight, is more photogenic than you expect."
+  },
+
+  "blogSunrides": {
+    "title": "Sunrise and Sunset Spots Around Budva",
+    "subtitle": "The best east-facing beaches for dawn and west-facing headlands for dusk.",
+    "description": "The Budva Riviera faces roughly west, which means sunsets over the open Adriatic are the headline act. But the coastline curves enough that several beaches catch the sunrise too, with the mountains behind providing a dramatic eastern backdrop. This guide covers the five best spots — two for sunrise, three for sunset — with timing notes and practical advice for getting the most out of golden hour on this stretch of coast.",
+
+    "h2Why": "Why Golden Hour Matters Here",
+    "whyP1": "The Adriatic light along the Montenegrin coast has a quality that photographers and painters have tried to describe for centuries. Something about the angle of the coastline, the clarity of the water, and the mineral content of the limestone cliffs creates a warm, saturated glow in the last hour before sunset that is genuinely different from other Mediterranean coasts. The red rooftops of Sveti Stefan, the stone walls of the old town, the cliff faces at Mogren — all of them catch this light and transform.",
+    "whyP2": "Sunrise is quieter and more subtle. The sun rises behind the coastal mountains, which means it does not emerge as a clean sphere above the horizon but rather spills over the ridgeline in a flood of warm orange that sweeps across the sea. The beaches are empty, the air is cool, and the only sound is the water. If you are a morning person, this is the most peaceful hour the riviera offers.",
+
+    "h2Sunrise": "Sunrise Spots",
+    "h3Mogren": "Mogren Beach (faces east-northeast)",
+    "mogrenP": "The twin coves at Mogren are sheltered by high cliffs that block the sun for the first twenty minutes after it crests the mountains. Then the light pours through the gap and hits the cliff walls on the western side, turning them gold. The effect is theatrical — sudden, warm, and gone within half an hour as the sun climbs. Walk there from the old town at first light (the path is safe but unlit, so bring a phone torch). The beach is deserted, the sea is flat, and the bronze ballerina statue catches the first rays on her outstretched arm. June sunrise is around 5:30am; August moves to 6:15am.",
+    "h3Becici": "Bečići Beach (faces east)",
+    "beciciP": "The long, flat expanse of Bečići points almost directly east, which means the sunrise hits the full length of the beach simultaneously. Park on the empty road above and walk down to the sand. The mountains behind Budva form a serrated silhouette against the brightening sky. As the sun clears the ridge, the wet sand near the water line turns into a mirror. This is the best sunrise spot if you want open space and a wide-angle view. The cafes on the beach will not be open yet, so bring your own coffee in a thermos.",
+
+    "altInline": "Sunset over the Adriatic from the Budva coastline",
+
+    "h2Sunset": "Sunset Spots",
+    "h3Jaz": "Jaz Beach (faces west-northwest)",
+    "jazP": "Jaz opens directly toward the setting sun with nothing between you and Italy but open water. The wide bay means you get a long horizon, and the sun drops cleanly into the sea on clear evenings. The beach bars at the eastern end serve cocktails that pair well with the view. On summer weekends, the sunset crowd gathers naturally and there is an impromptu festival atmosphere. Parking is easier in the late afternoon as the beach-day crowd leaves. The hill behind the western end offers a slightly elevated vantage point if you want the beach in your frame.",
+    "h3Fort": "Fort Mogren Lookout (faces west)",
+    "fortP": "The path from the old town to Mogren Beach passes a small elevated platform above the cliff edge. This is not an official viewpoint, but locals know it as the Fort Mogren lookout — the remains of an old defensive position with a stone wall you can lean against. From here, you look west across the open sea with the Budva peninsula to your right and the Mogren cliffs below. The sunset drops directly ahead. It is less crowded than the old-town citadel, quieter than Jaz, and requires only a five-minute walk from the Hotel Avala. Bring a jacket — the cliff-edge breeze picks up as the sun dips.",
+    "h3Stefan": "Sveti Stefan Panorama (faces west-southwest)",
+    "stefanP": "The road viewpoint above Sveti Stefan catches the last light as it paints the island's western face in deep orange and gold. The terracotta rooftops glow, the sea turns ink-dark around the edges, and the mountains behind the coast turn purple. This is arguably the finest sunset view on the entire Montenegrin coast. The lay-by fills up at golden hour, so arrive 45 minutes before sunset to secure a spot. Combine this with a visit to the old town in the morning — see our guide to",
+    "stefanLink": "walking Budva Old Town",
+
+    "h2Gear": "Gear and Preparation",
+    "gearCameraLabel": "Camera:",
+    "gearCameraVal": "Any camera works, but a wide-angle lens captures the full sweep of these coastal views. Phone cameras do well if you avoid digital zoom.",
+    "gearTripodLabel": "Tripod:",
+    "gearTripodVal": "Useful for sunrise when the light is low. A mini tripod on a rock wall works perfectly at the Fort Mogren lookout.",
+    "gearLayerLabel": "Layer:",
+    "gearLayerVal": "Evenings cool fast on the coast after the sun drops. A light fleece or hoodie in the car saves shivering through the blue-hour photos.",
+    "gearCoffeeLabel": "Supplies:",
+    "gearCoffeeVal": "Sunrise spots have no open cafes. Bring a thermos and a pastry from the bakery the night before.",
+
+    "glanceTitle": "At a Glance",
+    "glanceSunrise": "Best sunrise spot",
+    "glanceSunriseVal": "Bečići Beach (wide-angle view)",
+    "glanceSunset": "Best sunset spot",
+    "glanceSunsetVal": "Sveti Stefan road panorama",
+    "glanceBestMonth": "Best months",
+    "glanceBestMonthVal": "May–September (clearest skies)",
+    "glanceGear": "Essential gear",
+    "glanceGearVal": "Thermos, jacket, wide-angle lens"
+  }
+}

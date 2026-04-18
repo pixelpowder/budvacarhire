@@ -6,7 +6,7 @@ export async function generateMetadata({ params }) {
   return {
     title: t(lang, 'blogNightlife.title') + ' | Budva Car Hire',
     description: t(lang, 'blogNightlife.description'),
-    alternates: buildAlternates('blog/budva-nightlife-guide'),
+    alternates: buildAlternates('blog/budva-nightlife-guide', lang),
   };
 }
 

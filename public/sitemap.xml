@@ -2,7 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
-  <!-- Homepage -->
   <url>
     <loc>https://www.budvacarhire.com/</loc>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/" />
@@ -16,7 +15,71 @@
     <priority>1.0</priority>
   </url>
 
-  <!-- Book -->
+  <url>
+    <loc>https://www.budvacarhire.com/de/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.budvacarhire.com/de/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.budvacarhire.com/ru/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.budvacarhire.com/it/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/" />
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://www.budvacarhire.com/ru/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.budvacarhire.com/de/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.budvacarhire.com/ru/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.budvacarhire.com/it/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/" />
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://www.budvacarhire.com/it/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.budvacarhire.com/de/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.budvacarhire.com/ru/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.budvacarhire.com/it/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/" />
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://www.budvacarhire.com/fr/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.budvacarhire.com/de/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.budvacarhire.com/ru/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.budvacarhire.com/it/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/" />
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://www.budvacarhire.com/me/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.budvacarhire.com/de/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.budvacarhire.com/ru/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.budvacarhire.com/it/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/" />
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
   <url>
     <loc>https://www.budvacarhire.com/book</loc>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/book" />
@@ -30,7 +93,71 @@
     <priority>0.9</priority>
   </url>
 
-  <!-- About -->
+  <url>
+    <loc>https://www.budvacarhire.com/de/book</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/book" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.budvacarhire.com/de/book" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.budvacarhire.com/ru/book" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.budvacarhire.com/it/book" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/book" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/book" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/book" />
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://www.budvacarhire.com/ru/book</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/book" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.budvacarhire.com/de/book" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.budvacarhire.com/ru/book" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.budvacarhire.com/it/book" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/book" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/book" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/book" />
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://www.budvacarhire.com/it/book</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/book" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.budvacarhire.com/de/book" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.budvacarhire.com/ru/book" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.budvacarhire.com/it/book" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/book" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/book" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/book" />
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://www.budvacarhire.com/fr/book</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/book" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.budvacarhire.com/de/book" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.budvacarhire.com/ru/book" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.budvacarhire.com/it/book" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/book" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/book" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/book" />
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://www.budvacarhire.com/me/book</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/book" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.budvacarhire.com/de/book" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.budvacarhire.com/ru/book" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.budvacarhire.com/it/book" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/book" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/book" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/book" />
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
   <url>
     <loc>https://www.budvacarhire.com/about</loc>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/about" />
@@ -40,11 +167,75 @@
     <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/about" />
     <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/about" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/about" />
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
   </url>
 
-  <!-- Kotor -->
+  <url>
+    <loc>https://www.budvacarhire.com/de/about</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/about" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.budvacarhire.com/de/about" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.budvacarhire.com/ru/about" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.budvacarhire.com/it/about" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/about" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/about" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/about" />
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <url>
+    <loc>https://www.budvacarhire.com/ru/about</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/about" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.budvacarhire.com/de/about" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.budvacarhire.com/ru/about" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.budvacarhire.com/it/about" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/about" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/about" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/about" />
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <url>
+    <loc>https://www.budvacarhire.com/it/about</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/about" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.budvacarhire.com/de/about" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.budvacarhire.com/ru/about" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.budvacarhire.com/it/about" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/about" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/about" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/about" />
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <url>
+    <loc>https://www.budvacarhire.com/fr/about</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/about" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.budvacarhire.com/de/about" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.budvacarhire.com/ru/about" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.budvacarhire.com/it/about" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/about" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/about" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/about" />
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <url>
+    <loc>https://www.budvacarhire.com/me/about</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/about" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.budvacarhire.com/de/about" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.budvacarhire.com/ru/about" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.budvacarhire.com/it/about" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/about" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/about" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/about" />
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
   <url>
     <loc>https://www.budvacarhire.com/kotor</loc>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/kotor" />
@@ -55,10 +246,74 @@
     <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/kotor" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/kotor" />
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.7</priority>
   </url>
 
-  <!-- Budva -->
+  <url>
+    <loc>https://www.budvacarhire.com/de/kotor</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/kotor" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.budvacarhire.com/de/kotor" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.budvacarhire.com/ru/kotor" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.budvacarhire.com/it/kotor" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/kotor" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/kotor" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/kotor" />
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.budvacarhire.com/ru/kotor</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/kotor" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.budvacarhire.com/de/kotor" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.budvacarhire.com/ru/kotor" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.budvacarhire.com/it/kotor" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/kotor" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/kotor" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/kotor" />
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.budvacarhire.com/it/kotor</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/kotor" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.budvacarhire.com/de/kotor" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.budvacarhire.com/ru/kotor" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.budvacarhire.com/it/kotor" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/kotor" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/kotor" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/kotor" />
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.budvacarhire.com/fr/kotor</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/kotor" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.budvacarhire.com/de/kotor" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.budvacarhire.com/ru/kotor" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.budvacarhire.com/it/kotor" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/kotor" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/kotor" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/kotor" />
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.budvacarhire.com/me/kotor</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/kotor" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.budvacarhire.com/de/kotor" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.budvacarhire.com/ru/kotor" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.budvacarhire.com/it/kotor" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/kotor" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/kotor" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/kotor" />
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
   <url>
     <loc>https://www.budvacarhire.com/budva</loc>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/budva" />
@@ -69,10 +324,74 @@
     <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/budva" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/budva" />
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.7</priority>
   </url>
 
-  <!-- Tivat -->
+  <url>
+    <loc>https://www.budvacarhire.com/de/budva</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/budva" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.budvacarhire.com/de/budva" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.budvacarhire.com/ru/budva" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.budvacarhire.com/it/budva" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/budva" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/budva" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/budva" />
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.budvacarhire.com/ru/budva</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/budva" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.budvacarhire.com/de/budva" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.budvacarhire.com/ru/budva" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.budvacarhire.com/it/budva" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/budva" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/budva" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/budva" />
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.budvacarhire.com/it/budva</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/budva" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.budvacarhire.com/de/budva" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.budvacarhire.com/ru/budva" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.budvacarhire.com/it/budva" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/budva" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/budva" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/budva" />
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.budvacarhire.com/fr/budva</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/budva" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.budvacarhire.com/de/budva" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.budvacarhire.com/ru/budva" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.budvacarhire.com/it/budva" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/budva" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/budva" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/budva" />
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.budvacarhire.com/me/budva</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/budva" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.budvacarhire.com/de/budva" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.budvacarhire.com/ru/budva" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.budvacarhire.com/it/budva" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/budva" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/budva" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/budva" />
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
   <url>
     <loc>https://www.budvacarhire.com/tivat</loc>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/tivat" />
@@ -86,7 +405,71 @@
     <priority>0.7</priority>
   </url>
 
-  <!-- Perast -->
+  <url>
+    <loc>https://www.budvacarhire.com/de/tivat</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/tivat" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.budvacarhire.com/de/tivat" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.budvacarhire.com/ru/tivat" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.budvacarhire.com/it/tivat" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/tivat" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/tivat" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/tivat" />
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.budvacarhire.com/ru/tivat</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/tivat" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.budvacarhire.com/de/tivat" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.budvacarhire.com/ru/tivat" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.budvacarhire.com/it/tivat" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/tivat" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/tivat" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/tivat" />
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.budvacarhire.com/it/tivat</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/tivat" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.budvacarhire.com/de/tivat" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.budvacarhire.com/ru/tivat" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.budvacarhire.com/it/tivat" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/tivat" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/tivat" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/tivat" />
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.budvacarhire.com/fr/tivat</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/tivat" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.budvacarhire.com/de/tivat" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.budvacarhire.com/ru/tivat" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.budvacarhire.com/it/tivat" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/tivat" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/tivat" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/tivat" />
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.budvacarhire.com/me/tivat</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/tivat" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.budvacarhire.com/de/tivat" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.budvacarhire.com/ru/tivat" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.budvacarhire.com/it/tivat" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/tivat" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/tivat" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/tivat" />
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
   <url>
     <loc>https://www.budvacarhire.com/perast</loc>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/perast" />
@@ -100,7 +483,71 @@
     <priority>0.7</priority>
   </url>
 
-  <!-- Podgorica -->
+  <url>
+    <loc>https://www.budvacarhire.com/de/perast</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/perast" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.budvacarhire.com/de/perast" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.budvacarhire.com/ru/perast" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.budvacarhire.com/it/perast" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/perast" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/perast" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/perast" />
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.budvacarhire.com/ru/perast</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/perast" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.budvacarhire.com/de/perast" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.budvacarhire.com/ru/perast" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.budvacarhire.com/it/perast" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/perast" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/perast" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/perast" />
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.budvacarhire.com/it/perast</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/perast" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.budvacarhire.com/de/perast" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.budvacarhire.com/ru/perast" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.budvacarhire.com/it/perast" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/perast" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/perast" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/perast" />
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.budvacarhire.com/fr/perast</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/perast" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.budvacarhire.com/de/perast" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.budvacarhire.com/ru/perast" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.budvacarhire.com/it/perast" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/perast" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/perast" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/perast" />
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.budvacarhire.com/me/perast</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/perast" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.budvacarhire.com/de/perast" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.budvacarhire.com/ru/perast" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.budvacarhire.com/it/perast" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/perast" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/perast" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/perast" />
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
   <url>
     <loc>https://www.budvacarhire.com/podgorica</loc>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/podgorica" />
@@ -114,7 +561,71 @@
     <priority>0.7</priority>
   </url>
 
-  <!-- Tivat Airport -->
+  <url>
+    <loc>https://www.budvacarhire.com/de/podgorica</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/podgorica" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.budvacarhire.com/de/podgorica" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.budvacarhire.com/ru/podgorica" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.budvacarhire.com/it/podgorica" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/podgorica" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/podgorica" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/podgorica" />
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.budvacarhire.com/ru/podgorica</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/podgorica" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.budvacarhire.com/de/podgorica" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.budvacarhire.com/ru/podgorica" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.budvacarhire.com/it/podgorica" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/podgorica" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/podgorica" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/podgorica" />
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.budvacarhire.com/it/podgorica</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/podgorica" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.budvacarhire.com/de/podgorica" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.budvacarhire.com/ru/podgorica" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.budvacarhire.com/it/podgorica" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/podgorica" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/podgorica" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/podgorica" />
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.budvacarhire.com/fr/podgorica</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/podgorica" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.budvacarhire.com/de/podgorica" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.budvacarhire.com/ru/podgorica" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.budvacarhire.com/it/podgorica" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/podgorica" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/podgorica" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/podgorica" />
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.budvacarhire.com/me/podgorica</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/podgorica" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.budvacarhire.com/de/podgorica" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.budvacarhire.com/ru/podgorica" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.budvacarhire.com/it/podgorica" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/podgorica" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/podgorica" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/podgorica" />
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
   <url>
     <loc>https://www.budvacarhire.com/tivat-airport</loc>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/tivat-airport" />
@@ -125,10 +636,74 @@
     <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/tivat-airport" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/tivat-airport" />
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.7</priority>
   </url>
 
-  <!-- Podgorica Airport -->
+  <url>
+    <loc>https://www.budvacarhire.com/de/tivat-airport</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/tivat-airport" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.budvacarhire.com/de/tivat-airport" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.budvacarhire.com/ru/tivat-airport" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.budvacarhire.com/it/tivat-airport" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/tivat-airport" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/tivat-airport" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/tivat-airport" />
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.budvacarhire.com/ru/tivat-airport</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/tivat-airport" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.budvacarhire.com/de/tivat-airport" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.budvacarhire.com/ru/tivat-airport" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.budvacarhire.com/it/tivat-airport" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/tivat-airport" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/tivat-airport" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/tivat-airport" />
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.budvacarhire.com/it/tivat-airport</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/tivat-airport" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.budvacarhire.com/de/tivat-airport" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.budvacarhire.com/ru/tivat-airport" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.budvacarhire.com/it/tivat-airport" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/tivat-airport" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/tivat-airport" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/tivat-airport" />
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.budvacarhire.com/fr/tivat-airport</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/tivat-airport" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.budvacarhire.com/de/tivat-airport" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.budvacarhire.com/ru/tivat-airport" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.budvacarhire.com/it/tivat-airport" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/tivat-airport" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/tivat-airport" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/tivat-airport" />
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.budvacarhire.com/me/tivat-airport</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/tivat-airport" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.budvacarhire.com/de/tivat-airport" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.budvacarhire.com/ru/tivat-airport" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.budvacarhire.com/it/tivat-airport" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/tivat-airport" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/tivat-airport" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/tivat-airport" />
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
   <url>
     <loc>https://www.budvacarhire.com/podgorica-airport</loc>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/podgorica-airport" />
@@ -139,10 +714,74 @@
     <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/podgorica-airport" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/podgorica-airport" />
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.7</priority>
   </url>
 
-  <!-- Dubrovnik Airport -->
+  <url>
+    <loc>https://www.budvacarhire.com/de/podgorica-airport</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/podgorica-airport" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.budvacarhire.com/de/podgorica-airport" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.budvacarhire.com/ru/podgorica-airport" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.budvacarhire.com/it/podgorica-airport" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/podgorica-airport" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/podgorica-airport" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/podgorica-airport" />
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.budvacarhire.com/ru/podgorica-airport</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/podgorica-airport" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.budvacarhire.com/de/podgorica-airport" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.budvacarhire.com/ru/podgorica-airport" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.budvacarhire.com/it/podgorica-airport" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/podgorica-airport" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/podgorica-airport" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/podgorica-airport" />
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.budvacarhire.com/it/podgorica-airport</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/podgorica-airport" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.budvacarhire.com/de/podgorica-airport" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.budvacarhire.com/ru/podgorica-airport" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.budvacarhire.com/it/podgorica-airport" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/podgorica-airport" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/podgorica-airport" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/podgorica-airport" />
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.budvacarhire.com/fr/podgorica-airport</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/podgorica-airport" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.budvacarhire.com/de/podgorica-airport" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.budvacarhire.com/ru/podgorica-airport" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.budvacarhire.com/it/podgorica-airport" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/podgorica-airport" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/podgorica-airport" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/podgorica-airport" />
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.budvacarhire.com/me/podgorica-airport</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/podgorica-airport" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.budvacarhire.com/de/podgorica-airport" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.budvacarhire.com/ru/podgorica-airport" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.budvacarhire.com/it/podgorica-airport" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/podgorica-airport" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/podgorica-airport" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/podgorica-airport" />
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
   <url>
     <loc>https://www.budvacarhire.com/dubrovnik-airport</loc>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/dubrovnik-airport" />
@@ -156,7 +795,71 @@
     <priority>0.7</priority>
   </url>
 
-  <!-- Montenegro Travel Guide -->
+  <url>
+    <loc>https://www.budvacarhire.com/de/dubrovnik-airport</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/dubrovnik-airport" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.budvacarhire.com/de/dubrovnik-airport" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.budvacarhire.com/ru/dubrovnik-airport" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.budvacarhire.com/it/dubrovnik-airport" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/dubrovnik-airport" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/dubrovnik-airport" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/dubrovnik-airport" />
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.budvacarhire.com/ru/dubrovnik-airport</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/dubrovnik-airport" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.budvacarhire.com/de/dubrovnik-airport" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.budvacarhire.com/ru/dubrovnik-airport" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.budvacarhire.com/it/dubrovnik-airport" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/dubrovnik-airport" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/dubrovnik-airport" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/dubrovnik-airport" />
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.budvacarhire.com/it/dubrovnik-airport</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/dubrovnik-airport" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.budvacarhire.com/de/dubrovnik-airport" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.budvacarhire.com/ru/dubrovnik-airport" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.budvacarhire.com/it/dubrovnik-airport" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/dubrovnik-airport" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/dubrovnik-airport" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/dubrovnik-airport" />
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.budvacarhire.com/fr/dubrovnik-airport</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/dubrovnik-airport" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.budvacarhire.com/de/dubrovnik-airport" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.budvacarhire.com/ru/dubrovnik-airport" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.budvacarhire.com/it/dubrovnik-airport" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/dubrovnik-airport" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/dubrovnik-airport" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/dubrovnik-airport" />
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.budvacarhire.com/me/dubrovnik-airport</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/dubrovnik-airport" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.budvacarhire.com/de/dubrovnik-airport" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.budvacarhire.com/ru/dubrovnik-airport" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.budvacarhire.com/it/dubrovnik-airport" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/dubrovnik-airport" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/dubrovnik-airport" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/dubrovnik-airport" />
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
   <url>
     <loc>https://www.budvacarhire.com/montenegro</loc>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/montenegro" />
@@ -167,10 +870,74 @@
     <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/montenegro" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/montenegro" />
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.7</priority>
   </url>
 
-  <!-- Border Crossing Guide -->
+  <url>
+    <loc>https://www.budvacarhire.com/de/montenegro</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/montenegro" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.budvacarhire.com/de/montenegro" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.budvacarhire.com/ru/montenegro" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.budvacarhire.com/it/montenegro" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/montenegro" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/montenegro" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/montenegro" />
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.budvacarhire.com/ru/montenegro</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/montenegro" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.budvacarhire.com/de/montenegro" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.budvacarhire.com/ru/montenegro" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.budvacarhire.com/it/montenegro" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/montenegro" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/montenegro" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/montenegro" />
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.budvacarhire.com/it/montenegro</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/montenegro" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.budvacarhire.com/de/montenegro" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.budvacarhire.com/ru/montenegro" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.budvacarhire.com/it/montenegro" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/montenegro" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/montenegro" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/montenegro" />
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.budvacarhire.com/fr/montenegro</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/montenegro" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.budvacarhire.com/de/montenegro" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.budvacarhire.com/ru/montenegro" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.budvacarhire.com/it/montenegro" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/montenegro" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/montenegro" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/montenegro" />
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.budvacarhire.com/me/montenegro</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/montenegro" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.budvacarhire.com/de/montenegro" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.budvacarhire.com/ru/montenegro" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.budvacarhire.com/it/montenegro" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/montenegro" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/montenegro" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/montenegro" />
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
   <url>
     <loc>https://www.budvacarhire.com/border-crossing-guide</loc>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/border-crossing-guide" />
@@ -184,10 +951,149 @@
     <priority>0.7</priority>
   </url>
 
-  <!-- Contact -->
-  <url><loc>https://www.budvacarhire.com/contact</loc><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url>
+    <loc>https://www.budvacarhire.com/de/border-crossing-guide</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/border-crossing-guide" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.budvacarhire.com/de/border-crossing-guide" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.budvacarhire.com/ru/border-crossing-guide" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.budvacarhire.com/it/border-crossing-guide" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/border-crossing-guide" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/border-crossing-guide" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/border-crossing-guide" />
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
 
-  <!-- Blog Listing -->
+  <url>
+    <loc>https://www.budvacarhire.com/ru/border-crossing-guide</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/border-crossing-guide" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.budvacarhire.com/de/border-crossing-guide" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.budvacarhire.com/ru/border-crossing-guide" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.budvacarhire.com/it/border-crossing-guide" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/border-crossing-guide" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/border-crossing-guide" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/border-crossing-guide" />
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.budvacarhire.com/it/border-crossing-guide</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/border-crossing-guide" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.budvacarhire.com/de/border-crossing-guide" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.budvacarhire.com/ru/border-crossing-guide" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.budvacarhire.com/it/border-crossing-guide" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/border-crossing-guide" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/border-crossing-guide" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/border-crossing-guide" />
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.budvacarhire.com/fr/border-crossing-guide</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/border-crossing-guide" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.budvacarhire.com/de/border-crossing-guide" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.budvacarhire.com/ru/border-crossing-guide" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.budvacarhire.com/it/border-crossing-guide" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/border-crossing-guide" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/border-crossing-guide" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/border-crossing-guide" />
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.budvacarhire.com/me/border-crossing-guide</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/border-crossing-guide" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.budvacarhire.com/de/border-crossing-guide" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.budvacarhire.com/ru/border-crossing-guide" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.budvacarhire.com/it/border-crossing-guide" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/border-crossing-guide" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/border-crossing-guide" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/border-crossing-guide" />
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.budvacarhire.com/contact</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/contact" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.budvacarhire.com/de/contact" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.budvacarhire.com/ru/contact" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.budvacarhire.com/it/contact" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/contact" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/contact" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/contact" />
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <url>
+    <loc>https://www.budvacarhire.com/de/contact</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/contact" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.budvacarhire.com/de/contact" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.budvacarhire.com/ru/contact" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.budvacarhire.com/it/contact" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/contact" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/contact" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/contact" />
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <url>
+    <loc>https://www.budvacarhire.com/ru/contact</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/contact" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.budvacarhire.com/de/contact" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.budvacarhire.com/ru/contact" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.budvacarhire.com/it/contact" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/contact" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/contact" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/contact" />
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <url>
+    <loc>https://www.budvacarhire.com/it/contact</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/contact" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.budvacarhire.com/de/contact" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.budvacarhire.com/ru/contact" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.budvacarhire.com/it/contact" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/contact" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/contact" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/contact" />
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <url>
+    <loc>https://www.budvacarhire.com/fr/contact</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/contact" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.budvacarhire.com/de/contact" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.budvacarhire.com/ru/contact" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.budvacarhire.com/it/contact" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/contact" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/contact" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/contact" />
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <url>
+    <loc>https://www.budvacarhire.com/me/contact</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/contact" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.budvacarhire.com/de/contact" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.budvacarhire.com/ru/contact" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.budvacarhire.com/it/contact" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/contact" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/contact" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/contact" />
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
   <url>
     <loc>https://www.budvacarhire.com/blog</loc>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/blog" />
@@ -197,11 +1103,75 @@
     <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/blog" />
     <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/blog" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/blog" />
-    <changefreq>monthly</changefreq>
+    <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
 
-  <!-- Blog: Budva Old Town Walking -->
+  <url>
+    <loc>https://www.budvacarhire.com/de/blog</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/blog" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.budvacarhire.com/de/blog" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.budvacarhire.com/ru/blog" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.budvacarhire.com/it/blog" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/blog" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/blog" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/blog" />
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.budvacarhire.com/ru/blog</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/blog" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.budvacarhire.com/de/blog" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.budvacarhire.com/ru/blog" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.budvacarhire.com/it/blog" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/blog" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/blog" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/blog" />
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.budvacarhire.com/it/blog</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/blog" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.budvacarhire.com/de/blog" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.budvacarhire.com/ru/blog" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.budvacarhire.com/it/blog" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/blog" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/blog" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/blog" />
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.budvacarhire.com/fr/blog</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/blog" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.budvacarhire.com/de/blog" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.budvacarhire.com/ru/blog" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.budvacarhire.com/it/blog" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/blog" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/blog" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/blog" />
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.budvacarhire.com/me/blog</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/blog" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.budvacarhire.com/de/blog" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.budvacarhire.com/ru/blog" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.budvacarhire.com/it/blog" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/blog" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/blog" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/blog" />
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
   <url>
     <loc>https://www.budvacarhire.com/blog/budva-old-town-walking</loc>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/blog/budva-old-town-walking" />
@@ -215,7 +1185,71 @@
     <priority>0.6</priority>
   </url>
 
-  <!-- Blog: Sveti Stefan Viewpoints -->
+  <url>
+    <loc>https://www.budvacarhire.com/de/blog/budva-old-town-walking</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/blog/budva-old-town-walking" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.budvacarhire.com/de/blog/budva-old-town-walking" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.budvacarhire.com/ru/blog/budva-old-town-walking" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.budvacarhire.com/it/blog/budva-old-town-walking" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/blog/budva-old-town-walking" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/blog/budva-old-town-walking" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/blog/budva-old-town-walking" />
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://www.budvacarhire.com/ru/blog/budva-old-town-walking</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/blog/budva-old-town-walking" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.budvacarhire.com/de/blog/budva-old-town-walking" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.budvacarhire.com/ru/blog/budva-old-town-walking" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.budvacarhire.com/it/blog/budva-old-town-walking" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/blog/budva-old-town-walking" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/blog/budva-old-town-walking" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/blog/budva-old-town-walking" />
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://www.budvacarhire.com/it/blog/budva-old-town-walking</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/blog/budva-old-town-walking" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.budvacarhire.com/de/blog/budva-old-town-walking" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.budvacarhire.com/ru/blog/budva-old-town-walking" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.budvacarhire.com/it/blog/budva-old-town-walking" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/blog/budva-old-town-walking" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/blog/budva-old-town-walking" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/blog/budva-old-town-walking" />
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://www.budvacarhire.com/fr/blog/budva-old-town-walking</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/blog/budva-old-town-walking" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.budvacarhire.com/de/blog/budva-old-town-walking" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.budvacarhire.com/ru/blog/budva-old-town-walking" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.budvacarhire.com/it/blog/budva-old-town-walking" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/blog/budva-old-town-walking" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/blog/budva-old-town-walking" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/blog/budva-old-town-walking" />
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://www.budvacarhire.com/me/blog/budva-old-town-walking</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/blog/budva-old-town-walking" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.budvacarhire.com/de/blog/budva-old-town-walking" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.budvacarhire.com/ru/blog/budva-old-town-walking" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.budvacarhire.com/it/blog/budva-old-town-walking" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/blog/budva-old-town-walking" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/blog/budva-old-town-walking" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/blog/budva-old-town-walking" />
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
   <url>
     <loc>https://www.budvacarhire.com/blog/sveti-stefan-viewpoints</loc>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/blog/sveti-stefan-viewpoints" />
@@ -229,7 +1263,71 @@
     <priority>0.6</priority>
   </url>
 
-  <!-- Blog: Budva Riviera Beach Hop -->
+  <url>
+    <loc>https://www.budvacarhire.com/de/blog/sveti-stefan-viewpoints</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/blog/sveti-stefan-viewpoints" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.budvacarhire.com/de/blog/sveti-stefan-viewpoints" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.budvacarhire.com/ru/blog/sveti-stefan-viewpoints" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.budvacarhire.com/it/blog/sveti-stefan-viewpoints" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/blog/sveti-stefan-viewpoints" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/blog/sveti-stefan-viewpoints" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/blog/sveti-stefan-viewpoints" />
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://www.budvacarhire.com/ru/blog/sveti-stefan-viewpoints</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/blog/sveti-stefan-viewpoints" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.budvacarhire.com/de/blog/sveti-stefan-viewpoints" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.budvacarhire.com/ru/blog/sveti-stefan-viewpoints" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.budvacarhire.com/it/blog/sveti-stefan-viewpoints" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/blog/sveti-stefan-viewpoints" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/blog/sveti-stefan-viewpoints" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/blog/sveti-stefan-viewpoints" />
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://www.budvacarhire.com/it/blog/sveti-stefan-viewpoints</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/blog/sveti-stefan-viewpoints" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.budvacarhire.com/de/blog/sveti-stefan-viewpoints" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.budvacarhire.com/ru/blog/sveti-stefan-viewpoints" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.budvacarhire.com/it/blog/sveti-stefan-viewpoints" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/blog/sveti-stefan-viewpoints" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/blog/sveti-stefan-viewpoints" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/blog/sveti-stefan-viewpoints" />
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://www.budvacarhire.com/fr/blog/sveti-stefan-viewpoints</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/blog/sveti-stefan-viewpoints" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.budvacarhire.com/de/blog/sveti-stefan-viewpoints" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.budvacarhire.com/ru/blog/sveti-stefan-viewpoints" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.budvacarhire.com/it/blog/sveti-stefan-viewpoints" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/blog/sveti-stefan-viewpoints" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/blog/sveti-stefan-viewpoints" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/blog/sveti-stefan-viewpoints" />
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://www.budvacarhire.com/me/blog/sveti-stefan-viewpoints</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/blog/sveti-stefan-viewpoints" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.budvacarhire.com/de/blog/sveti-stefan-viewpoints" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.budvacarhire.com/ru/blog/sveti-stefan-viewpoints" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.budvacarhire.com/it/blog/sveti-stefan-viewpoints" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/blog/sveti-stefan-viewpoints" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/blog/sveti-stefan-viewpoints" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/blog/sveti-stefan-viewpoints" />
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
   <url>
     <loc>https://www.budvacarhire.com/blog/budva-riviera-beach-hop</loc>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/blog/budva-riviera-beach-hop" />
@@ -243,7 +1341,71 @@
     <priority>0.6</priority>
   </url>
 
-  <!-- Blog: Budva to Skadar Day -->
+  <url>
+    <loc>https://www.budvacarhire.com/de/blog/budva-riviera-beach-hop</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/blog/budva-riviera-beach-hop" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.budvacarhire.com/de/blog/budva-riviera-beach-hop" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.budvacarhire.com/ru/blog/budva-riviera-beach-hop" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.budvacarhire.com/it/blog/budva-riviera-beach-hop" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/blog/budva-riviera-beach-hop" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/blog/budva-riviera-beach-hop" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/blog/budva-riviera-beach-hop" />
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://www.budvacarhire.com/ru/blog/budva-riviera-beach-hop</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/blog/budva-riviera-beach-hop" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.budvacarhire.com/de/blog/budva-riviera-beach-hop" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.budvacarhire.com/ru/blog/budva-riviera-beach-hop" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.budvacarhire.com/it/blog/budva-riviera-beach-hop" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/blog/budva-riviera-beach-hop" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/blog/budva-riviera-beach-hop" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/blog/budva-riviera-beach-hop" />
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://www.budvacarhire.com/it/blog/budva-riviera-beach-hop</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/blog/budva-riviera-beach-hop" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.budvacarhire.com/de/blog/budva-riviera-beach-hop" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.budvacarhire.com/ru/blog/budva-riviera-beach-hop" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.budvacarhire.com/it/blog/budva-riviera-beach-hop" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/blog/budva-riviera-beach-hop" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/blog/budva-riviera-beach-hop" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/blog/budva-riviera-beach-hop" />
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://www.budvacarhire.com/fr/blog/budva-riviera-beach-hop</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/blog/budva-riviera-beach-hop" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.budvacarhire.com/de/blog/budva-riviera-beach-hop" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.budvacarhire.com/ru/blog/budva-riviera-beach-hop" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.budvacarhire.com/it/blog/budva-riviera-beach-hop" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/blog/budva-riviera-beach-hop" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/blog/budva-riviera-beach-hop" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/blog/budva-riviera-beach-hop" />
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://www.budvacarhire.com/me/blog/budva-riviera-beach-hop</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/blog/budva-riviera-beach-hop" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.budvacarhire.com/de/blog/budva-riviera-beach-hop" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.budvacarhire.com/ru/blog/budva-riviera-beach-hop" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.budvacarhire.com/it/blog/budva-riviera-beach-hop" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/blog/budva-riviera-beach-hop" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/blog/budva-riviera-beach-hop" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/blog/budva-riviera-beach-hop" />
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
   <url>
     <loc>https://www.budvacarhire.com/blog/budva-to-skadar-day</loc>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/blog/budva-to-skadar-day" />
@@ -257,7 +1419,71 @@
     <priority>0.6</priority>
   </url>
 
-  <!-- Blog: Budva Nightlife Guide -->
+  <url>
+    <loc>https://www.budvacarhire.com/de/blog/budva-to-skadar-day</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/blog/budva-to-skadar-day" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.budvacarhire.com/de/blog/budva-to-skadar-day" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.budvacarhire.com/ru/blog/budva-to-skadar-day" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.budvacarhire.com/it/blog/budva-to-skadar-day" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/blog/budva-to-skadar-day" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/blog/budva-to-skadar-day" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/blog/budva-to-skadar-day" />
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://www.budvacarhire.com/ru/blog/budva-to-skadar-day</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/blog/budva-to-skadar-day" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.budvacarhire.com/de/blog/budva-to-skadar-day" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.budvacarhire.com/ru/blog/budva-to-skadar-day" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.budvacarhire.com/it/blog/budva-to-skadar-day" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/blog/budva-to-skadar-day" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/blog/budva-to-skadar-day" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/blog/budva-to-skadar-day" />
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://www.budvacarhire.com/it/blog/budva-to-skadar-day</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/blog/budva-to-skadar-day" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.budvacarhire.com/de/blog/budva-to-skadar-day" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.budvacarhire.com/ru/blog/budva-to-skadar-day" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.budvacarhire.com/it/blog/budva-to-skadar-day" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/blog/budva-to-skadar-day" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/blog/budva-to-skadar-day" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/blog/budva-to-skadar-day" />
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://www.budvacarhire.com/fr/blog/budva-to-skadar-day</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/blog/budva-to-skadar-day" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.budvacarhire.com/de/blog/budva-to-skadar-day" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.budvacarhire.com/ru/blog/budva-to-skadar-day" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.budvacarhire.com/it/blog/budva-to-skadar-day" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/blog/budva-to-skadar-day" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/blog/budva-to-skadar-day" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/blog/budva-to-skadar-day" />
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://www.budvacarhire.com/me/blog/budva-to-skadar-day</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/blog/budva-to-skadar-day" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.budvacarhire.com/de/blog/budva-to-skadar-day" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.budvacarhire.com/ru/blog/budva-to-skadar-day" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.budvacarhire.com/it/blog/budva-to-skadar-day" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/blog/budva-to-skadar-day" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/blog/budva-to-skadar-day" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/blog/budva-to-skadar-day" />
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
   <url>
     <loc>https://www.budvacarhire.com/blog/budva-nightlife-guide</loc>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/blog/budva-nightlife-guide" />
@@ -271,7 +1497,71 @@
     <priority>0.6</priority>
   </url>
 
-  <!-- Blog: Budva Gastro Scene -->
+  <url>
+    <loc>https://www.budvacarhire.com/de/blog/budva-nightlife-guide</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/blog/budva-nightlife-guide" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.budvacarhire.com/de/blog/budva-nightlife-guide" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.budvacarhire.com/ru/blog/budva-nightlife-guide" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.budvacarhire.com/it/blog/budva-nightlife-guide" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/blog/budva-nightlife-guide" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/blog/budva-nightlife-guide" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/blog/budva-nightlife-guide" />
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://www.budvacarhire.com/ru/blog/budva-nightlife-guide</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/blog/budva-nightlife-guide" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.budvacarhire.com/de/blog/budva-nightlife-guide" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.budvacarhire.com/ru/blog/budva-nightlife-guide" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.budvacarhire.com/it/blog/budva-nightlife-guide" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/blog/budva-nightlife-guide" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/blog/budva-nightlife-guide" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/blog/budva-nightlife-guide" />
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://www.budvacarhire.com/it/blog/budva-nightlife-guide</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/blog/budva-nightlife-guide" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.budvacarhire.com/de/blog/budva-nightlife-guide" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.budvacarhire.com/ru/blog/budva-nightlife-guide" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.budvacarhire.com/it/blog/budva-nightlife-guide" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/blog/budva-nightlife-guide" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/blog/budva-nightlife-guide" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/blog/budva-nightlife-guide" />
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://www.budvacarhire.com/fr/blog/budva-nightlife-guide</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/blog/budva-nightlife-guide" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.budvacarhire.com/de/blog/budva-nightlife-guide" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.budvacarhire.com/ru/blog/budva-nightlife-guide" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.budvacarhire.com/it/blog/budva-nightlife-guide" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/blog/budva-nightlife-guide" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/blog/budva-nightlife-guide" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/blog/budva-nightlife-guide" />
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://www.budvacarhire.com/me/blog/budva-nightlife-guide</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/blog/budva-nightlife-guide" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.budvacarhire.com/de/blog/budva-nightlife-guide" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.budvacarhire.com/ru/blog/budva-nightlife-guide" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.budvacarhire.com/it/blog/budva-nightlife-guide" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/blog/budva-nightlife-guide" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/blog/budva-nightlife-guide" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/blog/budva-nightlife-guide" />
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
   <url>
     <loc>https://www.budvacarhire.com/blog/budva-gastro-scene</loc>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/blog/budva-gastro-scene" />
@@ -285,7 +1575,71 @@
     <priority>0.6</priority>
   </url>
 
-  <!-- Blog: Petrovac to Buljarica -->
+  <url>
+    <loc>https://www.budvacarhire.com/de/blog/budva-gastro-scene</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/blog/budva-gastro-scene" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.budvacarhire.com/de/blog/budva-gastro-scene" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.budvacarhire.com/ru/blog/budva-gastro-scene" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.budvacarhire.com/it/blog/budva-gastro-scene" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/blog/budva-gastro-scene" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/blog/budva-gastro-scene" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/blog/budva-gastro-scene" />
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://www.budvacarhire.com/ru/blog/budva-gastro-scene</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/blog/budva-gastro-scene" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.budvacarhire.com/de/blog/budva-gastro-scene" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.budvacarhire.com/ru/blog/budva-gastro-scene" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.budvacarhire.com/it/blog/budva-gastro-scene" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/blog/budva-gastro-scene" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/blog/budva-gastro-scene" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/blog/budva-gastro-scene" />
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://www.budvacarhire.com/it/blog/budva-gastro-scene</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/blog/budva-gastro-scene" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.budvacarhire.com/de/blog/budva-gastro-scene" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.budvacarhire.com/ru/blog/budva-gastro-scene" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.budvacarhire.com/it/blog/budva-gastro-scene" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/blog/budva-gastro-scene" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/blog/budva-gastro-scene" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/blog/budva-gastro-scene" />
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://www.budvacarhire.com/fr/blog/budva-gastro-scene</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/blog/budva-gastro-scene" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.budvacarhire.com/de/blog/budva-gastro-scene" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.budvacarhire.com/ru/blog/budva-gastro-scene" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.budvacarhire.com/it/blog/budva-gastro-scene" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/blog/budva-gastro-scene" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/blog/budva-gastro-scene" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/blog/budva-gastro-scene" />
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://www.budvacarhire.com/me/blog/budva-gastro-scene</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/blog/budva-gastro-scene" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.budvacarhire.com/de/blog/budva-gastro-scene" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.budvacarhire.com/ru/blog/budva-gastro-scene" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.budvacarhire.com/it/blog/budva-gastro-scene" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/blog/budva-gastro-scene" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/blog/budva-gastro-scene" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/blog/budva-gastro-scene" />
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
   <url>
     <loc>https://www.budvacarhire.com/blog/petrovac-to-buljarica</loc>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/blog/petrovac-to-buljarica" />
@@ -299,7 +1653,71 @@
     <priority>0.6</priority>
   </url>
 
-  <!-- Blog: Budva Rainy Day -->
+  <url>
+    <loc>https://www.budvacarhire.com/de/blog/petrovac-to-buljarica</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/blog/petrovac-to-buljarica" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.budvacarhire.com/de/blog/petrovac-to-buljarica" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.budvacarhire.com/ru/blog/petrovac-to-buljarica" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.budvacarhire.com/it/blog/petrovac-to-buljarica" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/blog/petrovac-to-buljarica" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/blog/petrovac-to-buljarica" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/blog/petrovac-to-buljarica" />
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://www.budvacarhire.com/ru/blog/petrovac-to-buljarica</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/blog/petrovac-to-buljarica" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.budvacarhire.com/de/blog/petrovac-to-buljarica" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.budvacarhire.com/ru/blog/petrovac-to-buljarica" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.budvacarhire.com/it/blog/petrovac-to-buljarica" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/blog/petrovac-to-buljarica" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/blog/petrovac-to-buljarica" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/blog/petrovac-to-buljarica" />
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://www.budvacarhire.com/it/blog/petrovac-to-buljarica</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/blog/petrovac-to-buljarica" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.budvacarhire.com/de/blog/petrovac-to-buljarica" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.budvacarhire.com/ru/blog/petrovac-to-buljarica" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.budvacarhire.com/it/blog/petrovac-to-buljarica" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/blog/petrovac-to-buljarica" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/blog/petrovac-to-buljarica" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/blog/petrovac-to-buljarica" />
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://www.budvacarhire.com/fr/blog/petrovac-to-buljarica</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/blog/petrovac-to-buljarica" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.budvacarhire.com/de/blog/petrovac-to-buljarica" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.budvacarhire.com/ru/blog/petrovac-to-buljarica" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.budvacarhire.com/it/blog/petrovac-to-buljarica" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/blog/petrovac-to-buljarica" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/blog/petrovac-to-buljarica" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/blog/petrovac-to-buljarica" />
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://www.budvacarhire.com/me/blog/petrovac-to-buljarica</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/blog/petrovac-to-buljarica" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.budvacarhire.com/de/blog/petrovac-to-buljarica" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.budvacarhire.com/ru/blog/petrovac-to-buljarica" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.budvacarhire.com/it/blog/petrovac-to-buljarica" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/blog/petrovac-to-buljarica" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/blog/petrovac-to-buljarica" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/blog/petrovac-to-buljarica" />
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
   <url>
     <loc>https://www.budvacarhire.com/blog/budva-rainy-day</loc>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/blog/budva-rainy-day" />
@@ -313,7 +1731,71 @@
     <priority>0.6</priority>
   </url>
 
-  <!-- Blog: Budva Sunrise Sunset -->
+  <url>
+    <loc>https://www.budvacarhire.com/de/blog/budva-rainy-day</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/blog/budva-rainy-day" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.budvacarhire.com/de/blog/budva-rainy-day" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.budvacarhire.com/ru/blog/budva-rainy-day" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.budvacarhire.com/it/blog/budva-rainy-day" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/blog/budva-rainy-day" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/blog/budva-rainy-day" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/blog/budva-rainy-day" />
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://www.budvacarhire.com/ru/blog/budva-rainy-day</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/blog/budva-rainy-day" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.budvacarhire.com/de/blog/budva-rainy-day" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.budvacarhire.com/ru/blog/budva-rainy-day" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.budvacarhire.com/it/blog/budva-rainy-day" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/blog/budva-rainy-day" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/blog/budva-rainy-day" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/blog/budva-rainy-day" />
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://www.budvacarhire.com/it/blog/budva-rainy-day</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/blog/budva-rainy-day" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.budvacarhire.com/de/blog/budva-rainy-day" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.budvacarhire.com/ru/blog/budva-rainy-day" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.budvacarhire.com/it/blog/budva-rainy-day" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/blog/budva-rainy-day" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/blog/budva-rainy-day" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/blog/budva-rainy-day" />
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://www.budvacarhire.com/fr/blog/budva-rainy-day</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/blog/budva-rainy-day" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.budvacarhire.com/de/blog/budva-rainy-day" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.budvacarhire.com/ru/blog/budva-rainy-day" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.budvacarhire.com/it/blog/budva-rainy-day" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/blog/budva-rainy-day" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/blog/budva-rainy-day" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/blog/budva-rainy-day" />
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://www.budvacarhire.com/me/blog/budva-rainy-day</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/blog/budva-rainy-day" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.budvacarhire.com/de/blog/budva-rainy-day" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.budvacarhire.com/ru/blog/budva-rainy-day" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.budvacarhire.com/it/blog/budva-rainy-day" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/blog/budva-rainy-day" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/blog/budva-rainy-day" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/blog/budva-rainy-day" />
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
   <url>
     <loc>https://www.budvacarhire.com/blog/budva-sunrise-sunset</loc>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/blog/budva-sunrise-sunset" />
@@ -327,23 +1809,301 @@
     <priority>0.6</priority>
   </url>
 
-  <!-- Privacy Policy -->
+  <url>
+    <loc>https://www.budvacarhire.com/de/blog/budva-sunrise-sunset</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/blog/budva-sunrise-sunset" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.budvacarhire.com/de/blog/budva-sunrise-sunset" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.budvacarhire.com/ru/blog/budva-sunrise-sunset" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.budvacarhire.com/it/blog/budva-sunrise-sunset" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/blog/budva-sunrise-sunset" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/blog/budva-sunrise-sunset" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/blog/budva-sunrise-sunset" />
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://www.budvacarhire.com/ru/blog/budva-sunrise-sunset</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/blog/budva-sunrise-sunset" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.budvacarhire.com/de/blog/budva-sunrise-sunset" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.budvacarhire.com/ru/blog/budva-sunrise-sunset" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.budvacarhire.com/it/blog/budva-sunrise-sunset" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/blog/budva-sunrise-sunset" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/blog/budva-sunrise-sunset" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/blog/budva-sunrise-sunset" />
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://www.budvacarhire.com/it/blog/budva-sunrise-sunset</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/blog/budva-sunrise-sunset" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.budvacarhire.com/de/blog/budva-sunrise-sunset" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.budvacarhire.com/ru/blog/budva-sunrise-sunset" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.budvacarhire.com/it/blog/budva-sunrise-sunset" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/blog/budva-sunrise-sunset" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/blog/budva-sunrise-sunset" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/blog/budva-sunrise-sunset" />
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://www.budvacarhire.com/fr/blog/budva-sunrise-sunset</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/blog/budva-sunrise-sunset" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.budvacarhire.com/de/blog/budva-sunrise-sunset" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.budvacarhire.com/ru/blog/budva-sunrise-sunset" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.budvacarhire.com/it/blog/budva-sunrise-sunset" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/blog/budva-sunrise-sunset" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/blog/budva-sunrise-sunset" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/blog/budva-sunrise-sunset" />
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://www.budvacarhire.com/me/blog/budva-sunrise-sunset</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/blog/budva-sunrise-sunset" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.budvacarhire.com/de/blog/budva-sunrise-sunset" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.budvacarhire.com/ru/blog/budva-sunrise-sunset" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.budvacarhire.com/it/blog/budva-sunrise-sunset" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/blog/budva-sunrise-sunset" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/blog/budva-sunrise-sunset" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/blog/budva-sunrise-sunset" />
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
   <url>
     <loc>https://www.budvacarhire.com/privacy</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/privacy" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.budvacarhire.com/de/privacy" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.budvacarhire.com/ru/privacy" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.budvacarhire.com/it/privacy" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/privacy" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/privacy" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/privacy" />
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
 
-  <!-- Terms -->
+  <url>
+    <loc>https://www.budvacarhire.com/de/privacy</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/privacy" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.budvacarhire.com/de/privacy" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.budvacarhire.com/ru/privacy" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.budvacarhire.com/it/privacy" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/privacy" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/privacy" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/privacy" />
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+
+  <url>
+    <loc>https://www.budvacarhire.com/ru/privacy</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/privacy" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.budvacarhire.com/de/privacy" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.budvacarhire.com/ru/privacy" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.budvacarhire.com/it/privacy" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/privacy" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/privacy" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/privacy" />
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+
+  <url>
+    <loc>https://www.budvacarhire.com/it/privacy</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/privacy" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.budvacarhire.com/de/privacy" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.budvacarhire.com/ru/privacy" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.budvacarhire.com/it/privacy" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/privacy" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/privacy" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/privacy" />
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+
+  <url>
+    <loc>https://www.budvacarhire.com/fr/privacy</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/privacy" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.budvacarhire.com/de/privacy" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.budvacarhire.com/ru/privacy" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.budvacarhire.com/it/privacy" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/privacy" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/privacy" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/privacy" />
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+
+  <url>
+    <loc>https://www.budvacarhire.com/me/privacy</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/privacy" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.budvacarhire.com/de/privacy" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.budvacarhire.com/ru/privacy" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.budvacarhire.com/it/privacy" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/privacy" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/privacy" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/privacy" />
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+
   <url>
     <loc>https://www.budvacarhire.com/terms</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/terms" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.budvacarhire.com/de/terms" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.budvacarhire.com/ru/terms" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.budvacarhire.com/it/terms" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/terms" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/terms" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/terms" />
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
 
-  <!-- Cookie Policy -->
+  <url>
+    <loc>https://www.budvacarhire.com/de/terms</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/terms" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.budvacarhire.com/de/terms" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.budvacarhire.com/ru/terms" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.budvacarhire.com/it/terms" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/terms" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/terms" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/terms" />
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+
+  <url>
+    <loc>https://www.budvacarhire.com/ru/terms</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/terms" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.budvacarhire.com/de/terms" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.budvacarhire.com/ru/terms" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.budvacarhire.com/it/terms" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/terms" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/terms" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/terms" />
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+
+  <url>
+    <loc>https://www.budvacarhire.com/it/terms</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/terms" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.budvacarhire.com/de/terms" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.budvacarhire.com/ru/terms" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.budvacarhire.com/it/terms" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/terms" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/terms" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/terms" />
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+
+  <url>
+    <loc>https://www.budvacarhire.com/fr/terms</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/terms" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.budvacarhire.com/de/terms" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.budvacarhire.com/ru/terms" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.budvacarhire.com/it/terms" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/terms" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/terms" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/terms" />
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+
+  <url>
+    <loc>https://www.budvacarhire.com/me/terms</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/terms" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.budvacarhire.com/de/terms" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.budvacarhire.com/ru/terms" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.budvacarhire.com/it/terms" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/terms" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/terms" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/terms" />
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+
   <url>
     <loc>https://www.budvacarhire.com/cookie-policy</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/cookie-policy" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.budvacarhire.com/de/cookie-policy" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.budvacarhire.com/ru/cookie-policy" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.budvacarhire.com/it/cookie-policy" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/cookie-policy" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/cookie-policy" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/cookie-policy" />
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+
+  <url>
+    <loc>https://www.budvacarhire.com/de/cookie-policy</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/cookie-policy" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.budvacarhire.com/de/cookie-policy" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.budvacarhire.com/ru/cookie-policy" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.budvacarhire.com/it/cookie-policy" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/cookie-policy" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/cookie-policy" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/cookie-policy" />
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+
+  <url>
+    <loc>https://www.budvacarhire.com/ru/cookie-policy</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/cookie-policy" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.budvacarhire.com/de/cookie-policy" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.budvacarhire.com/ru/cookie-policy" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.budvacarhire.com/it/cookie-policy" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/cookie-policy" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/cookie-policy" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/cookie-policy" />
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+
+  <url>
+    <loc>https://www.budvacarhire.com/it/cookie-policy</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/cookie-policy" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.budvacarhire.com/de/cookie-policy" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.budvacarhire.com/ru/cookie-policy" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.budvacarhire.com/it/cookie-policy" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/cookie-policy" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/cookie-policy" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/cookie-policy" />
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+
+  <url>
+    <loc>https://www.budvacarhire.com/fr/cookie-policy</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/cookie-policy" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.budvacarhire.com/de/cookie-policy" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.budvacarhire.com/ru/cookie-policy" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.budvacarhire.com/it/cookie-policy" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/cookie-policy" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/cookie-policy" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/cookie-policy" />
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+
+  <url>
+    <loc>https://www.budvacarhire.com/me/cookie-policy</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.budvacarhire.com/cookie-policy" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.budvacarhire.com/de/cookie-policy" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.budvacarhire.com/ru/cookie-policy" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.budvacarhire.com/it/cookie-policy" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.budvacarhire.com/fr/cookie-policy" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.budvacarhire.com/me/cookie-policy" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.budvacarhire.com/cookie-policy" />
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>

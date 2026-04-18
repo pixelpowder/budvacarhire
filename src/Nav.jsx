@@ -41,7 +41,7 @@ export default function Nav({ logoHref }) {
     { label: t('nav.destinations'), href: localePath('/#destinations') },
     { label: t('nav.blog'), href: localePath('/blog') },
     { label: t('nav.about'), href: localePath('/about') },
-    { label: 'Contact', href: localePath('/contact') },
+    { label: t('nav.contact'), href: localePath('/contact') },
   ];
 
   function switchLang(newLang) {

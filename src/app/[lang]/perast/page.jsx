@@ -6,7 +6,7 @@ export async function generateMetadata({ params }) {
   return {
     title: t(lang, 'perast.title') + ' | Budva Car Hire',
     description: t(lang, 'perast.seoDesc'),
-    alternates: buildAlternates('perast'),
+    alternates: buildAlternates('perast', lang),
   };
 }
 

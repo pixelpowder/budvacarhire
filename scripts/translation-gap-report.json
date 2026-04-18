@@ -1,0 +1,44 @@
+{
+  "enKeyCount": 779,
+  "missing": {
+    "de": [],
+    "fr": [],
+    "it": [],
+    "ru": [],
+    "me": []
+  },
+  "englishCopied": {
+    "de": [
+      "destCards.podgorica.name",
+      "tivatBody.portoTitle",
+      "podgoricaBody.danilovgradTitle",
+      "borderCrossingBody.kosovoTitle",
+      "blogOldtown.h3Mary",
+      "navTop.bokaBayRentals"
+    ],
+    "fr": [
+      "nav.destinations",
+      "footer.destinations",
+      "destCards.podgorica.name",
+      "tivatBody.portoTitle",
+      "podgoricaBody.danilovgradTitle",
+      "blogOldtown.h3Mary",
+      "navTop.destinations"
+    ],
+    "it": [
+      "destCards.podgorica.name",
+      "tivatBody.portoTitle",
+      "podgoricaBody.danilovgradTitle",
+      "blogOldtown.h3Mary"
+    ],
+    "ru": [
+      "destCards.podgorica.name",
+      "tivatBody.portoTitle",
+      "podgoricaBody.danilovgradTitle"
+    ],
+    "me": [
+      "destCards.podgorica.name",
+      "podgoricaBody.danilovgradTitle"
+    ]
+  }
+}

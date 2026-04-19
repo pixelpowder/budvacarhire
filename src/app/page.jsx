@@ -1,11 +1,19 @@
-import { t, buildAlternates } from './metadata';
+import { t, buildAlternates, OG_LOCALE } from './metadata';
 import HomeClient from '@/src/HomeClient';
 
 export async function generateMetadata() {
+  const title = 'Budva Car Hire — Budva Riviera & Tivat Airport Pickup';
+  const description = t('en', 'home.seoDesc');
   return {
-    title: 'Budva Car Hire — Budva Riviera & Tivat Airport Pickup',
-    description: t('en', 'home.seoDesc'),
+    title,
+    description,
     alternates: buildAlternates(''),
+    openGraph: {
+      title,
+      description,
+      locale: OG_LOCALE.en,
+      type: 'website',
+    },
   };
 }
 

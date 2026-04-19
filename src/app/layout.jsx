@@ -10,11 +10,25 @@ import DynamicLanguageProvider from '@/src/i18n/DynamicLanguageProvider';
 import { SUPPORTED_LANGS, DEFAULT_LANG, LANG_HREFLANG } from '@/src/i18n/languages';
 import LocaleAwareSchema from '@/src/components/LocaleAwareSchema';
 
+const SITE_TITLE = 'Budva Car Hire — Beach Capital of Montenegro';
+const SITE_DESC = 'Montenegro\'s beach capital has 17 beaches and 33% of all tourism. Grab a car from €13/day and drive the riviera from Jaz to Sveti Stefan. Tivat Airport pickup, 22 km away.';
+const SITE_URL = 'https://www.budvacarhire.com';
+const SITE_NAME = 'Budva Car Hire';
+
 export const metadata = {
-  title: 'Budva Car Hire — Beach Capital of Montenegro',
-  description:
-    'Montenegro\'s beach capital has 17 beaches and 33% of all tourism. Grab a car from €13/day and drive the riviera from Jaz to Sveti Stefan. Tivat Airport pickup, 22 km away.',
-  metadataBase: new URL('https://www.budvacarhire.com'),
+  title: SITE_TITLE,
+  description: SITE_DESC,
+  metadataBase: new URL(SITE_URL),
+  openGraph: {
+    title: SITE_TITLE,
+    description: SITE_DESC,
+    url: SITE_URL,
+    siteName: SITE_NAME,
+    type: 'website',
+    locale: 'en_US',
+    alternateLocale: ['de_DE', 'fr_FR', 'it_IT', 'ru_RU', 'sr_ME'],
+    images: [{ url: `${SITE_URL}/hero-bg.jpg`, width: 1200, height: 630, alt: SITE_NAME }],
+  },
 };
 
 async function activeLocale() {

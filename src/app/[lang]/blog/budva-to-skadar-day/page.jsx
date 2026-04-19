@@ -10,7 +10,8 @@ export async function generateMetadata({ params }) {
   };
 }
 
-export default function LangBudvaToSkadarDayRoute() {
+export default async function LangBudvaToSkadarDayRoute({ params }) {
+  const { lang } = await params;
   const articleSchema = {
     "@context": "https://schema.org",
     "@type": "Article",

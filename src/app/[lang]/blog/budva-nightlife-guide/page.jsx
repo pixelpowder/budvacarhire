@@ -10,7 +10,8 @@ export async function generateMetadata({ params }) {
   };
 }
 
-export default function LangBudvaNightlifeGuideRoute() {
+export default async function LangBudvaNightlifeGuideRoute({ params }) {
+  const { lang } = await params;
   const articleSchema = {
     "@context": "https://schema.org",
     "@type": "Article",

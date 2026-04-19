@@ -14,8 +14,8 @@ export default function LangPetrovacToBuljaricaRoute() {
   const articleSchema = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": t('en', 'blogPetrovac.title'),
-    "description": t('en', 'blogPetrovac.description'),
+    "headline": t(lang, 'blogPetrovac.title'),
+    "description": t(lang, 'blogPetrovac.description'),
     "image": "https://www.budvacarhire.com/img/blog-petrovac-to-buljarica.webp",
     "datePublished": "2026-04-08",
     "dateModified": "2026-04-08",

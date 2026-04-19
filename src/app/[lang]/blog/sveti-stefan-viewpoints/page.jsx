@@ -14,8 +14,8 @@ export default function LangSvetiStefanViewpointsRoute() {
   const articleSchema = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": t('en', 'blogStefan.title'),
-    "description": t('en', 'blogStefan.description'),
+    "headline": t(lang, 'blogStefan.title'),
+    "description": t(lang, 'blogStefan.description'),
     "image": "https://www.budvacarhire.com/img/blog-sveti-stefan-viewpoints.webp",
     "datePublished": "2026-04-08",
     "dateModified": "2026-04-08",

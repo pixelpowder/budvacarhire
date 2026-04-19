@@ -14,8 +14,8 @@ export default function LangBudvaSunriseSunsetRoute() {
   const articleSchema = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": t('en', 'blogSunrides.title'),
-    "description": t('en', 'blogSunrides.description'),
+    "headline": t(lang, 'blogSunrides.title'),
+    "description": t(lang, 'blogSunrides.description'),
     "image": "https://www.budvacarhire.com/img/blog-budva-sunrise-sunset.webp",
     "datePublished": "2026-04-08",
     "dateModified": "2026-04-08",

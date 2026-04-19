@@ -4,8 +4,8 @@ import { t, buildAlternates } from '@/src/app/metadata';
 export async function generateMetadata({ params }) {
   const { lang } = await params;
   return {
-    title: 'Contact Us | Budva Car Hire',
-    description: 'Get in touch with Budva Car Hire.',
+    title: t(lang, 'contact.title') + ' | Budva Car Hire',
+    description: t(lang, 'contact.seoDesc'),
     alternates: buildAlternates('contact', lang),
   };
 }

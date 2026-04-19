@@ -14,8 +14,8 @@ export default function LangBudvaOldTownWalkingRoute() {
   const articleSchema = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": t('en', 'blogOldtown.title'),
-    "description": t('en', 'blogOldtown.description'),
+    "headline": t(lang, 'blogOldtown.title'),
+    "description": t(lang, 'blogOldtown.description'),
     "image": "https://www.budvacarhire.com/img/blog-budva-old-town-walking.webp",
     "datePublished": "2026-04-08",
     "dateModified": "2026-04-08",

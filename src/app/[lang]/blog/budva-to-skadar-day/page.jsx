@@ -14,8 +14,8 @@ export default function LangBudvaToSkadarDayRoute() {
   const articleSchema = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": t('en', 'blogSkadar.title'),
-    "description": t('en', 'blogSkadar.description'),
+    "headline": t(lang, 'blogSkadar.title'),
+    "description": t(lang, 'blogSkadar.description'),
     "image": "https://www.budvacarhire.com/img/blog-budva-to-skadar-day.webp",
     "datePublished": "2026-04-08",
     "dateModified": "2026-04-08",

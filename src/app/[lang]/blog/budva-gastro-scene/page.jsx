@@ -14,8 +14,8 @@ export default function LangBudvaGastroSceneRoute() {
   const articleSchema = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": t('en', 'blogGastro.title'),
-    "description": t('en', 'blogGastro.description'),
+    "headline": t(lang, 'blogGastro.title'),
+    "description": t(lang, 'blogGastro.description'),
     "image": "https://www.budvacarhire.com/img/blog-budva-gastro-scene.webp",
     "datePublished": "2026-04-08",
     "dateModified": "2026-04-08",

@@ -14,8 +14,8 @@ export default function LangBudvaRainyDayRoute() {
   const articleSchema = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": t('en', 'blogRainy.title'),
-    "description": t('en', 'blogRainy.description'),
+    "headline": t(lang, 'blogRainy.title'),
+    "description": t(lang, 'blogRainy.description'),
     "image": "https://www.budvacarhire.com/img/blog-budva-rainy-day.webp",
     "datePublished": "2026-04-08",
     "dateModified": "2026-04-08",

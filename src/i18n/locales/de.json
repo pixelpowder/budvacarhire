@@ -1,7 +1,7 @@
 {
   "nav": {
     "book": "Buchen",
-    "blog": "Blog",
+    "blog": "Ratgeber",
     "destinations": "Reiseziele",
     "about": "Über uns",
     "contact": "Kontakt"
@@ -962,6 +962,8 @@
   },
   "contact": {
     "title": "Kontaktieren Sie uns",
-    "seoDesc": "Kontaktieren Sie Budva Car Hire. E-Mail, WhatsApp und Kontaktformular."
+    "seoDesc": "Kontaktieren Sie Budva Car Hire. E-Mail, WhatsApp und Kontaktformular.",
+    "heading": "Kontaktieren Sie uns",
+    "intro": "Haben Sie eine Frage zur Automiete in Budva? Kontaktieren Sie uns, und wir helfen Ihnen, das passende Fahrzeug für Ihre Reise zu finden."
   }
 }

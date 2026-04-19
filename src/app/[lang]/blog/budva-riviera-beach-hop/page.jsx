@@ -14,8 +14,8 @@ export default function LangBudvaRivieraBeachHopRoute() {
   const articleSchema = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": t('en', 'blogBeaches.title'),
-    "description": t('en', 'blogBeaches.description'),
+    "headline": t(lang, 'blogBeaches.title'),
+    "description": t(lang, 'blogBeaches.description'),
     "image": "https://www.budvacarhire.com/img/blog-budva-riviera-beach-hop.webp",
     "datePublished": "2026-04-08",
     "dateModified": "2026-04-08",

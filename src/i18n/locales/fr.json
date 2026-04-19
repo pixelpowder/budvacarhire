@@ -964,6 +964,14 @@
     "title": "Nous contacter",
     "seoDesc": "Contactez Budva Car Hire. Email, WhatsApp et formulaire de contact.",
     "heading": "Nous contacter",
-    "intro": "Une question sur la location de voiture à Budva ? Contactez-nous, nous vous aiderons à trouver le véhicule idéal pour votre séjour."
+    "intro": "Une question sur la location de voiture à Budva ? Contactez-nous, nous vous aiderons à trouver le véhicule idéal pour votre séjour.",
+    "emailLabel": "E-mail",
+    "whatsappLabel": "WhatsApp",
+    "chatCta": "Discutez avec nous",
+    "formHeading": "Envoyez-nous un message",
+    "sendButton": "Envoyer le message",
+    "nameLabel": "Votre nom",
+    "emailFieldLabel": "Votre e-mail",
+    "messagePlaceholder": "Comment pouvons-nous aider?"
   }
 }

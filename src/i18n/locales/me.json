@@ -48,13 +48,13 @@
   "howItWorks": {
     "label": "Kako Funkcioniše",
     "title": "Na Putu u 3 Koraka",
-    "subtitle": "Jednostavna rezervacija. Trenutna potvrda. Bez čekanja na aerodromu.",
+    "subtitle": "Izaberite automobil, potvrdite datume i preuzmite vozilo po dolasku.",
     "step1Title": "Izaberite Lokaciju",
-    "step1Desc": "Birajte između aerodroma, Kotora, Budve, Perasta i drugih tačaka za preuzimanje širom Crne Gore i šire.",
+    "step1Desc": "Centar Budve, aerodrom Tivat, Bečići, Sveti Stefan, više od 28 mjesta preuzimanja duž rivijere i šire.",
     "step2Title": "Izaberite Auto",
-    "step2Desc": "Pregledajte našu flotu od ekonomičnih gradskih automobila do premium SUV-ova. Filtrirajte po veličini, mjenjaču ili budžetu.",
+    "step2Desc": "Gradski automobili za parkiranje u starom gradu. SUV vozila za jednodnevne ture po planinama. Filtrirajte prema mjenjaču, veličini ili dnevnom budžetu.",
     "step3Title": "Vozite Crnom Gorom",
-    "step3Desc": "Dočekujemo vas na izlazu. Vaš auto je spreman. Istražite obalu, planine i istorijske gradove."
+    "step3Desc": "Ključevi u rukama, Vi odlučujete: zalazak sunca na plaži Jaz ili Bokokotorski zaliv pod mjesečinom. Cijela rivijera je Vaša."
   },
   "fleet": {
     "label": "Naša Flota",
@@ -342,8 +342,8 @@
     "promiseTitle": "Naše obećanje",
     "promise1": "Potpuno osiguranje sa opcijom nulte franšize",
     "promise2": "Doček na aerodromu, donosimo automobil direktno do sale za dolaske",
-    "promise3": "Bez skrivenih troškova, cijena koju vidite je cijena koju plaćate",
-    "promise4": "Dozvoljena prekogranična putovanja u Hrvatsku, Bosnu, Albaniju, Srbiju i Kosovo",
+    "promise3": "Transparentne cijene: iznos prikazan pri rezervaciji je iznos koji plaćate",
+    "promise4": "Prekogranična vožnja do Hrvatske, Bosne, Albanije, Srbije i Kosova",
     "promise5": "Besplatno otkazivanje za većinu rezervacija",
     "promise6": "Pomoć na putu 24/7 tokom cijelog putovanja",
     "h4": "Lokalno znanje",

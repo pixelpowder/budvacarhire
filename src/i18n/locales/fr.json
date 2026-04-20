@@ -48,13 +48,13 @@
   "howItWorks": {
     "label": "Comment Ça Marche",
     "title": "Sur la Route en 3 Étapes",
-    "subtitle": "Réservation simple. Confirmation instantanée. Aucune file d'attente à l'aéroport.",
+    "subtitle": "Choisissez votre voiture, confirmez vos dates et récupérez le véhicule à votre arrivée.",
     "step1Title": "Choisissez Votre Lieu",
-    "step1Desc": "Sélectionnez parmi les aéroports, Kotor, Budva, Perast et d'autres points de prise en charge à travers le Monténégro et au-delà.",
+    "step1Desc": "Centre de Budva, aéroport de Tivat, Bečići, Sveti Stefan, plus de 28 points de prise en charge répartis sur la riviera et au delà.",
     "step2Title": "Choisissez Votre Voiture",
-    "step2Desc": "Parcourez notre flotte, des citadines économiques aux SUV premium. Filtrez par taille, transmission ou budget.",
+    "step2Desc": "Citadines pour le stationnement en vieille ville. SUV pour les escapades en montagne. Filtrez par boîte de vitesses, taille ou budget journalier.",
     "step3Title": "Conduisez au Monténégro",
-    "step3Desc": "Nous vous accueillons aux arrivées. Votre voiture est prête. Explorez la côte, les montagnes et les villes historiques."
+    "step3Desc": "Clés en main, vous décidez: coucher de soleil sur la plage de Jaz ou baie de Kotor au clair de lune. Toute la riviera est à vous."
   },
   "fleet": {
     "label": "Notre Flotte",
@@ -294,7 +294,7 @@
     "tivat-airport": {
       "name": "Aéroport de Tivat",
       "tag": "22 km",
-      "desc": "Notre hub principal. Nous vous accueillons aux arrivées."
+      "desc": "Votre porte d'entrée vers la riviera. Nous vous accueillons aux arrivées."
     },
     "kotor": {
       "name": "Kotor",
@@ -343,7 +343,7 @@
     "promise1": "Assurance tous risques avec option zéro franchise",
     "promise2": "Accueil personnalisé à l'aéroport, nous amenons la voiture directement aux arrivées",
     "promise3": "Aucun frais caché, le prix affiché est le prix final",
-    "promise4": "Voyages transfrontaliers autorisés vers la Croatie, la Bosnie, l'Albanie, la Serbie et le Kosovo",
+    "promise4": "Conduite transfrontalière vers la Croatie, la Bosnie, l'Albanie, la Serbie et le Kosovo",
     "promise5": "Annulation gratuite sur la plupart des réservations",
     "promise6": "Assistance routière 24h/24 et 7j/7 pendant toute la durée de votre voyage",
     "h4": "Connaissance locale",

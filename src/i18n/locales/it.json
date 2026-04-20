@@ -48,13 +48,13 @@
   "howItWorks": {
     "label": "Come Funziona",
     "title": "In Strada in 3 Passi",
-    "subtitle": "Prenotazione semplice. Conferma immediata. Nessuna coda in aeroporto.",
+    "subtitle": "Scelga la Sua auto, confermi le date e la ritiri al Suo arrivo.",
     "step1Title": "Scegli il Luogo",
-    "step1Desc": "Scegli tra aeroporti, Kotor, Budva, Perast e altri punti di ritiro in tutto il Montenegro e oltre.",
+    "step1Desc": "Centro di Budva, aeroporto di Tivat, Bečići, Sveti Stefan: oltre 28 punti di ritiro distribuiti lungo la riviera e oltre.",
     "step2Title": "Scegli la Tua Auto",
-    "step2Desc": "Sfoglia la nostra flotta dalle utilitarie ai SUV premium. Filtra per dimensione, cambio o budget.",
+    "step2Desc": "Utilitarie per parcheggiare nella città vecchia. SUV per le gite in montagna. Filtri per cambio, dimensioni o budget giornaliero.",
     "step3Title": "Guida in Montenegro",
-    "step3Desc": "Ti accogliamo agli arrivi. La tua auto è pronta. Esplora la costa, le montagne e le città storiche."
+    "step3Desc": "Chiavi in mano, decide Lei: tramonto a Jaz Beach o baia di Kotor al chiaro di luna. L'intera riviera è Sua."
   },
   "fleet": {
     "label": "La Nostra Flotta",
@@ -294,7 +294,7 @@
     "tivat-airport": {
       "name": "Aeroporto di Tivat",
       "tag": "22 km",
-      "desc": "Il nostro hub principale. Ti incontriamo agli arrivi."
+      "desc": "La Sua porta d'accesso alla riviera. La aspettiamo agli arrivi."
     },
     "kotor": {
       "name": "Kotor",
@@ -342,8 +342,8 @@
     "promiseTitle": "La nostra promessa",
     "promise1": "Assicurazione completa con opzione franchigia zero",
     "promise2": "Accoglienza in aeroporto, portiamo l'auto direttamente all'area arrivi",
-    "promise3": "Nessun costo nascosto, il prezzo che vedi è il prezzo che paghi",
-    "promise4": "Viaggi transfrontalieri consentiti verso Croazia, Bosnia, Albania, Serbia e Kosovo",
+    "promise3": "Prezzi trasparenti: la cifra della prenotazione è la cifra che paga",
+    "promise4": "Guida transfrontaliera verso Croazia, Bosnia, Albania, Serbia e Kosovo",
     "promise5": "Cancellazione gratuita sulla maggior parte delle prenotazioni",
     "promise6": "Assistenza stradale 24/7 per tutta la durata del viaggio",
     "h4": "Conoscenza locale",
@@ -956,7 +956,7 @@
   },
   "cookieBanner": {
     "title": "Politica sui cookie",
-    "text": "Utilizziamo i cookie per migliorare la tua esperienza. Continuando a utilizzare questo sito accetti la nostra",
+    "text": "Utilizziamo cookie per migliorare la Sua esperienza. Continuando a usare questo sito, Lei accetta la nostra",
     "accept": "Accetta",
     "decline": "Rifiuta"
   },

@@ -141,12 +141,12 @@
   "kotor": {
     "title": "Location de Voiture à Kotor",
     "subtitle": "Explorez le joyau UNESCO du Monténégro à votre rythme.",
-    "seoDesc": "Trente minutes de Budva aux remparts médiévaux de Kotor. Tunnel vers le nord, baie UNESCO, ruelles félines et 1.200 marches."
+    "seoDesc": "De Budva à Kotor: 25 km, 30 minutes via le tunnel Vrmac. Vieille ville UNESCO, konobas du front de mer, 4,5 km de remparts à monter."
   },
   "tivat-airport": {
     "title": "Location de Voiture Aéroport Tivat",
     "subtitle": "Récupérez votre voiture aux arrivées.",
-    "seoDesc": "Atterrissez à TIV, récupérez votre voiture et rejoignez Budva en trente minutes. Pas de navette, juste la route de la riviera."
+    "seoDesc": "L'aéroport de Tivat est à 22 km au nord de Budva, 25 minutes via Jaz. Louez à Budva et restituez à TIV, ou récupérez votre voiture dans la zone d'arrivée."
   },
   "budva": {
     "title": "Location de Voiture à Budva",
@@ -156,37 +156,37 @@
   "perast": {
     "title": "Location de Voiture à Perast",
     "subtitle": "Un joyau baroque sur la baie de Kotor.",
-    "seoDesc": "Parcourez 35 km depuis la bande festive de la riviera vers le silence baroque. Les 16 églises, deux îles et restaurants konoba de Perast récompensent le détour."
+    "seoDesc": "De Budva à Perast baroque: 37 km au nord en 45 minutes. Seize églises, l'île Notre-Dame-du-Rocher, stationnement plat au bord de la baie."
   },
   "podgorica": {
     "title": "Location de Voiture à Podgorica",
     "subtitle": "La capitale du Monténégro, culture, rivières et charme moderne.",
-    "seoDesc": "Abandonnez la plage pour la capitale à 65 km. L'itinéraire du lac Skadar franchit 270 espèces d'oiseaux, restaurants fluviaux et vignobles du Monténégro."
+    "seoDesc": "Roulez 55 km de l'intérieur depuis Budva jusqu'à Podgorica en moins d'une heure via le tunnel Sozina. Lac Skadar, monastère d'Ostrog et routes de montagne."
   },
   "podgorica-airport": {
     "title": "Location de Voiture Aéroport Podgorica",
     "subtitle": "La principale porte internationale du Monténégro.",
-    "seoDesc": "Collectez au TGD, empruntez la route pittoresque du lac Skadar et stationnez sur la côte de Budva en moins de 60 minutes. Plus de vols que Tivat toute l'année."
+    "seoDesc": "L'aéroport de Podgorica (TGD) se trouve à 66 km de Budva, 65 minutes via le tunnel Sozina. Utilisez-le pour les vols que Tivat ne dessert pas."
   },
   "dubrovnik-airport": {
     "title": "Location de Voiture Aéroport Dubrovnik",
     "subtitle": "Envolez-vous vers la Croatie, conduisez vers le Monténégro.",
-    "seoDesc": "Deux heures et demie de route côtière relient l'aéroport de Dubrovnik à Budva. Arrêt frontalier et vues adriatiques du début à la fin."
+    "seoDesc": "L'aéroport de Dubrovnik est à 75 km au nord-ouest de Budva, 2 heures de route via le poste frontière de Debeli Brijeg. Carte verte et passeport prêts."
   },
   "tivat": {
     "title": "Location de Voiture à Tivat",
     "subtitle": "La ville marina du Monténégro sur la baie de Kotor.",
-    "seoDesc": "Marina de luxe Porto Montenegro à 30 minutes de Budva. Superyachts, fruits de mer en bord de mer et ambiance côtière radicalement différente."
+    "seoDesc": "Rejoignez Tivat depuis Budva en 25 minutes par la route côtière, 22 km via Jaz. La marina Porto Montenegro, ses konobas de poisson et la route de Luštica."
   },
   "montenegro": {
     "title": "Location de Voiture et Guide du Monténégro",
     "subtitle": "Tout ce que vous devez savoir sur la conduite au Monténégro.",
-    "seoDesc": "Sens uniques à Budva, frais d'été pour le stationnement plage et lacets serrés au sud de Petrovac: règles non écrites de la route côtière."
+    "seoDesc": "Road trip Monténégro depuis Budva: côte vers Kotor, tunnel Sozina au lac Skadar, canyons du Durmitor. Carte verte et notes de carburant."
   },
   "border-crossing": {
     "title": "Guide Passage des Frontières Balkans",
     "subtitle": "Tout sur le passage des frontières avec votre voiture de location.",
-    "seoDesc": "Excursion à Dubrovnik ou côte albanaise? Documents exigés par chaque frontière, vrais délais d'attente en été et passages où les habitants ne font jamais la queue."
+    "seoDesc": "Passages de frontière depuis Budva : Croatie via Debeli Brijeg, Albanie via Sukobin, Bosnie via Sitnica. Carte verte d'assurance requise à chaque passage."
   },
   "privacy": {
     "title": "Politique de Confidentialité",

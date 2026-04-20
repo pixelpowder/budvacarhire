@@ -101,7 +101,7 @@
   "book": {
     "title": "Pronađite Vaš Auto",
     "seoTitle": "Rezervišite Auto",
-    "seoDesc": "Žive cene Rivijeri spremnih automobila u Budvi. Preuzimanje na Aerodromu Tivat za 25 minuta, besplatno otkazivanje na većini tarifa i trenutna email"
+    "seoDesc": "Žive cene Rivijeri spremnih automobila u Budvi. Preuzimanje na Aerodromu Tivat za 25 minuta, besplatno otkazivanje na većini tarifa i trenutna."
   },
   "footer": {
     "brandDesc": "Iznajmljivanje automobila na Budvanskoj Rivijeri sa preuzimanjem na Aerodromu Tivat, besplatnim otkazivanjem i poštenim all inclusive cenama. Vaš automobil za Jaz, Bečići, Sveti Stefan i dalje.",
@@ -131,12 +131,12 @@
     "searchCars": "Pretraži Auta"
   },
   "home": {
-    "seoDesc": "Iznajmite automobil u Budvi od €13 dnevno. Sedamnaest plaža Rivijere, dvehiljaduletni utvrđeni Stari Grad i preuzimanje na Aerodromu Tivat 22 km dalje sa"
+    "seoDesc": "Iznajmite automobil u Budvi od €13 dnevno. Sedamnaest plaža Rivijere, dvehiljaduletni utvrđeni Stari Grad i preuzimanje na Aerodromu Tivat 22 km dalje."
   },
   "about": {
     "title": "O Nama",
     "subtitle": "Pomažemo putnicima da istraže Budvansku rivijeru i Crnu Goru.",
-    "seoDesc": "Lokalno vođena agencija za iznajmljivanje automobila u Budvi. Uparivamo goste Rivijere sa voznim parkovima prilagođenim obalskom parkiranju, tunelima kod"
+    "seoDesc": "Lokalno vođena agencija za iznajmljivanje automobila u Budvi. Uparivamo goste Rivijere sa voznim parkovima prilagođenim obalskom parkiranju, tunelima."
   },
   "kotor": {
     "title": "Rent a Car Kotor",
@@ -151,22 +151,22 @@
   "budva": {
     "title": "Rent a Car Budva",
     "subtitle": "Rivijera Crne Gore, plaže, noćni život i šarm starog grada.",
-    "seoDesc": "Pećina Mogrenskog plaža, festival pesak Jaza, superklub Top Hill i tvrđava Citadela svi se nalaze u krugu od 5 km od vašeg preuzimanja u Budvi. Vozni park"
+    "seoDesc": "Pećina Mogrenskog plaža, festival pesak Jaza, superklub Top Hill i tvrđava Citadela svi se nalaze u krugu od 5 km od vašeg preuzimanja u Budvi."
   },
   "perast": {
     "title": "Rent a Car Perast",
     "subtitle": "Barokni dragulj na Bokokotorskom zalivu.",
-    "seoDesc": "Iznajmite auto i posjetite Perast, barokni dragulj na Bokokotorskom zalivu. Pogledajte ostrvo Gospa od Škrpjela i veličanstvene palate uz obalu sopstvenim"
+    "seoDesc": "Iznajmite auto i posjetite Perast, barokni dragulj na Bokokotorskom zalivu."
   },
   "podgorica": {
     "title": "Rent a Car Podgorica",
     "subtitle": "Glavni grad Crne Gore, kultura, rijeke i moderni šarm.",
-    "seoDesc": "Rent a car u Podgorici, glavnom gradu Crne Gore. Istražite Skadarsko jezero, manastir Ostrog i Durmitor iznajmljenim autom. Preuzimanje na aerodromu"
+    "seoDesc": "Rent a car u Podgorici, glavnom gradu Crne Gore. Istražite Skadarsko jezero, manastir Ostrog i Durmitor iznajmljenim autom."
   },
   "podgorica-airport": {
     "title": "Rent a Car Aerodrom Podgorica",
     "subtitle": "Glavna međunarodna kapija Crne Gore.",
-    "seoDesc": "Preuzmite rent a car na aerodromu Podgorica (TGD). Isporučujemo vozilo do zone dolaska. Stignite do obale, Skadarskog jezera ili Nacionalnog parka"
+    "seoDesc": "Preuzmite rent a car na aerodromu Podgorica (TGD). Isporučujemo vozilo do zone dolaska."
   },
   "dubrovnik-airport": {
     "title": "Rent a Car Aerodrom Dubrovnik",

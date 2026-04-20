@@ -101,7 +101,7 @@
   "book": {
     "title": "Trouvez Votre Voiture",
     "seoTitle": "Réserver une Voiture",
-    "seoDesc": "Tarifs en direct sur les voitures prêtes pour la Riviera à Budva. Enlèvement à l'aéroport de Tivat en 25 minutes, annulation gratuite sur la plupart des"
+    "seoDesc": "Tarifs en direct sur les voitures prêtes pour la Riviera à Budva."
   },
   "footer": {
     "brandDesc": "Location de voitures Riviera Budva avec remise à l'aéroport de Tivat, annulation gratuite et tarifs tout compris équitables. Vos roues pour Jaz, Bečići, Sveti Stefan et au-delà.",
@@ -131,47 +131,47 @@
     "searchCars": "Rechercher"
   },
   "home": {
-    "seoDesc": "Louez une voiture à Budva à partir de 13 € par jour. Dix-sept plages de la Riviera, la Vieille Ville fortifiée vieille de 2 500 ans, et un enlèvement à"
+    "seoDesc": "Louez une voiture à Budva à partir de 13 € par jour. Dix-sept plages de la Riviera, la Vieille Ville fortifiée vieille de 2 500 ans, et un enlèvement."
   },
   "about": {
     "title": "À Propos",
     "subtitle": "Nous aidons les voyageurs à explorer la Riviera de Budva et le Monténégro.",
-    "seoDesc": "Partenaire local de location de voitures à Budva. Nous appareillons les visiteurs de la Riviera avec des flottes adaptées au stationnement côtier, aux"
+    "seoDesc": "Partenaire local de location de voitures à Budva. Nous appareillons les visiteurs de la Riviera avec des flottes adaptées au stationnement côtier."
   },
   "kotor": {
     "title": "Location de Voiture à Kotor",
     "subtitle": "Explorez le joyau UNESCO du Monténégro à votre rythme.",
-    "seoDesc": "Louez une voiture à Kotor, Monténégro. Explorez la vieille ville UNESCO, la baie de Kotor et Perast avec une location abordable et livraison gratuite à"
+    "seoDesc": "Louez une voiture à Kotor, Monténégro. Explorez la vieille ville UNESCO, la baie de Kotor et Perast avec une location abordable et livraison gratuite."
   },
   "tivat-airport": {
     "title": "Location de Voiture Aéroport Tivat",
     "subtitle": "Récupérez votre voiture aux arrivées.",
-    "seoDesc": "Récupérez votre voiture de location à l'aéroport de Tivat (TIV). Nous vous attendons aux arrivées avec votre véhicule. Rejoignez Kotor, Budva ou Porto"
+    "seoDesc": "Récupérez votre voiture de location à l'aéroport de Tivat (TIV). Nous vous attendons aux arrivées avec votre véhicule."
   },
   "budva": {
     "title": "Location de Voiture à Budva",
     "subtitle": "La riviera du Monténégro, plages, vie nocturne et charme de la vieille ville.",
-    "seoDesc": "Mogren Cave Beach, le sable du festival de Jaz, la superclub Top Hill et la forteresse Citadela se situent tous à moins de 5 km de votre point de retrait"
+    "seoDesc": "Mogren Cave Beach, le sable du festival de Jaz, la superclub Top Hill et la forteresse Citadela se situent tous à moins de 5 km de votre point de."
   },
   "perast": {
     "title": "Location de Voiture à Perast",
     "subtitle": "Un joyau baroque sur la baie de Kotor.",
-    "seoDesc": "Louez une voiture et visitez Perast, un joyau baroque sur la baie de Kotor. Découvrez l'île Notre-Dame du Rocher et de superbes palais en bord de mer à"
+    "seoDesc": "Louez une voiture et visitez Perast, un joyau baroque sur la baie de Kotor."
   },
   "podgorica": {
     "title": "Location de Voiture à Podgorica",
     "subtitle": "La capitale du Monténégro, culture, rivières et charme moderne.",
-    "seoDesc": "Location de voiture à Podgorica, capitale du Monténégro. Explorez le lac Skadar, le monastère d'Ostrog et Durmitor en voiture. Prise en charge à"
+    "seoDesc": "Location de voiture à Podgorica, capitale du Monténégro. Explorez le lac Skadar, le monastère d'Ostrog et Durmitor en voiture."
   },
   "podgorica-airport": {
     "title": "Location de Voiture Aéroport Podgorica",
     "subtitle": "La principale porte internationale du Monténégro.",
-    "seoDesc": "Récupérez votre voiture à l'aéroport de Podgorica (TGD). Nous livrons votre véhicule aux arrivées. Rejoignez la côte, le lac Skadar ou le parc national de"
+    "seoDesc": "Récupérez votre voiture à l'aéroport de Podgorica (TGD). Nous livrons votre véhicule aux arrivées."
   },
   "dubrovnik-airport": {
     "title": "Location de Voiture Aéroport Dubrovnik",
     "subtitle": "Envolez-vous vers la Croatie, conduisez vers le Monténégro.",
-    "seoDesc": "Louez une voiture à l'aéroport de Dubrovnik et rejoignez le Monténégro. Passage de frontière en moins d'une heure. Assurance complète et carte verte"
+    "seoDesc": "Louez une voiture à l'aéroport de Dubrovnik et rejoignez le Monténégro. Passage de frontière en moins d'une heure."
   },
   "tivat": {
     "title": "Location de Voiture à Tivat",
@@ -181,17 +181,17 @@
   "montenegro": {
     "title": "Location de Voiture et Guide du Monténégro",
     "subtitle": "Tout ce que vous devez savoir sur la conduite au Monténégro.",
-    "seoDesc": "Guide complet de la conduite au Monténégro. Code de la route, limitations de vitesse, prix du carburant et les plus beaux itinéraires de la côte aux"
+    "seoDesc": "Guide complet de la conduite au Monténégro. Code de la route, limitations de vitesse, prix du carburant et les plus beaux itinéraires de la côte."
   },
   "border-crossing": {
     "title": "Guide Passage des Frontières Balkans",
     "subtitle": "Tout sur le passage des frontières avec votre voiture de location.",
-    "seoDesc": "Guide pour traverser les frontières depuis le Monténégro en voiture de location. Assurance carte verte, documents requis et conseils pour la Croatie, la"
+    "seoDesc": "Guide pour traverser les frontières depuis le Monténégro en voiture de location."
   },
   "privacy": {
     "title": "Politique de Confidentialité",
     "subtitle": "Comment nous traitons vos informations.",
-    "seoDesc": "Politique de confidentialité de Budva Car Hire. Comment nous collectons, utilisons et protégeons vos données personnelles lors de la recherche de voitures"
+    "seoDesc": "Politique de confidentialité de Budva Car Hire. Comment nous collectons, utilisons et protégeons vos données personnelles lors de la recherche de."
   },
   "terms": {
     "title": "Conditions Générales",
@@ -201,7 +201,7 @@
   "cookie-policy": {
     "title": "Politique de Cookies",
     "subtitle": "Comment nous utilisons les cookies sur ce site.",
-    "seoDesc": "Politique de cookies de Budva Car Hire. Découvrez quels cookies nous utilisons, comment le widget de réservation stocke vos préférences et comment les"
+    "seoDesc": "Politique de cookies de Budva Car Hire. Découvrez quels cookies nous utilisons, comment le widget de réservation stocke vos préférences et comment."
   },
   "featureCards": {
     "airportPickup": {
@@ -962,7 +962,7 @@
   },
   "contact": {
     "title": "Nous contacter",
-    "seoDesc": "Des questions sur la location à Budva ? Contactez-nous sur WhatsApp, par email ou via le formulaire ci-dessous. Réponses sous deux heures en semaine, le",
+    "seoDesc": "Des questions sur la location à Budva ? Contactez-nous sur WhatsApp, par email ou via le formulaire ci-dessous.",
     "heading": "Nous contacter",
     "intro": "Une question sur la location de voiture à Budva ? Contactez-nous, nous vous aiderons à trouver le véhicule idéal pour votre séjour.",
     "emailLabel": "E-mail",

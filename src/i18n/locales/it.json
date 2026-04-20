@@ -304,7 +304,7 @@
     "podgorica-airport": {
       "name": "Aeroporto di Podgorica",
       "tag": "Hub della capitale",
-      "desc": "Il principale aeroporto internazionale del Montenegro."
+      "desc": "Aeroporto internazionale della capitale, a 1h15 da Budva per la E80."
     },
     "perast": {
       "name": "Perast",
@@ -329,7 +329,7 @@
     "podgorica": {
       "name": "Podgorica",
       "tag": "Capitale",
-      "desc": "La moderna capitale del Montenegro, cultura e commercio."
+      "desc": "Mosaici antichi e affacci sul lago di Scutari, a 1h15 dalla riviera."
     }
   },
   "aboutBody": {
@@ -340,12 +340,12 @@
     "h3": "Cosa offriamo",
     "p3": "Offriamo noleggio auto sulla Riviera di Budva e in tutto il Montenegro, con ritiro a Tivat (22 km), Podgorica (65 km) e altri punti.",
     "promiseTitle": "La nostra promessa",
-    "promise1": "Assicurazione completa con opzione franchigia zero",
+    "promise1": "Assicurazione completa con upgrade a franchigia zero disponibile su richiesta",
     "promise2": "Accoglienza in aeroporto, portiamo l'auto direttamente all'area arrivi",
     "promise3": "Prezzi trasparenti: la cifra della prenotazione è la cifra che paga",
     "promise4": "Guida transfrontaliera verso Croazia, Bosnia, Albania, Serbia e Kosovo",
-    "promise5": "Cancellazione gratuita sulla maggior parte delle prenotazioni",
-    "promise6": "Assistenza stradale 24/7 per tutta la durata del viaggio",
+    "promise5": "Cancellazione gratuita fino a 48 ore prima del ritiro sulla maggior parte dei veicoli",
+    "promise6": "Assistenza stradale attiva 24 ore su 24 dalla Slovenska Obala al confine",
     "h4": "Conoscenza locale",
     "p4": "Basati sulla Riviera di Budva, conosciamo le strade e i tesori nascosti. Da Tivat al centro storico di Budva, verso Sveti Stefan a sud o Kotor e Perast a nord.",
     "h5": "Contattaci",

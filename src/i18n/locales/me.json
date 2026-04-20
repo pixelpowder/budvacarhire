@@ -141,12 +141,12 @@
   "kotor": {
     "title": "Rent a Car Kotor",
     "subtitle": "Istražite UNESCO dragulj Crne Gore sopstvenim tempom.",
-    "seoDesc": "Iznajmite auto u Kotoru, Crna Gora. Istražite UNESCO stari grad, Bokokotorski zaliv i obližnji Perast uz povoljnu najam i besplatnu isporuku sa aerodroma."
+    "seoDesc": "Trideset minuta dijeli plaže Budve od srednjovjekovnih zidina Kotora. Prođite tunel prema sjeveru do UNESCO zaliva sa mačkama u uličicama i 1.200 stepenika."
   },
   "tivat-airport": {
     "title": "Rent a Car Aerodrom Tivat",
     "subtitle": "Preuzmite vaš auto na izlazu iz zone dolaska.",
-    "seoDesc": "Preuzmite rent a car na aerodromu Tivat (TIV). Čekamo vas na izlazu sa vašim vozilom. Stignite do Kotora, Budve ili Porto Montenegra za nekoliko minuta."
+    "seoDesc": "Sletite na TIV, preuzmite automobil i dosegnite obalu Budve za pola sata. Bez autobusa, bez redova. Samo rivijerski put od terminala."
   },
   "budva": {
     "title": "Rent a Car Budva",
@@ -156,37 +156,37 @@
   "perast": {
     "title": "Rent a Car Perast",
     "subtitle": "Barokni dragulj na Bokokotorskom zalivu.",
-    "seoDesc": "Iznajmite auto i posjetite Perast, barokni dragulj na Bokokotorskom zalivu."
+    "seoDesc": "Vozite 35 km od rivijerske zabave u baroknu tišinu. Šesnaest crkava Perasta, dva otoka i konobe uz vodu čine taj detour vrijednim."
   },
   "podgorica": {
     "title": "Rent a Car Podgorica",
     "subtitle": "Glavni grad Crne Gore, kultura, rijeke i moderni šarm.",
-    "seoDesc": "Rent a car u Podgorici, glavnom gradu Crne Gore. Istražite Skadarsko jezero, manastir Ostrog i Durmitor iznajmljenim autom."
+    "seoDesc": "Ostavite plivanje i idite u glavni grad, 65 km dalje. Put preko jezera Skadar prolazi kroz 270 vrsta ptica, restorane uz rijeku i vinarije."
   },
   "podgorica-airport": {
     "title": "Rent a Car Aerodrom Podgorica",
     "subtitle": "Glavna međunarodna kapija Crne Gore.",
-    "seoDesc": "Preuzmite rent a car na aerodromu Podgorica (TGD). Isporučujemo vozilo do zone dolaska."
+    "seoDesc": "Preuzmite automobil na TGD dolasku, vozite se preko jezera Skadar i stanite na obali Budve za manje od 60 minuta. Više letova godišnje nego iz Tivta."
   },
   "dubrovnik-airport": {
     "title": "Rent a Car Aerodrom Dubrovnik",
     "subtitle": "Doletite u Hrvatsku, odvezite se u Crnu Goru.",
-    "seoDesc": "Iznajmite auto na aerodromu Dubrovnik i odvezite se u Crnu Goru. Prelazak granice za manje od sat vremena. Puno osiguranje i zeleni karton uključeni."
+    "seoDesc": "Dva sata i pol spektakularne obalne ceste связuju Dubrovnik do Budve. Jedan granični prijelaz, dozvola sortirana, Jadranskog pogleda sve do kraja."
   },
   "tivat": {
     "title": "Rent a Car Tivat",
     "subtitle": "Grad marina Crne Gore na Bokokotorskom zalivu.",
-    "seoDesc": "Iznajmite auto u Tivtu, domu marine Porto Crna Gora. Istražite obližnje plaže, Kotor i Bokokotorski zaliv uz povoljnu najam automobila."
+    "seoDesc": "Porto Crna Gora, luksuzna marina, nalazi se 30 minuta od plaža Budve. Promatranje jahti, obala sa ribljim jelima i potpuno drugačija obalna atmosfera."
   },
   "montenegro": {
     "title": "Rent a Car i Vodič za Crnu Goru",
     "subtitle": "Sve što treba da znate o vožnji u Crnoj Gori.",
-    "seoDesc": "Kompletan vodič za vožnju u Crnoj Gori. Saobraćajna pravila, ograničenja brzine, cijene goriva i najbolje panoramske rute od obale do planina."
+    "seoDesc": "Pravila obalne ceste koja niko ne zna: jednosmjerne ulice Starog grada Budve, naplate za parking ljetna vremena i kako voziti uske serpentine južno od Petrovca."
   },
   "border-crossing": {
     "title": "Vodič za Prelazak Granica na Balkanu",
     "subtitle": "Sve o prelaženju granica sa vašim rentiranim automobilom.",
-    "seoDesc": "Vodič za prelazak granica iz Crne Gore rentiranim autom. Osiguranje zeleni karton, potrebna dokumenta i savjeti za Hrvatsku, Bosnu, Albaniju i Srbiju."
+    "seoDesc": "Dnevni izlet do Dubrovnika ili albansku obalu? Koji dokumenti se traže na svakom prijelazu, prava čekanja ljeti i gdje lokalni nikad nisu u redu."
   },
   "privacy": {
     "title": "Politika Privatnosti",

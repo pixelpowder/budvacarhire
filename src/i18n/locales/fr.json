@@ -101,10 +101,10 @@
   "book": {
     "title": "Trouvez Votre Voiture",
     "seoTitle": "Réserver une Voiture",
-    "seoDesc": "Recherchez et réservez des voitures à Budva, Monténégro. Disponibilité en temps réel, confirmation instantanée, annulation gratuite."
+    "seoDesc": "Tarifs en direct sur les voitures prêtes pour la Riviera à Budva. Enlèvement à l'aéroport de Tivat en 25 minutes, annulation gratuite sur la plupart des tarifs, et confirmation email instantanée à la réservation."
   },
   "footer": {
-    "brandDesc": "Location de voiture à Budva, Monténégro. Prise en charge à Tivat, assurance complète et aucun frais caché. Explorez la Riviera de Budva.",
+    "brandDesc": "Location de voitures Riviera Budva avec remise à l'aéroport de Tivat, annulation gratuite et tarifs tout compris équitables. Vos roues pour Jaz, Bečići, Sveti Stefan et au-delà.",
     "quickLinks": "Liens Rapides",
     "guides": "Guides",
     "locations": "Nos Agences",
@@ -131,12 +131,12 @@
     "searchCars": "Rechercher"
   },
   "home": {
-    "seoDesc": "Location de voiture à Budva dès 13 €/jour. Prise en charge à Tivat (22 km), vieille ville de Budva, Bečići et 28+ points. Annulation gratuite, assurance complète."
+    "seoDesc": "Louez une voiture à Budva à partir de 13 € par jour. Dix-sept plages de la Riviera, la Vieille Ville fortifiée vieille de 2 500 ans, et un enlèvement à l'aéroport de Tivat à 22 km avec assurance complète incluse."
   },
   "about": {
     "title": "À Propos",
     "subtitle": "Nous aidons les voyageurs à explorer la Riviera de Budva et le Monténégro.",
-    "seoDesc": "À propos de Budva Car Hire. Nous aidons les voyageurs à explorer Budva et la Riviera monténégrine avec des voitures fiables."
+    "seoDesc": "Partenaire local de location de voitures à Budva. Nous appareillons les visiteurs de la Riviera avec des flottes adaptées au stationnement côtier, aux tunnels de Petrovac, et aux escapades de week-end vers le lac Skadar ou Lovćen."
   },
   "kotor": {
     "title": "Location de Voiture à Kotor",
@@ -151,7 +151,7 @@
   "budva": {
     "title": "Location de Voiture à Budva",
     "subtitle": "La riviera du Monténégro — plages, vie nocturne et charme de la vieille ville.",
-    "seoDesc": "Louez une voiture à Budva, Monténégro. Rejoignez la plage de Mogren, Sveti Stefan et la meilleure vie nocturne de la riviera. Assurance complète, sans frais cachés."
+    "seoDesc": "Mogren Cave Beach, le sable du festival de Jaz, la superclub Top Hill et la forteresse Citadela se situent tous à moins de 5 km de votre point de retrait à Budva. Flotte à partir de 13 € par jour."
   },
   "perast": {
     "title": "Location de Voiture à Perast",
@@ -962,7 +962,7 @@
   },
   "contact": {
     "title": "Nous contacter",
-    "seoDesc": "Contactez Budva Car Hire. Email, WhatsApp et formulaire de contact.",
+    "seoDesc": "Des questions sur la location à Budva ? Contactez-nous sur WhatsApp, par email ou via le formulaire ci-dessous. Réponses sous deux heures en semaine, le même jour le week-end.",
     "heading": "Nous contacter",
     "intro": "Une question sur la location de voiture à Budva ? Contactez-nous, nous vous aiderons à trouver le véhicule idéal pour votre séjour.",
     "emailLabel": "E-mail",

@@ -101,10 +101,10 @@
   "book": {
     "title": "Pronađite Vaš Auto",
     "seoTitle": "Rezervišite Auto",
-    "seoDesc": "Pretražite i rezervišite rent a car u Budvi, Crna Gora. Dostupnost u realnom vremenu, trenutna potvrda, besplatno otkazivanje."
+    "seoDesc": "Žive cene Rivijeri spremnih automobila u Budvi. Preuzimanje na Aerodromu Tivat za 25 minuta, besplatno otkazivanje na većini tarifa i trenutna email potvrda rezervacije."
   },
   "footer": {
-    "brandDesc": "Rent a car u Budvi, Crna Gora. Preuzimanje na aerodromu Tivat, puno osiguranje i bez skrivenih troškova. Istražite Budvansku rivijeru.",
+    "brandDesc": "Iznajmljivanje automobila na Budvanskoj Rivijeri sa preuzimanjem na Aerodromu Tivat, besplatnim otkazivanjem i poštenim all inclusive cenama. Vaš automobil za Jaz, Bečići, Sveti Stefan i dalje.",
     "quickLinks": "Brzi Linkovi",
     "guides": "Vodiči",
     "locations": "Lokacije",
@@ -131,12 +131,12 @@
     "searchCars": "Pretraži Auta"
   },
   "home": {
-    "seoDesc": "Rent a car u Budvi od 13 €/dan. Preuzimanje na aerodromu Tivat (22 km), Stari grad Budva, Bečići i 28+ lokacija. Besplatno otkazivanje, puno osiguranje."
+    "seoDesc": "Iznajmite automobil u Budvi od €13 dnevno. Sedamnaest plaža Rivijere, dvehiljaduletni utvrđeni Stari Grad i preuzimanje na Aerodromu Tivat 22 km dalje sa kompletnom osiguranjem uključenim."
   },
   "about": {
     "title": "O Nama",
     "subtitle": "Pomažemo putnicima da istraže Budvansku rivijeru i Crnu Goru.",
-    "seoDesc": "O Budva Car Hire. Pomažemo putnicima da istraže Budvu i crnogorsku rivijeru sa pouzdanim vozilima."
+    "seoDesc": "Lokalno vođena agencija za iznajmljivanje automobila u Budvi. Uparivamo goste Rivijere sa voznim parkovima prilagođenim obalskom parkiranju, tunelima kod Petrovca i vikend izletima do Skadra ili Lovćena."
   },
   "kotor": {
     "title": "Rent a Car Kotor",
@@ -151,7 +151,7 @@
   "budva": {
     "title": "Rent a Car Budva",
     "subtitle": "Rivijera Crne Gore — plaže, noćni život i šarm starog grada.",
-    "seoDesc": "Iznajmite auto u Budvi, Crna Gora. Odvezite se na plažu Mogren, Sveti Stefan i do najboljeg noćnog života rivijere. Puno osiguranje, bez skrivenih troškova."
+    "seoDesc": "Pećina Mogrenskog plaža, festival pesak Jaza, superklub Top Hill i tvrđava Citadela svi se nalaze u krugu od 5 km od vašeg preuzimanja u Budvi. Vozni park od €13 dnevno."
   },
   "perast": {
     "title": "Rent a Car Perast",
@@ -962,7 +962,7 @@
   },
   "contact": {
     "title": "Kontaktirajte nas",
-    "seoDesc": "Stupite u kontakt s Budva Car Hire. E-pošta, WhatsApp i obrazac za kontakt.",
+    "seoDesc": "Pitanja o iznajmljivanju u Budvi? Poruka nam preko WhatsApp-a, email-a ili formulara ispod. Odgovori u roku od dva sata radnim danima, istog dana vikendom.",
     "heading": "Kontaktirajte nas",
     "intro": "Imate pitanje o iznajmljivanju automobila u Budvi? Javite nam se i pomoći ćemo vam pronaći savršeno vozilo za vaše putovanje.",
     "emailLabel": "E-pošta",

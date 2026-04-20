@@ -101,10 +101,10 @@
   "book": {
     "title": "Finden Sie Ihr Auto",
     "seoTitle": "Auto buchen",
-    "seoDesc": "Mietwagen in Budva, Montenegro suchen und buchen. Echtzeit-Verfügbarkeit, sofortige Bestätigung, kostenlose Stornierung."
+    "seoDesc": "Aktuelle Preise für Riviera-Mietwagen in Budva. Flughafen Tivat in 25 Minuten, kostenlose Stornierung bei den meisten Tarifen und sofortige E-Mail-Bestätigung nach der Buchung."
   },
   "footer": {
-    "brandDesc": "Mietwagen in Budva, Montenegro. Abholung am Flughafen Tivat, Vollkasko und keine versteckten Kosten. Entdecken Sie die Budva Riviera.",
+    "brandDesc": "Autovermietung an der Budva Riviera mit Übernahme am Flughafen Tivat, kostenlose Stornierung und faire Pauschalpreise. Dein Mietwagen für Jaz, Bečići, Sveti Stefan und darüber hinaus.",
     "quickLinks": "Schnelllinks",
     "guides": "Reiseführer",
     "locations": "Standorte",
@@ -131,12 +131,12 @@
     "searchCars": "Autos suchen"
   },
   "home": {
-    "seoDesc": "Mietwagen in Budva ab 13 €/Tag. Abholung am Flughafen Tivat (22 km), Budva Altstadt, Bečići und über 28 Standorten. Kostenlose Stornierung, Vollkasko, keine versteckten Kosten."
+    "seoDesc": "Mietwagen in Budva ab €13 pro Tag. Siebzehn Riviera-Strände, die 2.500 Jahre alte ummauerte Altstadt und Flughafen Tivat nur 22 km entfernt mit Vollversicherung inklusive."
   },
   "about": {
     "title": "Über uns",
     "subtitle": "Wir helfen Reisenden, die Budva Riviera und ganz Montenegro zu entdecken.",
-    "seoDesc": "Über Budva Car Hire. Wir helfen Reisenden, Budva und die Montenegrinische Riviera mit zuverlässigen Mietwagen und Flughafenzustellung zu entdecken."
+    "seoDesc": "Lokaler Mietwagenpartner in Budva. Wir begleiten Riviera-Besucher mit Flotten passend für Küstenparken, die Tunnel von Petrovac und Wochenendausflüge zum Skadar See oder Lovćen."
   },
   "kotor": {
     "title": "Mietwagen in Kotor",
@@ -151,7 +151,7 @@
   "budva": {
     "title": "Mietwagen in Budva",
     "subtitle": "Montenegros Riviera — Strände, Nachtleben und Altstadtcharme.",
-    "seoDesc": "Mietwagen in Budva, Montenegro. Fahren Sie zum Mogren-Strand, Sveti Stefan und zum besten Nachtleben der Riviera. Vollkasko, keine versteckten Kosten."
+    "seoDesc": "Mogren Cave Beach, Jaz Festival Strand, Top Hill Superclub und Citadela Festung liegen alle innerhalb von 5 km vom Mietort Budva. Flotte ab €13 pro Tag."
   },
   "perast": {
     "title": "Mietwagen in Perast",
@@ -962,7 +962,7 @@
   },
   "contact": {
     "title": "Kontaktieren Sie uns",
-    "seoDesc": "Kontaktieren Sie Budva Car Hire. E-Mail, WhatsApp und Kontaktformular.",
+    "seoDesc": "Fragen zur Automiete in Budva? Schreib uns auf WhatsApp, per E-Mail oder nutze das Formular unten. Antworten innerhalb von zwei Stunden werktags, am Wochenende noch am selben Tag.",
     "heading": "Kontaktieren Sie uns",
     "intro": "Haben Sie eine Frage zur Automiete in Budva? Kontaktieren Sie uns, und wir helfen Ihnen, das passende Fahrzeug für Ihre Reise zu finden.",
     "emailLabel": "E-Mail",

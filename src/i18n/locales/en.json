@@ -101,10 +101,10 @@
   "book": {
     "title": "Find Your Car",
     "seoTitle": "Book a Riviera Rental",
-    "seoDesc": "Compare riviera-ready cars at live prices. Lock in your beach wheels with instant confirmation and free cancellation across 17 beaches."
+    "seoDesc": "Live prices on Riviera ready cars in Budva. Tivat Airport pickup in 25 minutes, free cancellation on most rates, and instant email confirmation on booking."
   },
   "footer": {
-    "brandDesc": "Budva car hire with Tivat Airport pickup, full insurance, and transparent pricing. Seventeen beaches and the entire Montenegrin Riviera at your pace.",
+    "brandDesc": "Budva Riviera car hire with Tivat Airport handover, free cancellation, and fair all inclusive pricing. Your wheels for Jaz, Bečići, Sveti Stefan, and beyond.",
     "quickLinks": "Quick Links",
     "guides": "Guides",
     "locations": "Locations",
@@ -131,12 +131,12 @@
     "searchCars": "Search Cars"
   },
   "home": {
-    "seoDesc": "Budva draws a third of Montenegro's tourists to its 17 beaches, rooftop clubs, and 2,500-year-old walled town. Cars from €13/day, Tivat Airport pickup 22 km away."
+    "seoDesc": "Rent a car in Budva from €13 per day. Seventeen Riviera beaches, the 2,500 year old walled Old Town, and Tivat Airport pickup 22 km away with full insurance included."
   },
   "about": {
     "title": "About Us",
     "subtitle": "Helping travellers rent cars in Budva — from beach runs to mountain drives and border crossings.",
-    "seoDesc": "An independent affiliate connecting Budva visitors to reliable rental cars. We work with trusted local car hire partners and share route tips for beaches, mountains, and Tivat Airport pickups."
+    "seoDesc": "Locally run Budva car hire partner. We match Riviera visitors with fleets sized for coastal parking, Petrovac tunnels, and weekend runs to Skadar Lake or Lovćen."
   },
   "kotor": {
     "title": "Kotor from Budva",
@@ -151,7 +151,7 @@
   "budva": {
     "title": "Car Hire in Budva",
     "subtitle": "Beaches by day, rooftop clubs by night, and a 2,500-year-old walled town in between.",
-    "seoDesc": "Mogren cave beach, Jaz festival sand, Top Hill superclub, and the Citadela fortress — everything within 5 km of your Budva pickup. Cars from €13/day."
+    "seoDesc": "Mogren Cave Beach, Jaz festival sand, Top Hill superclub, and Citadela fortress all sit within 5 km of your Budva pickup point. Fleet from €13 per day."
   },
   "perast": {
     "title": "Perast from Budva",
@@ -962,7 +962,7 @@
   },
   "contact": {
     "title": "Contact Us",
-    "seoDesc": "Get in touch with Budva Car Hire. Email, WhatsApp, and contact form.",
+    "seoDesc": "Questions about renting in Budva? Message us on WhatsApp, email, or the form below. Replies within two hours on weekdays, same day at weekends.",
     "heading": "Contact Us",
     "intro": "Have a question about renting a car in Budva? Get in touch and we'll help you find the perfect vehicle for your trip.",
     "emailLabel": "Email",

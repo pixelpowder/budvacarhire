@@ -21,7 +21,7 @@ export default function Kotor() {
       <img src="/img/kotor-nearby.webp" alt="Kotor bay road" loading="lazy" />
       <p>{t('kotorBody.perastTrip')}</p>
       <p>{t('kotorBody.cetinjeTrip')}</p>
-      <p>{t('kotorBody.royalCourtText')}{t('kotorBody.tivatLinkPre')}<a href={localePath('/tivat-airport')}>{t('kotorBody.tivatLinkText')}</a>{t('kotorBody.tivatLinkPost')}</p>
+      <p>{t('kotorBody.royalCourtText')}{t('kotorBody.tivatLinkPre')} <a href={localePath('/tivat-airport')}>{t('kotorBody.tivatLinkText')}</a> {t('kotorBody.tivatLinkPost')}</p>
     </ContentPage>
   );
 }

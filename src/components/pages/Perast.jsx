@@ -21,7 +21,7 @@ export default function Perast() {
       <p>{t('perastBody.historicText')}</p>
 
       <h3>{t('perastBody.monasteryTitle')}</h3>
-      <p>{t('perastBody.monasteryText')}{t('perastBody.monasteryLinkPre')}<a href={localePath('/montenegro')}>{t('perastBody.monasteryLinkText')}</a>{t('perastBody.monasteryLinkPost')}</p>
+      <p>{t('perastBody.monasteryText')}{t('perastBody.monasteryLinkPre')} <a href={localePath('/montenegro')}>{t('perastBody.monasteryLinkText')}</a> {t('perastBody.monasteryLinkPost')}</p>
     </ContentPage>
   );
 }

@@ -4,7 +4,7 @@ const siteConfig = {
   domain: "budvacarhire.com",
   phone: "",
   email: "info@budvacarhire.com",
-  address: "Budva, Montenegro",
+  address: "Tabacina BB, Kotor, 85330",
 
   hero: {
     headline: "Budva Car Hire — Drive the Riviera",

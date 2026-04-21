@@ -2,10 +2,13 @@ import { t, buildAlternates } from '../../metadata';
 import PetrovacToBuljarica from '@/src/components/pages/blog/PetrovacToBuljarica';
 
 export async function generateMetadata() {
+  const title = t('en', 'blogPetrovac.title') + ' | Budva Car Hire';
+  const description = t('en', 'blogPetrovac.description');
   return {
-    title: t('en', 'blogPetrovac.title') + ' | Budva Car Hire',
-    description: t('en', 'blogPetrovac.description'),
+    title: title,
+    description: description,
     alternates: buildAlternates('blog/petrovac-to-buljarica'),
+    openGraph: { title, description, type: 'website' },
   };
 }
 

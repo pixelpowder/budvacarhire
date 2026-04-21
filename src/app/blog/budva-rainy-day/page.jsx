@@ -2,10 +2,13 @@ import { t, buildAlternates } from '../../metadata';
 import BudvaRainyDay from '@/src/components/pages/blog/BudvaRainyDay';
 
 export async function generateMetadata() {
+  const title = t('en', 'blogRainy.title') + ' | Budva Car Hire';
+  const description = t('en', 'blogRainy.description');
   return {
-    title: t('en', 'blogRainy.title') + ' | Budva Car Hire',
-    description: t('en', 'blogRainy.description'),
+    title: title,
+    description: description,
     alternates: buildAlternates('blog/budva-rainy-day'),
+    openGraph: { title, description, type: 'website' },
   };
 }
 

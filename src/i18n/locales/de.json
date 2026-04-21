@@ -4,7 +4,8 @@
     "blog": "Ratgeber",
     "destinations": "Reiseziele",
     "about": "Über uns",
-    "contact": "Kontakt"
+    "contact": "Kontakt",
+    "fleet": "Flotte"
   },
   "common": {
     "home": "Startseite",
@@ -973,5 +974,30 @@
     "nameLabel": "Ihr Name",
     "emailFieldLabel": "Ihre E-Mail",
     "messagePlaceholder": "Wie können wir helfen?"
+  },
+  "cars": {
+    "readGuide": "Zum Guide"
+  },
+  "fleetShowcase": {
+    "label": "Kennen Sie Ihr Auto",
+    "title": "Guides zu jedem Auto der Budva-Riviera-Flotte",
+    "subtitle": "Technische Daten, Verbrauch, Kofferraumgröße — und wofür jedes Auto auf der M2, den Sveti-Stefan-Serpentinen und am Altstadtrand von Budva gemacht ist.",
+    "viewAll": "Alle Flotten-Guides",
+    "tabs": {
+      "all": "Alle",
+      "economy": "Economy",
+      "midsize": "Mittelklasse",
+      "premium": "Premium",
+      "suv": "SUV",
+      "van": "Van"
+    }
+  },
+  "fleetIndex": {
+    "title": "Unsere Budva-Riviera-Flotte",
+    "subtitle": "Sieben Autos, zugeschnitten auf die 21 km Küste zwischen Jaz und Petrovac — vom kompakten Peugeot 208 bis zum familientauglichen 308 Diesel-Automatik.",
+    "seoDesc": "Entdecken Sie die Budva Car Hire Flotte — Daten, Verbrauch, Kofferraum und welches Auto für welche Rivierafahrt passt.",
+    "intro1": "Sieben Autos, ausgewählt für die Budvaer Riviera — die 21 km Küste vom Jaz-Strand im Norden bis Petrovac im Süden, mit Sveti Stefan, Bečići und Rafailovići dazwischen. Die Flotte orientiert sich daran, was Gäste hier tatsächlich fahren: ein Fiat 500 für die engen Gassen hinter Mogren, ein Peugeot 208 für Fahrer, die die Sveti-Stefan-Serpentinen als Teil des Urlaubs sehen, ein Renault Clio für Paare auf der Jaz–Petrovac-Runde, ein Toyota Yaris Hybrid für zwei Wochen zur Hälfte des Spritbudgets, ein Kia Stonic für Inland-Tage zum Skadar-See, und ein VW-Golf-/Peugeot-308-Duo für Viererrunden mit Dubrovnik im Programm.",
+    "intro2": "Zwei Dinge sind auf der Budvaer Riviera wichtiger, als Erstgäste erwarten. Erstens ist die Altstadt (Stari Grad) reine Fußgängerzone — man fährt nicht hinein. Parken am Rand: gebührenpflichtige Buchten an der Slovenska (1–2 €/h Sommer, November–April frei), der Parkplatz Slovenska Plaža oder die überdachte TQ-Plaza-Tiefgarage für Wochenendnächte. Zweitens ist die Küstenstraße nach Süden — die M2 / E80 — das Rückgrat von allem: Sveti Stefan 12 km südlich, Petrovac 17 km, die kroatische Grenze bei Debeli Brijeg rund 80 km / 90 Minuten nördlich. Dimensionieren Sie das Auto nach dem weitesten Punkt Ihrer Tour.",
+    "intro3": "Wenn Sie unsicher sind, welches Auto zur Woche passt, gelten zwei einfache Regeln. Erstens: Strandshuttle zwischen Bečići und Rafailovići braucht Kühltasche und Liegen, kein Campingbett — Clio oder Yaris lösen das ohne Aufpreis. Zweitens: Sobald Sveti-Stefan-Vidikovac, der Lovćen-Serpentinenweg über Kotor oder ein Dubrovnik-Tag über Debeli Brijeg im Plan stehen, lohnt sich eine automatische Mittelklasse — 308 oder Golf DSG verändern den Tag, sobald die Haarnadeln zu stapeln beginnen."
   }
 }

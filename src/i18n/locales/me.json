@@ -4,7 +4,8 @@
     "blog": "Vodič",
     "destinations": "Destinacije",
     "about": "O Nama",
-    "contact": "Kontakt"
+    "contact": "Kontakt",
+    "fleet": "Vozni park"
   },
   "common": {
     "home": "Početna",
@@ -109,7 +110,7 @@
     "guides": "Vodiči",
     "locations": "Lokacije",
     "carHireBooking": "Rezervacija Vozila",
-    "ourFleet": "Naša Flota",
+    "ourFleet": "Naš vozni park",
     "destinations": "Destinacije",
     "aboutUs": "O Nama",
     "faqLink": "FAQ",
@@ -973,5 +974,30 @@
     "nameLabel": "Vaše ime",
     "emailFieldLabel": "Vaš e-mail",
     "messagePlaceholder": "Kako možemo pomoći?"
+  },
+  "cars": {
+    "readGuide": "Pročitaj vodič"
+  },
+  "fleetShowcase": {
+    "label": "Upoznajte svoj auto",
+    "title": "Vodiči kroz svako vozilo Budvanske rivijere",
+    "subtitle": "Specifikacije, potrošnja, prtljažnik — i za šta je svaki auto najbolji na M2, serpentinama ka Svetom Stefanu i oko zidina Starog grada Budve.",
+    "viewAll": "Svi vodiči",
+    "tabs": {
+      "all": "Sve",
+      "economy": "Ekonomik",
+      "midsize": "Srednja klasa",
+      "premium": "Premium",
+      "suv": "SUV",
+      "van": "Van"
+    }
+  },
+  "fleetIndex": {
+    "title": "Naš vozni park Budvanske rivijere",
+    "subtitle": "Sedam vozila za 21 km obale od Jaza do Petrovca — od kompaktnog Peugeot 208 do porodičnog 308 dizel automatika.",
+    "seoDesc": "Pogledajte flotu Budva Car Hire — specifikacije, potrošnja, prtljažnik i koji auto odgovara plažama rivijere i putu M2.",
+    "intro1": "Sedam vozila prilagođenih Budvanskoj rivijeri — 21 km obale od plaže Jaz na sjeveru do Petrovca na jugu, sa Svetim Stefanom, Bečićima i Rafailovićima između. Flota je odabrana prema onome što se ovdje stvarno vozi: Fiat 500 za uske uličice iza Mogrena, Peugeot 208 za vozače kojima su serpentine ka Svetom Stefanu dio odmora, Renault Clio za par koji svaki dan radi rutu Jaz–Petrovac, Toyota Yaris Hybrid za dvije nedjelje uz pola troška goriva, Kia Stonic za dane ka Skadarskom jezeru i vinogradima Crmnice, i par VW Golf / Peugeot 308 za četveročlane vožnje sa skokom u Dubrovnik.",
+    "intro2": "Dvije stvari na Budvanskoj rivijeri znače više nego što pridošlice očekuju. Prvo: Stari grad (Stari Grad) je potpuno pješačka zona — ne ulazi se kolima. Parkirajte po obodu: naplaćene zone na Slovenskoj (1–2 €/h ljeti, besplatno od novembra do aprila), parking Slovenska Plaža ili natkriveni podzemni TQ Plaza za noći tokom vikenda. Drugo: priobalni put ka jugu — M2 / E80 — kičma je svega: Sveti Stefan 12 km južno, Petrovac 17 km, hrvatska granica Debeli Brijeg oko 80 km / 90 min sjeverno. Dimenzionirajte auto prema najudaljenijoj tački vaše rute.",
+    "intro3": "Ako niste sigurni koji auto da izaberete, dva pravila obično važe. Prvo: ako vam dani budu šetnja između plaža, ležaljka i frižider su važniji od opreme za kamp — Clio ili Yaris to rješavaju bez drame i doplate. Drugo: ako su vidikovci Svetog Stefana, serpentine Lovćena iznad Kotora ili dnevni izlet u Dubrovnik preko Debelog Brijega u planu, doplatite za srednju klasu s automatikom — 308 ili Golf DSG mijenjaju dan čim se okretnice počnu redati."
   }
 }

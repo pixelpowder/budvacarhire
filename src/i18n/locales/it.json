@@ -4,7 +4,8 @@
     "blog": "Guida",
     "destinations": "Destinazioni",
     "about": "Chi Siamo",
-    "contact": "Contatti"
+    "contact": "Contatti",
+    "fleet": "Flotta"
   },
   "common": {
     "home": "Home",
@@ -109,7 +110,7 @@
     "guides": "Guide",
     "locations": "Sedi",
     "carHireBooking": "Prenotazione Noleggio Auto",
-    "ourFleet": "La Nostra Flotta",
+    "ourFleet": "La nostra flotta",
     "destinations": "Destinazioni",
     "aboutUs": "Chi Siamo",
     "faqLink": "FAQ",
@@ -973,5 +974,30 @@
     "nameLabel": "Il tuo nome",
     "emailFieldLabel": "La tua email",
     "messagePlaceholder": "Come possiamo aiutarti?"
+  },
+  "cars": {
+    "readGuide": "Leggi la guida"
+  },
+  "fleetShowcase": {
+    "label": "Conosci la tua auto",
+    "title": "Guide a ogni auto della flotta della Riviera di Budva",
+    "subtitle": "Specifiche, consumi, bagagliaio — e per cosa serve ogni auto sulla M2, sui tornanti di Sveti Stefan e al perimetro della Città Vecchia di Budva.",
+    "viewAll": "Tutte le guide",
+    "tabs": {
+      "all": "Tutte",
+      "economy": "Economy",
+      "midsize": "Media",
+      "premium": "Premium",
+      "suv": "SUV",
+      "van": "Van"
+    }
+  },
+  "fleetIndex": {
+    "title": "La nostra flotta della Riviera di Budva",
+    "subtitle": "Sette auto scelte per i 21 km di costa tra Jaz e Petrovac — dalla compatta Peugeot 208 alla 308 familiare diesel automatica.",
+    "seoDesc": "Sfoglia la flotta Budva Car Hire — specifiche, consumi, bagagliaio e quale auto si adatta alla costa della Riviera e alla M2.",
+    "intro1": "Sette auto dimensionate per la Riviera di Budva — i 21 km di costa da Jaz a nord fino a Petrovac a sud, con Sveti Stefan, Bečići e Rafailovići nel mezzo. La flotta è scelta in base a ciò che si guida davvero qui: una Fiat 500 per i vicoli stretti dietro Mogren, una Peugeot 208 per chi considera i tornanti di Sveti Stefan parte della vacanza, una Renault Clio per la coppia che fa Jaz–Petrovac tutti i giorni, una Toyota Yaris Hybrid per due settimane a metà del conto benzina, una Kia Stonic per giornate verso il lago di Scutari e le cantine della Crmnica, e una coppia VW Golf / Peugeot 308 per viaggi in quattro con sconfinamento a Dubrovnik.",
+    "intro2": "Due cose sulla Riviera di Budva contano più di quanto si aspettino i nuovi arrivati. Primo: la Città Vecchia (Stari Grad) è completamente pedonale — non si entra in auto. Parcheggiate al perimetro: stalli a pagamento sulla Slovenska (1–2 €/h in estate, gratis da novembre ad aprile), il parcheggio di Slovenska Plaža o il sotterraneo coperto del TQ Plaza per i weekend di punta. Secondo: la costiera sud — la M2 / E80 — è la spina dorsale di tutto: Sveti Stefan a 12 km, Petrovac a 17, il confine croato di Debeli Brijeg a circa 80 km / 90 min a nord. Dimensionate l'auto sul punto più lontano del vostro itinerario.",
+    "intro3": "Se non siete sicuri di quale auto scegliere, due regole valgono quasi sempre. Primo: se i giorni sono spola tra spiagge, lettino e borsa frigo contano più dell'attrezzatura da campeggio — una Clio o una Yaris fanno il lavoro senza sovrapprezzo. Secondo: se avete in programma i belvederi di Sveti Stefan, i tornanti del Lovćen sopra Kotor o una gita a Dubrovnik via Debeli Brijeg, vale la pena salire a una media automatica — 308 o Golf DSG cambiano la giornata appena i tornanti iniziano a sommarsi."
   }
 }

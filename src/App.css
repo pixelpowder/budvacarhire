@@ -2882,6 +2882,11 @@ select.booking-field__input {
   overflow: hidden;
   background: #ffffff;
 }
+.car-gallery__frame {
+  position: absolute;
+  inset: 8% max(72px, 12%);
+  overflow: hidden;
+}
 .car-gallery__img {
   position: absolute;
   inset: 0;
@@ -2894,9 +2899,7 @@ select.booking-field__input {
   opacity: 0;
   transition: opacity 0.3s ease;
   pointer-events: none;
-  padding: max(20px, 8%) max(60px, 14%);
-  box-sizing: border-box;
-}
+  }
 .car-gallery__img--active {
   opacity: 1;
 }

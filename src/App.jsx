@@ -331,10 +331,10 @@ function BeachGuide() {
         </div>
         <div className="beach-grid">
           {[
-            { title: 'Jaz Beach', desc: t('beachGuide.jazDesc') || 'Open sand bay 3 km north of town. Free parking in the upper lot, paid near the water. Summer music festival venue.', distance: '3 km', time: t('beachGuide.jazTime') || '5 min drive', image: '/img/jaz-beach.webp' },
-            { title: 'Mogren Beach', desc: t('beachGuide.mogrenDesc') || 'Twin coves connected by a tunnel carved through the cliff. Walking distance from the Old Town walls. Loungers and bar May to September.', distance: '0.5 km', time: t('beachGuide.mogrenTime') || 'Walk', image: '/img/budva-beach.webp' },
-            { title: 'Be\u010Di\u0107i Beach', desc: t('beachGuide.beciciDesc') || 'Long family-friendly sand strip with lifeguards in season. Gentle shallow entry, ideal for children. Ample paid parking.', distance: '2 km', time: t('beachGuide.beciciTime') || '5 min', image: '/img/becici-beach.webp' },
-            { title: 'Sveti Stefan', desc: t('beachGuide.svetiStefanDesc') || 'The iconic fortified island village. Public beach on the mainland side. Best photographed from the viewpoint above the road.', distance: '6 km', time: t('beachGuide.svetiStefanTime') || '10 min', image: '/img/sveti-stefan.webp' },
+            { title: t('beachGuide.jazTitle') || 'Jaz Beach', desc: t('beachGuide.jazDesc') || 'Open sand bay 3 km north of town. Free parking in the upper lot, paid near the water. Summer music festival venue.', distance: '3 km', time: t('beachGuide.jazTime') || '5 min drive', image: '/img/jaz-beach.webp' },
+            { title: t('beachGuide.mogrenTitle') || 'Mogren Beach', desc: t('beachGuide.mogrenDesc') || 'Twin coves connected by a tunnel carved through the cliff. Walking distance from the Old Town walls. Loungers and bar May to September.', distance: '0.5 km', time: t('beachGuide.mogrenTime') || 'Walk', image: '/img/budva-beach.webp' },
+            { title: t('beachGuide.beciciTitle') || 'Be\u010Di\u0107i Beach', desc: t('beachGuide.beciciDesc') || 'Long family-friendly sand strip with lifeguards in season. Gentle shallow entry, ideal for children. Ample paid parking.', distance: '2 km', time: t('beachGuide.beciciTime') || '5 min', image: '/img/becici-beach.webp' },
+            { title: t('beachGuide.svetiStefanTitle') || 'Sveti Stefan', desc: t('beachGuide.svetiStefanDesc') || 'The iconic fortified island village. Public beach on the mainland side. Best photographed from the viewpoint above the road.', distance: '6 km', time: t('beachGuide.svetiStefanTime') || '10 min', image: '/img/sveti-stefan.webp' },
           ].map((beach) => (
             <div key={beach.title} className="beach-card reveal-item">
               {beach.image && <img src={beach.image} alt={beach.title} className="beach-card__image" loading="lazy" />}

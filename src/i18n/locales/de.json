@@ -393,7 +393,7 @@
     "gettingAroundText": "Während Budvas Altstadt am besten zu Fuß erkundet wird, ist ein Mietwagen unverzichtbar, um die besten Strände, nahegelegene Dörfer und Attraktionen im Landesinneren zu erreichen. Parkplätze sind in der Nähe der Altstadtmauern und auf mehreren öffentlichen Parkplätzen entlang der Hauptstraße vorhanden. Im Hochsommer sichert frühes Ankommen die besten Plätze.",
     "imgAlt1": "Halbinsel der Altstadt von Budva",
     "imgAlt2": "Insel Sveti Stefan",
-    "mogrenLabel": "Mogren I & II:",
+    "mogrenLabel": "Mogren I und II:",
     "jazLabel": "Strand Jaz:",
     "svetiStefanLabel": "Strand Sveti Stefan:",
     "beciciLabel": "Bečići:"
@@ -634,7 +634,7 @@
     "trinityP": "Diese kompakte orthodoxe Kirche steht auf dem Platz direkt hinter dem Haupttor, überragt von ihren Nachbarn, aber dank des markanten gestreiften Mauerwerks, abwechselnde Bänder aus Grau und Rosa, nicht zu übersehen. 1804 während einer kurzen Phase russischen Schutzes erbaut, beherbergt ihr Inneres vergoldete Ikonen und eine bemalte Decke, die nachmittags das Licht durch ein einzelnes hohes Fenster einfängt. Achten Sie auf das Grab von Stjepan Mitrov Ljubisa, einem Schriftsteller und Staatsmann des 19. Jahrhunderts, das in die Aussenmauer eingelassen ist.",
     "h3John": "Johanneskirche",
     "johnP": "Der höchste Glockenturm der Halbinsel gehört zu dieser katholischen Kirche, die nach dem Erdbeben von 1667 und erneut nach 1979 wieder aufgebaut wurde. Im Inneren zieht eine Madonna-mit-Kind-Ikone stetig Pilger an. Die Kirchenbibliothek beherbergte einst eine der feinsten Handschriftensammlungen an der Adriaküste, obwohl die meisten Stücke vor Jahrhunderten zur Aufbewahrung nach Cetinje verlegt wurden. Der Glockenturm ist nicht für Kletterer geöffnet, aber er rahmt die besten Fotos der Altstadt von der Hafenseite ein.",
-    "h3Mary": "Santa Maria in Punta",
+    "h3Mary": "Kirche Santa Maria in Punta",
     "maryP": "An die Zitadellenmauern an der Südspitze der Halbinsel geschmiegt, ist diese Kirche aus dem neunten Jahrhundert das älteste erhaltene Bauwerk in Budva. Sie ist klein, eher Kapelle als Kirche, und Gottesdienste wurden längst eingestellt, aber die Steinhülle überdauert. Die örtliche Legende besagt, dass das Gebäude aus Teilen einer noch älteren Kirche am selben Standort zusammengesetzt wurde. Die Akustik im Inneren ist bemerkenswert, und gelegentlich finden hier im Sommer kleine Konzerte während des Theaterfestivals statt.",
     "h2Citadel": "Die Zitadellenterrasse",
     "citadelP": "Die Zitadelle verankert das südliche Ende der Halbinsel. Der Eintritt kostet einige Euro und gewährt Zugang zu den Festungsmauern, einer kleinen Bibliothek und der Freiluft-Restaurantterrasse oben. Die Terrassenaussicht ist der Grund zu kommen: die Adria erstreckt sich westwärts Richtung Italien, die Insel Sveti Nikola liegt direkt vor der Küste, und an klaren Tagen zeigen sich die albanischen Berge als blasse graue Linie im Süden. Der Sonnenuntergang von hier oben, mit einem Glas Vranac-Wein, ist der schönste Moment, den Budva zu bieten hat. Die Zitadelle beherbergt auch ein bescheidenes Museum mit römischen und mittelalterlichen Funden, Tonscherben, Münzen und ein Reliefmodell der Stadt vor dem Erdbeben.",
@@ -1004,7 +1004,7 @@
         "2": "Fahrer der Küstenstraßen"
       },
       "features": {
-        "0": "3D i-Cockpit",
+        "0": "3D-i-Cockpit-Anzeige",
         "1": "Apple CarPlay",
         "2": "Tempomat",
         "3": "Spurassistent"
@@ -1185,7 +1185,7 @@
     },
     "toyota-yaris": {
       "name": "Toyota Yaris",
-      "tagline": "Sparsamster Verbrauch der Flotte, der Hybrid genießt Stop-and-Go in Budva",
+      "tagline": "Sparsamster Verbrauch der Flotte, der Hybrid genießt zähen Stadtverkehr in Budva",
       "lede": "3,8 L/100 km im Realbetrieb. Der Yaris Hybrid kostet pro Kilometer rund die Hälfte einer Diesel-Mittelklasse.",
       "suitability": "Reisende, die zwei Wochen mit halbem Spritbudget unterwegs sein wollen. Der Hybrid rechnet sich beim sommerlichen Schritttempo durch Budva und Bečići.",
       "regional": "Rein elektrisch durch die 30er-Zone in Bečići bei Tagesanbruch, dann gleitet er bis Sveti Stefan, ohne dass die Tanknadel sich rührt. Nicht die richtige Wahl für lange Bergfahrten Richtung Kolašin, wo der Akku am Anstieg leer wird.",
@@ -1193,7 +1193,7 @@
       "bestFor": {
         "0": "Spritbewusste Reisende",
         "1": "Stadtnahe Touren",
-        "2": "Stop-and-Go an der Riviera"
+        "2": "Zäher Stadtverkehr an der Riviera"
       },
       "features": {
         "0": "Hybridantrieb",
@@ -1292,12 +1292,16 @@
     "label": "Strandführer",
     "title": "Strände, für die sich die Fahrt lohnt",
     "subtitle": "Die Budva-Riviera hat 21 km Küste. Hier sind die vier Strände, die unsere Kunden am häufigsten besuchen.",
+    "jazTitle": "Strand Jaz",
     "jazDesc": "Offene Sandbucht 3 km nördlich der Stadt. Kostenlose Parkplätze auf dem oberen Parkplatz, kostenpflichtig nahe am Wasser. Sommerlicher Musikfestival-Veranstaltungsort.",
     "jazTime": "5 Min. Fahrt",
+    "mogrenTitle": "Strand Mogren",
     "mogrenDesc": "Zwei verbundene Buchten, die durch einen in den Felsen gehauenen Tunnel verbunden sind. Zu Fuß von der Altstadtmauer erreichbar. Liegen und Bar von Mai bis September.",
     "mogrenTime": "Zu Fuß",
+    "beciciTitle": "Strand Bečići",
     "beciciDesc": "Langer familienfreundlicher Sandstrand mit Rettungsschwimmern in der Saison. Sanfter, flacher Einstieg, ideal für Kinder. Reichlich kostenpflichtige Parkplätze.",
     "beciciTime": "5 Min.",
+    "svetiStefanTitle": "Sveti Stefan",
     "svetiStefanDesc": "Das ikonische befestigte Inseldorf. Öffentlicher Strand auf der Festlandseite. Am besten vom Aussichtspunkt über der Straße zu fotografieren.",
     "svetiStefanTime": "10 Min."
   },

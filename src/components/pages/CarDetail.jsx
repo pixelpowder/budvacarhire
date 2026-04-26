@@ -26,53 +26,56 @@ import {
 } from 'lucide-react';
 
 // Per-car inline Budva-Riviera photo. Chosen to fit each car's character.
+// Alt + caption text comes from translations (cars.<slug>.inlineAlt / inlineCaption);
+// the _default entry below is rendered only when slug is missing from this map.
 const INLINE_PHOTOS = {
-  'peugeot-208':   { src: '/img/fleet-inline/road-mountains.jpg', alt: 'Road curving through Montenegro mountains', caption: 'Sveti Stefan hairpins ,  the 208 feels most at home on the sharpest corners of the Budva Riviera.' },
-  'renault-clio':  { src: '/img/fleet-inline/coastal-road.jpg',   alt: 'Montenegro Adriatic coast road',            caption: 'The coast road south of Budva ,  exactly the route the default Riviera rental was built for.' },
-  'fiat-500':      { src: '/img/fleet-inline/seashore-hills.jpg', alt: 'Coastal road on the seashore near hills',   caption: 'The Mogren-to-Rafailovići coastline ,  short hops between riviera viewpoints is where the 500 belongs.' },
-  'peugeot-308':   { src: '/img/fleet-inline/mountain-highway.jpg', alt: 'Montenegro E80 highway',                   caption: 'The E80 south toward Bar ,  the 308\u2019s natural habitat: cruise set, boot full, diesel humming.' },
-  'kia-stonic':    { src: '/img/fleet-inline/rocky-road.jpg',     alt: 'Empty asphalt road between rocks and shrubs', caption: 'The spur from Virpazar toward the Crmnica wine villages ,  Stonic ride height earns its keep here.' },
-  'vw-golf':       { src: '/img/fleet-inline/forest-road.jpg',    alt: 'Scenic mountain road with tall trees',      caption: 'Tree-lined inland stretches above the Riviera ,  DSG plus diesel takes the thinking out of gear changes.' },
-  'toyota-yaris':  { src: '/img/fleet-inline/aerial-mountains.jpg', alt: 'Aerial view of Montenegro mountains',      caption: 'A fortnight loop of Budva Riviera at Yaris Hybrid economy costs under €80 in fuel ,  quietly remarkable.' },
-  _default:        { src: '/img/fleet-inline/sunset-montenegro.jpg', alt: 'Montenegro mountain landscape at sunset', caption: 'Budva Riviera threads coast, olive grove and viewpoint in a single day.' },
+  'peugeot-208':   { src: '/img/fleet-inline/road-mountains.jpg' },
+  'renault-clio':  { src: '/img/fleet-inline/coastal-road.jpg' },
+  'fiat-500':      { src: '/img/fleet-inline/seashore-hills.jpg' },
+  'peugeot-308':   { src: '/img/fleet-inline/mountain-highway.jpg' },
+  'kia-stonic':    { src: '/img/fleet-inline/rocky-road.jpg' },
+  'vw-golf':       { src: '/img/fleet-inline/forest-road.jpg' },
+  'toyota-yaris':  { src: '/img/fleet-inline/aerial-mountains.jpg' },
+  _default:        { src: '/img/fleet-inline/sunset-montenegro.jpg' },
 };
 
 // 3 related image-link cards at the end of each detail page, local Budva destinations + blog.
+// Card titles come from translations (cars.<slug>.related.<i>.title).
 const RELATED = {
   'peugeot-208': [
-    { href: '/budva',                                 img: '/img/budva-old-town.webp',                          title: 'Budva' },
-    { href: '/blog/sveti-stefan-viewpoints',          img: '/img/blog-sveti-stefan-viewpoints.webp',            title: 'Sveti Stefan viewpoints' },
-    { href: '/blog/budva-riviera-beach-hop',          img: '/img/blog-budva-riviera-beach-hop.webp',            title: 'Beach-hop the Riviera' },
+    { href: '/budva',                                 img: '/img/budva-old-town.webp' },
+    { href: '/blog/sveti-stefan-viewpoints',          img: '/img/blog-sveti-stefan-viewpoints.webp' },
+    { href: '/blog/budva-riviera-beach-hop',          img: '/img/blog-budva-riviera-beach-hop.webp' },
   ],
   'renault-clio': [
-    { href: '/budva',                                 img: '/img/budva-old-town.webp',                          title: 'Budva' },
-    { href: '/blog/budva-riviera-beach-hop',          img: '/img/blog-budva-riviera-beach-hop.webp',            title: 'Beach-hop the Riviera' },
-    { href: '/tivat-airport',                         img: '/img/tivat-airport.webp',                           title: 'Tivat Airport' },
+    { href: '/budva',                                 img: '/img/budva-old-town.webp' },
+    { href: '/blog/budva-riviera-beach-hop',          img: '/img/blog-budva-riviera-beach-hop.webp' },
+    { href: '/tivat-airport',                         img: '/img/tivat-airport.webp' },
   ],
   'fiat-500': [
-    { href: '/budva',                                 img: '/img/budva-old-town.webp',                          title: 'Budva Old Town' },
-    { href: '/blog/budva-old-town-walking',           img: '/img/blog-budva-old-town-walking.webp',             title: 'Budva Old Town walking' },
-    { href: '/blog/budva-sunrise-sunset',             img: '/img/blog-budva-sunrise-sunset.webp',               title: 'Budva sunrise & sunset' },
+    { href: '/budva',                                 img: '/img/budva-old-town.webp' },
+    { href: '/blog/budva-old-town-walking',           img: '/img/blog-budva-old-town-walking.webp' },
+    { href: '/blog/budva-sunrise-sunset',             img: '/img/blog-budva-sunrise-sunset.webp' },
   ],
   'peugeot-308': [
-    { href: '/dubrovnik-airport',                     img: '/img/dubrovnik-nearby.webp',                        title: 'Dubrovnik Airport' },
-    { href: '/kotor',                                  img: '/img/kotor-nearby.webp',                            title: 'Kotor' },
-    { href: '/blog/petrovac-to-buljarica',            img: '/img/blog-petrovac-to-buljarica.webp',              title: 'Petrovac to Buljarica' },
+    { href: '/dubrovnik-airport',                     img: '/img/dubrovnik-nearby.webp' },
+    { href: '/kotor',                                  img: '/img/kotor-nearby.webp' },
+    { href: '/blog/petrovac-to-buljarica',            img: '/img/blog-petrovac-to-buljarica.webp' },
   ],
   'kia-stonic': [
-    { href: '/blog/budva-to-skadar-day',              img: '/img/blog-budva-to-skadar-day.webp',                title: 'Budva to Skadar day trip' },
-    { href: '/blog/petrovac-to-buljarica',            img: '/img/blog-petrovac-to-buljarica.webp',              title: 'Petrovac to Buljarica' },
-    { href: '/perast',                                img: '/img/perast-village.webp',                          title: 'Perast' },
+    { href: '/blog/budva-to-skadar-day',              img: '/img/blog-budva-to-skadar-day.webp' },
+    { href: '/blog/petrovac-to-buljarica',            img: '/img/blog-petrovac-to-buljarica.webp' },
+    { href: '/perast',                                img: '/img/perast-village.webp' },
   ],
   'vw-golf': [
-    { href: '/dubrovnik-airport',                     img: '/img/dubrovnik-nearby.webp',                        title: 'Dubrovnik Airport' },
-    { href: '/blog/budva-to-skadar-day',              img: '/img/blog-budva-to-skadar-day.webp',                title: 'Budva to Skadar day trip' },
-    { href: '/kotor',                                  img: '/img/kotor-nearby.webp',                            title: 'Kotor' },
+    { href: '/dubrovnik-airport',                     img: '/img/dubrovnik-nearby.webp' },
+    { href: '/blog/budva-to-skadar-day',              img: '/img/blog-budva-to-skadar-day.webp' },
+    { href: '/kotor',                                  img: '/img/kotor-nearby.webp' },
   ],
   'toyota-yaris': [
-    { href: '/budva',                                 img: '/img/budva-old-town.webp',                          title: 'Budva' },
-    { href: '/blog/budva-riviera-beach-hop',          img: '/img/blog-budva-riviera-beach-hop.webp',            title: 'Beach-hop the Riviera' },
-    { href: '/blog/budva-rainy-day',                  img: '/img/blog-budva-rainy-day.webp',                    title: 'Budva on a rainy day' },
+    { href: '/budva',                                 img: '/img/budva-old-town.webp' },
+    { href: '/blog/budva-riviera-beach-hop',          img: '/img/blog-budva-riviera-beach-hop.webp' },
+    { href: '/blog/budva-rainy-day',                  img: '/img/blog-budva-rainy-day.webp' },
   ],
 };
 
@@ -222,8 +225,8 @@ export default function CarDetail({ slug }) {
                   const inline = INLINE_PHOTOS[slug] || INLINE_PHOTOS._default;
                   return (
                     <figure key={`inline-${i}`} className="car-detail-article__figure">
-                      <img src={inline.src} alt={tk('inlineAlt', inline.alt)} loading="lazy" />
-                      <figcaption>{tk('inlineCaption', inline.caption)}</figcaption>
+                      <img src={inline.src} alt={tk('inlineAlt', name)} loading="lazy" />
+                      <figcaption>{tk('inlineCaption', '')}</figcaption>
                     </figure>
                   );
                 })()}
@@ -249,7 +252,7 @@ export default function CarDetail({ slug }) {
               <a key={card.href} href={localePath(card.href)} className="car-detail-related__card">
                 <div className="car-detail-related__img" style={{ backgroundImage: `url(${card.img})` }} />
                 <div className="car-detail-related__body">
-                  <span className="car-detail-related__title">{tk(`related.${i}.title`, card.title)}</span>
+                  <span className="car-detail-related__title">{tk(`related.${i}.title`, '')}</span>
                   <ArrowRight size={14} />
                 </div>
               </a>

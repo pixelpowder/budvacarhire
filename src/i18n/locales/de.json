@@ -13,7 +13,8 @@
     "callUs": "Rufen Sie uns an",
     "bookNow": "Jetzt buchen",
     "perDay": "pro Tag",
-    "emailUs": "E-Mail senden"
+    "emailUs": "E-Mail senden",
+    "readGuide": "Reiseführer lesen"
   },
   "hero": {
     "headline": "Mietwagen in Budva",
@@ -97,7 +98,11 @@
     "helpText": "Unser Team ist per WhatsApp, Viber oder Telefon erreichbar.",
     "popularDest": "Beliebte Reiseziele",
     "tivatAirport": "Flughafen Tivat",
-    "dubrovnikAirport": "Flughafen Dubrovnik"
+    "dubrovnikAirport": "Flughafen Dubrovnik",
+    "westernBayGuides": "Reiseführer Westliche Boka",
+    "easternBayGuides": "Reiseführer Östliche Boka",
+    "northernGuides": "Reiseführer Nördliche Boka",
+    "regionGuides": "Regionale Reiseführer"
   },
   "book": {
     "title": "Finden Sie Ihr Auto",
@@ -943,7 +948,8 @@
   "relatedGuides": {
     "secretChurches": "Verborgene Ecken",
     "vrmacRidge": "Malerische Fahrten",
-    "swimmingSpots": "Die besten Badestellen"
+    "swimmingSpots": "Die besten Badestellen",
+    "title": "Das könnte Ihnen auch gefallen"
   },
   "navTop": {
     "carRental": "Autovermietung",
@@ -969,10 +975,161 @@
     "sendButton": "Nachricht senden",
     "nameLabel": "Ihr Name",
     "emailFieldLabel": "Ihre E-Mail",
-    "messagePlaceholder": "Wie können wir helfen?"
+    "messagePlaceholder": "Wie können wir helfen?",
+    "thanks": "Danke für Ihre Nachricht, wir antworten innerhalb weniger Stunden."
   },
   "cars": {
-    "readGuide": "Zum Guide"
+    "readGuide": "Zum Guide",
+    "peugeot-208": {
+      "name": "Peugeot 208",
+      "tagline": "Stilvoller französischer Kleinwagen, der die Haarnadeln nach Sveti Stefan elegant nimmt",
+      "lede": "Eigenständiger 208 Mk2, klein, scharf abgestimmt, die Kleinwagen-Wahl für Fahrer, denen wichtig ist, worin sie sitzen.",
+      "suitability": "Zwei Reisende, die einen Kleinwagen wollen, der mehr Erlebnis als Gebrauchsgegenstand ist. Der 208 hat das schärfste Fahrwerk dieser Klasse in der Riviera-Flotte.",
+      "regional": "Leichte Front, kleiner Wendekreis und ein winziges Lenkrad lassen die Sveti-Stefan-Haarnadeln und die einspurige Straße oberhalb von Pržno wie maßgeschneidert wirken. Lebhaft auf der E80 nach Petrovac, mit 4.055 mm passt er trotzdem in die Sommer-Buchten an der Slovenska ohne Drama.",
+      "category": "Economy",
+      "bestFor": {
+        "0": "Paare",
+        "1": "Designorientierte Mieter",
+        "2": "Fahrer der Küstenstraßen"
+      },
+      "features": {
+        "0": "3D i-Cockpit",
+        "1": "Apple CarPlay",
+        "2": "Tempomat",
+        "3": "Spurassistent"
+      }
+    },
+    "renault-clio": {
+      "name": "Renault Clio",
+      "tagline": "Der Standard-Mietwagen in Budva, kompakt, sparsam, leicht zu parken in Bečići",
+      "lede": "Häufigster Mietwagen an der Riviera. Fünf Türen, 391-Liter-Kofferraum, gemacht für die Routine zwischen Jaz und Petrovac.",
+      "suitability": "Zwei Reisende mit Bordgepäck auf dem Programm Budva, Sveti Stefan und ein Tagesausflug nach Kotor. Das Arbeitstier der Riviera-Flotte.",
+      "regional": "Passt in die stundenweise abgerechneten Buchten entlang der Slovenska, fädelt sich durch die einspurige Gasse hinab nach Kamenovo und hält 110 km/h auf der E80 in Richtung Bar ohne Mühe. Die Standard-Riviera-Wahl, mit gutem Grund.",
+      "category": "Economy",
+      "bestFor": {
+        "0": "Erstbesucher der Riviera",
+        "1": "Paare",
+        "2": "Kurze Küstenaufenthalte"
+      },
+      "features": {
+        "0": "Bluetooth-Audio",
+        "1": "USB-Ladeanschluss",
+        "2": "Zentralverriegelung",
+        "3": "Touchscreen-Display"
+      }
+    },
+    "fiat-500": {
+      "name": "Fiat 500",
+      "tagline": "Postkartenkleines Stadtauto für die Altstadtperipherie und die Hintergassen von Mogren",
+      "lede": "Parkt dort, wo nichts anderes hinpasst. Ideal für Aufenthalte in Budva, Bečići oder Rafailovići.",
+      "suitability": "Ein oder zwei Reisende mit Standort in Budva, wo Sommerparkplätze rar sind und die meisten Fahrten unter 20 km entlang der Riviera bleiben.",
+      "regional": "Das einzige Auto, das wirklich in die Hintergassen hinter dem Mogren-Strand passt. Begleiter für Fotografen: Schiebedach offen am Aussichtspunkt Sveti Stefan, Kofferraum gerade groß genug für eine Stativtasche und ein Strandtuch.",
+      "category": "Stadtwagen",
+      "bestFor": {
+        "0": "Alleinreisende",
+        "1": "Kurzaufenthalte in Budva",
+        "2": "Fotografen"
+      },
+      "features": {
+        "0": "Kompaktes Format",
+        "1": "Einfaches Parken",
+        "2": "Schiebedach",
+        "3": "Bluetooth"
+      }
+    },
+    "peugeot-308": {
+      "name": "Peugeot 308",
+      "tagline": "Erwachsene französische Mittelklasse, Diesel-Drehmoment für die Strecke Budva nach Dubrovnik",
+      "lede": "Leiser BlueHDi-Diesel, echter Langstrecken-Cruiser mit 412-Liter-Kofferraum, die Standardwahl für vier Personen Familie.",
+      "suitability": "Vier Erwachsene mit Gepäck oder eine Familie mit Kinderwagen. Diesel plus Automatik plus Tempomat ist die Kombination für Reisen mit Standort an der Riviera, die auch Dubrovnik oder den Skadarsee umfassen.",
+      "regional": "Schluckt die E80 südwärts nach Bar bei konstanten 110 km/h ohne Mühe und hat den Kofferraum für Strandgepäck nach Jaz und Tagesausrüstung in den Durmitor beim selben Aufenthalt. Komfortabel auf der 80 km langen Grenzfahrt nach Dubrovnik über Debeli Brijeg.",
+      "category": "Mittelklasse",
+      "bestFor": {
+        "0": "Vierköpfige Familien",
+        "1": "Roadtripper",
+        "2": "Grenzgänger"
+      },
+      "features": {
+        "0": "Automatikgetriebe",
+        "1": "Adaptiver Tempomat",
+        "2": "Zwei-Zonen-Klimaautomatik",
+        "3": "Großer Kofferraum"
+      }
+    },
+    "kia-stonic": {
+      "name": "Kia Stonic",
+      "tagline": "Erhöhte Bodenfreiheit ohne SUV-Preis, der Kompromiss für Hinterstraßen",
+      "lede": "352-Liter-Kofferraum, höhere Sitzposition als ein Schrägheck, sparsamer 1,0-Liter-Benziner. Das Crossover für die Lovćen-Straße und den Abzweig zum Skadarsee.",
+      "suitability": "Mieter, die eine höhere Sitzposition und etwas mehr Bodenfreiheit für Abstecher ins Landesinnere von Budva wollen, ohne Premium-SUV-Preise zu zahlen.",
+      "regional": "Die zusätzliche Bodenfreiheit nimmt dem geflickten Asphalt oberhalb von Petrovac und auf dem Abzweig zu den Skadar-Weindörfern die Schärfe, und der Kofferraum schluckt genug Gepäck für eine Übernachtung in Cetinje. Nur Frontantrieb, also für trockene Sommerpisten wählen, nicht für Winterschnee bis Žabljak.",
+      "category": "Kompakt-Crossover",
+      "bestFor": {
+        "0": "Paare ins Landesinnere",
+        "1": "Tagestour-Hopper",
+        "2": "Sparsame Crossover-Mieter"
+      },
+      "features": {
+        "0": "Erhöhte Bodenfreiheit",
+        "1": "Apple CarPlay",
+        "2": "Rückfahrkamera",
+        "3": "Spurhalteassistent"
+      }
+    },
+    "vw-golf": {
+      "name": "VW Golf",
+      "tagline": "Der Maßstab unter den Hatches, DSG-Diesel für jede Riviera-Fahrt",
+      "lede": "Die Wendigkeit eines Polo, die Langstrecken-Eignung eines 308. Die vernünftige Standardwahl für die meisten Budva-Fahrten.",
+      "suitability": "Paare oder kleine Familien, die Polo-Wendigkeit in der Stadt und Langstreckenkomfort für Fahrten nach Podgorica oder Dubrovnik wollen, ohne in die SUV-Klasse zu wechseln.",
+      "regional": "Fädelt sich auf der Budva-Ringstraße in Schultempo und legt sich dann mit 120 km/h auf die Anfahrt zum Sozina-Tunnel Richtung Bar. 4,3 L/100 km auf der Küstentour nach Ulcinj, und das DSG wählt auf den Cetinje-Serpentinen die richtige Übersetzung, bevor Sie daran denken.",
+      "category": "Mittelklasse",
+      "bestFor": {
+        "0": "Allein- und Paarreisende",
+        "1": "Kombinierte Riviera- und Inlandstouren",
+        "2": "Schnelle Transfers vom Flughafen Tivat"
+      },
+      "features": {
+        "0": "DSG-Automatik",
+        "1": "Adaptiver Tempomat",
+        "2": "Digital Cockpit",
+        "3": "Apple CarPlay"
+      }
+    },
+    "toyota-yaris": {
+      "name": "Toyota Yaris",
+      "tagline": "Sparsamster Verbrauch der Flotte, der Hybrid genießt Stop-and-Go in Budva",
+      "lede": "3,8 L/100 km im Realbetrieb. Der Yaris Hybrid kostet pro Kilometer rund die Hälfte einer Diesel-Mittelklasse.",
+      "suitability": "Reisende, die zwei Wochen mit halbem Spritbudget unterwegs sein wollen. Der Hybrid rechnet sich beim sommerlichen Schritttempo durch Budva und Bečići.",
+      "regional": "Rein elektrisch durch die 30er-Zone in Bečići bei Tagesanbruch, dann gleitet er bis Sveti Stefan, ohne dass die Tanknadel sich rührt. Nicht die richtige Wahl für lange Bergfahrten Richtung Kolašin, wo der Akku am Anstieg leer wird.",
+      "category": "Economy",
+      "bestFor": {
+        "0": "Spritbewusste Reisende",
+        "1": "Stadtnahe Touren",
+        "2": "Stop-and-Go an der Riviera"
+      },
+      "features": {
+        "0": "Hybridantrieb",
+        "1": "Rückfahrkamera",
+        "2": "Apple CarPlay",
+        "3": "Adaptiver Tempomat"
+      }
+    },
+    "overviewTitle": "Auf einen Blick",
+    "specsTitle": "Komplette Ausstattung",
+    "featuresTitle": "Im Innenraum",
+    "whoForTitle": "Für wen ist dieses Auto?",
+    "regionalTitle": "Bester regionaler Einsatz",
+    "articleTitle": "Auf Montenegros Straßen",
+    "relatedTitle": "Wohin Sie dieses Auto bringt",
+    "checkAvailability": "Verfügbarkeit und aktuelle Preise prüfen",
+    "nextBtn": "Nächstes Modell",
+    "sections": {
+      "behindWheel": "Am Steuer",
+      "onRoads": "Auf Montenegros Straßen",
+      "spaceLoad": "Platz und Beladung",
+      "bestFor": "Beste Touren mit diesem Auto",
+      "practical": "Praktische Hinweise",
+      "verdict": "Das Fazit"
+    }
   },
   "fleetShowcase": {
     "label": "Kennen Sie Ihr Auto",
@@ -995,5 +1152,37 @@
     "intro1": "Sieben Autos, ausgewählt für die Budvaer Riviera, die 21 km Küste vom Jaz-Strand im Norden bis Petrovac im Süden, mit Sveti Stefan, Bečići und Rafailovići dazwischen. Die Flotte orientiert sich daran, was Gäste hier tatsächlich fahren: ein Fiat 500 für die engen Gassen hinter Mogren, ein Peugeot 208 für Fahrer, die die Sveti-Stefan-Serpentinen als Teil des Urlaubs sehen, ein Renault Clio für Paare auf der Jaz–Petrovac-Runde, ein Toyota Yaris Hybrid für zwei Wochen zur Hälfte des Spritbudgets, ein Kia Stonic für Inland-Tage zum Skadar-See, und ein VW-Golf-/Peugeot-308-Duo für Viererrunden mit Dubrovnik im Programm.",
     "intro2": "Zwei Dinge sind auf der Budvaer Riviera wichtiger, als Erstgäste erwarten. Erstens ist die Altstadt (Stari Grad) reine Fußgängerzone, man fährt nicht hinein. Parken am Rand: gebührenpflichtige Buchten an der Slovenska (1–2 €/h Sommer, November–April frei), der Parkplatz Slovenska Plaža oder die überdachte TQ-Plaza-Tiefgarage für Wochenendnächte. Zweitens ist die Küstenstraße nach Süden, die M2 / E80, das Rückgrat von allem: Sveti Stefan 12 km südlich, Petrovac 17 km, die kroatische Grenze bei Debeli Brijeg rund 80 km / 90 Minuten nördlich. Dimensionieren Sie das Auto nach dem weitesten Punkt Ihrer Tour.",
     "intro3": "Wenn Sie unsicher sind, welches Auto zur Woche passt, gelten zwei einfache Regeln. Erstens: Strandshuttle zwischen Bečići und Rafailovići braucht Kühltasche und Liegen, kein Campingbett, Clio oder Yaris lösen das ohne Aufpreis. Zweitens: Sobald Sveti-Stefan-Vidikovac, der Lovćen-Serpentinenweg über Kotor oder ein Dubrovnik-Tag über Debeli Brijeg im Plan stehen, lohnt sich eine automatische Mittelklasse, 308 oder Golf DSG verändern den Tag, sobald die Haarnadeln zu stapeln beginnen."
+  },
+  "carSpecs": {
+    "values": {
+      "Petrol": "Benzin",
+      "Manual": "Schaltgetriebe",
+      "Diesel": "Diesel",
+      "Automatic": "Automatik",
+      "Hybrid": "Hybrid"
+    },
+    "seats": "Sitze",
+    "transmission": "Gangschaltung",
+    "fuel": "Kraftstoff",
+    "luggage": "Gepäck",
+    "bootSize": "Kofferraum",
+    "mpg": "Verbrauch",
+    "bagsSuffix": "Stk."
+  },
+  "locationsList": {
+    "0": {
+      "name": "Altstadt Budva",
+      "tag": "Am beliebtesten"
+    },
+    "1": {
+      "name": "Flughafen Tivat",
+      "tag": "22 km"
+    },
+    "2": {
+      "name": "Bečići"
+    },
+    "3": {
+      "name": "Sveti Stefan"
+    }
   }
 }

@@ -13,7 +13,8 @@
     "callUs": "Call Us",
     "bookNow": "Book Now",
     "perDay": "per day",
-    "emailUs": "Email Us"
+    "emailUs": "Email Us",
+    "readGuide": "Read guide"
   },
   "hero": {
     "headline": "Budva Car Hire",
@@ -97,7 +98,11 @@
     "helpText": "WhatsApp, Viber, or old-fashioned phone, we pick up fast.",
     "popularDest": "Popular Destinations",
     "tivatAirport": "Tivat Airport",
-    "dubrovnikAirport": "Dubrovnik Airport"
+    "dubrovnikAirport": "Dubrovnik Airport",
+    "westernBayGuides": "Western Bay Guides",
+    "easternBayGuides": "Eastern Bay Guides",
+    "northernGuides": "Northern Bay Guides",
+    "regionGuides": "Region Guides"
   },
   "book": {
     "title": "Find Your Car",
@@ -943,7 +948,8 @@
   "relatedGuides": {
     "secretChurches": "Hidden Corners",
     "vrmacRidge": "Scenic Drives",
-    "swimmingSpots": "Best Swimming Spots"
+    "swimmingSpots": "Best Swimming Spots",
+    "title": "You might also like"
   },
   "navTop": {
     "carRental": "Car Rental",
@@ -969,10 +975,161 @@
     "sendButton": "Send Message",
     "nameLabel": "Your name",
     "emailFieldLabel": "Your email",
-    "messagePlaceholder": "How can we help?"
+    "messagePlaceholder": "How can we help?",
+    "thanks": "Thanks for getting in touch, we will reply within a few hours."
   },
   "cars": {
-    "readGuide": "Read guide"
+    "readGuide": "Read guide",
+    "peugeot-208": {
+      "name": "Peugeot 208",
+      "tagline": "Stylish French supermini that carves the Sveti Stefan hairpins",
+      "lede": "Distinctive 208 Mk2, small, sharp, the small-car choice for drivers who care what they're sitting in.",
+      "suitability": "Two travellers who want a small car that feels like an event rather than an appliance, the 208 has the sharpest chassis at this end of the riviera fleet.",
+      "regional": "Light nose, small turning circle and a tiny steering wheel that makes the Sveti Stefan hairpins and the single-track above Pržno feel bespoke. Lively on the E80 to Petrovac; at 4,055 mm still slots into the Slovenska summer bays without drama.",
+      "category": "Economy",
+      "bestFor": {
+        "0": "Couples",
+        "1": "Design-led renters",
+        "2": "Coastal-road drivers"
+      },
+      "features": {
+        "0": "3D i-Cockpit",
+        "1": "Apple CarPlay",
+        "2": "Cruise Control",
+        "3": "Lane Assist"
+      }
+    },
+    "renault-clio": {
+      "name": "Renault Clio",
+      "tagline": "The default Budva rental, compact, cheap to fuel, easy to park at Bečići",
+      "lede": "Most common rental on the riviera. Five doors, 391-litre boot, built for the Jaz-to-Petrovac routine.",
+      "suitability": "Two travellers with cabin bags doing Budva, Sveti Stefan and a day trip to Kotor. The workhorse of the riviera rental fleet.",
+      "regional": "Fits the pay-by-hour bays along Slovenska, threads the single-track lane down to Kamenovo, and holds 110 km/h on the E80 stretch toward Bar without fuss. The default riviera choice for a reason.",
+      "category": "Economy",
+      "bestFor": {
+        "0": "First-time riviera visitors",
+        "1": "Couples",
+        "2": "Short coastal stays"
+      },
+      "features": {
+        "0": "Bluetooth Audio",
+        "1": "USB Charging",
+        "2": "Central Locking",
+        "3": "Touchscreen Display"
+      }
+    },
+    "fiat-500": {
+      "name": "Fiat 500",
+      "tagline": "Tiny postcard city car for the Stari Grad perimeter and Mogren back lanes",
+      "lede": "Parks where nothing else fits, ideal for stays anchored in Budva, Bečići or Rafailovići.",
+      "suitability": "One or two travellers staying inside Budva, where summer parking is brutal and most trips are under 20 km along the riviera.",
+      "regional": "The only car that genuinely slips into the back lanes behind Mogren Beach. A photographer's companion: sunroof open at the Sveti Stefan overlook, boot just big enough for a tripod bag and a beach towel.",
+      "category": "City",
+      "bestFor": {
+        "0": "Solo travellers",
+        "1": "Short Budva stays",
+        "2": "Photographers"
+      },
+      "features": {
+        "0": "Compact Size",
+        "1": "Easy Parking",
+        "2": "Sunroof",
+        "3": "Bluetooth"
+      }
+    },
+    "peugeot-308": {
+      "name": "Peugeot 308",
+      "tagline": "Grown-up French mid-size, diesel torque for the Budva-to-Dubrovnik run",
+      "lede": "Quiet BlueHDi diesel, proper long-legged cruiser with a 412-litre boot, the family-of-four default.",
+      "suitability": "Four adults with luggage, or a family with a pushchair. Diesel plus auto plus cruise is the combination for riviera-based trips that include Dubrovnik or Skadar.",
+      "regional": "Eats the E80 south to Bar at a steady 110 without fuss, has the boot for beach gear to Jaz and day-trip kit to Durmitor on the same visit. Comfortable on the 80 km cross-border push to Dubrovnik via Debeli Brijeg.",
+      "category": "Mid-Size",
+      "bestFor": {
+        "0": "Families of four",
+        "1": "Road-trippers",
+        "2": "Cross-border drivers"
+      },
+      "features": {
+        "0": "Automatic Transmission",
+        "1": "Adaptive Cruise",
+        "2": "Dual-Zone Climate",
+        "3": "Large Boot"
+      }
+    },
+    "kia-stonic": {
+      "name": "Kia Stonic",
+      "tagline": "Raised ride height without the rental SUV price, the back-road compromise",
+      "lede": "352-litre boot, higher ride than a hatch, modest 1.0-litre petrol, the crossover for the Lovćen road and the Skadar Lake spur.",
+      "suitability": "Renters who want a higher driving position and a little more ground clearance for inland detours from Budva, without paying premium-SUV money.",
+      "regional": "The extra ride height takes the edge off the patched tarmac above Petrovac and on the spur to the Skadar wine villages, and the boot swallows enough gear for an overnight in Cetinje. Front-wheel drive only, pick this for dry summer tracks, not winter snow up to Žabljak.",
+      "category": "Compact Crossover",
+      "bestFor": {
+        "0": "Couples heading inland",
+        "1": "Day-trip hoppers",
+        "2": "Budget crossover renters"
+      },
+      "features": {
+        "0": "Raised Ride Height",
+        "1": "Apple CarPlay",
+        "2": "Reversing Camera",
+        "3": "Lane Keep Assist"
+      }
+    },
+    "vw-golf": {
+      "name": "VW Golf",
+      "tagline": "The benchmark hatch, DSG diesel that handles every riviera journey adequately",
+      "lede": "Polo's agility, 308's distance-eating ability, the rational default for most Budva trips.",
+      "suitability": "Couples or small families who want Polo-style town agility plus the long-distance refinement for runs to Podgorica or Dubrovnik, without stepping up to an SUV.",
+      "regional": "Threads the Budva ring road at school-run pace and then settles at 120 on the Sozina tunnel approach to Bar. 4.3 L/100 km on the coastal cruise to Ulcinj, and the DSG picks the right gear on the Cetinje switchbacks before you think about it.",
+      "category": "Mid-Size",
+      "bestFor": {
+        "0": "Solo and couple travellers",
+        "1": "Mixed riviera + inland trips",
+        "2": "Quick Tivat Airport transfers"
+      },
+      "features": {
+        "0": "DSG Automatic",
+        "1": "Adaptive Cruise",
+        "2": "Digital Cockpit",
+        "3": "Apple CarPlay"
+      }
+    },
+    "toyota-yaris": {
+      "name": "Toyota Yaris",
+      "tagline": "Cheapest to fuel in the fleet, the hybrid sips petrol in Budva stop-start",
+      "lede": "3.8 L/100 km in real use. The Yaris Hybrid costs roughly half what a diesel mid-size does per kilometre.",
+      "suitability": "Travellers who want to drive a fortnight on half the fuel bill. The hybrid pays for itself on the slow summer crawl through Budva and Bečići.",
+      "regional": "Pure-electric rolling through Bečići's 30 km/h zone at dawn, then glides to Sveti Stefan without touching the fuel needle. Don't pick it for long mountain climbs toward Kolašin where the battery drains on the grade.",
+      "category": "Economy",
+      "bestFor": {
+        "0": "Fuel-conscious travellers",
+        "1": "Urban-focused trips",
+        "2": "Stop-start riviera driving"
+      },
+      "features": {
+        "0": "Hybrid Drivetrain",
+        "1": "Reversing Camera",
+        "2": "Apple CarPlay",
+        "3": "Adaptive Cruise"
+      }
+    },
+    "overviewTitle": "At a glance",
+    "specsTitle": "Full specification",
+    "featuresTitle": "Inside the car",
+    "whoForTitle": "Who is this car for?",
+    "regionalTitle": "Best regional use",
+    "articleTitle": "On Montenegro roads",
+    "relatedTitle": "Where this car takes you",
+    "checkAvailability": "Check availability & live pricing",
+    "nextBtn": "Next in fleet",
+    "sections": {
+      "behindWheel": "Behind the wheel",
+      "onRoads": "On Montenegro roads",
+      "spaceLoad": "Space and load",
+      "bestFor": "Best journeys for this car",
+      "practical": "Practical notes",
+      "verdict": "The verdict"
+    }
   },
   "fleetShowcase": {
     "label": "Know your car",
@@ -995,5 +1152,37 @@
     "intro1": "Seven cars sized for the Budva Riviera, the 21 km stretch of coast that runs from Jaz Beach in the north to Petrovac in the south, with Sveti Stefan, Bečići and Rafailovići strung between. The fleet is picked around what renters here actually drive: a Fiat 500 for the tight lanes behind Mogren where the summer pedestrian zone squeezes everything wider than 1.7 m, a Peugeot 208 for drivers who treat the Sveti Stefan hairpins as part of the holiday, a Renault Clio for the couple doing Jaz-to-Petrovac every day of the week, a Toyota Yaris Hybrid for the renter who wants a fortnight on half the fuel bill, a Kia Stonic for days that head inland to Skadar Lake or the Crmnica wineries, and a VW Golf / Peugeot 308 pair for four-up trips that include the 80 km cross-border push to Dubrovnik.",
     "intro2": "Two things matter more on the Budva Riviera than most arriving renters expect. First, Budva Old Town (Stari Grad) is fully pedestrianised, you cannot drive in. Park at the perimeter: the metered Slovenska street bays (€1–2/h in summer, free November to April), the Slovenska Plaža lot, or the covered TQ Plaza underground for peak-weekend overnight. Second, the coast road south, the M2 / E80, is the spine of everything: Sveti Stefan is 12 km south, Petrovac 17 km, the Croatian border at Debeli Brijeg about 80 km / 90 min north. Size the car for the far end of your itinerary, not the first parking space.",
     "intro3": "If you are not sure which car fits your week, two rules work for most Riviera-based trips. One, if your days will be spent shuttling between beaches, lounger-and-cool-bag loadouts matter more than camping kit, a Clio or Yaris handles this without drama and without a premium. Two, if Sveti Stefan viewpoints, the Lovćen switchback above Kotor or a Dubrovnik day trip via Debeli Brijeg are on the list, spend the extra for an auto mid-size, a 308 or Golf DSG changes the day entirely once the hairpins start stacking. All seven cars below cover the full coast; the difference is how you arrive at the end of it."
+  },
+  "carSpecs": {
+    "values": {
+      "Petrol": "Petrol",
+      "Manual": "Manual",
+      "Diesel": "Diesel",
+      "Automatic": "Automatic",
+      "Hybrid": "Hybrid"
+    },
+    "seats": "Seats",
+    "transmission": "Gearbox",
+    "fuel": "Fuel",
+    "luggage": "Luggage",
+    "bootSize": "Boot",
+    "mpg": "Economy",
+    "bagsSuffix": "bags"
+  },
+  "locationsList": {
+    "0": {
+      "name": "Budva Old Town",
+      "tag": "Most Popular"
+    },
+    "1": {
+      "name": "Tivat Airport",
+      "tag": "22 km"
+    },
+    "2": {
+      "name": "Bečići"
+    },
+    "3": {
+      "name": "Sveti Stefan"
+    }
   }
 }

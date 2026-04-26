@@ -13,7 +13,8 @@
     "callUs": "Pozovite Nas",
     "bookNow": "Rezerviši Sad",
     "perDay": "po danu",
-    "emailUs": "Pošaljite email"
+    "emailUs": "Pošaljite email",
+    "readGuide": "Pročitaj vodič"
   },
   "hero": {
     "headline": "Rent a Car Budva",
@@ -97,7 +98,11 @@
     "helpText": "Naš tim je dostupan putem WhatsApp, Viber ili telefona.",
     "popularDest": "Popularne Destinacije",
     "tivatAirport": "Aerodrom Tivat",
-    "dubrovnikAirport": "Aerodrom Dubrovnik"
+    "dubrovnikAirport": "Aerodrom Dubrovnik",
+    "westernBayGuides": "Vodiči zapadnog Boke",
+    "easternBayGuides": "Vodiči istočne Boke",
+    "northernGuides": "Vodiči sjeverne Boke",
+    "regionGuides": "Vodiči regije"
   },
   "book": {
     "title": "Pronađite Vaš Auto",
@@ -943,7 +948,8 @@
   "relatedGuides": {
     "secretChurches": "Skriveni uglovi",
     "vrmacRidge": "Vožnje s pogledom",
-    "swimmingSpots": "Najbolje plaže za kupanje"
+    "swimmingSpots": "Najbolje plaže za kupanje",
+    "title": "Moglo bi vam se svidjeti"
   },
   "navTop": {
     "carRental": "Najam automobila",
@@ -969,10 +975,161 @@
     "sendButton": "Pošalji poruku",
     "nameLabel": "Vaše ime",
     "emailFieldLabel": "Vaš e-mail",
-    "messagePlaceholder": "Kako možemo pomoći?"
+    "messagePlaceholder": "Kako možemo pomoći?",
+    "thanks": "Hvala što ste nam se javili, odgovorićemo u roku od nekoliko sati."
   },
   "cars": {
-    "readGuide": "Pročitaj vodič"
+    "readGuide": "Pročitaj vodič",
+    "peugeot-208": {
+      "name": "Peugeot 208",
+      "tagline": "Stilski francuski supermini koji savladava serpentine Sveti Stefan",
+      "lede": "Karakterističan 208 Mk2, mali, oštar, izbor među malim automobilima za vozače kojima je važno čime voze.",
+      "suitability": "Dvoje putnika koji žele mali automobil koji djeluje kao doživljaj a ne kao alat, 208 ima najoštriju šasiju u ovom dijelu rivijerske flote.",
+      "regional": "Lagan prednji dio, mali krug okretanja i mali volan koji čini serpentine Sveti Stefan i jednosmjerni put iznad Pržna posebnim. Živahan na E80 prema Petrovcu, sa 4.055 mm i dalje stane u ljetne parking niše Slovenske obale.",
+      "category": "Ekonomična",
+      "bestFor": [
+        "Parovi",
+        "Korisnici sa osjećajem za dizajn",
+        "Vozači obalnih puteva"
+      ],
+      "features": [
+        "3D i-Cockpit",
+        "Apple CarPlay",
+        "Tempomat",
+        "Asistent trake"
+      ]
+    },
+    "renault-clio": {
+      "name": "Renault Clio",
+      "tagline": "Standardni najam u Budvi, kompaktan, jeftin za gorivo, lak za parking u Bečićima",
+      "lede": "Najčešći najam na rivijeri. Petoro vrata, gepek od 391 litre, napravljen za rutinu Jaz, Petrovac.",
+      "suitability": "Dvoje putnika sa kabinskim torbama koji obilaze Budvu, Sveti Stefan i idu na dnevni izlet u Kotor. Radni konj rivijerske flote.",
+      "regional": "Stane u parkinge na sat duž Slovenske, prolazi jednosmjernim putem do Kamenova, drži 110 km/h na E80 prema Baru bez napora. Standardni izbor rivijere s razlogom.",
+      "category": "Ekonomična",
+      "bestFor": [
+        "Posjetioci rivijere prvi put",
+        "Parovi",
+        "Kratki boravci na obali"
+      ],
+      "features": [
+        "Bluetooth audio",
+        "USB punjenje",
+        "Centralno zaključavanje",
+        "Ekran osjetljiv na dodir"
+      ]
+    },
+    "fiat-500": {
+      "name": "Fiat 500",
+      "tagline": "Mali gradski automobil za perimetar Starog grada Budve i sporedne uličice Mogrena",
+      "lede": "Parkira gdje ništa drugo ne može, idealan za boravke usidrene u Budvi, Bečićima ili Rafailovićima.",
+      "suitability": "Jedan ili dvoje putnika koji borave u Budvi, gdje je ljetno parkiranje surovo, a većina vožnji ispod 20 km duž rivijere.",
+      "regional": "Jedini automobil koji zaista ulazi u sporedne uličice iza plaže Mogren. Prijatelj fotografa: krov otvoren na vidikovcu Sveti Stefan, gepek tek dovoljan za torbu sa stativom i peškir za plažu.",
+      "category": "Gradski",
+      "bestFor": [
+        "Solo putnici",
+        "Kratki boravci u Budvi",
+        "Fotografi"
+      ],
+      "features": [
+        "Kompaktne dimenzije",
+        "Lako parkiranje",
+        "Krov na otvaranje",
+        "Bluetooth"
+      ]
+    },
+    "peugeot-308": {
+      "name": "Peugeot 308",
+      "tagline": "Ozbiljna francuska srednja klasa, dizel za vožnju Budva, Dubrovnik",
+      "lede": "Tih BlueHDi dizel, pravi krstaš za duge dionice sa gepekom od 412 litara, podrazumijevani izbor za četvoročlanu porodicu.",
+      "suitability": "Četiri odrasla sa prtljagom ili porodica sa kolicima. Dizel plus automatik plus tempomat je kombinacija za putovanja iz rivijere koja uključuju Dubrovnik ili Skadar.",
+      "regional": "Bez napora vozi E80 prema Baru ustaljenih 110, ima gepek za opremu za plažu u Jazu i pribor za dnevni izlet u Durmitor u istoj posjeti. Udoban na 80 km vožnje preko granice prema Dubrovniku preko Debelog Brijega.",
+      "category": "Srednja klasa",
+      "bestFor": [
+        "Porodice od četiri člana",
+        "Putnici na duže staze",
+        "Vozači preko granice"
+      ],
+      "features": [
+        "Automatski mjenjač",
+        "Adaptivni tempomat",
+        "Klima dual-zone",
+        "Veliki gepek"
+      ]
+    },
+    "kia-stonic": {
+      "name": "Kia Stonic",
+      "tagline": "Povišena šasija bez cijene SUV najma, kompromis za sporedne puteve",
+      "lede": "Gepek od 352 litre, viša šasija od hečbeka, skroman 1.0 litarski benzin, krosover za put ka Lovćenu i krak prema Skadarskom jezeru.",
+      "suitability": "Korisnici koji žele viši položaj vožnje i nešto više klirensa za izlete u unutrašnjost iz Budve, bez cijene premium SUV-a.",
+      "regional": "Dodatna visina šasije ublažava zakrpljen asfalt iznad Petrovca i krak prema vinskim selima Skadra, a gepek prima dovoljno opreme za noćenje u Cetinju. Samo prednji pogon, biraj za suve ljetne staze, ne za zimski snijeg do Žabljaka.",
+      "category": "Kompaktni krosover",
+      "bestFor": [
+        "Parovi koji idu u unutrašnjost",
+        "Vozači dnevnih izleta",
+        "Najam krosovera sa skromnim budžetom"
+      ],
+      "features": [
+        "Povišena visina šasije",
+        "Apple CarPlay",
+        "Kamera za vožnju unazad",
+        "Asistent za zadržavanje trake"
+      ]
+    },
+    "vw-golf": {
+      "name": "VW Golf",
+      "tagline": "Referentni hečbek, DSG dizel koji adekvatno rješava svaku rivijersku vožnju",
+      "lede": "Polova okretnost, sposobnost 308 da gricka kilometre, racionalan izbor za većinu vožnji iz Budve.",
+      "suitability": "Parovi ili manje porodice koji žele Polovu gradsku okretnost uz profinjenost na velikim razdaljinama za vožnju do Podgorice ili Dubrovnika, bez prelaska na SUV.",
+      "regional": "Provlači se kroz budvanski obilazni put školskim tempom i smiruje se na 120 na prilazu tunelu Sozina prema Baru. 4,3 L/100 km na obalnoj vožnji do Ulcinja, a DSG bira pravu brzinu na serpentinama prema Cetinju prije nego pomislite.",
+      "category": "Srednja klasa",
+      "bestFor": [
+        "Solo putnici i parovi",
+        "Mješoviti rivijerski i izleti u unutrašnjost",
+        "Brzi transferi sa Aerodroma Tivat"
+      ],
+      "features": [
+        "DSG automatik",
+        "Adaptivni tempomat",
+        "Digitalna instrument tabla",
+        "Apple CarPlay"
+      ]
+    },
+    "toyota-yaris": {
+      "name": "Toyota Yaris",
+      "tagline": "Najjeftiniji za gorivo u floti, hibrid štedi benzin u budvanskom stop-and-go saobraćaju",
+      "lede": "3,8 L/100 km u stvarnoj upotrebi. Yaris Hybrid košta otprilike duplo manje po kilometru od dizel srednje klase.",
+      "suitability": "Putnici koji žele da odvoze dvije sedmice na pola računa za gorivo. Hibrid se sam isplati u sporom ljetnom saobraćaju kroz Budvu i Bečiće.",
+      "regional": "Električnim pogonom kroz zonu od 30 km/h u Bečićima u zoru, a zatim klizi do Sveti Stefana bez doticanja igle goriva. Ne biraj ga za duge planinske uspone prema Kolašinu gdje se baterija prazni na nagibu.",
+      "category": "Ekonomična",
+      "bestFor": [
+        "Putnici svjesni potrošnje",
+        "Gradski izleti",
+        "Vožnja rivijerom sa čestim zaustavljanjima"
+      ],
+      "features": [
+        "Hibridni pogon",
+        "Kamera za vožnju unazad",
+        "Apple CarPlay",
+        "Adaptivni tempomat"
+      ]
+    },
+    "overviewTitle": "Ukratko",
+    "specsTitle": "Puna specifikacija",
+    "featuresTitle": "Unutrašnjost",
+    "whoForTitle": "Za koga je ovaj automobil?",
+    "regionalTitle": "Najbolja regionalna upotreba",
+    "articleTitle": "Na crnogorskim putevima",
+    "relatedTitle": "Kuda vas ovaj automobil vodi",
+    "checkAvailability": "Provjerite dostupnost i cijene uživo",
+    "nextBtn": "Sljedeći u floti",
+    "sections": {
+      "behindWheel": "Iza volana",
+      "onRoads": "Na crnogorskim putevima",
+      "spaceLoad": "Prostor i prtljag",
+      "bestFor": "Najbolja putovanja za ovaj automobil",
+      "practical": "Praktične napomene",
+      "verdict": "Zaključak"
+    }
   },
   "fleetShowcase": {
     "label": "Upoznajte svoj auto",
@@ -995,5 +1152,37 @@
     "intro1": "Sedam vozila prilagođenih Budvanskoj rivijeri, 21 km obale od plaže Jaz na sjeveru do Petrovca na jugu, sa Svetim Stefanom, Bečićima i Rafailovićima između. Flota je odabrana prema onome što se ovdje stvarno vozi: Fiat 500 za uske uličice iza Mogrena, Peugeot 208 za vozače kojima su serpentine ka Svetom Stefanu dio odmora, Renault Clio za par koji svaki dan radi rutu Jaz–Petrovac, Toyota Yaris Hybrid za dvije nedjelje uz pola troška goriva, Kia Stonic za dane ka Skadarskom jezeru i vinogradima Crmnice, i par VW Golf / Peugeot 308 za četveročlane vožnje sa skokom u Dubrovnik.",
     "intro2": "Dvije stvari na Budvanskoj rivijeri znače više nego što pridošlice očekuju. Prvo: Stari grad (Stari Grad) je potpuno pješačka zona, ne ulazi se kolima. Parkirajte po obodu: naplaćene zone na Slovenskoj (1–2 €/h ljeti, besplatno od novembra do aprila), parking Slovenska Plaža ili natkriveni podzemni TQ Plaza za noći tokom vikenda. Drugo: priobalni put ka jugu, M2 / E80, kičma je svega: Sveti Stefan 12 km južno, Petrovac 17 km, hrvatska granica Debeli Brijeg oko 80 km / 90 min sjeverno. Dimenzionirajte auto prema najudaljenijoj tački vaše rute.",
     "intro3": "Ako niste sigurni koji auto da izaberete, dva pravila obično važe. Prvo: ako vam dani budu šetnja između plaža, ležaljka i frižider su važniji od opreme za kamp, Clio ili Yaris to rješavaju bez drame i doplate. Drugo: ako su vidikovci Svetog Stefana, serpentine Lovćena iznad Kotora ili dnevni izlet u Dubrovnik preko Debelog Brijega u planu, doplatite za srednju klasu s automatikom, 308 ili Golf DSG mijenjaju dan čim se okretnice počnu redati."
-  }
+  },
+  "carSpecs": {
+    "values": {
+      "Petrol": "Benzin",
+      "Manual": "Manuelno",
+      "Diesel": "Dizel",
+      "Automatic": "Automatik",
+      "Hybrid": "Hibrid"
+    },
+    "seats": "Sjedišta",
+    "transmission": "Mjenjač",
+    "fuel": "Gorivo",
+    "luggage": "Prtljag",
+    "bootSize": "Gepek",
+    "mpg": "Potrošnja",
+    "bagsSuffix": "torbe"
+  },
+  "locationsList": [
+    {
+      "name": "Stari grad Budva",
+      "tag": "Najpopularnije"
+    },
+    {
+      "name": "Aerodrom Tivat",
+      "tag": "22 km"
+    },
+    {
+      "name": "Bečići"
+    },
+    {
+      "name": "Sveti Stefan"
+    }
+  ]
 }

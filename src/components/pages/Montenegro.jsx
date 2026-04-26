@@ -7,7 +7,7 @@ export default function Montenegro() {
     <ContentPage title={t("montenegro.title")} subtitle={t("montenegro.subtitle")} description={t("montenegro.seoDesc")} image="/img/montenegro-driving.webp">
       <h2>{t('montenegroBody.h1')}</h2>
       <p>{t('montenegroBody.p1')}</p>
-      <img src="/img/montenegro-driving.webp" alt="Montenegro coastal driving" loading="lazy" />
+      <img src="/img/montenegro-driving.webp" alt={t('imageAlts.montenegroCoastalDriving') || 'Montenegro coastal driving'} loading="lazy" />
       <p>{t('montenegroBody.p2')}</p>
 
       <h2>{t('montenegroBody.startTitle')}</h2>
@@ -37,7 +37,7 @@ export default function Montenegro() {
       <h2>{t('montenegroBody.conditionsTitle')}</h2>
       <p>{t('montenegroBody.conditionsText')}</p>
 
-      <img src="/img/montenegro-driving.webp" alt="Mountain switchback road" loading="lazy" />
+      <img src="/img/montenegro-driving.webp" alt={t('imageAlts.mountainSwitchbackRoad') || 'Mountain switchback road'} loading="lazy" />
 
       <h2>{t('montenegroBody.routesTitle')}</h2>
       <h3>{t('montenegroBody.e65Title')}</h3>

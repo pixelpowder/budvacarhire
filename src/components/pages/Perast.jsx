@@ -9,7 +9,7 @@ export default function Perast() {
       <p>{t('perastBody.p1')}</p>
       <p>{t('perastBody.p2')}</p>
 
-      <img src="/img/kotor-nearby.webp" alt="Perast waterfront with islands" loading="lazy" />
+      <img src="/img/kotor-nearby.webp" alt={t('imageAlts.perastWaterfrontWithIslands') || 'Perast waterfront with islands'} loading="lazy" />
 
       <h2>{t('perastBody.islandsTitle')}</h2>
       <h3>{t('perastBody.stGeorgeTitle')}</h3>

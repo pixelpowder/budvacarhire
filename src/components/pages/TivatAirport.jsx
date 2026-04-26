@@ -10,7 +10,7 @@ export default function TivatAirport() {
       <p>{t('tivatAirportBody.p1')}</p>
       <p>{t('tivatAirportBody.p2')}</p>
 
-      <img src="/img/tivat-airport.webp" alt="Tivat Airport terminal" loading="lazy" />
+      <img src="/img/tivat-airport.webp" alt={t('imageAlts.tivatAirportTerminal') || 'Tivat Airport terminal'} loading="lazy" />
 
       <h2>{t('tivatAirportBody.whyTitle')}</h2>
       <p>{t('tivatAirportBody.whyText')}{t('tivatAirportBody.whyLinkPre')} <a href={localePath('/budva')}>{t('tivatAirportBody.whyLinkText')}</a> {t('tivatAirportBody.whyLinkPost')}</p>

@@ -1010,7 +1010,18 @@
         "3": "Lane Assist"
       },
       "inlineCaption": "Sveti Stefan hairpins, the 208 feels most at home on the sharpest corners of the Budva Riviera.",
-      "inlineAlt": "Road curving through Montenegro mountains"
+      "inlineAlt": "Road curving through Montenegro mountains",
+      "related": {
+        "0": {
+          "title": "Budva"
+        },
+        "1": {
+          "title": "Sveti Stefan viewpoints"
+        },
+        "2": {
+          "title": "Beach-hop the Riviera"
+        }
+      }
     },
     "renault-clio": {
       "name": "Renault Clio",
@@ -1031,7 +1042,18 @@
         "3": "Touchscreen Display"
       },
       "inlineCaption": "The coast road south of Budva, exactly the route the default Riviera rental was built for.",
-      "inlineAlt": "Montenegro Adriatic coast road"
+      "inlineAlt": "Montenegro Adriatic coast road",
+      "related": {
+        "0": {
+          "title": "Budva"
+        },
+        "1": {
+          "title": "Beach-hop the Riviera"
+        },
+        "2": {
+          "title": "Tivat Airport"
+        }
+      }
     },
     "fiat-500": {
       "name": "Fiat 500",
@@ -1052,7 +1074,18 @@
         "3": "Bluetooth"
       },
       "inlineCaption": "The Mogren-to-Rafailovići coastline, short hops between riviera viewpoints is where the 500 belongs.",
-      "inlineAlt": "Coastal road on the seashore near hills"
+      "inlineAlt": "Coastal road on the seashore near hills",
+      "related": {
+        "0": {
+          "title": "Budva Old Town"
+        },
+        "1": {
+          "title": "Budva Old Town walking"
+        },
+        "2": {
+          "title": "Budva sunrise & sunset"
+        }
+      }
     },
     "peugeot-308": {
       "name": "Peugeot 308",
@@ -1073,7 +1106,18 @@
         "3": "Large Boot"
       },
       "inlineCaption": "The E80 south toward Bar, the 308's natural habitat: cruise set, boot full, diesel humming.",
-      "inlineAlt": "Montenegro E80 highway"
+      "inlineAlt": "Montenegro E80 highway",
+      "related": {
+        "0": {
+          "title": "Dubrovnik Airport"
+        },
+        "1": {
+          "title": "Kotor"
+        },
+        "2": {
+          "title": "Petrovac to Buljarica"
+        }
+      }
     },
     "kia-stonic": {
       "name": "Kia Stonic",
@@ -1094,7 +1138,18 @@
         "3": "Lane Keep Assist"
       },
       "inlineCaption": "The spur from Virpazar toward the Crmnica wine villages, Stonic ride height earns its keep here.",
-      "inlineAlt": "Empty asphalt road between rocks and shrubs"
+      "inlineAlt": "Empty asphalt road between rocks and shrubs",
+      "related": {
+        "0": {
+          "title": "Budva to Skadar day trip"
+        },
+        "1": {
+          "title": "Petrovac to Buljarica"
+        },
+        "2": {
+          "title": "Perast"
+        }
+      }
     },
     "vw-golf": {
       "name": "VW Golf",
@@ -1115,7 +1170,18 @@
         "3": "Apple CarPlay"
       },
       "inlineCaption": "Tree-lined inland stretches above the Riviera, DSG plus diesel takes the thinking out of gear changes.",
-      "inlineAlt": "Scenic mountain road with tall trees"
+      "inlineAlt": "Scenic mountain road with tall trees",
+      "related": {
+        "0": {
+          "title": "Dubrovnik Airport"
+        },
+        "1": {
+          "title": "Budva to Skadar day trip"
+        },
+        "2": {
+          "title": "Kotor"
+        }
+      }
     },
     "toyota-yaris": {
       "name": "Toyota Yaris",
@@ -1136,7 +1202,18 @@
         "3": "Adaptive Cruise"
       },
       "inlineCaption": "A fortnight loop of Budva Riviera at Yaris Hybrid economy costs under €80 in fuel, quietly remarkable.",
-      "inlineAlt": "Aerial view of Montenegro mountains"
+      "inlineAlt": "Aerial view of Montenegro mountains",
+      "related": {
+        "0": {
+          "title": "Budva"
+        },
+        "1": {
+          "title": "Beach-hop the Riviera"
+        },
+        "2": {
+          "title": "Budva on a rainy day"
+        }
+      }
     },
     "overviewTitle": "At a glance",
     "specsTitle": "Full specification",
@@ -1293,5 +1370,61 @@
     "right4": "Lodge a complaint with a data protection authority",
     "h2Contact": "Contact",
     "contactText": "For any privacy-related questions, contact us via email at info@budvacarhire.com."
+  },
+  "termsBody": {
+    "lastUpdatedLabel": "Last updated:",
+    "lastUpdatedDate": "April 2026",
+    "h2About": "About This Website",
+    "pAbout": "Budva Car Hire (budvacarhire.com) is an affiliate website that connects travellers with car rental services in Budva, Montenegro. We are not a car rental company, we partner with LocalRent to provide real-time availability and booking services.",
+    "h2Booking": "Booking & Rental Terms",
+    "pBooking1": "All car rental bookings made through our website are processed and fulfilled by our partner, LocalRent. When you complete a booking, you enter into a rental agreement directly with the vehicle supplier, not with Budva Car Hire.",
+    "pBooking2": "The rental terms, including cancellation policies, insurance coverage, age requirements, and payment conditions, are set by the vehicle supplier and displayed during the booking process. We recommend reading these terms carefully before confirming any booking.",
+    "h2Role": "Our Role",
+    "pRoleProvide": "We provide:",
+    "roleProvide1": "A search interface to browse available rental vehicles",
+    "roleProvide2": "Destination and travel information about Montenegro",
+    "roleProvide3": "Customer support to help with enquiries before booking",
+    "pRoleNot": "We do not:",
+    "roleNot1": "Own, operate, or maintain any rental vehicles",
+    "roleNot2": "Process payments or handle refunds",
+    "roleNot3": "Set rental prices, insurance terms, or cancellation policies",
+    "h2Pricing": "Pricing",
+    "pPricing": "Prices displayed on our website are provided in real-time by our booking partner and are subject to change. The final price is confirmed at the time of booking. All prices include VAT and mandatory insurance unless otherwise stated.",
+    "h2Content": "Website Content",
+    "pContent": "We make every effort to ensure that information on this website is accurate and up to date. However, travel information, driving regulations, and border crossing requirements can change. We recommend verifying critical details (especially border crossing documents and driving rules) with official sources before your trip.",
+    "h2Liability": "Limitation of Liability",
+    "pLiabilityIntro": "Budva Car Hire acts as an intermediary and is not liable for:",
+    "liability1": "The condition or availability of rental vehicles",
+    "liability2": "Actions or omissions by rental suppliers",
+    "liability3": "Losses arising from border crossing issues or documentation problems",
+    "liability4": "Changes to prices after booking confirmation",
+    "h2IP": "Intellectual Property",
+    "pIP": "All content on this website, including text, design, and graphics, is owned by Budva Car Hire unless otherwise credited. Stock photography is used under licence from Pexels.",
+    "h2Contact": "Contact",
+    "pContact": "Questions about these terms? Contact us at info@budvacarhire.com."
+  },
+  "locationsSection": {
+    "label": "Pickup Points",
+    "title": "Where Can You Collect?",
+    "subtitle": "Multiple locations across Montenegro for maximum convenience."
+  },
+  "aria": {
+    "whatsapp": "Chat on WhatsApp",
+    "scrollTop": "Scroll to top"
+  },
+  "schema": {
+    "carDescription": "{category} rental, {transmission}, {fuel}, {seats} seats"
+  },
+  "imageAlts": {
+    "adriaticCoastRoad": "Adriatic coast road",
+    "bayOfKotorFromAbove": "Bay of Kotor from above",
+    "kotorBayRoad": "Kotor bay road",
+    "montenegroCoastalDriving": "Montenegro coastal driving",
+    "mountainSwitchbackRoad": "Mountain switchback road",
+    "perastWaterfrontWithIslands": "Perast waterfront with islands",
+    "podgoricaCathedral": "Cathedral of the Resurrection of Christ, Podgorica",
+    "portoMontenegroMarina": "Porto Montenegro marina and waterfront",
+    "tivatBayViews": "Tivat bay views",
+    "tivatAirportTerminal": "Tivat Airport terminal"
   }
 }

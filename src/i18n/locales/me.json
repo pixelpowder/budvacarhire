@@ -1010,7 +1010,18 @@
         "Asistent trake"
       ],
       "inlineCaption": "Serpentine kod Svetog Stefana, 208 se najbolje osjeća u najoštrijim krivinama Budvanske rivijere.",
-      "inlineAlt": "Put koji vijuga kroz crnogorske planine"
+      "inlineAlt": "Put koji vijuga kroz crnogorske planine",
+      "related": {
+        "0": {
+          "title": "Budva"
+        },
+        "1": {
+          "title": "Vidikovci Sveti Stefan"
+        },
+        "2": {
+          "title": "Plaže Rivijere"
+        }
+      }
     },
     "renault-clio": {
       "name": "Renault Clio",
@@ -1031,7 +1042,18 @@
         "Ekran osjetljiv na dodir"
       ],
       "inlineCaption": "Obalni put južno od Budve, baš ruta za koju je standardno iznajmljivanje na rivijeri i napravljeno.",
-      "inlineAlt": "Crnogorski jadranski obalni put"
+      "inlineAlt": "Crnogorski jadranski obalni put",
+      "related": {
+        "0": {
+          "title": "Budva"
+        },
+        "1": {
+          "title": "Plaže Rivijere"
+        },
+        "2": {
+          "title": "Aerodrom Tivat"
+        }
+      }
     },
     "fiat-500": {
       "name": "Fiat 500",
@@ -1052,7 +1074,18 @@
         "Bluetooth"
       ],
       "inlineCaption": "Obala od Mogrena do Rafailovića, kratke vožnje između vidikovaca rivijere su domen 500.",
-      "inlineAlt": "Obalni put pored mora blizu brda"
+      "inlineAlt": "Obalni put pored mora blizu brda",
+      "related": {
+        "0": {
+          "title": "Stari grad Budva"
+        },
+        "1": {
+          "title": "Šetnja kroz Stari grad Budve"
+        },
+        "2": {
+          "title": "Izlazak i zalazak sunca u Budvi"
+        }
+      }
     },
     "peugeot-308": {
       "name": "Peugeot 308",
@@ -1073,7 +1106,18 @@
         "Veliki gepek"
       ],
       "inlineCaption": "E80 ka jugu prema Baru, prirodno stanište 308: tempomat uključen, gepek pun, dizel mirno radi.",
-      "inlineAlt": "Crnogorski autoput E80"
+      "inlineAlt": "Crnogorski autoput E80",
+      "related": {
+        "0": {
+          "title": "Aerodrom Dubrovnik"
+        },
+        "1": {
+          "title": "Kotor"
+        },
+        "2": {
+          "title": "Od Petrovca do Buljarice"
+        }
+      }
     },
     "kia-stonic": {
       "name": "Kia Stonic",
@@ -1094,7 +1138,18 @@
         "Asistent za zadržavanje trake"
       ],
       "inlineCaption": "Skretanje od Virpazara ka vinskim selima Crmnice, ovdje visina Stonic-a opravdava cijenu.",
-      "inlineAlt": "Prazan asfaltni put između stijena i žbunja"
+      "inlineAlt": "Prazan asfaltni put između stijena i žbunja",
+      "related": {
+        "0": {
+          "title": "Jednodnevni izlet od Budve do Skadra"
+        },
+        "1": {
+          "title": "Od Petrovca do Buljarice"
+        },
+        "2": {
+          "title": "Perast"
+        }
+      }
     },
     "vw-golf": {
       "name": "VW Golf",
@@ -1115,7 +1170,18 @@
         "Apple CarPlay"
       ],
       "inlineCaption": "Pošumljeni unutrašnji djelovi iznad rivijere, DSG plus dizel oslobađa od razmišljanja o mijenjanju brzina.",
-      "inlineAlt": "Slikovit planinski put sa visokim drvećem"
+      "inlineAlt": "Slikovit planinski put sa visokim drvećem",
+      "related": {
+        "0": {
+          "title": "Aerodrom Dubrovnik"
+        },
+        "1": {
+          "title": "Jednodnevni izlet od Budve do Skadra"
+        },
+        "2": {
+          "title": "Kotor"
+        }
+      }
     },
     "toyota-yaris": {
       "name": "Toyota Yaris",
@@ -1136,7 +1202,18 @@
         "Adaptivni tempomat"
       ],
       "inlineCaption": "Dvije nedjelje vožnje Budvanskom rivijerom sa potrošnjom Yaris Hybrid košta ispod 80 € goriva, tiho impresivno.",
-      "inlineAlt": "Pogled iz vazduha na crnogorske planine"
+      "inlineAlt": "Pogled iz vazduha na crnogorske planine",
+      "related": {
+        "0": {
+          "title": "Budva"
+        },
+        "1": {
+          "title": "Plaže Rivijere"
+        },
+        "2": {
+          "title": "Kišni dan u Budvi"
+        }
+      }
     },
     "overviewTitle": "Ukratko",
     "specsTitle": "Puna specifikacija",
@@ -1293,5 +1370,61 @@
     "right4": "Podnesete žalbu organu za zaštitu podataka",
     "h2Contact": "Kontakt",
     "contactText": "Za sva pitanja u vezi sa privatnošću, kontaktirajte nas putem emaila na info@budvacarhire.com."
+  },
+  "termsBody": {
+    "lastUpdatedLabel": "Posljednje ažuriranje:",
+    "lastUpdatedDate": "April 2026",
+    "h2About": "O ovoj veb stranici",
+    "pAbout": "Budva Car Hire (budvacarhire.com) je partnerska veb stranica koja povezuje putnike sa uslugama iznajmljivanja automobila u Budvi, Crna Gora. Nismo kompanija za iznajmljivanje automobila, sarađujemo sa LocalRent kako bismo obezbijedili dostupnost u realnom vremenu i usluge rezervacije.",
+    "h2Booking": "Uslovi rezervacije i iznajmljivanja",
+    "pBooking1": "Sve rezervacije iznajmljivanja automobila izvršene putem naše stranice obrađuje i ispunjava naš partner, LocalRent. Kada završite rezervaciju, sklapate ugovor o iznajmljivanju direktno sa pružaocem vozila, a ne sa Budva Car Hire.",
+    "pBooking2": "Uslove iznajmljivanja, uključujući politike otkazivanja, osiguranje, starosne uslove i uslove plaćanja, postavlja pružalac vozila i prikazani su tokom procesa rezervacije. Preporučujemo da pažljivo pročitate ove uslove prije potvrde bilo kakve rezervacije.",
+    "h2Role": "Naša uloga",
+    "pRoleProvide": "Pružamo:",
+    "roleProvide1": "Pretraživač za pregled dostupnih vozila za iznajmljivanje",
+    "roleProvide2": "Informacije o destinacijama i putovanjima u Crnoj Gori",
+    "roleProvide3": "Korisničku podršku za upite prije rezervacije",
+    "pRoleNot": "Ne radimo:",
+    "roleNot1": "Posjedovanje, upravljanje ili održavanje vozila za iznajmljivanje",
+    "roleNot2": "Obradu plaćanja ili povraćaj sredstava",
+    "roleNot3": "Određivanje cijena, uslova osiguranja ili politika otkazivanja",
+    "h2Pricing": "Cijene",
+    "pPricing": "Cijene prikazane na našoj stranici daje naš partner za rezervacije u realnom vremenu i podložne su promjenama. Konačna cijena se potvrđuje u trenutku rezervacije. Sve cijene uključuju PDV i obavezno osiguranje, osim ako nije drugačije navedeno.",
+    "h2Content": "Sadržaj stranice",
+    "pContent": "Trudimo se da informacije na ovoj stranici budu tačne i ažurne. Međutim, informacije o putovanjima, propisi o vožnji i zahtjevi za prelazak granice mogu se mijenjati. Preporučujemo da provjerite ključne detalje (posebno dokumente za prelazak granice i pravila vožnje) kod zvaničnih izvora prije puta.",
+    "h2Liability": "Ograničenje odgovornosti",
+    "pLiabilityIntro": "Budva Car Hire djeluje kao posrednik i nije odgovoran za:",
+    "liability1": "Stanje ili dostupnost vozila za iznajmljivanje",
+    "liability2": "Postupke ili propuste pružalaca iznajmljivanja",
+    "liability3": "Gubitke usljed problema sa prelaskom granice ili dokumentacijom",
+    "liability4": "Promjene cijena nakon potvrde rezervacije",
+    "h2IP": "Intelektualna svojina",
+    "pIP": "Sav sadržaj na ovoj stranici, uključujući tekst, dizajn i grafiku, vlasništvo je Budva Car Hire osim ako nije drugačije navedeno. Stok fotografije se koriste pod licencom Pexels.",
+    "h2Contact": "Kontakt",
+    "pContact": "Pitanja o ovim uslovima? Kontaktirajte nas na info@budvacarhire.com."
+  },
+  "locationsSection": {
+    "label": "Mjesta preuzimanja",
+    "title": "Gdje možete preuzeti?",
+    "subtitle": "Više lokacija širom Crne Gore za maksimalnu udobnost."
+  },
+  "aria": {
+    "whatsapp": "Razgovor na WhatsApp",
+    "scrollTop": "Pomjeri na vrh"
+  },
+  "schema": {
+    "carDescription": "Iznajmljivanje {category}, {transmission}, {fuel}, {seats} sjedišta"
+  },
+  "imageAlts": {
+    "adriaticCoastRoad": "Jadranski obalni put",
+    "bayOfKotorFromAbove": "Bokokotorski zaliv iz vazduha",
+    "kotorBayRoad": "Put oko Bokokotorskog zaliva",
+    "montenegroCoastalDriving": "Vožnja crnogorskom obalom",
+    "mountainSwitchbackRoad": "Planinski put sa serpentinama",
+    "perastWaterfrontWithIslands": "Obala Perasta sa ostrvima",
+    "podgoricaCathedral": "Saborni hram Hristovog Vaskrsenja, Podgorica",
+    "portoMontenegroMarina": "Marina i obala Porto Montenegro",
+    "tivatBayViews": "Pogled na Tivatski zaliv",
+    "tivatAirportTerminal": "Terminal aerodroma Tivat"
   }
 }

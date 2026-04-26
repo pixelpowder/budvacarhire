@@ -1014,7 +1014,18 @@
         "Assistente di corsia"
       ],
       "inlineCaption": "I tornanti di Sveti Stefan, la 208 si sente più a casa nelle curve più strette della Riviera di Budva.",
-      "inlineAlt": "Strada che si snoda tra le montagne del Montenegro"
+      "inlineAlt": "Strada che si snoda tra le montagne del Montenegro",
+      "related": {
+        "0": {
+          "title": "Budva"
+        },
+        "1": {
+          "title": "Punti panoramici di Sveti Stefan"
+        },
+        "2": {
+          "title": "Spiagge della Riviera"
+        }
+      }
     },
     "renault-clio": {
       "name": "Renault Clio",
@@ -1035,7 +1046,18 @@
         "Display touchscreen"
       ],
       "inlineCaption": "La strada costiera a sud di Budva, esattamente il percorso per cui è stato pensato il noleggio standard della Riviera.",
-      "inlineAlt": "Strada costiera adriatica del Montenegro"
+      "inlineAlt": "Strada costiera adriatica del Montenegro",
+      "related": {
+        "0": {
+          "title": "Budva"
+        },
+        "1": {
+          "title": "Spiagge della Riviera"
+        },
+        "2": {
+          "title": "Aeroporto di Tivat"
+        }
+      }
     },
     "fiat-500": {
       "name": "Fiat 500",
@@ -1056,7 +1078,18 @@
         "Bluetooth"
       ],
       "inlineCaption": "La costa da Mogren a Rafailovići, brevi spostamenti tra i punti panoramici della Riviera, è qui che la 500 trova il suo posto.",
-      "inlineAlt": "Strada costiera sul mare vicino alle colline"
+      "inlineAlt": "Strada costiera sul mare vicino alle colline",
+      "related": {
+        "0": {
+          "title": "Centro storico di Budva"
+        },
+        "1": {
+          "title": "Passeggiata nel centro storico di Budva"
+        },
+        "2": {
+          "title": "Alba e tramonto a Budva"
+        }
+      }
     },
     "peugeot-308": {
       "name": "Peugeot 308",
@@ -1077,7 +1110,18 @@
         "Bagagliaio capiente"
       ],
       "inlineCaption": "La E80 verso sud in direzione Bar, l'habitat naturale della 308: cruise inserito, bagagliaio pieno, diesel che ronza.",
-      "inlineAlt": "Autostrada E80 del Montenegro"
+      "inlineAlt": "Autostrada E80 del Montenegro",
+      "related": {
+        "0": {
+          "title": "Aeroporto di Dubrovnik"
+        },
+        "1": {
+          "title": "Kotor"
+        },
+        "2": {
+          "title": "Da Petrovac a Buljarica"
+        }
+      }
     },
     "kia-stonic": {
       "name": "Kia Stonic",
@@ -1098,7 +1142,18 @@
         "Mantenimento attivo della corsia"
       ],
       "inlineCaption": "La diramazione da Virpazar verso i villaggi del vino di Crmnica, qui l'altezza da terra dello Stonic si guadagna il suo prezzo.",
-      "inlineAlt": "Strada asfaltata vuota tra rocce e arbusti"
+      "inlineAlt": "Strada asfaltata vuota tra rocce e arbusti",
+      "related": {
+        "0": {
+          "title": "Gita giornaliera da Budva a Skadar"
+        },
+        "1": {
+          "title": "Da Petrovac a Buljarica"
+        },
+        "2": {
+          "title": "Perast"
+        }
+      }
     },
     "vw-golf": {
       "name": "VW Golf",
@@ -1119,7 +1174,18 @@
         "Apple CarPlay"
       ],
       "inlineCaption": "Tratti interni alberati sopra la Riviera, DSG più diesel toglie il pensiero dei cambi di marcia.",
-      "inlineAlt": "Strada di montagna panoramica con alberi alti"
+      "inlineAlt": "Strada di montagna panoramica con alberi alti",
+      "related": {
+        "0": {
+          "title": "Aeroporto di Dubrovnik"
+        },
+        "1": {
+          "title": "Gita giornaliera da Budva a Skadar"
+        },
+        "2": {
+          "title": "Kotor"
+        }
+      }
     },
     "toyota-yaris": {
       "name": "Toyota Yaris",
@@ -1140,7 +1206,18 @@
         "Cruise control adattivo"
       ],
       "inlineCaption": "Un giro di quindici giorni della Riviera di Budva con il consumo della Yaris Hybrid costa meno di 80 € di carburante, discretamente notevole.",
-      "inlineAlt": "Vista aerea delle montagne del Montenegro"
+      "inlineAlt": "Vista aerea delle montagne del Montenegro",
+      "related": {
+        "0": {
+          "title": "Budva"
+        },
+        "1": {
+          "title": "Spiagge della Riviera"
+        },
+        "2": {
+          "title": "Budva in una giornata di pioggia"
+        }
+      }
     },
     "overviewTitle": "In sintesi",
     "specsTitle": "Scheda tecnica completa",
@@ -1297,5 +1374,61 @@
     "right4": "Presentare un reclamo a un'autorità di protezione dei dati",
     "h2Contact": "Contatto",
     "contactText": "Per qualsiasi domanda relativa alla privacy, contattaci via email a info@budvacarhire.com."
+  },
+  "termsBody": {
+    "lastUpdatedLabel": "Ultimo aggiornamento:",
+    "lastUpdatedDate": "Aprile 2026",
+    "h2About": "Informazioni su questo sito",
+    "pAbout": "Budva Car Hire (budvacarhire.com) è un sito affiliato che mette in contatto i viaggiatori con servizi di noleggio auto a Budva, Montenegro. Non siamo una società di noleggio auto, collaboriamo con LocalRent per fornire disponibilità in tempo reale e servizi di prenotazione.",
+    "h2Booking": "Termini di prenotazione e noleggio",
+    "pBooking1": "Tutte le prenotazioni di noleggio auto effettuate tramite il nostro sito vengono elaborate ed evase dal nostro partner, LocalRent. Quando si completa una prenotazione, si stipula un contratto di noleggio direttamente con il fornitore del veicolo, non con Budva Car Hire.",
+    "pBooking2": "Le condizioni di noleggio, comprese le politiche di cancellazione, la copertura assicurativa, i requisiti di età e le condizioni di pagamento, sono stabilite dal fornitore del veicolo e visualizzate durante il processo di prenotazione. Consigliamo di leggere attentamente questi termini prima di confermare qualsiasi prenotazione.",
+    "h2Role": "Il nostro ruolo",
+    "pRoleProvide": "Forniamo:",
+    "roleProvide1": "Un'interfaccia di ricerca per consultare i veicoli a noleggio disponibili",
+    "roleProvide2": "Informazioni su destinazioni e viaggi in Montenegro",
+    "roleProvide3": "Assistenza clienti per le richieste prima della prenotazione",
+    "pRoleNot": "Non offriamo:",
+    "roleNot1": "Possesso, gestione o manutenzione di veicoli a noleggio",
+    "roleNot2": "Elaborazione di pagamenti o gestione di rimborsi",
+    "roleNot3": "Definizione di prezzi di noleggio, condizioni assicurative o politiche di cancellazione",
+    "h2Pricing": "Prezzi",
+    "pPricing": "I prezzi visualizzati sul nostro sito sono forniti in tempo reale dal nostro partner di prenotazione e sono soggetti a modifiche. Il prezzo finale viene confermato al momento della prenotazione. Tutti i prezzi includono IVA e assicurazione obbligatoria, salvo diversa indicazione.",
+    "h2Content": "Contenuto del sito",
+    "pContent": "Facciamo del nostro meglio per garantire che le informazioni su questo sito siano accurate e aggiornate. Tuttavia, le informazioni di viaggio, le norme di guida e i requisiti per il passaggio delle frontiere possono cambiare. Raccomandiamo di verificare i dettagli critici (in particolare i documenti per il passaggio delle frontiere e le norme di guida) presso fonti ufficiali prima del viaggio.",
+    "h2Liability": "Limitazione di responsabilità",
+    "pLiabilityIntro": "Budva Car Hire agisce come intermediario e non è responsabile per:",
+    "liability1": "Le condizioni o la disponibilità dei veicoli a noleggio",
+    "liability2": "Azioni od omissioni dei fornitori di noleggio",
+    "liability3": "Perdite derivanti da problemi al confine o documentazione",
+    "liability4": "Modifiche ai prezzi dopo la conferma della prenotazione",
+    "h2IP": "Proprietà intellettuale",
+    "pIP": "Tutti i contenuti di questo sito, inclusi testo, design e grafica, sono di proprietà di Budva Car Hire salvo diversa indicazione. Le foto di archivio sono utilizzate su licenza di Pexels.",
+    "h2Contact": "Contatti",
+    "pContact": "Domande su queste condizioni? Contattaci a info@budvacarhire.com."
+  },
+  "locationsSection": {
+    "label": "Punti di ritiro",
+    "title": "Dove puoi ritirare?",
+    "subtitle": "Diverse sedi in tutto il Montenegro per la massima comodità."
+  },
+  "aria": {
+    "whatsapp": "Chatta su WhatsApp",
+    "scrollTop": "Torna all'inizio"
+  },
+  "schema": {
+    "carDescription": "Noleggio {category}, {transmission}, {fuel}, {seats} posti"
+  },
+  "imageAlts": {
+    "adriaticCoastRoad": "Strada costiera adriatica",
+    "bayOfKotorFromAbove": "Baia di Kotor dall'alto",
+    "kotorBayRoad": "Strada della baia di Kotor",
+    "montenegroCoastalDriving": "Guida costiera in Montenegro",
+    "mountainSwitchbackRoad": "Strada di montagna a tornanti",
+    "perastWaterfrontWithIslands": "Lungomare di Perast con le isole",
+    "podgoricaCathedral": "Cattedrale della Resurrezione di Cristo, Podgorica",
+    "portoMontenegroMarina": "Marina e lungomare di Porto Montenegro",
+    "tivatBayViews": "Vedute della baia di Tivat",
+    "tivatAirportTerminal": "Terminal aeroporto di Tivat"
   }
 }

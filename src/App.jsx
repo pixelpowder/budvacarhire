@@ -634,13 +634,14 @@ function Reviews() {
 
 /* ─── LOCATIONS ────────────────────────────────────────── */
 function Locations() {
+  const { t } = useTranslation();
   return (
     <section className="section" id="locations">
       <div className="container">
         <div className="section-header">
-          <span className="section-label">Pickup Points</span>
-          <h2 className="section-title">Where Can You Collect?</h2>
-          <p className="section-subtitle">Multiple locations across Montenegro for maximum convenience.</p>
+          <span className="section-label">{t('locationsSection.label') || 'Pickup Points'}</span>
+          <h2 className="section-title">{t('locationsSection.title') || 'Where Can You Collect?'}</h2>
+          <p className="section-subtitle">{t('locationsSection.subtitle') || 'Multiple locations across Montenegro for maximum convenience.'}</p>
         </div>
 
         <div className="locations-grid">
@@ -802,13 +803,14 @@ function StickyMobileCTA() {
 
 /* ─── SCROLL TO TOP ────────────────────────────────────── */
 function WhatsAppFab() {
+  const { t } = useTranslation();
   return (
     <a
       href={`https://wa.me/38269000000?text=Hi!%20I%27d%20like%20to%20enquire%20about%20renting%20a%20car%20in%20Budva.`}
       target="_blank"
       rel="noopener noreferrer"
       className="whatsapp-fab"
-      aria-label="Chat on WhatsApp"
+      aria-label={t('aria.whatsapp') || 'Chat on WhatsApp'}
     >
       <MessageCircle size={22} />
     </a>
@@ -816,6 +818,7 @@ function WhatsAppFab() {
 }
 
 function ScrollToTop() {
+  const { t } = useTranslation();
   const [show, setShow] = useState(false);
 
   useEffect(() => {
@@ -830,7 +833,7 @@ function ScrollToTop() {
     <button
       className="scroll-top"
       onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}
-      aria-label="Scroll to top"
+      aria-label={t('aria.scrollTop') || 'Scroll to top'}
     >
       <ChevronRight size={20} style={{ transform: 'rotate(-90deg)' }} />
     </button>

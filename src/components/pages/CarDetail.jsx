@@ -245,11 +245,11 @@ export default function CarDetail({ slug }) {
         <div className="car-detail-related">
           <h2>{tf('cars.relatedTitle', 'Where this car takes you')}</h2>
           <div className="car-detail-related__grid">
-            {RELATED[slug].map((card) => (
+            {RELATED[slug].map((card, i) => (
               <a key={card.href} href={localePath(card.href)} className="car-detail-related__card">
                 <div className="car-detail-related__img" style={{ backgroundImage: `url(${card.img})` }} />
                 <div className="car-detail-related__body">
-                  <span className="car-detail-related__title">{card.title}</span>
+                  <span className="car-detail-related__title">{tk(`related.${i}.title`, card.title)}</span>
                   <ArrowRight size={14} />
                 </div>
               </a>

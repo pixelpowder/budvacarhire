@@ -15,7 +15,7 @@ export default function DubrovnikAirport() {
       <p>{t('dubrovnikAirportBody.p1')}</p>
       <p>{t('dubrovnikAirportBody.p2')}</p>
 
-      <img src="/img/dubrovnik-airport.webp" alt="Adriatic coast road" loading="lazy" />
+      <img src="/img/dubrovnik-airport.webp" alt={t('imageAlts.adriaticCoastRoad') || 'Adriatic coast road'} loading="lazy" />
       <p>{t('dubrovnikAirportBody.p3')}</p>
 
       <h2>{t('dubrovnikAirportBody.gettingTitle')}</h2>

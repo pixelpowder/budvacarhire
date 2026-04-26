@@ -263,30 +263,26 @@
       "a": "Vaš agent čeka vas u holu dolazaka aerodroma Tivat. Obalna cesta od 22 km do Budve traje oko 25 minuta zavisno od ljetnog saobraćaja. Nema transfera, nema čekanja, auto je parkiran odmah ispred terminala."
     },
     "5": {
-      "q": "Mogu li vratiti auto na drugom mjestu?",
-      "a": "Jednosmjerno iznajmljivanje dostupno je u 28 gradova i mjesta u Crnoj Gori. Preuzmite u Tivatu, vratite u Budvi, ili obratno, samo izaberite različite lokacije pri rezervaciji."
-    },
-    "6": {
       "q": "Kakva je politika otkazivanja?",
       "a": "Standardna vozila: besplatno otkazivanje do 7 dana prije preuzimanja. Luksuzni automobili i kabrioleti: besplatno otkazivanje do 30 dana unaprijed. Naknada za obradu plaćanja od 6 % primjenjuje se na sva otkazivanja bez obzira na termin."
     },
-    "7": {
+    "6": {
       "q": "Da li je potreban depozit?",
       "a": "Zavisi od vozila. Depoziti za većinu iznajmljivanja na rivijeri tipično se kreću između 100 € i 500 €. Neki automobili ne zahtijevaju nikakav depozit. Gdje se primjenjuje, zadržava se na fizičkoj kreditnoj kartici glavnog vozača i oslobađa se pri povratku vozila bez oštećenja."
     },
-    "8": {
+    "7": {
       "q": "Šta ako prekoračim dozvoljenu kilometražu?",
       "a": "Vozila sa utvrđenim kilometražnim limitom naplaćuju naknadu po kilometru za svaku preveliku distancu. Tačna stopa za prekoračenje prikazana je u detaljima vozila prije potvrde, bez iznenađenja."
     },
-    "9": {
+    "8": {
       "q": "Da li je cijena koju vidim konačna cijena?",
       "a": "Da. Svi porezi i standardne naknade uračunati su u cijenu rezervacije. Ne dodaju se nadoplata za gorivo, aerodromska taksa ni naknada za šalter pri preuzimanju automobila."
     },
-    "10": {
+    "9": {
       "q": "Koliko plaćam za potvrdu rezervacije?",
       "a": "Depozit od otprilike 15% do 20% ukupnog iznosa osigurava rezervaciju. Ostatak se izmiruje direktno s agentom za iznajmljivanje pri preuzimanju auta u Budvi ili na Tivatu."
     },
-    "11": {
+    "10": {
       "q": "Mogu li iznajmiti bez kreditne kartice?",
       "a": "Određena vozila u floti mogu se iznajmiti debitnom karticom ili bez kartice. Označena su u rezultatima pretrage kako biste mogli filtrirati prema tome."
     }

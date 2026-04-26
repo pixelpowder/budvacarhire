@@ -259,34 +259,30 @@
       "a": "Your agent meets you at Tivat Airport arrivals hall. The 22 km coast road to Budva takes around 25 minutes depending on summer traffic. No shuttle, no waiting around, the car is parked right outside the terminal."
     },
     "4": {
-      "q": "Can I return the car somewhere different?",
-      "a": "One-way rentals are available across 28+ towns and cities in Montenegro. Pick up at Tivat, drop off in Budva, or vice versa, just select different locations when you book."
-    },
-    "5": {
       "q": "What is the cancellation policy?",
       "a": "Standard vehicles: free cancellation up to 7 days before pickup. Luxury cars and convertibles: free cancellation up to 30 days in advance. A 6% processing fee applies on all cancellations regardless of timing."
     },
-    "6": {
+    "5": {
       "q": "Do I need to pay a deposit?",
       "a": "It depends on the vehicle. Deposits typically fall between €100 and €500 for most riviera rentals. Some cars require no deposit at all. Where one applies, it sits on the main driver’s physical credit card and is released when the car is returned undamaged."
     },
-    "7": {
+    "6": {
       "q": "Where can I park near Budva Old Town?",
       "a": "The underground car park by the Old Town walls is closest but fills by mid-morning in summer. The open lot behind the bus station is larger and cheaper. Free street parking exists along the Becici road but requires a 10-minute walk. In peak season, arrive before 9 am for the best spots near the walls."
     },
-    "8": {
+    "7": {
       "q": "What happens if I exceed the mileage limit?",
       "a": "Vehicles with a set mileage limit charge a per-kilometre fee above the limit. The exact overage rate is shown in the vehicle details before you confirm your booking, no surprises."
     },
-    "9": {
+    "8": {
       "q": "Is the displayed price the actual price?",
       "a": "Yes. All taxes and standard fees are included in the booking price. There is no fuel surcharge, no airport fee, and no counter charge when you collect the car."
     },
-    "10": {
+    "9": {
       "q": "How much do I pay at booking?",
       "a": "A deposit of roughly 15% to 20% of the total secures the reservation. The balance is paid directly to the rental provider when you collect the car in Budva or at Tivat."
     },
-    "11": {
+    "10": {
       "q": "Can I rent without a credit card?",
       "a": "Certain vehicles in the fleet can be rented with a debit card or no card at all. These are marked in the search results so you can filter accordingly."
     }

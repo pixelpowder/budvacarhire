@@ -51,7 +51,7 @@ export default async function LangCarDetailRoute({ params }) {
     carMetas[slug]?.en?.desc ||
     car.suitability;
 
-  // Car schema with per-day rental Offer — satisfies GSC "Product snippets
+  // Car schema with per-day rental Offer ,  satisfies GSC "Product snippets
   // missing offers" without faking reviews. Rental, not a sale.
   const SITE = `https://www.${config.domain}`;
   const vehicleSchema = {

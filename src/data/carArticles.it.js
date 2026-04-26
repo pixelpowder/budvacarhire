@@ -1,4 +1,4 @@
-// Fleet detail article content — Riviera di Budva (IT).
+// Fleet detail article content ,  Riviera di Budva (IT).
 export const carArticles = {
   "peugeot-208": {
     paragraphs: [

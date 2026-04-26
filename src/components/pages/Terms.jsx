@@ -14,7 +14,7 @@ export default function Terms() {
       <p><strong>Last updated:</strong> April 2026</p>
 
       <h2>About This Website</h2>
-      <p>Budva Car Hire (budvacarhire.com) is an affiliate website that connects travellers with car rental services in Budva, Montenegro. We are not a car rental company — we partner with LocalRent to provide real-time availability and booking services.</p>
+      <p>Budva Car Hire (budvacarhire.com) is an affiliate website that connects travellers with car rental services in Budva, Montenegro. We are not a car rental company ,  we partner with LocalRent to provide real-time availability and booking services.</p>
 
       <h2>Booking & Rental Terms</h2>
       <p>All car rental bookings made through our website are processed and fulfilled by our partner, LocalRent. When you complete a booking, you enter into a rental agreement directly with the vehicle supplier, not with Budva Car Hire.</p>

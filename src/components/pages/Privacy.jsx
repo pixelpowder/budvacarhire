@@ -18,7 +18,7 @@ export default function Privacy() {
 
       <h2>What Information We Collect</h2>
       <h3>Information you provide</h3>
-      <p>When you use our booking search form, we collect the pickup location, dates, and times you enter in order to find available vehicles. This information is passed to our partner (LocalRent) to generate search results. We do not collect or store payment details — all payments are processed directly by the rental provider.</p>
+      <p>When you use our booking search form, we collect the pickup location, dates, and times you enter in order to find available vehicles. This information is passed to our partner (LocalRent) to generate search results. We do not collect or store payment details ,  all payments are processed directly by the rental provider.</p>
 
       <h3>Information collected automatically</h3>
       <ul>
@@ -38,7 +38,7 @@ export default function Privacy() {
       <h2>Third-Party Services</h2>
       <p>Our website uses the following third-party services:</p>
       <ul>
-        <li><strong>LocalRent:</strong> car rental booking widget — processes your search queries and handles all booking and payment</li>
+        <li><strong>LocalRent:</strong> car rental booking widget ,  processes your search queries and handles all booking and payment</li>
         <li><strong>Vercel:</strong> website hosting</li>
         <li><strong>Pexels:</strong> stock photography</li>
       </ul>

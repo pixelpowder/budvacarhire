@@ -5,7 +5,7 @@ import config from './siteConfig';
 import useTranslation from './i18n/useTranslation';
 import './App.css';
 
-// 5 representatives of the Budva Riviera fleet — surfaces car guides from the footer.
+// 5 representatives of the Budva Riviera fleet ,  surfaces car guides from the footer.
 const FOOTER_FLEET_SLUGS = [
   'renault-clio', 'peugeot-208', 'toyota-yaris', 'peugeot-308', 'fiat-500',
 ];

@@ -13,7 +13,7 @@ export async function POST(request) {
 
     const { name, email, message, website } = await request.json();
 
-    // Honeypot — bots fill hidden "website" field, humans don't see it
+    // Honeypot ,  bots fill hidden "website" field, humans don't see it
     if (website) {
       return Response.json({ success: true });
     }
@@ -32,7 +32,7 @@ export async function POST(request) {
 
     const sitePrefix = process.env.SITE_PREFIX || 'MNE';
     const fromName = process.env.MAIL_FROM_NAME || 'Montenegro Car Hire';
-    const fromAddress = process.env.MAIL_FROM || 'noreply@montenegrocarhire.com';
+    const fromAddress = process.env.MAIL_FROM || 'noreply@budvacarhire.com';
     const to = process.env.CONTACT_TO_EMAIL;
 
     if (!to) {

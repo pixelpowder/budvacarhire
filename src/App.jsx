@@ -55,7 +55,7 @@ const LOCATIONS = [
   'Dobre Vode', 'Djenovici', 'Krasici', 'Radovici', 'Buljarica',
 ];
 
-// LocalRent city IDs — used to configure the booking widget per location
+// LocalRent city IDs ,  used to configure the booking widget per location
 const CITY_ID_MAP = {
   'Tivat':             17,
   'Podgorica':         15,
@@ -248,7 +248,7 @@ function Hero() {
             <div className="booking-card__fields">
               <LocationField value={pickup} onChange={setPickup} />
               <div className="booking-field booking-field--dates">
-                <label>{t('hero.pickupDate')} — {t('hero.dropoffDate')}</label>
+                <label>{t('hero.pickupDate')} {t('hero.dropoffDate')}</label>
                 <DatePicker
                   selectsRange
                   startDate={startDate}
@@ -478,7 +478,7 @@ const FLEET_TABS = [
   { key: 'suv',     fallback: 'SUV' },
 ];
 
-// Homepage curates 6 of 7 — Riviera-weighted mix.
+// Homepage curates 6 of 7 ,  Riviera-weighted mix.
 const HOMEPAGE_FLEET_SLUGS = [
   'renault-clio', 'peugeot-208', 'fiat-500',
   'toyota-yaris', 'peugeot-308', 'vw-golf',

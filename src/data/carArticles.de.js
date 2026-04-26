@@ -1,4 +1,4 @@
-// Fleet detail article content — Budva-Rivieria-Version (DE).
+// Fleet detail article content ,  Budva-Rivieria-Version (DE).
 export const carArticles = {
   "peugeot-208": {
     paragraphs: [

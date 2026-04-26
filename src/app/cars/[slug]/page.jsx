@@ -36,7 +36,7 @@ export default async function CarDetailRoute({ params }) {
   const car = config.cars.find(c => c.slug === slug);
   if (!car) notFound();
 
-  // Car schema with per-day rental Offer — satisfies GSC "Product snippets
+  // Car schema with per-day rental Offer ,  satisfies GSC "Product snippets
   // missing offers" without faking reviews. Rental, not a sale.
   const SITE = `https://www.${config.domain}`;
   const vehicleSchema = {

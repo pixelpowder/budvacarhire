@@ -1,4 +1,4 @@
-// Fleet detail article content — Будванская Ривьера (RU).
+// Fleet detail article content , Будванская Ривьера (RU).
 export const carArticles = {
   "peugeot-208": {
     paragraphs: [

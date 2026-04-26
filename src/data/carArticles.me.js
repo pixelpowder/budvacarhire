@@ -1,4 +1,4 @@
-// Fleet detail article content — Budvanska Rivijera (CNR, Montenegrin Latin).
+// Fleet detail article content ,  Budvanska Rivijera (CNR, Montenegrin Latin).
 export const carArticles = {
   "peugeot-208": {
     paragraphs: [

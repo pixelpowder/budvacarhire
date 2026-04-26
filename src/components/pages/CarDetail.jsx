@@ -27,13 +27,13 @@ import {
 
 // Per-car inline Budva-Riviera photo. Chosen to fit each car's character.
 const INLINE_PHOTOS = {
-  'peugeot-208':   { src: '/img/fleet-inline/road-mountains.jpg', alt: 'Road curving through Montenegro mountains', caption: 'Sveti Stefan hairpins — the 208 feels most at home on the sharpest corners of the Budva Riviera.' },
-  'renault-clio':  { src: '/img/fleet-inline/coastal-road.jpg',   alt: 'Montenegro Adriatic coast road',            caption: 'The coast road south of Budva — exactly the route the default Riviera rental was built for.' },
-  'fiat-500':      { src: '/img/fleet-inline/seashore-hills.jpg', alt: 'Coastal road on the seashore near hills',   caption: 'The Mogren-to-Rafailovići coastline — short hops between riviera viewpoints is where the 500 belongs.' },
-  'peugeot-308':   { src: '/img/fleet-inline/mountain-highway.jpg', alt: 'Montenegro E80 highway',                   caption: 'The E80 south toward Bar — the 308\u2019s natural habitat: cruise set, boot full, diesel humming.' },
-  'kia-stonic':    { src: '/img/fleet-inline/rocky-road.jpg',     alt: 'Empty asphalt road between rocks and shrubs', caption: 'The spur from Virpazar toward the Crmnica wine villages — Stonic ride height earns its keep here.' },
-  'vw-golf':       { src: '/img/fleet-inline/forest-road.jpg',    alt: 'Scenic mountain road with tall trees',      caption: 'Tree-lined inland stretches above the Riviera — DSG plus diesel takes the thinking out of gear changes.' },
-  'toyota-yaris':  { src: '/img/fleet-inline/aerial-mountains.jpg', alt: 'Aerial view of Montenegro mountains',      caption: 'A fortnight loop of Budva Riviera at Yaris Hybrid economy costs under €80 in fuel — quietly remarkable.' },
+  'peugeot-208':   { src: '/img/fleet-inline/road-mountains.jpg', alt: 'Road curving through Montenegro mountains', caption: 'Sveti Stefan hairpins ,  the 208 feels most at home on the sharpest corners of the Budva Riviera.' },
+  'renault-clio':  { src: '/img/fleet-inline/coastal-road.jpg',   alt: 'Montenegro Adriatic coast road',            caption: 'The coast road south of Budva ,  exactly the route the default Riviera rental was built for.' },
+  'fiat-500':      { src: '/img/fleet-inline/seashore-hills.jpg', alt: 'Coastal road on the seashore near hills',   caption: 'The Mogren-to-Rafailovići coastline ,  short hops between riviera viewpoints is where the 500 belongs.' },
+  'peugeot-308':   { src: '/img/fleet-inline/mountain-highway.jpg', alt: 'Montenegro E80 highway',                   caption: 'The E80 south toward Bar ,  the 308\u2019s natural habitat: cruise set, boot full, diesel humming.' },
+  'kia-stonic':    { src: '/img/fleet-inline/rocky-road.jpg',     alt: 'Empty asphalt road between rocks and shrubs', caption: 'The spur from Virpazar toward the Crmnica wine villages ,  Stonic ride height earns its keep here.' },
+  'vw-golf':       { src: '/img/fleet-inline/forest-road.jpg',    alt: 'Scenic mountain road with tall trees',      caption: 'Tree-lined inland stretches above the Riviera ,  DSG plus diesel takes the thinking out of gear changes.' },
+  'toyota-yaris':  { src: '/img/fleet-inline/aerial-mountains.jpg', alt: 'Aerial view of Montenegro mountains',      caption: 'A fortnight loop of Budva Riviera at Yaris Hybrid economy costs under €80 in fuel ,  quietly remarkable.' },
   _default:        { src: '/img/fleet-inline/sunset-montenegro.jpg', alt: 'Montenegro mountain landscape at sunset', caption: 'Budva Riviera threads coast, olive grove and viewpoint in a single day.' },
 };
 

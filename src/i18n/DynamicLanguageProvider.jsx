@@ -3,7 +3,7 @@
 // Client-side LanguageContext provider that re-derives the current locale from
 // the URL pathname on every navigation. Wraps the root layout so client-side
 // nav (router.push) from /de/book back to /book correctly updates the locale
-// context — the server-rendered root layout alone can't do this because it
+// context ,  the server-rendered root layout alone can't do this because it
 // doesn't re-run on client-side transitions.
 
 import { usePathname } from 'next/navigation';

@@ -1,4 +1,4 @@
-// Per-car gallery manifest — real LocalRent photos.
+// Per-car gallery manifest ,  real LocalRent photos.
 // images[0] is the hero; subsequent entries are additional angles.
 export const carImages = {
   "renault-clio": ["/img/fleet/renault-clio.jpg", "/img/fleet/renault-clio-2.jpg", "/img/fleet/renault-clio-3.jpg"],

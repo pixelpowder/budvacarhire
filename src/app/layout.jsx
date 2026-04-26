@@ -10,7 +10,7 @@ import DynamicLanguageProvider from '@/src/i18n/DynamicLanguageProvider';
 import { SUPPORTED_LANGS, DEFAULT_LANG, LANG_HREFLANG } from '@/src/i18n/languages';
 import LocaleAwareSchema from '@/src/components/LocaleAwareSchema';
 
-const SITE_TITLE = 'Budva Car Hire — Beach Capital of Montenegro';
+const SITE_TITLE = 'Budva Car Hire, Beach Capital of Montenegro';
 const SITE_DESC = 'Montenegro\'s beach capital has 17 beaches and 33% of all tourism. Grab a car from €13/day and drive the riviera from Jaz to Sveti Stefan. Tivat Airport pickup, 22 km away.';
 const SITE_URL = 'https://www.budvacarhire.com';
 const SITE_NAME = 'Budva Car Hire';

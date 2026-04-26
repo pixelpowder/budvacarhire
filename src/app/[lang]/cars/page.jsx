@@ -9,7 +9,7 @@ export async function generateMetadata({ params }) {
   const descTranslated = t(lang, descKey);
   const description = descTranslated !== descKey
     ? descTranslated
-    : 'Browse the Budva Car Hire fleet — seven cars sized for the 21 km of Riviera coast from Jaz to Petrovac.';
+    : 'Browse the Budva Car Hire fleet, seven cars sized for the 21 km of Riviera coast from Jaz to Petrovac.';
   const titleTranslated = t(lang, 'fleetIndex.title');
   const baseTitle = titleTranslated !== 'fleetIndex.title' ? titleTranslated : 'Our Budva Riviera Fleet';
   const title = `${baseTitle} | Budva Car Hire`;

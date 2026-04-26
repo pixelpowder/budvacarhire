@@ -5,7 +5,7 @@ const SITE_URL = 'https://www.budvacarhire.com';
 const SITE_NAME = 'Budva Car Hire';
 
 export async function generateMetadata() {
-  const title = 'Budva Car Hire — Budva Riviera & Tivat Airport Pickup';
+  const title = 'Budva Car Hire, Budva Riviera & Tivat Airport Pickup';
   const description = t('en', 'home.seoDesc');
   return {
     title,

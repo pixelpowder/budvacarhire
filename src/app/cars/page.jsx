@@ -4,11 +4,11 @@ import FleetIndex from '@/src/components/pages/FleetIndex';
 const SITE = 'https://www.budvacarhire.com';
 
 export async function generateMetadata() {
-  const title = 'Our Budva Riviera Fleet — 7 Cars From Tivat Airport Pickup | Budva Car Hire';
+  const title = 'Our Budva Riviera Fleet, 7 Cars From Tivat Airport Pickup | Budva Car Hire';
   const descTranslated = t('en', 'fleetIndex.seoDesc');
   const description = descTranslated !== 'fleetIndex.seoDesc'
     ? descTranslated
-    : 'Browse the Budva Car Hire fleet — seven cars sized for the 21 km of Riviera coast from Jaz to Petrovac, with specs, fuel use and who each car suits.';
+    : 'Browse the Budva Car Hire fleet, seven cars sized for the 21 km of Riviera coast from Jaz to Petrovac, with specs, fuel use and who each car suits.';
   return {
     title,
     description,

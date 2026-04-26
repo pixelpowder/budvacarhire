@@ -37,7 +37,7 @@ const INLINE_PHOTOS = {
   _default:        { src: '/img/fleet-inline/sunset-montenegro.jpg', alt: 'Montenegro mountain landscape at sunset', caption: 'Budva Riviera threads coast, olive grove and viewpoint in a single day.' },
 };
 
-// 3 related image-link cards at the end of each detail page — local Budva destinations + blog.
+// 3 related image-link cards at the end of each detail page, local Budva destinations + blog.
 const RELATED = {
   'peugeot-208': [
     { href: '/budva',                                 img: '/img/budva-old-town.webp',                          title: 'Budva' },
@@ -76,7 +76,7 @@ const RELATED = {
   ],
 };
 
-// One inline article link per car — paraIndex is which paragraph to search first.
+// One inline article link per car, paraIndex is which paragraph to search first.
 const ARTICLE_LINKS = {
   'peugeot-208':   { paraIndex: 1, candidates: ['Sveti Stefan hairpin', 'hairpins', 'Pržno'],       href: '/blog/sveti-stefan-viewpoints' },
   'renault-clio':  { paraIndex: 3, candidates: ['Budva\u2013Kotor', 'Petrovac', 'riviera'],         href: '/blog/budva-riviera-beach-hop' },

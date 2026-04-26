@@ -107,7 +107,8 @@
   "book": {
     "title": "Pronađite Vaš Auto",
     "seoTitle": "Rezervišite Auto",
-    "seoDesc": "Žive cene Rivijeri spremnih automobila u Budvi. Preuzimanje na Aerodromu Tivat za 25 minuta, besplatno otkazivanje na većini tarifa i trenutna."
+    "seoDesc": "Žive cene Rivijeri spremnih automobila u Budvi. Preuzimanje na Aerodromu Tivat za 25 minuta, besplatno otkazivanje na većini tarifa i trenutna.",
+    "iframeTitle": "Rezervacija iznajmljivanja vozila"
   },
   "footer": {
     "brandDesc": "Iznajmljivanje automobila na Budvanskoj Rivijeri sa preuzimanjem na Aerodromu Tivat, besplatnim otkazivanjem i poštenim all inclusive cenama. Vaš automobil za Jaz, Bečići, Sveti Stefan i dalje.",
@@ -134,7 +135,8 @@
     "title": "Pogrešno Skretanje",
     "text": "Izgleda da ste skrenuli pogrešno. Ovaj put nikuda ne vodi, ali najbolje rute Budvanske rivijere su na jedan klik.",
     "backHome": "Nazad na Početnu",
-    "searchCars": "Pretraži Auta"
+    "searchCars": "Pretraži Auta",
+    "metaTitle": "Stranica nije pronađena"
   },
   "home": {
     "seoDesc": "Iznajmite automobil u Budvi od €13 dnevno. Sedamnaest plaža Rivijere, dvehiljaduletni utvrđeni Stari Grad i preuzimanje na Aerodromu Tivat 22 km dalje."
@@ -351,7 +353,8 @@
     "h4": "Lokalno znanje",
     "p4": "Bazirani na Budvanskoj rivijeri, poznajemo puteve i skrivene dragulje. Od aerodroma Tivat do Starog grada Budve, južno ka Svetom Stefanu ili sjeverno ka Kotoru i Perastu.",
     "h5": "Kontaktirajte nas",
-    "p5": "Imate pitanja o rent a car u Budvi? Dostupni smo putem WhatsApp, Viber ili telefona. Pronađite vozilo i rezervišite za nekoliko minuta."
+    "p5": "Imate pitanja o rent a car u Budvi? Dostupni smo putem WhatsApp, Viber ili telefona. Pronađite vozilo i rezervišite za nekoliko minuta.",
+    "imgAlt": "Obala Budvanske rivijere sa plažama"
   },
   "kotorBody": {
     "h1": "Kotor -- Lokalitet pod Zastitom UNESCO-a",
@@ -387,7 +390,13 @@
     "kotorTrip": "Vožnja od 30 minuta na sjever kroz dramatičan planinski tunel dovodi vas do Bokokotorskog zaliva i njegovog Starog grada pod zaštitom UNESCO-a.",
     "lovcenTrip": "Uputite se u unutrašnjost ka planinskim pejzažima i Njegoševom mauzoleju, smještenom na 1.657 metara nadmorske visine, sa pogledom na četiri zemlje po vedrom danu. Vijugavi put od obale je doživljaj sam po sebi.",
     "gettingAroundTitle": "Kretanje",
-    "gettingAroundText": "Dok je Budvanski Stari Grad najbolje istraživati pješice, iznajmljeni automobil je neophodan za dolazak do najljepših plaža, obližnjih sela i atrakcija u unutrašnjosti. Parking je dostupan u blizini zidina Starog grada i na nekoliko javnih parkirališta duž glavnog puta. U vrhu ljeta, rani dolazak osigurava najbolja mjesta."
+    "gettingAroundText": "Dok je Budvanski Stari Grad najbolje istraživati pješice, iznajmljeni automobil je neophodan za dolazak do najljepših plaža, obližnjih sela i atrakcija u unutrašnjosti. Parking je dostupan u blizini zidina Starog grada i na nekoliko javnih parkirališta duž glavnog puta. U vrhu ljeta, rani dolazak osigurava najbolja mjesta.",
+    "imgAlt1": "Poluostrvo Starog grada Budve",
+    "imgAlt2": "Ostrvo Sveti Stefan",
+    "mogrenLabel": "Mogren I i II:",
+    "jazLabel": "Plaža Jaz:",
+    "svetiStefanLabel": "Plaža Sveti Stefan:",
+    "beciciLabel": "Bečići:"
   },
   "perastBody": {
     "h1": "Perast -- Skriveni Dragulj na Zalivu",
@@ -576,7 +585,9 @@
     "route2": "Kotor → Mostar (Bosna): 3-4 sata preko Trebinja. Posjetite čuveni most",
     "route3": "Budva → Skadar (Albanija): 2,5 sata preko obalnog prelaza kod Ulcinja",
     "route4": "Podgorica → Beograd (Srbija): 5-6 sati putem E65 na sjever",
-    "ctaText": "Trebate automobil sa prekograničnom dokumentacijom? Pretražite našu flotu, samo odaberite odredišne zemlje pri rezervaciji i mi ćemo urediti Zelenu kartu."
+    "ctaText": "Trebate automobil sa prekograničnom dokumentacijom? Pretražite našu flotu, samo odaberite odredišne zemlje pri rezervaciji i mi ćemo urediti Zelenu kartu.",
+    "imgAlt1": "Beogradski pejzaž sa crkvom Svetog Marka",
+    "imgAlt2": "Most Stari Most u Mostaru, Bosna"
   },
   "blogIndex": {
     "heroTitle": "Vodiči za putovanja po Budvanskoj rivijeri",
@@ -997,7 +1008,9 @@
         "Apple CarPlay",
         "Tempomat",
         "Asistent trake"
-      ]
+      ],
+      "inlineCaption": "Serpentine kod Svetog Stefana, 208 se najbolje osjeća u najoštrijim krivinama Budvanske rivijere.",
+      "inlineAlt": "Put koji vijuga kroz crnogorske planine"
     },
     "renault-clio": {
       "name": "Renault Clio",
@@ -1016,7 +1029,9 @@
         "USB punjenje",
         "Centralno zaključavanje",
         "Ekran osjetljiv na dodir"
-      ]
+      ],
+      "inlineCaption": "Obalni put južno od Budve, baš ruta za koju je standardno iznajmljivanje na rivijeri i napravljeno.",
+      "inlineAlt": "Crnogorski jadranski obalni put"
     },
     "fiat-500": {
       "name": "Fiat 500",
@@ -1035,7 +1050,9 @@
         "Lako parkiranje",
         "Krov na otvaranje",
         "Bluetooth"
-      ]
+      ],
+      "inlineCaption": "Obala od Mogrena do Rafailovića, kratke vožnje između vidikovaca rivijere su domen 500.",
+      "inlineAlt": "Obalni put pored mora blizu brda"
     },
     "peugeot-308": {
       "name": "Peugeot 308",
@@ -1054,7 +1071,9 @@
         "Adaptivni tempomat",
         "Klima dual-zone",
         "Veliki gepek"
-      ]
+      ],
+      "inlineCaption": "E80 ka jugu prema Baru, prirodno stanište 308: tempomat uključen, gepek pun, dizel mirno radi.",
+      "inlineAlt": "Crnogorski autoput E80"
     },
     "kia-stonic": {
       "name": "Kia Stonic",
@@ -1073,7 +1092,9 @@
         "Apple CarPlay",
         "Kamera za vožnju unazad",
         "Asistent za zadržavanje trake"
-      ]
+      ],
+      "inlineCaption": "Skretanje od Virpazara ka vinskim selima Crmnice, ovdje visina Stonic-a opravdava cijenu.",
+      "inlineAlt": "Prazan asfaltni put između stijena i žbunja"
     },
     "vw-golf": {
       "name": "VW Golf",
@@ -1092,7 +1113,9 @@
         "Adaptivni tempomat",
         "Digitalna instrument tabla",
         "Apple CarPlay"
-      ]
+      ],
+      "inlineCaption": "Pošumljeni unutrašnji djelovi iznad rivijere, DSG plus dizel oslobađa od razmišljanja o mijenjanju brzina.",
+      "inlineAlt": "Slikovit planinski put sa visokim drvećem"
     },
     "toyota-yaris": {
       "name": "Toyota Yaris",
@@ -1111,7 +1134,9 @@
         "Kamera za vožnju unazad",
         "Apple CarPlay",
         "Adaptivni tempomat"
-      ]
+      ],
+      "inlineCaption": "Dvije nedjelje vožnje Budvanskom rivijerom sa potrošnjom Yaris Hybrid košta ispod 80 € goriva, tiho impresivno.",
+      "inlineAlt": "Pogled iz vazduha na crnogorske planine"
     },
     "overviewTitle": "Ukratko",
     "specsTitle": "Puna specifikacija",
@@ -1151,7 +1176,8 @@
     "seoDesc": "Pogledajte flotu Budva Car Hire, specifikacije, potrošnja, prtljažnik i koji auto odgovara plažama rivijere i putu M2.",
     "intro1": "Sedam vozila prilagođenih Budvanskoj rivijeri, 21 km obale od plaže Jaz na sjeveru do Petrovca na jugu, sa Svetim Stefanom, Bečićima i Rafailovićima između. Flota je odabrana prema onome što se ovdje stvarno vozi: Fiat 500 za uske uličice iza Mogrena, Peugeot 208 za vozače kojima su serpentine ka Svetom Stefanu dio odmora, Renault Clio za par koji svaki dan radi rutu Jaz–Petrovac, Toyota Yaris Hybrid za dvije nedjelje uz pola troška goriva, Kia Stonic za dane ka Skadarskom jezeru i vinogradima Crmnice, i par VW Golf / Peugeot 308 za četveročlane vožnje sa skokom u Dubrovnik.",
     "intro2": "Dvije stvari na Budvanskoj rivijeri znače više nego što pridošlice očekuju. Prvo: Stari grad (Stari Grad) je potpuno pješačka zona, ne ulazi se kolima. Parkirajte po obodu: naplaćene zone na Slovenskoj (1–2 €/h ljeti, besplatno od novembra do aprila), parking Slovenska Plaža ili natkriveni podzemni TQ Plaza za noći tokom vikenda. Drugo: priobalni put ka jugu, M2 / E80, kičma je svega: Sveti Stefan 12 km južno, Petrovac 17 km, hrvatska granica Debeli Brijeg oko 80 km / 90 min sjeverno. Dimenzionirajte auto prema najudaljenijoj tački vaše rute.",
-    "intro3": "Ako niste sigurni koji auto da izaberete, dva pravila obično važe. Prvo: ako vam dani budu šetnja između plaža, ležaljka i frižider su važniji od opreme za kamp, Clio ili Yaris to rješavaju bez drame i doplate. Drugo: ako su vidikovci Svetog Stefana, serpentine Lovćena iznad Kotora ili dnevni izlet u Dubrovnik preko Debelog Brijega u planu, doplatite za srednju klasu s automatikom, 308 ili Golf DSG mijenjaju dan čim se okretnice počnu redati."
+    "intro3": "Ako niste sigurni koji auto da izaberete, dva pravila obično važe. Prvo: ako vam dani budu šetnja između plaža, ležaljka i frižider su važniji od opreme za kamp, Clio ili Yaris to rješavaju bez drame i doplate. Drugo: ako su vidikovci Svetog Stefana, serpentine Lovćena iznad Kotora ili dnevni izlet u Dubrovnik preko Debelog Brijega u planu, doplatite za srednju klasu s automatikom, 308 ili Golf DSG mijenjaju dan čim se okretnice počnu redati.",
+    "ogImageAlt": "Flota Budva Car Hire"
   },
   "carSpecs": {
     "values": {
@@ -1184,5 +1210,88 @@
     {
       "name": "Sveti Stefan"
     }
-  ]
+  ],
+  "beachGuide": {
+    "label": "Vodič kroz plaže",
+    "title": "Plaže vrijedne vožnje",
+    "subtitle": "Budvanska rivijera ima 21 km obale. Evo četiri plaže koje naši klijenti najčešće posjećuju.",
+    "jazDesc": "Otvoreni pješčani zaliv 3 km sjeverno od grada. Besplatan parking u gornjem dijelu, naplata blizu vode. Mjesto ljetnog muzičkog festivala.",
+    "jazTime": "5 min vožnje",
+    "mogrenDesc": "Dva spojena zaliva povezana tunelom uklesanim kroz stijenu. Pješice od zidina Starog grada. Ležaljke i bar od maja do septembra.",
+    "mogrenTime": "Pješice",
+    "beciciDesc": "Duga porodična pješčana plaža sa spasiocima u sezoni. Blagi plitki ulaz, idealan za djecu. Veliki naplatni parking.",
+    "beciciTime": "5 min",
+    "svetiStefanDesc": "Prepoznatljivo utvrđeno ostrvsko selo. Javna plaža na kopnenoj strani. Najbolje se fotografiše sa vidikovca iznad puta.",
+    "svetiStefanTime": "10 min"
+  },
+  "cookiePolicy": {
+    "lastUpdatedLabel": "Posljednje ažuriranje:",
+    "lastUpdatedDate": "April 2026.",
+    "h2Section1": "Šta su kolačići?",
+    "p1": "Kolačići su mali tekstualni fajlovi koji se čuvaju na vašem uređaju kada posjetite web sajt. Pomažu sajtu da zapamti vaša podešavanja i razumije kako ga koristite.",
+    "h2Section2": "Kolačići koje koristimo",
+    "h3Essential": "Neophodni kolačići",
+    "essentialIntro": "Oni su neophodni za funkcionisanje sajta. Ne mogu se isključiti.",
+    "sessionLabel": "Sesijski kolačići:",
+    "sessionText": "održavaju vašu sesiju pretraživanja dok se krećete kroz sajt",
+    "preferenceLabel": "Kolačići preferencija:",
+    "preferenceText": "pamte vaš odabir jezika i lokacije",
+    "h3ThirdParty": "Kolačići trećih strana",
+    "thirdPartyIntro": "Naš vidžet za rezervaciju iznajmljivanja vozila (pruža LocalRent) može postavljati kolačiće za:",
+    "thirdParty1": "Pamćenje vaših preferencija pretrage (datumi, lokacija)",
+    "thirdParty2": "Održavanje vaše sesije tokom procesa rezervacije",
+    "thirdParty3": "Praćenje partnerskih preporuka",
+    "thirdPartyOutro": "Ove kolačiće postavlja LocalRent i regulisani su njihovom politikom privatnosti.",
+    "h2Managing": "Upravljanje kolačićima",
+    "managingIntro": "Kolačiće možete kontrolisati kroz podešavanja pretraživača. Većina pretraživača vam omogućava da:",
+    "managing1": "Vidite koji su kolačići sačuvani",
+    "managing2": "Obrišete pojedinačne ili sve kolačiće",
+    "managing3": "Blokirate kolačiće sa određenih sajtova",
+    "managing4": "Blokirate sve kolačiće trećih strana",
+    "managingOutro": "Imajte na umu da blokiranje neophodnih kolačića može uticati na funkcionalnost vidžeta za rezervaciju.",
+    "h2Contact": "Kontakt",
+    "contactText": "Pitanja o našoj upotrebi kolačića? Kontaktirajte nas na info@budvacarhire.com."
+  },
+  "privacyBody": {
+    "lastUpdatedLabel": "Posljednje ažuriranje:",
+    "lastUpdatedDate": "April 2026.",
+    "h2Who": "Ko smo mi",
+    "whoText": "Budva Car Hire posluje kao nezavisni partnerski sajt koji povezuje putnike sa kompanijama za iznajmljivanje vozila u Budvi, Crna Gora. Naša web stranica se nalazi na adresi budvacarhire.com. Kada koristite naš sajt, možemo prikupljati određene informacije kao što je opisano u nastavku.",
+    "h2Collect": "Koje informacije prikupljamo",
+    "h3YouProvide": "Informacije koje vi pružate",
+    "youProvideText": "Kada koristite našu formu za pretragu, prikupljamo lokaciju preuzimanja, datume i vremena koje unosite kako bismo pronašli dostupna vozila. Ove informacije prosljeđuju se našem partneru (LocalRent) za generisanje rezultata pretrage. Ne prikupljamo niti čuvamo podatke o plaćanju, sve uplate obrađuje direktno pružalac usluga iznajmljivanja.",
+    "h3Auto": "Informacije koje se prikupljaju automatski",
+    "usageLabel": "Podaci o korišćenju:",
+    "usageText": "posjećene stranice, vrijeme provedeno na sajtu, web stranica sa koje ste došli",
+    "deviceLabel": "Informacije o uređaju:",
+    "deviceText": "tip pretraživača, operativni sistem, rezolucija ekrana",
+    "ipLabel": "IP adresa:",
+    "ipText": "koristi se za približnu lokaciju i bezbjednosne svrhe",
+    "h2Use": "Kako koristimo vaše informacije",
+    "use1": "Da bismo vas povezali sa dostupnošću i cijenama iznajmljivanja vozila",
+    "use2": "Da bismo unaprijedili naš sajt i korisničko iskustvo",
+    "use3": "Da bismo razumjeli kako posjetioci koriste naš sajt (analitika)",
+    "use4": "Da bismo odgovorili na upite preko WhatsApp-a, Viber-a ili emaila",
+    "h2ThirdParty": "Usluge trećih strana",
+    "thirdPartyIntro": "Naš sajt koristi sljedeće usluge trećih strana:",
+    "localRentLabel": "LocalRent:",
+    "localRentText": "vidžet za rezervaciju iznajmljivanja vozila, obrađuje vaše upite za pretragu i upravlja svim rezervacijama i plaćanjima",
+    "vercelLabel": "Vercel:",
+    "vercelText": "hosting web sajta",
+    "pexelsLabel": "Pexels:",
+    "pexelsText": "stok fotografija",
+    "thirdPartyOutro": "Svaka od ovih usluga ima vlastitu politiku privatnosti koja reguliše kako rukuju podacima.",
+    "h2Cookies": "Kolačići",
+    "cookiesPre": "Koristimo minimalan broj kolačića neophodnih za funkcionisanje sajta. LocalRent vidžet za rezervaciju može postavljati svoje kolačiće za upravljanje sesijom i preferencijama. Pogledajte našu",
+    "cookiesLink": "Politiku kolačića",
+    "cookiesPost": "za detalje.",
+    "h2Rights": "Vaša prava",
+    "rightsIntro": "Imate pravo da:",
+    "right1": "Zatražite pristup svim ličnim podacima koje imamo o vama",
+    "right2": "Zatražite ispravku ili brisanje vaših podataka",
+    "right3": "Povučete saglasnost za obradu podataka",
+    "right4": "Podnesete žalbu organu za zaštitu podataka",
+    "h2Contact": "Kontakt",
+    "contactText": "Za sva pitanja u vezi sa privatnošću, kontaktirajte nas putem emaila na info@budvacarhire.com."
+  }
 }

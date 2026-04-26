@@ -8,16 +8,16 @@ export default function Budva() {
       <h2>{t('budvaBody.h1')}</h2>
       <p>{t('budvaBody.p1')}</p>
 
-      <img src="/img/budva-old-town.webp" alt="Budva Old Town peninsula" loading="lazy" />
+      <img src="/img/budva-old-town.webp" alt={t('budvaBody.imgAlt1') || 'Budva Old Town peninsula'} loading="lazy" />
       <p>{t('budvaBody.p2')}</p>
 
       <h2>{t('budvaBody.beachesTitle')}</h2>
       <p>{t('budvaBody.beachesIntro')}</p>
       <ul>
-        <li><strong>Mogren I & II:</strong> {t('budvaBody.mogren')}</li>
-        <li><strong>Jaz Beach:</strong> {t('budvaBody.jaz')}</li>
-        <li><strong>Sveti Stefan Beach:</strong> {t('budvaBody.svetiStefan')}</li>
-        <li><strong>Be&#269;i&#263;i:</strong> {t('budvaBody.becici')}</li>
+        <li><strong>{t('budvaBody.mogrenLabel') || 'Mogren I & II:'}</strong> {t('budvaBody.mogren')}</li>
+        <li><strong>{t('budvaBody.jazLabel') || 'Jaz Beach:'}</strong> {t('budvaBody.jaz')}</li>
+        <li><strong>{t('budvaBody.svetiStefanLabel') || 'Sveti Stefan Beach:'}</strong> {t('budvaBody.svetiStefan')}</li>
+        <li><strong>{t('budvaBody.beciciLabel') || 'Bečići:'}</strong> {t('budvaBody.becici')}</li>
       </ul>
 
       <h2>{t('budvaBody.oldTownTitle')}</h2>
@@ -25,7 +25,7 @@ export default function Budva() {
 
       <h2>{t('budvaBody.dayTripsTitle')}</h2>
       <p>{t('budvaBody.svetiStefanTrip')}</p>
-      <img src="/img/sveti-stefan.webp" alt="Sveti Stefan island" loading="lazy" />
+      <img src="/img/sveti-stefan.webp" alt={t('budvaBody.imgAlt2') || 'Sveti Stefan island'} loading="lazy" />
       <p>{t('budvaBody.kotorTrip')}</p>
       <p>{t('budvaBody.lovcenTrip')}</p>
 

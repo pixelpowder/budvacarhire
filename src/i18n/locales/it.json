@@ -107,7 +107,8 @@
   "book": {
     "title": "Trova la Tua Auto",
     "seoTitle": "Prenota un'Auto",
-    "seoDesc": "Prezzi live su auto pronte sulla Riviera a Budva. Ritiro all'aeroporto di Tivat in 25 minuti, cancellazione gratuita sulla maggior parte delle tariffe."
+    "seoDesc": "Prezzi live su auto pronte sulla Riviera a Budva. Ritiro all'aeroporto di Tivat in 25 minuti, cancellazione gratuita sulla maggior parte delle tariffe.",
+    "iframeTitle": "Prenotazione auto a noleggio"
   },
   "footer": {
     "brandDesc": "Noleggio auto sulla Riviera di Budva con consegna all'aeroporto di Tivat, cancellazione gratuita e prezzi all inclusive equi. La tua vettura per Jaz, Bečići, Sveti Stefan e oltre.",
@@ -134,7 +135,8 @@
     "title": "Strada Sbagliata",
     "text": "Sembra che tu abbia preso una deviazione. Questa strada non porta da nessuna parte, ma i migliori itinerari della Riviera di Budva sono a un clic.",
     "backHome": "Torna alla Home",
-    "searchCars": "Cerca Auto"
+    "searchCars": "Cerca Auto",
+    "metaTitle": "Pagina non trovata"
   },
   "home": {
     "seoDesc": "Noleggia un'auto a Budva da €13 al giorno. Diciassette spiagge sulla Riviera, la città vecchia murata di 2.500 anni, e ritiro all'aeroporto di Tivat a."
@@ -355,7 +357,8 @@
     "h4": "Conoscenza locale",
     "p4": "Basati sulla Riviera di Budva, conosciamo le strade e i tesori nascosti. Da Tivat al centro storico di Budva, verso Sveti Stefan a sud o Kotor e Perast a nord.",
     "h5": "Contattaci",
-    "p5": "Domande sul noleggio a Budva? Contattaci via WhatsApp, Viber o telefono. Cerca e prenota in pochi minuti."
+    "p5": "Domande sul noleggio a Budva? Contattaci via WhatsApp, Viber o telefono. Cerca e prenota in pochi minuti.",
+    "imgAlt": "Costa della Riviera di Budva con le sue spiagge"
   },
   "kotorBody": {
     "h1": "Kotor, Patrimonio Mondiale dell'UNESCO",
@@ -391,7 +394,13 @@
     "kotorTrip": "Un viaggio di 30 minuti in auto verso nord attraverso un suggestivo tunnel montano vi porta alla Baia di Kotor e al suo centro storico inserito nella lista UNESCO.",
     "lovcenTrip": "Dirigetevi verso l'interno per ammirare i paesaggi montani e il Mausoleo di Njegos, arroccato a 1.657 metri con viste su quattro paesi nelle giornate limpide. La strada tortuosa dalla costa è un'esperienza in sé.",
     "gettingAroundTitle": "Come Spostarsi",
-    "gettingAroundText": "Mentre il centro storico di Budva è meglio esplorarlo a piedi, un'auto a noleggio è essenziale per raggiungere le migliori spiagge, i villaggi vicini e le attrazioni dell'entroterra. Il parcheggio è disponibile vicino alle mura del centro storico e in diversi parcheggi pubblici lungo la strada principale. In piena estate, arrivare presto assicura i posti migliori."
+    "gettingAroundText": "Mentre il centro storico di Budva è meglio esplorarlo a piedi, un'auto a noleggio è essenziale per raggiungere le migliori spiagge, i villaggi vicini e le attrazioni dell'entroterra. Il parcheggio è disponibile vicino alle mura del centro storico e in diversi parcheggi pubblici lungo la strada principale. In piena estate, arrivare presto assicura i posti migliori.",
+    "imgAlt1": "Penisola del centro storico di Budva",
+    "imgAlt2": "Isola di Sveti Stefan",
+    "mogrenLabel": "Mogren I & II:",
+    "jazLabel": "Spiaggia di Jaz:",
+    "svetiStefanLabel": "Spiaggia di Sveti Stefan:",
+    "beciciLabel": "Bečići:"
   },
   "perastBody": {
     "h1": "Perast, Gemma Nascosta sulla Baia",
@@ -580,7 +589,9 @@
     "route2": "Kotor → Mostar (Bosnia): 3-4 ore via Trebinje. Visitate il famoso ponte",
     "route3": "Budva → Shkodër (Albania): 2,5 ore via l'attraversamento costiero di Ulcinj",
     "route4": "Podgorica → Belgrado (Serbia): 5-6 ore via la E65 nord",
-    "ctaText": "Avete bisogno di un'auto con documentazione transfrontaliera pronta? Cercate nella nostra flotta, selezionate semplicemente i paesi di destinazione alla prenotazione e organizzeremo la Carta Verde."
+    "ctaText": "Avete bisogno di un'auto con documentazione transfrontaliera pronta? Cercate nella nostra flotta, selezionate semplicemente i paesi di destinazione alla prenotazione e organizzeremo la Carta Verde.",
+    "imgAlt1": "Vista urbana di Belgrado con la chiesa di San Marco",
+    "imgAlt2": "Ponte Stari Most a Mostar, Bosnia"
   },
   "blogIndex": {
     "heroTitle": "Guide di viaggio alla Riviera di Budva",
@@ -1001,7 +1012,9 @@
         "Apple CarPlay",
         "Cruise control",
         "Assistente di corsia"
-      ]
+      ],
+      "inlineCaption": "I tornanti di Sveti Stefan, la 208 si sente più a casa nelle curve più strette della Riviera di Budva.",
+      "inlineAlt": "Strada che si snoda tra le montagne del Montenegro"
     },
     "renault-clio": {
       "name": "Renault Clio",
@@ -1020,7 +1033,9 @@
         "Ricarica USB",
         "Chiusura centralizzata",
         "Display touchscreen"
-      ]
+      ],
+      "inlineCaption": "La strada costiera a sud di Budva, esattamente il percorso per cui è stato pensato il noleggio standard della Riviera.",
+      "inlineAlt": "Strada costiera adriatica del Montenegro"
     },
     "fiat-500": {
       "name": "Fiat 500",
@@ -1039,7 +1054,9 @@
         "Parcheggio facile",
         "Tetto apribile",
         "Bluetooth"
-      ]
+      ],
+      "inlineCaption": "La costa da Mogren a Rafailovići, brevi spostamenti tra i punti panoramici della Riviera, è qui che la 500 trova il suo posto.",
+      "inlineAlt": "Strada costiera sul mare vicino alle colline"
     },
     "peugeot-308": {
       "name": "Peugeot 308",
@@ -1058,7 +1075,9 @@
         "Cruise control adattivo",
         "Climatizzatore bizona",
         "Bagagliaio capiente"
-      ]
+      ],
+      "inlineCaption": "La E80 verso sud in direzione Bar, l'habitat naturale della 308: cruise inserito, bagagliaio pieno, diesel che ronza.",
+      "inlineAlt": "Autostrada E80 del Montenegro"
     },
     "kia-stonic": {
       "name": "Kia Stonic",
@@ -1077,7 +1096,9 @@
         "Apple CarPlay",
         "Telecamera posteriore",
         "Mantenimento attivo della corsia"
-      ]
+      ],
+      "inlineCaption": "La diramazione da Virpazar verso i villaggi del vino di Crmnica, qui l'altezza da terra dello Stonic si guadagna il suo prezzo.",
+      "inlineAlt": "Strada asfaltata vuota tra rocce e arbusti"
     },
     "vw-golf": {
       "name": "VW Golf",
@@ -1096,7 +1117,9 @@
         "Cruise control adattivo",
         "Digital Cockpit",
         "Apple CarPlay"
-      ]
+      ],
+      "inlineCaption": "Tratti interni alberati sopra la Riviera, DSG più diesel toglie il pensiero dei cambi di marcia.",
+      "inlineAlt": "Strada di montagna panoramica con alberi alti"
     },
     "toyota-yaris": {
       "name": "Toyota Yaris",
@@ -1115,7 +1138,9 @@
         "Telecamera posteriore",
         "Apple CarPlay",
         "Cruise control adattivo"
-      ]
+      ],
+      "inlineCaption": "Un giro di quindici giorni della Riviera di Budva con il consumo della Yaris Hybrid costa meno di 80 € di carburante, discretamente notevole.",
+      "inlineAlt": "Vista aerea delle montagne del Montenegro"
     },
     "overviewTitle": "In sintesi",
     "specsTitle": "Scheda tecnica completa",
@@ -1155,7 +1180,8 @@
     "seoDesc": "Sfoglia la flotta Budva Car Hire, specifiche, consumi, bagagliaio e quale auto si adatta alla costa della Riviera e alla M2.",
     "intro1": "Sette auto dimensionate per la Riviera di Budva, i 21 km di costa da Jaz a nord fino a Petrovac a sud, con Sveti Stefan, Bečići e Rafailovići nel mezzo. La flotta è scelta in base a ciò che si guida davvero qui: una Fiat 500 per i vicoli stretti dietro Mogren, una Peugeot 208 per chi considera i tornanti di Sveti Stefan parte della vacanza, una Renault Clio per la coppia che fa Jaz–Petrovac tutti i giorni, una Toyota Yaris Hybrid per due settimane a metà del conto benzina, una Kia Stonic per giornate verso il lago di Scutari e le cantine della Crmnica, e una coppia VW Golf / Peugeot 308 per viaggi in quattro con sconfinamento a Dubrovnik.",
     "intro2": "Due cose sulla Riviera di Budva contano più di quanto si aspettino i nuovi arrivati. Primo: la Città Vecchia (Stari Grad) è completamente pedonale, non si entra in auto. Parcheggiate al perimetro: stalli a pagamento sulla Slovenska (1–2 €/h in estate, gratis da novembre ad aprile), il parcheggio di Slovenska Plaža o il sotterraneo coperto del TQ Plaza per i weekend di punta. Secondo: la costiera sud, la M2 / E80, è la spina dorsale di tutto: Sveti Stefan a 12 km, Petrovac a 17, il confine croato di Debeli Brijeg a circa 80 km / 90 min a nord. Dimensionate l'auto sul punto più lontano del vostro itinerario.",
-    "intro3": "Se non siete sicuri di quale auto scegliere, due regole valgono quasi sempre. Primo: se i giorni sono spola tra spiagge, lettino e borsa frigo contano più dell'attrezzatura da campeggio, una Clio o una Yaris fanno il lavoro senza sovrapprezzo. Secondo: se avete in programma i belvederi di Sveti Stefan, i tornanti del Lovćen sopra Kotor o una gita a Dubrovnik via Debeli Brijeg, vale la pena salire a una media automatica, 308 o Golf DSG cambiano la giornata appena i tornanti iniziano a sommarsi."
+    "intro3": "Se non siete sicuri di quale auto scegliere, due regole valgono quasi sempre. Primo: se i giorni sono spola tra spiagge, lettino e borsa frigo contano più dell'attrezzatura da campeggio, una Clio o una Yaris fanno il lavoro senza sovrapprezzo. Secondo: se avete in programma i belvederi di Sveti Stefan, i tornanti del Lovćen sopra Kotor o una gita a Dubrovnik via Debeli Brijeg, vale la pena salire a una media automatica, 308 o Golf DSG cambiano la giornata appena i tornanti iniziano a sommarsi.",
+    "ogImageAlt": "Flotta Budva Car Hire"
   },
   "carSpecs": {
     "values": {
@@ -1188,5 +1214,88 @@
     {
       "name": "Sveti Stefan"
     }
-  ]
+  ],
+  "beachGuide": {
+    "label": "Guida alle spiagge",
+    "title": "Spiagge che meritano il viaggio",
+    "subtitle": "La Riviera di Budva ha 21 km di costa. Ecco le quattro spiagge più visitate dai nostri clienti.",
+    "jazDesc": "Baia di sabbia aperta a 3 km a nord della città. Parcheggio gratuito nella zona alta, a pagamento vicino all'acqua. Sede di festival musicali estivi.",
+    "jazTime": "5 min in auto",
+    "mogrenDesc": "Due calette gemelle collegate da un tunnel scavato nella scogliera. A pochi passi dalle mura del centro storico. Lettini e bar da maggio a settembre.",
+    "mogrenTime": "A piedi",
+    "beciciDesc": "Lunga spiaggia di sabbia adatta alle famiglie con bagnini in stagione. Ingresso dolce e basso, ideale per i bambini. Ampio parcheggio a pagamento.",
+    "beciciTime": "5 min",
+    "svetiStefanDesc": "L'iconico villaggio fortificato sull'isola. Spiaggia pubblica sul lato della terraferma. Meglio fotografato dal punto panoramico sopra la strada.",
+    "svetiStefanTime": "10 min"
+  },
+  "cookiePolicy": {
+    "lastUpdatedLabel": "Ultimo aggiornamento:",
+    "lastUpdatedDate": "Aprile 2026",
+    "h2Section1": "Cosa sono i cookie?",
+    "p1": "I cookie sono piccoli file di testo memorizzati sul tuo dispositivo quando visiti un sito web. Aiutano il sito a ricordare le tue preferenze e a capire come lo usi.",
+    "h2Section2": "Cookie che utilizziamo",
+    "h3Essential": "Cookie essenziali",
+    "essentialIntro": "Sono necessari per il funzionamento del sito. Non possono essere disattivati.",
+    "sessionLabel": "Cookie di sessione:",
+    "sessionText": "mantengono la tua sessione di navigazione mentre navighi nel sito",
+    "preferenceLabel": "Cookie di preferenza:",
+    "preferenceText": "ricordano le tue selezioni di lingua e località",
+    "h3ThirdParty": "Cookie di terze parti",
+    "thirdPartyIntro": "Il nostro widget di prenotazione auto a noleggio (fornito da LocalRent) può impostare cookie per:",
+    "thirdParty1": "Ricordare le tue preferenze di ricerca (date, località)",
+    "thirdParty2": "Mantenere la tua sessione durante il processo di prenotazione",
+    "thirdParty3": "Tracciare i referral di affiliazione",
+    "thirdPartyOutro": "Questi cookie sono impostati da LocalRent e sono regolati dalla loro informativa sulla privacy.",
+    "h2Managing": "Gestione dei cookie",
+    "managingIntro": "Puoi controllare i cookie tramite le impostazioni del browser. La maggior parte dei browser ti consente di:",
+    "managing1": "Vedere quali cookie sono memorizzati",
+    "managing2": "Eliminare singoli o tutti i cookie",
+    "managing3": "Bloccare i cookie di siti specifici",
+    "managing4": "Bloccare tutti i cookie di terze parti",
+    "managingOutro": "Tieni presente che il blocco dei cookie essenziali può influire sulla funzionalità del widget di prenotazione.",
+    "h2Contact": "Contatto",
+    "contactText": "Domande sul nostro uso dei cookie? Contattaci a info@budvacarhire.com."
+  },
+  "privacyBody": {
+    "lastUpdatedLabel": "Ultimo aggiornamento:",
+    "lastUpdatedDate": "Aprile 2026",
+    "h2Who": "Chi siamo",
+    "whoText": "Budva Car Hire opera come partner affiliato indipendente che mette in contatto i viaggiatori con i fornitori di noleggio auto a Budva, Montenegro. Il nostro sito si trova all'indirizzo budvacarhire.com. Quando usi il nostro sito, possiamo raccogliere determinate informazioni come descritto di seguito.",
+    "h2Collect": "Quali informazioni raccogliamo",
+    "h3YouProvide": "Informazioni che fornisci",
+    "youProvideText": "Quando utilizzi il nostro modulo di ricerca, raccogliamo il luogo di ritiro, le date e gli orari che inserisci per trovare i veicoli disponibili. Queste informazioni vengono passate al nostro partner (LocalRent) per generare i risultati di ricerca. Non raccogliamo né memorizziamo i dettagli di pagamento, tutti i pagamenti sono elaborati direttamente dal fornitore di noleggio.",
+    "h3Auto": "Informazioni raccolte automaticamente",
+    "usageLabel": "Dati di utilizzo:",
+    "usageText": "pagine visitate, tempo trascorso sul sito, sito web di provenienza",
+    "deviceLabel": "Informazioni sul dispositivo:",
+    "deviceText": "tipo di browser, sistema operativo, risoluzione dello schermo",
+    "ipLabel": "Indirizzo IP:",
+    "ipText": "usato per la localizzazione approssimativa e per scopi di sicurezza",
+    "h2Use": "Come usiamo le tue informazioni",
+    "use1": "Per metterti in contatto con disponibilità e prezzi delle auto a noleggio",
+    "use2": "Per migliorare il nostro sito e l'esperienza dell'utente",
+    "use3": "Per capire come i visitatori usano il nostro sito (analisi)",
+    "use4": "Per rispondere alle richieste tramite WhatsApp, Viber o email",
+    "h2ThirdParty": "Servizi di terze parti",
+    "thirdPartyIntro": "Il nostro sito utilizza i seguenti servizi di terze parti:",
+    "localRentLabel": "LocalRent:",
+    "localRentText": "widget di prenotazione auto a noleggio, elabora le tue ricerche e gestisce tutte le prenotazioni e i pagamenti",
+    "vercelLabel": "Vercel:",
+    "vercelText": "hosting del sito web",
+    "pexelsLabel": "Pexels:",
+    "pexelsText": "fotografia di stock",
+    "thirdPartyOutro": "Ognuno di questi servizi ha la propria informativa sulla privacy che regola il modo in cui gestisce i dati.",
+    "h2Cookies": "Cookie",
+    "cookiesPre": "Utilizziamo un minimo di cookie necessari al funzionamento del sito. Il widget di prenotazione LocalRent può impostare i propri cookie per la gestione della sessione e le preferenze. Consulta la nostra",
+    "cookiesLink": "Informativa sui cookie",
+    "cookiesPost": "per i dettagli.",
+    "h2Rights": "I tuoi diritti",
+    "rightsIntro": "Hai il diritto di:",
+    "right1": "Richiedere l'accesso a qualsiasi dato personale che deteniamo su di te",
+    "right2": "Richiedere la correzione o la cancellazione dei tuoi dati",
+    "right3": "Ritirare il consenso al trattamento dei dati",
+    "right4": "Presentare un reclamo a un'autorità di protezione dei dati",
+    "h2Contact": "Contatto",
+    "contactText": "Per qualsiasi domanda relativa alla privacy, contattaci via email a info@budvacarhire.com."
+  }
 }

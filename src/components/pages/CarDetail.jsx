@@ -222,8 +222,8 @@ export default function CarDetail({ slug }) {
                   const inline = INLINE_PHOTOS[slug] || INLINE_PHOTOS._default;
                   return (
                     <figure key={`inline-${i}`} className="car-detail-article__figure">
-                      <img src={inline.src} alt={inline.alt} loading="lazy" />
-                      <figcaption>{inline.caption}</figcaption>
+                      <img src={inline.src} alt={tk('inlineAlt', inline.alt)} loading="lazy" />
+                      <figcaption>{tk('inlineCaption', inline.caption)}</figcaption>
                     </figure>
                   );
                 })()}

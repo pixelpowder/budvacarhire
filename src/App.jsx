@@ -320,20 +320,21 @@ function TrustStrip() {
 /* ─── STAT COUNTERS ────────────────────────────────────── */
 /* ─── BEACH GUIDE (BUDVA UNIQUE) ──────────────────────── */
 function BeachGuide() {
+  const { t } = useTranslation();
   return (
     <section className="section" id="beaches">
       <div className="container">
         <div className="section-header">
-          <span className="section-label">Beach Guide</span>
-          <h2 className="section-title">Beaches Worth the Drive</h2>
-          <p className="section-subtitle">The Budva Riviera has 21 km of coastline. Here are the four beaches our customers visit most.</p>
+          <span className="section-label">{t('beachGuide.label') || 'Beach Guide'}</span>
+          <h2 className="section-title">{t('beachGuide.title') || 'Beaches Worth the Drive'}</h2>
+          <p className="section-subtitle">{t('beachGuide.subtitle') || 'The Budva Riviera has 21 km of coastline. Here are the four beaches our customers visit most.'}</p>
         </div>
         <div className="beach-grid">
           {[
-            { title: 'Jaz Beach', desc: 'Open sand bay 3 km north of town. Free parking in the upper lot, paid near the water. Summer music festival venue.', distance: '3 km', time: '5 min drive', image: '/img/jaz-beach.webp' },
-            { title: 'Mogren Beach', desc: 'Twin coves connected by a tunnel carved through the cliff. Walking distance from the Old Town walls. Loungers and bar May\u2013Sept.', distance: '0.5 km', time: 'Walk', image: '/img/budva-beach.webp' },
-            { title: 'Be\u010Di\u0107i Beach', desc: 'Long family-friendly sand strip with lifeguards in season. Gentle shallow entry, ideal for children. Ample paid parking.', distance: '2 km', time: '5 min', image: '/img/becici-beach.webp' },
-            { title: 'Sveti Stefan', desc: 'The iconic fortified island village. Public beach on the mainland side. Best photographed from the viewpoint above the road.', distance: '6 km', time: '10 min', image: '/img/sveti-stefan.webp' },
+            { title: 'Jaz Beach', desc: t('beachGuide.jazDesc') || 'Open sand bay 3 km north of town. Free parking in the upper lot, paid near the water. Summer music festival venue.', distance: '3 km', time: t('beachGuide.jazTime') || '5 min drive', image: '/img/jaz-beach.webp' },
+            { title: 'Mogren Beach', desc: t('beachGuide.mogrenDesc') || 'Twin coves connected by a tunnel carved through the cliff. Walking distance from the Old Town walls. Loungers and bar May to September.', distance: '0.5 km', time: t('beachGuide.mogrenTime') || 'Walk', image: '/img/budva-beach.webp' },
+            { title: 'Be\u010Di\u0107i Beach', desc: t('beachGuide.beciciDesc') || 'Long family-friendly sand strip with lifeguards in season. Gentle shallow entry, ideal for children. Ample paid parking.', distance: '2 km', time: t('beachGuide.beciciTime') || '5 min', image: '/img/becici-beach.webp' },
+            { title: 'Sveti Stefan', desc: t('beachGuide.svetiStefanDesc') || 'The iconic fortified island village. Public beach on the mainland side. Best photographed from the viewpoint above the road.', distance: '6 km', time: t('beachGuide.svetiStefanTime') || '10 min', image: '/img/sveti-stefan.webp' },
           ].map((beach) => (
             <div key={beach.title} className="beach-card reveal-item">
               {beach.image && <img src={beach.image} alt={beach.title} className="beach-card__image" loading="lazy" />}

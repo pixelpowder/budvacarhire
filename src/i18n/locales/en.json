@@ -69,7 +69,7 @@
   "destinations": {
     "label": "Top Destinations",
     "title": "Where the Road Takes You",
-    "subtitle": "Seventeen beaches, one UNESCO bay, and a national park, all under an hour from Budva."
+    "subtitle": "Seventeen beaches, one bay, and a national park, all under an hour from Budva."
   },
   "features": {
     "label": "Why Choose Us",
@@ -149,7 +149,7 @@
   "kotor": {
     "title": "Kotor from Budva",
     "subtitle": "Swap beach sand for fortress walls, 25 km through the mountain tunnel.",
-    "seoDesc": "Drive 25 km north from Budva to Kotor's UNESCO walled town in 30 minutes via the Vrmac tunnel. Waterfront konobas and a 4.5 km city wall climb wait."
+    "seoDesc": "Drive 25 km north from Budva to Kotor's walled town in 30 minutes via the Vrmac tunnel. Waterfront konobas and a 4.5 km city wall climb wait."
   },
   "tivat-airport": {
     "title": "Tivat Airport Car Hire",
@@ -302,7 +302,7 @@
     },
     "kotor": {
       "name": "Kotor",
-      "tag": "UNESCO Bay",
+      "tag": "Bay of Kotor",
       "desc": "Fortress town tucked inside a fjord-like bay, 25 km north."
     },
     "podgorica-airport": {
@@ -387,7 +387,7 @@
     "oldTownText": "Budva's Stari Grad sits on a compact peninsula barely 200 metres across. Narrow lanes twist between Venetian-era buildings, opening into tiny squares with church facades and cafe tables. The Citadela fortress anchors the southern tip, the terrace restaurant up top has sunset views that justify the prices. Below the walls, a wooden boardwalk wraps around to Ricardova Glava beach, the town's smallest and most popular strip of sand.",
     "dayTripsTitle": "Day Trips with a Car",
     "svetiStefanTrip": "Drive 8 km south along the coast road and Sveti Stefan appears on a bend, a cluster of terracotta rooftops on a rocky islet connected by a narrow causeway. Pull over at the viewpoint above for the photo. The mainland beach beside the causeway is open to everyone.",
-    "kotorTrip": "Head north through the mountain tunnel and you're in Kotor in 30 minutes. UNESCO old town, 1,200 fortress steps, and bay-side restaurants. Continue to Perast for the island churches, add an extra 15 minutes.",
+    "kotorTrip": "Head north through the mountain tunnel and you're in Kotor in 30 minutes. old town, 1,200 fortress steps, and bay-side restaurants. Continue to Perast for the island churches, add an extra 15 minutes.",
     "lovcenTrip": "Turn inland toward Lovćen National Park and climb to the Njegoš Mausoleum at 1,657 metres. On a clear day you can see across four countries from the top. The switchback road from the coast is part of the experience, budget 90 minutes each way.",
     "gettingAroundTitle": "Parking and Getting Around",
     "gettingAroundText": "The old town is pedestrian-only, explore it on foot. For the car, use the paid lots near the main gate (€1-2/hour) or the larger car parks along the Jadranski Put main road. In July and August, beach parking fills early. Mogren lot is gone by 10am. Jaz by 11am on weekends. Bečići has more capacity but the access road crawls after noon. Pro tip: hit the further beaches first thing, then come back to town when the afternoon crowd thins out.",

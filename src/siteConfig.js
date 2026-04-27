@@ -287,7 +287,7 @@ const siteConfig = {
     {
       name: "Kotor",
       slug: "kotor",
-      tag: "UNESCO Site",
+      tag: "Site",
       desc: "Medieval walled city, 25 km from Budva.",
       image: "/img/kotor-nearby.webp",
     },
